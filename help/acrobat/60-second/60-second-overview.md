@@ -1,0 +1,90 @@
+---
+title: 60 秒Acrobat總覽
+description: 60 秒Acrobat提供插點大小教學課程，協助您在一分鐘內或更短的時間內在 Acrobat DC 中學習新技巧
+role: User
+product: adobe acrobat
+level: Beginner
+thumbnail: KT-8493.jpg
+KT: 8493
+exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
+source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+workflow-type: tm+mt
+source-wordcount: '267'
+ht-degree: 0%
+
+---
+
+# 60 秒Acrobat總覽
+
+![60 秒Acrobat影像](../assets/Hero-60sec.png)
+
+60 秒Acrobat提供插點大小教學課程，協助您在一分鐘內或更短的時間內在 Acrobat DC 中學習新技巧。 這些以任務為基礎的秘訣可協助您解鎖Acrobat的一些隱藏的金塊，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
+
+## 60 秒Acrobat教學課程
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="combine-to-one-pdf.md">
+      <img alt="將多個檔案合併為一個 PDF" src="../assets/60sec_Combine_1280.jpg" />
+    </a>
+    <div>
+    <a href="combine-to-one-pdf.md"><strong>將多個檔案合併為一個 PDF</strong></a>
+    </div>
+    <em>將數種不同類型的檔案合併為單一 PDF，快速建立新檔</em>
+    <br>
+  </td>
+  <td>
+    <a href="edit.md">
+      <img alt="使用網頁Acrobat編輯 PDF" src="../assets/60sec_Edit_1280.jpg" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>使用網頁Acrobat編輯 PDF</strong></a>
+    </div>
+    <em>即使未下載 PDF，也能對文字和影像進行簡單的編輯</em>
+    <br>
+  </td>
+  <td>
+    <a href="search.md">
+      <img alt="一次Search多個 PDF 檔案" src="../assets/60sec_Search_1280.jpg" />
+    </a>
+    <div>
+     <a href="search.md"><strong>一次Search多個 PDF 檔案</strong></a>
+    </div>
+    <em>在 PDF 檔案中開始搜尋，然後開啟「進階Search」，然後搜尋整個 PDF 檔案資料夾</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="photo.md">
+      <img alt="立即建立相片的 PDF" src="../assets/60sec_Photo_1280.jpg" />
+    </a>
+    <div>
+    <a href="photo.md"><strong>立即建立相片的 PDF</strong></a>
+    </div>
+    <em>瞭解如何僅將一堆 JPG 拖放到Acrobat圖示上，以建立 PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="phone.md">
+      <img alt="在手機上將 PPT 檔案轉換為 PDF" src="../assets/60sec_Phone_1280.jpg" />
+    </a>
+    <div>
+    <a href="phone.md"><strong>在手機上將 PPT 檔案轉換為 PDF</strong></a>
+    </div>
+    <em>瞭解如何在手機上將 PowerPoint 附件轉換為 PDF</em>
+    <br>
+  </td>  
+ <td>
+    <a href="indesign.md">
+      <img alt="將 PDF 注釋載入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>將 PDF 注釋載入InDesign</strong></a>
+    </div>
+    <em>瞭解如何在共用審核Acrobat後將 PDF 注釋加回InDesign</em>
+    <br>
+  </td>  
+</tr>
+</table>

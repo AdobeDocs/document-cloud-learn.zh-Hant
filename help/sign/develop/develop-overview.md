@@ -1,0 +1,78 @@
+---
+title: 開發總覽
+description: 瞭解如何使用 Adobe Sign API 為您的團隊、合作夥伴和客戶建立自訂應用程式
+role: Developer
+product: adobe sign
+level: Intermediate
+topic-revisit: Integrations
+thumbnail: KT-6852.jpg
+exl-id: 6b86081e-cbf4-4988-a215-95a770620342
+source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 15%
+
+---
+
+# 編輯相片概觀
+
+![Sign 編輯相片影像](../assets/Hero-Develop.png)
+
+Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、合作夥伴和客戶建立自訂應用程式。
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
+      <img alt="開始" src="../assets/Develop_Getting-Started.png" />
+    </a>
+    <div>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>快速入門</strong></a>
+    </div>
+    <em>立即建立您的開發人員帳戶以開始使用</em>
+    <br>
+  </td>
+  <td>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
+      <img alt="學習" src="../assets/Develop_Learn.png" />
+    </a>
+    <div>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>瞭解您可以做些什麼</strong></a>
+    </div>
+    <em>瞭解如何將 Adobe Sign 的功能整合到任何外部應用程式中</em>
+    <br>
+  </td>  
+  <td>
+    <a href="gigasign.md">
+      <img alt="使用 GigaSign 收集大量檔" src="../assets/gigasign.jpg" />
+    </a>
+    <div>
+    <a href="gigasign.md"><strong>使用 GigaSign 收集大量檔</strong></a>
+    </div>
+    <em>同時傳送、收集和追蹤檔以索取簽名給成千上萬的人</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="embeddedesignature.md">
+      <img alt="建立嵌入式電子簽名和檔體驗" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+    </a>
+    <div>
+    <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和檔體驗</strong></a>
+    </div>
+    <em>瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容和檔管理系統</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
