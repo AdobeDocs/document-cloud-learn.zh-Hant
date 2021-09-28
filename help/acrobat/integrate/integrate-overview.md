@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="edge.md">
+      <img alt="使用 [！DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+    </a>
     <div>
+    <a href="edge.md"><strong>使用 [！DNL Microsoft Edge]</strong></a>
+    </div>
+    <em>瞭解如何 Adobe Acrobat使用 [！DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
@@ -89,10 +94,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Google 雲端硬碟的Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Google 雲端硬碟Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat 適用于 [！DNL Google 雲端硬碟]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat用 [！DNL Google 雲端硬碟]</strong></a>
     </div>
     <em>直接在 [！DNL Google 雲端硬碟] 應用程式</em>
     <br>
@@ -116,4 +121,4 @@ ht-degree: 1%
 
 ## Dropbox
 
-瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}} 中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
+瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。

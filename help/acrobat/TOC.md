@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '276'
 ht-degree: 13%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 13%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
+   + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
 + 行業 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -76,13 +77,13 @@ ht-degree: 13%
          + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
          + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
-         + [秘訣#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
-         + [提示#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
+         + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
+         + [秘訣#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
       + 辅助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [#1 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 收尾Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [#3 – 完成Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
