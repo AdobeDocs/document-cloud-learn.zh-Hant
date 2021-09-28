@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,28 @@ ht-degree: 0%
     <br>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="開始為新寄件者Adobe Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>開始為新寄件者Adobe Sign</strong></a>
+    </div>
+    <em>這個一應俱全的教學課程適合新寄件者入門Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Signing
@@ -67,7 +89,7 @@ ht-degree: 0%
     <div>
     <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔</strong></a>
     </div>
-    <em>瞭解使用 Adobe Sign 簽署傳送給您的檔有多麼簡單Adobe Sign</em>
+    <em>瞭解使用 Adobe Sign 簽署傳送給您的檔有多簡單Adobe Sign</em>
     <br>
   </td>
   <td>
