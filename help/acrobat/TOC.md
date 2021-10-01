@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 13%
+source-wordcount: '281'
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 13%
 + 快速入門 {#getting-started}
    + [概覽](getting-started/getting-started-overview.md)
    + [認識 Acrobat DC 介面](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
+   + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
    + [建立 PDF 檔案](getting-started/create-pdf.md)
    + [在 Acrobat DC 中對 PDF 檔案加上注釋](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 13%
    + [組織頁面](getting-started/organize.md)
    + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
    + [填寫和簽署 PDF 表格](getting-started/fill-and-sign.md)
+   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
@@ -74,11 +75,11 @@ ht-degree: 13%
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
          + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
-         + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
+         + [秘訣#1 – 取得工具](industry/gov/get-your-tools.md)
+         + [秘#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
-         + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
-         + [秘訣#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
+         + [秘訣#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
+         + [提示#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
       + 辅助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [#1 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
@@ -89,6 +90,6 @@ ht-degree: 13%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## Acrobat教學課程
 
@@ -34,13 +34,13 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="使用網頁Acrobat隨處工作" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
+    <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
     </div>
-    <em>瞭解 PDF 來自何處及其用途</em>
+    <em>瞭解如何在瀏覽器中使用Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
   <td>
@@ -114,7 +114,7 @@ ht-degree: 3%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
 </tr>
@@ -147,6 +147,28 @@ ht-degree: 3%
     <a href="fill-and-sign.md"><strong>填寫和簽署 PDF 表格</strong></a>
     </div>
     <em>快速填寫和簽署 PDF 表格</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
+    </div>
+    <em>瞭解 PDF 來自何處及其用途</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
