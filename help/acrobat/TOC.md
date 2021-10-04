@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: edc1584ce9b7190781e93a4d9a2cc7434a721ec2
+source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 10%
@@ -67,9 +67,9 @@ ht-degree: 10%
    + [在網頁版中建立 PDF  [!DNL Office] ](integrate/createofficeweb.md)
    + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
-   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
+   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 行業 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -91,6 +91,6 @@ ht-degree: 10%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
