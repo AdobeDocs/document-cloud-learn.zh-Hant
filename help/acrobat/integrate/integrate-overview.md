@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="在 [！網頁版 DNL Office]" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>在 [！網頁版 DNL Office]</strong></a>
+    </div>
+    <em>瞭解如何在不離開您的 [！適用于網頁應用程式的 DNL Microsoft Office]</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="與您的 [！DNL SharePoint] 檔案" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ ht-degree: 1%
     <em>透過 [！DNL SharePoint] 和 Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="在 [！DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ ht-degree: 1%
     <em>無需離開即可透過檢視、批註和審核 PDF 與同事協作和協作 [！DNL Microsoft Teams]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="在 Outlook 中將電子郵件訊息和附件轉換為 PDF" src="../assets/Outlook.jpg" />
@@ -78,11 +88,6 @@ ht-degree: 1%
     <em>瞭解如何 Adobe Acrobat使用 [！DNL Microsoft Edge]</em>
     <br>
   </td>
-  <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
 
@@ -97,7 +102,7 @@ ht-degree: 1%
       <img alt="Google 雲端硬碟Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat用 [！DNL Google 雲端硬碟]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat 適用于 [！DNL Google 雲端硬碟]</strong></a>
     </div>
     <em>直接在 [！DNL Google 雲端硬碟] 應用程式</em>
     <br>
@@ -121,4 +126,4 @@ ht-degree: 1%
 
 ## Dropbox
 
-瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
+瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}} 中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
