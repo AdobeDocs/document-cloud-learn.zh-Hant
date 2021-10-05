@@ -1,14 +1,14 @@
 ---
 title: 快速入門總覽
-description: 透過這些簡要 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
+description: 透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '366'
 ht-degree: 3%
 
 ---
@@ -44,6 +44,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="collaborate.md">
+      <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
+    </a>
+    <div>
+     <a href="collaborate.md"><strong>即時共同作業</strong></a>
+    </div>
+    <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="combine-to-pdf.md">
       <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
     </a>
@@ -53,8 +65,6 @@ ht-degree: 3%
     <em>將許多不同類型的檔案合併成單一 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 3%
     <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="在 Acrobat DC 中編輯 PDF" src="../assets/Edit.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 3%
     <em>在 PDF 檔案中編輯文字和影像</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="export-pdf.md">
       <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
     </a>
@@ -106,7 +116,9 @@ ht-degree: 3%
     </div>
     <em>將在其他應用程式中建立的檔轉換為可填寫的 PDF 表格</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="掃描與 OCR" src="../assets/Scan.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="organize.md">
       <img alt="組織頁面" src="../assets/Organize.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 3%
     <em>為 PDF 新增密碼以保護其他人開啟或編輯檔案</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign.jpg" />
@@ -149,9 +161,7 @@ ht-degree: 3%
     <em>快速填寫和簽署 PDF 表格</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -159,11 +169,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
     </div>
     <em>瞭解 PDF 來自何處及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
