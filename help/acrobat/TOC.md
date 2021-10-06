@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '303'
 ht-degree: 10%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [概覽](getting-started/getting-started-overview.md)
    + [認識 Acrobat DC 介面](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
+   + [使用 Microsoft 365](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [即時共同作業](getting-started/collaborate.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
    + [建立 PDF 檔案](getting-started/create-pdf.md)
@@ -77,21 +78,21 @@ ht-degree: 10%
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
          + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [秘訣#1 – 取得工具](industry/gov/get-your-tools.md)
-         + [秘#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
+         + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
+         + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
-         + [秘訣#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
-         + [提示#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
+         + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
+         + [秘訣#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
       + 辅助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [#1 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 在Acrobat中結束](industry/gov/finishing-in-acrobat.md)
+         + [#3 – 完成Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶提供重要Acrobat DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)

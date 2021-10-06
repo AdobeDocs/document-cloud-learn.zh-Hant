@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 3%
+source-wordcount: '381'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## Acrobat教學課程
 
@@ -44,6 +44,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
+    </div>
+    <em>透過 Acrobat 和 Microsoft 365 提高生產力和企業檔工作流程</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,8 +65,6 @@ ht-degree: 3%
     <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 3%
     <em>從所有不同檔案類型建立 PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="在 Acrobat DC 中對 PDF 檔案加上注釋" src="../assets/Comment.jpg" />
@@ -84,9 +96,7 @@ ht-degree: 3%
     </div>
     <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="在 Acrobat DC 中編輯 PDF" src="../assets/Edit.jpg" />
@@ -107,6 +117,8 @@ ht-degree: 3%
     <em>瞭解如何將 PDF 檔案轉存為可編輯的格式</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="建立可填寫的表格" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>將在其他應用程式中建立的檔轉換為可填寫的 PDF 表格</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="掃描與 OCR" src="../assets/Scan.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 3%
     <em>在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="使用密碼保護 PDF 檔案" src="../assets/Protect.jpg" />
@@ -149,8 +161,6 @@ ht-degree: 3%
     <em>為 PDF 新增密碼以保護其他人開啟或編輯檔案</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign.jpg" />
@@ -161,7 +171,7 @@ ht-degree: 3%
     <em>快速填寫和簽署 PDF 表格</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -169,11 +179,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
     </div>
     <em>瞭解 PDF 來自何處及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>

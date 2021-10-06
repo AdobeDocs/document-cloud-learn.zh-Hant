@@ -1,14 +1,14 @@
 ---
 title: 教學課程
-description: 一系列的教學課程、網路研討會及 Adobe Acrobat DC 使用案例
+description: 一系列的教學課程、網路研討會和 Adobe Acrobat DC 使用案例
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat英雄影像](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat（Adobe Document Cloud解決方案）可透過轉換、編輯、共用和簽署 PDF，協助您持續推展業務。 在這裡，您會找到各式各樣的學習體驗，其設計是讓初學者和進階使用者快速上手Adobe Acrobat。
+Adobe Acrobat（Adobe Document Cloud解決方案） 透過轉換、編輯、共用和簽署 PDF，協助您持續推展業務。 在這裡，您會找到各式各樣的學習體驗，其設計是讓初學者和進階使用者快速上手Adobe Acrobat。
 
 ## 學習路徑
 
@@ -30,7 +30,7 @@ Adobe Acrobat（Adobe Document Cloud解決方案）可透過轉換、編輯、�
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>快速入門</strong></a>
     </div>
-    <em>快速瞭解如何使用 PDF 檔案建立、編輯、轉換、保護等功能</em>
+    <em>快速瞭解如何使用 PDF 檔案建立、編輯、轉換、保護等</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ Adobe Acrobat（Adobe Document Cloud解決方案）可透過轉換、編輯、�
     <div>
     <a href="integrate/integrate-overview.md"><strong>整合</strong></a>
     </div>
-    <em>將Acrobat新增至現有的系統、程式和應用程式</em>
+    <em>將Acrobat新增至您現有的業務系統、流程和應用程式</em>
     <br>
   </td>
   <td>
