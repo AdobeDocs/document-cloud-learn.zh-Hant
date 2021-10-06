@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '382'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 2%
     <div>
     <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
     </div>
-    <em>瞭解如何在瀏覽器中使用Acrobat網頁工具處理來自任何位置的業務檔請求</em>
+    <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 2%
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
     </div>
-    <em>透過 Acrobat 和 Microsoft 365 提高生產力和企業檔工作流程</em>
+    <em>透過 Acrobat 和 [！DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>

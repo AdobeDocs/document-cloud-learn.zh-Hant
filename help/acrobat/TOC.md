@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '302'
 ht-degree: 10%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 10%
    + [概覽](getting-started/getting-started-overview.md)
    + [認識 Acrobat DC 介面](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
-   + [使用 Microsoft 365](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [即時共同作業](getting-started/collaborate.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
    + [建立 PDF 檔案](getting-started/create-pdf.md)
@@ -78,7 +78,7 @@ ht-degree: 10%
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
          + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
+         + [秘訣#1 – 取得工具](industry/gov/get-your-tools.md)
          + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
          + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
