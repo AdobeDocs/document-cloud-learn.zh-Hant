@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![Acrobat開發影像](../assets/Hero-Develop.png)
 
-開發與使用 JavaScript、增效模組或 IAC Acrobat和Adobe Reader整合的軟體。
+開發與使用 JavaScript、增效模組或 IAC 的Acrobat和Adobe Reader整合的軟體。
 
 ## Acrobat SDK
 
@@ -25,4 +25,5 @@ ht-degree: 6%
 
 ## Adobe檔服務 API
 
-[用於內嵌檢視和處理 PDF 的 API ](https://www.adobe.io/apis/documentcloud/dcsdk/) {target=&quot;_blank}。
+[用於內嵌檢視和處理 PDF 的 API ](https://www.adobe.io/apis/documentcloud/dcsdk/) {target=&quot;_blank&quot;}
+[Adobe檔服務教學課程 ](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html) {target=&quot;_blank&quot;}
