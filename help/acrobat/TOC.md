@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 10%
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [即時共同作業](getting-started/collaborate.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
-   + [建立 PDF 檔案](getting-started/create-pdf.md)
-   + [在 Acrobat DC 中對 PDF 檔案加上注釋](getting-started/comment-on-pdf-files.md)
-   + [在 Acrobat DC 中編輯 PDF](getting-started/edit-pdf.md)
+   + [建立 PDF](getting-started/create-pdf.md)
+   + [在 PDF 上加上注釋](getting-started/comment-on-pdf-files.md)
+   + [編輯 PDF](getting-started/edit-pdf.md)
    + [將 PDF 轉存為可編輯的格式](getting-started/export-pdf.md)
    + [建立可填寫的表格](getting-started/create-fillable-forms.md)
    + [掃描與 OCR](getting-started/scan-and-ocr.md)
@@ -78,11 +78,11 @@ ht-degree: 10%
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
          + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [秘訣#1 – 取得工具](industry/gov/get-your-tools.md)
+         + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
          + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
          + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
-         + [秘訣#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
+         + [提示#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
       + 辅助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [#1 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
@@ -93,6 +93,6 @@ ht-degree: 10%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶提供重要Acrobat DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)

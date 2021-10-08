@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 2%
+source-wordcount: '375'
+ht-degree: 5%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 2%
       <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>建立 PDF 檔案</strong></a>
+    <a href="create-pdf.md"><strong>建立 PDF</strong></a>
     </div>
     <em>從所有不同檔案類型建立 PDF</em>
     <br>
@@ -92,7 +92,7 @@ ht-degree: 2%
       <img alt="在 Acrobat DC 中對 PDF 檔案加上注釋" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>在 Acrobat DC 中對 PDF 檔案加上注釋</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上注釋</strong></a>
     </div>
     <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
     <br>
@@ -102,7 +102,7 @@ ht-degree: 2%
       <img alt="在 Acrobat DC 中編輯 PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>在 Acrobat DC 中編輯 PDF</strong></a>
+    <a href="edit-pdf.md"><strong>編輯 PDF</strong></a>
     </div>
     <em>在 PDF 檔案中編輯文字和影像</em>
     <br>
@@ -136,7 +136,7 @@ ht-degree: 2%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
     <br>
   </td>
   <td>
@@ -166,7 +166,7 @@ ht-degree: 2%
       <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>填寫和簽署 PDF 表格</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>快速填寫和簽署 PDF 表格</em>
     <br>
