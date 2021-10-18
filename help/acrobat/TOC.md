@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -78,16 +78,16 @@ ht-degree: 14%
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
          + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [秘#1 – 取得工具](industry/gov/get-your-tools.md)
-         + [提示#2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
-         + [提示#3 – 保護數位檔](industry/gov/protect-digital-documents.md)
-         + [提示#4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
-         + [提示#5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
+         + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
+         + [秘訣 #2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
+         + [秘訣 #3 – 保護數位檔](industry/gov/protect-digital-documents.md)
+         + [秘訣 4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
+         + [秘訣 5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
       + 辅助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
-         + [#1 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
+         + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 完成Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [第 3 名 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
