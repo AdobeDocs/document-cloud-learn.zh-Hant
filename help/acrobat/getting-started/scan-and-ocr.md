@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: fad21a78306eb79a9046747022a4c8f47304fae9
+source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,25 +15,25 @@ ht-degree: 1%
 
 # 掃描與 OCR
 
-在 Acrobat DC 中，將檔掃描或影像轉換成可搜尋、可編輯的 PDF 檔案，並調整檔案的品質。
+將檔的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案，並調整所產生檔案的品質。
 
 >[!TIP]
 >
 >若要 OCR 多個 PDF 檔案，請嘗試使用 [ 「動作精靈 ](../advanced-tasks/action.md) 」。
 
-1. **[!UICONTROL 從「工具」中心選取「掃描與 OCR」。]** 
+1. **** 從「 [!UICONTROL  工具 ] 」中心或右側窗格選取「掃描與 OCR」。
 
    ![掃描步驟 1](../assets/Scan_1.png)
 
 1. 選取檔案.
 
-   此檔案可能是檔的相片，或是使用掃描器或Adobe Scan行動應用程式建立的已掃描檔案。 或者，您可以掃描檔，使用連接的掃描器建立新檔案。
+   此檔案可能是檔的相片，或是使用掃描器或 Adobe Scan 行動應用程式建立的已掃描檔案。 或者，您可以掃描檔，使用連接的掃描器建立新檔案。
 
    ![掃描步驟 2](../assets/Scan_2.png)
 
 1. 選擇 **[!UICONTROL 「掃描的檔」]** 或「 **[!UICONTROL 相機影像」]** 來增強檔。
 
-1. 按一下 **[!UICONTROL 「增強]** 」以清理影像。
+1. 選 **[!UICONTROL 取「增強」]** 以清理影像。
 
    ![掃描步驟 3](../assets/Scan_3.png)
 
