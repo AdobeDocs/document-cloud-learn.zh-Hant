@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 5%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 5%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="瞭解 Acrobat DC 介面" src="../assets/Interface.jpg" />
+      <img alt="工作區基本介紹" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>認識 Acrobat DC 介面</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作區基本介紹</strong></a>
     </div>
     <em>瞭解 Adobe Acrobat DC 介面如何讓您輕鬆地跨桌上型電腦、網頁和行動裝置存取檔案和工具</em>
     <br>
@@ -50,7 +50,7 @@ ht-degree: 5%
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
     </div>
-    <em>透過 Acrobat 和 [！DNL Microsoft 365]</em>
+    <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>
