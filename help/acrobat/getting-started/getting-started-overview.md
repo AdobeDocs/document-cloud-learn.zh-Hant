@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## Acrobat教學課程
 
@@ -56,6 +56,16 @@ ht-degree: 5%
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
+    </div>
+    <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 5%
     <em>將許多不同類型的檔案合併成單一 PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 5%
     <em>從所有不同檔案類型建立 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="在 Acrobat DC 中對 PDF 檔案加上注釋" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ ht-degree: 5%
     <em>在 PDF 檔案中編輯文字和影像</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ ht-degree: 5%
     <em>瞭解如何將 PDF 檔案轉存為可編輯的格式</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="建立可填寫的表格" src="../assets/Form.jpg" />
+      <img alt="建立可填寫的表格" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>建立可填寫的表格</strong></a>
@@ -139,7 +149,9 @@ ht-degree: 5%
     <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="組織頁面" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ ht-degree: 5%
     <em>在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="使用密碼保護 PDF 檔案" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ ht-degree: 5%
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign.jpg" />
+      <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>填寫和簽署PDF forms</strong></a>
     </div>
     <em>快速填寫和簽署 PDF 表格</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ ht-degree: 5%
     <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
     </div>
     <em>瞭解 PDF 來自何處及其用途</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

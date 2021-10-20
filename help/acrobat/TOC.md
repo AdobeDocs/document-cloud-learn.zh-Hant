@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [概覽](getting-started/getting-started-overview.md)
    + [Workspace基礎](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
+   + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [即時共同作業](getting-started/collaborate.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [掃描與 OCR](getting-started/scan-and-ocr.md)
    + [組織頁面](getting-started/organize.md)
    + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
-   + [填寫和簽署 PDF 表格](getting-started/fill-and-sign.md)
+   + [填寫和簽署PDF forms](getting-started/fill-and-sign.md)
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
@@ -71,8 +72,8 @@ ht-degree: 10%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
-+ 行業 {#by-industry}
+   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
++ 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
       + [概覽](industry/gov/gov-overview.md)
@@ -93,6 +94,6 @@ ht-degree: 10%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
+   + [適用于ETLA客戶的重要 Acrobat DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)

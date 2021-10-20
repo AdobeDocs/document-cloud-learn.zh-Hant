@@ -6,14 +6,14 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35495.jpg
 exl-id: 3ec14eda-755e-425d-bdd7-e3c1cac8f7af
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 12%
+source-wordcount: '39'
+ht-degree: 0%
 
 ---
 
-# 填寫和簽署 PDF 表格
+# 填寫和簽署PDF forms
 
 瞭解如何快速輕鬆地填寫和簽署 PDF 表格。 不需要雜亂的列印或掃描。
 
