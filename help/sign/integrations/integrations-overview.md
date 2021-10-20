@@ -1,5 +1,5 @@
 ---
-title: 整合總覽
+title: 整合概觀
 description: 瞭解如何將Adobe Sign新增至現有的系統、程式和應用程式
 role: User
 product: adobe sign
@@ -7,21 +7,21 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# 整合總覽
+# 整合概觀
 
 ![Sign 整合影像](../assets/Hero-Integrate.png)
 
-您可以在貴組織已經在使用的其他應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Adobe Sign 來命名一些名稱。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
+您可以在貴組織已經在使用的其他應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Adobe Sign 來命名一些。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
 
 >[!NOTE]
-> 如果您在存取任何功能時發生問題，請向貴組織的管理員確認整合功能是否已啟用。
+> 如果您在存取任何功能時發生問題，請向貴組織的管理員確認整合已啟用。
 
 ## Microsoft 整合教學課程
 
@@ -71,20 +71,20 @@ ht-degree: 0%
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="傳送檔以索取簽名[！DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+      <img alt="傳送檔以供登入 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>傳送檔以索取簽名[！DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>傳送檔以供登入 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>直接在 [！DNL Microsoft Teams]</em>
+    <em>直接在內部傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="使用適用于 Microsoft Power Platform 的 Adobe Sign 檔自動化" src="../assets/SF-Button.png" />
+      <img alt="使用適用于 Microsoft Power Platform 的 Adobe Sign 自動化檔" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>使用適用于 Microsoft Power Platform 的 Adobe Sign 檔自動化</strong></a>
+    <a href="documentautomation.md"><strong>使用適用于 Microsoft Power Platform 的 Adobe Sign 自動化檔</strong></a>
     </div>
     <em>瞭解如何啟用和使用 Microsoft Power Apps 的 Adobe Sign 和 Adobe PDF Tools 連接器</em>
     <br>
@@ -194,10 +194,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="使用 salesforce 和 Marketo 視訊教學課程的Adobe Sign傳送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用 salesforce 和 Marketovideo 教學課程的Adobe Sign傳送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用 salesforce 和 Marketovideo Adobe Sign教學課程傳送提醒</strong></a>
     </div>
     <em>瞭解如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
@@ -226,10 +226,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="使用 Adobe Sign 針對 Microsoft Dynamics 和 Marketo 傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的Adobe Sign傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>使用 Adobe Sign 針對 Microsoft Dynamics 和 Marketo 傳送通知</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的Adobe Sign傳送通知</strong></a>
     </div>
     <em>瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出</em>
     <br>

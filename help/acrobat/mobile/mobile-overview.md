@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: d2660127d9cd854a46fa8429bd6d53c051f981c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 20%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +21,43 @@ ht-degree: 20%
 
 在行動裝置上建立、填寫和簽署 PDF。
 
-下載 [ Adobe Acrobat Reader 行動應用程式 ](https://acrobat.adobe.com/tw/zh-Hant/mobile/acrobat-reader.html) {target=&quot;_blank&quot;} 這個免費的全球標準，讓您可靠地檢視、批註和簽署 PDF。
+## Acrobat Reader行動應用程式教學課程
 
-[iOS 行動Acrobat Reader指南 ](https://www.adobe.com/go/v_acrobatios_en) {target=&quot;_blank&quot;}
-[Android 版 Acrobat Reader行動指南 ](https://www.adobe.com/go/v_acrobatandroid_en) {target=&quot;_blank&quot;}
+## Acrobat教學課程
 
-下載 [ Adobe Scan 行動應用程式 ](https://acrobat.adobe.com/us/en/mobile/scanner-app.html) {target=&quot;_blank&quot;} 以擷取任何紙本檔，並將其轉換為高品質的 PDF，內含可搜尋的文字。
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../getting-started/productivity.md">
+      <img alt="行動生產力" src="../assets/Productivity_1280.png" />
+    </a>
+    <div>
+     <a href="../getting-started/productivity.md"><strong>行動生產力</strong></a>
+    </div>
+    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
-[iOS 行動Adobe Scan指南 ](https://www.adobe.com/go/adobescanios_en) {target=&quot;_blank&quot;}
-[Android 版 Adobe Scan行動指南 ](https://www.adobe.com/go/adobescanandroid_en) {target=&quot;_blank&quot;}
+下載 [ Adobe Acrobat Reader 行動應用程式 ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target=&quot;_blank&quot;} 這個免費的全球標準，讓您可靠地檢視、批註和簽署 PDF。
 
-下載 [ Adobe Fill &amp; Sign行動應用程式 ](https://acrobat.adobe.com/tw/zh-Hant/mobile/fill-sign-pdfs.html) {target=&quot;_blank&quot;} 即可隨時隨地在任何裝置上使用手指或觸控筆填寫、簽署和傳送任何表格。
+[iOS 版Acrobat Reader行動指南 ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target=&quot;_blank&quot;}
+[Android 版 Acrobat Reader行動指南 ](https://www.adobe.com/devnet-docs/acrobat/android/en/) {target=&quot;_blank&quot;}
+
+下載 [ Adobe Scan 行動應用程式 ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target=&quot;_blank&quot;} 以擷取任何紙本檔，並將其轉換為高品質的 PDF，內含可搜尋的文字。
+
+[iOS 版Adobe Scan行動指南 ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target=&quot;_blank&quot;}
+[Android 版 Adobe Scan行動指南 ](https://www.adobe.com/devnet-docs/adobescan/android/en/) {target=&quot;_blank&quot;}
+
+下載 [ Adobe Fill &amp; Sign 行動應用程式 ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target=&quot;_blank&quot;} 即可隨時隨地在任何裝置上使用手指或觸控筆填寫、簽署和傳送任何表格。
