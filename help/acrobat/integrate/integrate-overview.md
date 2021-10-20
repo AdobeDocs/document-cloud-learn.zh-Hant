@@ -1,5 +1,5 @@
 ---
-title: 整合總覽
+title: 整合概觀
 description: 將 Acrobat 與 Box、Dropbox、Google 雲端硬碟、OneDrive 和 Microsoft 應用程式整合
 role: User
 product: adobe acrobat
@@ -7,14 +7,14 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
-# 整合總覽
+# 整合概觀
 
 ![Acrobat整合影像](../assets/Hero-Integrate.png)
 
@@ -31,41 +31,41 @@ ht-degree: 1%
       <img alt="從 Microsoft Word 建立 PDF 檔案" src="../assets/CreateWord.png" />
     </a>
     <div>
-    <a href="createfromword.md"><strong>從 [！DNL Microsoft Word]</strong></a>
+    <a href="createfromword.md"><strong>從中建立 PDF 檔案 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>使用超連結的內容表格、交互參照、書簽，甚至附件直接從 [！DNL Microsoft Word]</em>
+    <em>使用超連結的內容表格和交互參照、書簽，甚至附件，直接從中建立功能豐富的 PDF 檔案 [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="在 [！網頁版 DNL Office]" src="../assets/Officeweb_1280.png" />
+      <img alt="在網頁版中建立 PDF [!DNL Office]" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>在 [！網頁版 DNL Office]</strong></a>
+    <a href="createofficeweb.md"><strong>在網頁版中建立 PDF [!DNL Office]</strong></a>
     </div>
-    <em>瞭解如何在不離開您的 [！適用于網頁應用程式的 DNL Microsoft Office]</em>
+    <em>瞭解如何在不離開網頁應用程式的情況下建立 PDF [!DNL Microsoft Office] 檔案</em>
     <br>
   </td>  
   <td>
     <a href="acrobatandsp.md">
-      <img alt="與您的 [！DNL SharePoint] 檔案" src="../assets/SharePoint.png" />
+      <img alt="處理您的 [!DNL SharePoint] 檔案" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>與您的 [！DNL SharePoint] 檔案</strong></a>
+    <a href="acrobatandsp.md"><strong>處理您的 [!DNL SharePoint] 檔案</strong></a>
     </div>
-    <em>透過 [！DNL SharePoint] 和 Acrobat DC</em>
+    <em>使用和Acrobat DC 簡化檔工作流程 [!DNL SharePoint]</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="在 [！DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF 共同作業 [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
-    <a href="acrobatandteams.md"><strong>在 [！DNL Microsoft Teams]</strong></a>
+    <a href="acrobatandteams.md"><strong>PDF 共同作業 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>無需離開即可透過檢視、批註和審核 PDF 與同事協作和協作 [！DNL Microsoft Teams]</em>
+    <em>無需離開即可透過檢視、批註和審核 PDF 與同事協作及協作 [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -73,19 +73,19 @@ ht-degree: 1%
       <img alt="在 Outlook 中將電子郵件訊息和附件轉換為 PDF" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>在 [！DNL Outlook]</strong></a>
+    <a href="outlook.md"><strong>將電子郵件訊息和附件轉換為 PDF [!DNL Outlook]</strong></a>
     </div>
-    <em>瞭解如何在 [！DNL Outlook]</em>
+    <em>瞭解如何在 [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="使用 [！DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="使用 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>使用 [！DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>使用 [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>瞭解如何 Adobe Acrobat使用 [！DNL Microsoft Edge]</em>
+    <em>瞭解如何使用 Adobe Acrobat 擴充功能，即時將網頁封存為 PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -99,12 +99,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Google 雲端硬碟Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Google 雲端硬碟的Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat 適用于 [！DNL Google 雲端硬碟]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
     </div>
-    <em>直接在 [！DNL Google 雲端硬碟] 應用程式</em>
+    <em>直接在應用程式記憶體取省時的 PDF 工具和電子簽名工作流程 [!DNL Google Drive]</em>
     <br>
   </td>
   <td>
@@ -126,4 +126,4 @@ ht-degree: 1%
 
 ## Dropbox
 
-瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}} 中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
+瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
