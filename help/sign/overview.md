@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Adobe Sign英雄影像](assets/Hero_Sign.jpg)
 
-Adobe Sign，一個Adobe Document Cloud解決方案，透過整合、API、進階驗證、其他管理功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計目的是讓初學者和管理員都能快速上手Adobe Sign。
+Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗證、其他管理功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計是讓初學者和管理員都能快速上手Adobe Sign。
 
 ## 學習路徑
 

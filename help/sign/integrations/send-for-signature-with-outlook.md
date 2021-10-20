@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 29765t1.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片為本課程的一部分 [ ：Experience League免費使用「使用 Adobe Sign Microsoft 應用程式 ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) 內！」
+>本影片是免費 [ Experience League使用「在 Microsoft 應用程式內使用 ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) Adobe Sign」課程的一部分！
