@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 12%
 
 ---
 
@@ -24,17 +24,17 @@ Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="開始" src="../assets/Develop_Getting-Started.png" />
+      <img alt="建立開發人員帳戶" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>快速入門</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>建立開發人員帳戶</strong></a>
     </div>
-    <em>立即建立您的開發人員帳戶以開始使用</em>
+    <em>瞭解如何開始使用開發人員帳戶</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="學習" src="../assets/Develop_Learn.png" />
+      <img alt="瞭解您可以做些什麼" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>瞭解您可以做些什麼</strong></a>
@@ -61,7 +61,7 @@ Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、
     <div>
     <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和檔體驗</strong></a>
     </div>
-    <em>瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容和檔管理系統</em>
+    <em>瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
     <br>
   </td>
   <td>
