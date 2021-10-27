@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
 
 # 60 秒Acrobat總覽
 
-![60 秒Acrobat影像](../assets/Hero-60sec.png)
+![60 秒Acrobat圖](../assets/Hero-60sec.png)
 
-60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內，在 Acrobat DC 中學習新技巧。 這些任務型秘訣可讓您解鎖部分Acrobat隱藏的金塊，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
+60 秒Acrobat提供插點大小教學課程，協助您在一分鐘內或更短的時間內在 Acrobat DC 中學習新技巧。 這些任務型秘訣可讓您解鎖部分Acrobat隱藏的金塊，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
 
 ## 60 秒Acrobat教學課程
 
@@ -76,7 +76,19 @@ ht-degree: 0%
     <em>瞭解如何在手機上將 PowerPoint 附件轉換為 PDF</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="電子簽署紙本檔" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>電子簽署紙本檔</strong></a>
+    </div>
+    <em>瞭解如何使用Adobe Scan簽署列印表格</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="將 PDF 注釋載入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ ht-degree: 0%
     </div>
     <em>瞭解如何在共用審核Acrobat後將 PDF 注釋加回InDesign</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="在 PDF 中編輯相片" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ ht-degree: 0%
     </div>
     <em>瞭解如何使用 Illustrator 在 PDF 中對圖形進行進階編輯</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="快速組織頁面" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ ht-degree: 0%
     <a href="organize.md"><strong>快速組織頁面</strong></a>
     </div>
     <em>瞭解如何使用「組織頁面」工具來取得 PDF 的鳥覽檢視</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 8%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 8%
    + [一次Search多個 PDF 檔案](60-second/search.md)
    + [立即建立相片的 PDF](60-second/photo.md)
    + [在手機上將 PPT 檔案轉換為 PDF](60-second/phone.md)
+   + [電子簽署紙本檔](60-second/sign.md)
    + [將 PDF 注釋載入InDesign](60-second/indesign.md)
    + [在 PDF 中編輯相片](60-second/editphoto.md)
    + [在 PDF 中編輯圖形](60-second/editgraphic.md)
@@ -97,6 +98,6 @@ ht-degree: 8%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
