@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '319'
 ht-degree: 8%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 8%
    + [組織頁面](getting-started/organize.md)
    + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
    + [填寫和簽署PDF forms](getting-started/fill-and-sign.md)
+   + [取得簽名](getting-started/signatures.md)
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
@@ -76,7 +77,7 @@ ht-degree: 8%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -98,6 +99,6 @@ ht-degree: 8%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
