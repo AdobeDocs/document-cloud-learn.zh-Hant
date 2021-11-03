@@ -1,15 +1,15 @@
 ---
 title: 進階工作總覽
-description: 在 Acrobat 中使用這些進階工具，超越基本知識Acrobat
+description: 在 Acrobat 中使用這些進階工具，超越基本概念
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 3%
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>建立動作，自動將一組指令套用至一或多個檔案</em>
+    <em>使用動作自動將一組指令套用至一或多個指令，以節省時間和按鍵動作</em>
     <br>
   </td>
   <td>
