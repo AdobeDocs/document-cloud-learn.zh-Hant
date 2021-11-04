@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 2%
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>使用動作自動將一組指令套用至一或多個指令，以節省時間和按鍵動作</em>
+    <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
     <br>
   </td>
   <td>
