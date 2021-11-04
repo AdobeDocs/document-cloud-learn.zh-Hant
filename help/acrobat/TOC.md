@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 8%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 8%
    + [標記密文和淨化](advanced-tasks/redact.md)
    + [縮減檔案大小和優化](advanced-tasks/reduce.md)
    + [處理表格資料](advanced-tasks/formdata.md)
-   + [準備具備協助工具的 PDF 檔案](advanced-tasks/accessibility.md)
+   + [檢查 PDF 協助工具](advanced-tasks/accessibility.md)
    + Acrobat協助工具系列 {#accessibility-series}
       + [概覽](advanced-tasks/accessibility-series.md)
       + [PDF 協助工具簡介](advanced-tasks/accessibilitysession1.md)
@@ -93,12 +93,12 @@ ht-degree: 8%
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [第 3 名 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)

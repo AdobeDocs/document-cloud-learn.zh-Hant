@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -77,12 +77,12 @@ ht-degree: 2%
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="準備具備協助工具的 PDF 檔案" src="../assets/PreparingAccessible.jpg" />
+      <img alt="檢查 PDF 協助工具" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>準備具備協助工具的 PDF 檔案</strong></a>
+    <a href="accessibility.md"><strong>檢查 PDF 協助工具</strong></a>
     </div>
-    <em>建立可普遍存取的 PDF 檔案</em>
+    <em>瞭解如何檢查您的 PDF 是否可供身障人士普遍存取</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ ht-degree: 2%
     <div>
     <a href="accessibility-series.md"><strong>Acrobat協助工具系列</strong></a>
     </div>
-    <em>在這場六部分的隨選網路研討會系列中，從 Accessiblity 的基本知識，到深入探索如何標記 PDF 檔案</em>
+    <em>在這場六部分的隨選網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案</em>
     <br>
   </td>
   <td>

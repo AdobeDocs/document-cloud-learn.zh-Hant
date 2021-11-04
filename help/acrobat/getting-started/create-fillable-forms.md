@@ -6,41 +6,37 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 建立可填寫的表格
 
-在 Acrobat DC 中，將以 InDesign、Microsoft Word、Excel 或其他應用程式建立的掃描紙本表格或檔轉換為可填寫的 PDF 表格。
+將在 InDesign、Microsoft Word、Excel 或其他應用程式中建立的掃描紙本表格或檔轉換為可填寫的 PDF 表格。
 
-1. **[!UICONTROL 從「工具」中心選取「準備表格]**  」。
+1. **** 從「 [!UICONTROL  工具 ] 」中心或右側窗格中，選取「準備表格」。
 
    ![表單步驟 1](../assets/Form_1.png)
 
-1. 選取要用作表格的現有檔 （例如 Word、Excel、InDesign或 PDF 檔案）。
-
-   如果 [!UICONTROL  「表單欄位自動偵 ] 測」已開啟，Acrobat會自動偵測 PDF 中的表單欄位。
-
-1. 按一下 **[!UICONTROL 「開始]** 」以建立表格。
+1. 選取要用作表格的現有檔 （例如 Word、Excel、InDesign 或 PDF 檔案），然後選取「 **開始** 」。
 
    ![表單步驟 2](../assets/Form_2.png)
 
-   使用顯示的選項編輯表格。 從頂端選單列拖放欄位，然後編輯右側窗格中的表單欄位詳細資料。
+   如果 [!UICONTROL  「表格欄位自動偵測 ] **」已開啟** ，系統會自動偵測 PDF 檔案中的表單欄位。 按兩下表單欄位的位置。
 
-1. 按一下 **[!UICONTROL 「預覽]** 」，查看新增欄位後的表格。
+   從頂端選單拖放欄位，並在右側窗格中編輯表單欄位詳細資料。
+
+1. 選取 **[!UICONTROL 「預覽]** 」以查看您的表格。
 
    ![表單步驟 3](../assets/Form_3.png)
 
-   輕鬆返回 **[!UICONTROL 「編輯]** 」以繼續工作。
+1. 選 **[!UICONTROL 取「編輯]** 」以繼續工作，或選 **[!UICONTROL 取「檔案]** **>** **[!UICONTROL 另存新檔」]** 以儲存 PDF 表格。
 
    ![表格步驟 4](../assets/Form_4.png)
 
-1. 按一下 **[!UICONTROL 「檔案>另存新檔]** 」以儲存 PDF 表格。
-
-按一下以下載「 *建立可填寫表格」* 教學課程的 PDF。
+選取 PDF 圖示以下載「 *建立可填寫的表格* 」教學課程。
 
 [! [下載建立可填寫的表格教學課程](../assets/acrobat_PDF_96.png）](../assets/AcrobatDCForms.pdf)
