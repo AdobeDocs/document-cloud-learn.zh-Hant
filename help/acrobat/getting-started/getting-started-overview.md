@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用 Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## Acrobat教學課程
 
@@ -40,7 +40,7 @@ ht-degree: 3%
     <div>
     <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
     </div>
-    <em>瞭解如何在瀏覽器中使用Acrobat網頁工具處理來自任何位置的業務檔請求</em>
+    <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 3%
     <div>
      <a href="productivity.md"><strong>行動生產力</strong></a>
     </div>
-    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
+    <em>使用 Acrobat Reader 行動應用程式直接從平板電腦或行動電話中完成更多工作</em>
     <br>
   </td>
 </tr>
@@ -194,6 +194,16 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="track.md">
+      <img alt="追蹤您的檔" src="../assets/Track_1280.png" />
+    </a>
+    <div>
+    <a href="track.md"><strong>追蹤您的檔</strong></a>
+    </div>
+    <em>隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署</em>
+    <br>
+  </td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -201,11 +211,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
     </div>
     <em>瞭解 PDF 來自何處及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 8%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 8%
    + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
    + [填寫和簽署PDF forms](getting-started/fill-and-sign.md)
    + [取得簽名](getting-started/signatures.md)
+   + [追蹤您的檔](getting-started/track.md)
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
