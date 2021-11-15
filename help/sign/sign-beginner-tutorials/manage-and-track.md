@@ -1,24 +1,24 @@
 ---
-title: 管理和追蹤檔
-description: 瞭解如何管理和追蹤已傳送以供簽署的合約
+title: 管理與追蹤您的合約
+description: 瞭解如何在 Adobe Sign 中管理和追蹤已傳送以供簽署的合約
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 管理和追蹤檔
+# 管理與追蹤您的合約
 
-瞭解如何管理和追蹤您在 Adobe Sign 中傳送以索取簽名的檔。
+瞭解如何在 Adobe Sign 中管理和追蹤已傳送供簽署的檔。在您處理的每份檔上，取得即時狀態更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >

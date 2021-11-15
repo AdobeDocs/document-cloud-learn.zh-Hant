@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign教學課程
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [什麼是數位簽章？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [使用印章簽署](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
-      + [管理和追蹤檔](sign-beginner-tutorials/manage-and-track.md)
+      + [管理與追蹤您的合約](sign-beginner-tutorials/manage-and-track.md)
       + [建立檔範本](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [修改已傳送以供簽署的檔](sign-beginner-tutorials/modify-in-flight.md)
 + 進階工作 {#advanced-tasks}
@@ -50,7 +50,7 @@ ht-degree: 6%
 + 管理 {#admin-set-up}
    + [概覽](admin/intro-admin-overview.md)
    + 快速入門 {#getting-started-admin}
-      + [為管理員準備及執行](admin/up-and-running-admin.md)
+      + [管理員已啟動並執行](admin/up-and-running-admin.md)
       + [設定共用的事件和警告](admin/set-up-shared-events-and-alert.md)
       + [新增使用者](admin/add-users-to-your-account.md)
       + [建立和管理群組](admin/create-and-manage-groups.md)
@@ -85,7 +85,7 @@ ht-degree: 6%
       + [在 SharePoint Online 中傳送以索取簽名](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online 中的追蹤](integrations/track-an-agreement-with-sharepoint-online.md)
       + [傳送檔以供登入 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [使用適用于 Microsoft Power Platform 的 Adobe Sign 自動化檔](integrations/documentautomation.md)
+      + [使用適用于 Microsoft Power Platform 的 Adobe Sign 檔自動化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [建立檔範本](integrations/create-an-agreement-template.md)
       + [設定資料對應](integrations/set-up-data-mapping.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [使用適用于 Salesforce 和 Marketo 的Adobe Sign傳送通知](integrations/marketo-salesforce-sms.md)
       + [使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒](integrations/marketo-salesforce-reminder-video.md)
       + [使用 Adobe Sign 針對 Salesforce 和 Marketo 設定指南傳送提醒](integrations/marketo-salesforce-reminder.md)
-      + [使用 Adobe Sign 針對 Microsoft Dynamics 和 Marketo 傳送通知](integrations/marketo-dynamics-sms.md)
+      + [使用適用于 Microsoft Dynamics 和 Marketo 的 Adobe Sign 傳送通知](integrations/marketo-dynamics-sms.md)
       + [使用適用于 Microsoft Dynamics 365 和 Marketo 的Adobe Sign傳送提醒](integrations/marketo-dynamics-reminder.md)
 + 產業和部門 {#expand}
    + [概覽](sign-usecase/expand-inspire-overview.md)
