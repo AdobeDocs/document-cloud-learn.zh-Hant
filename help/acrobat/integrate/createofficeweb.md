@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
-thumbnail: kt-8497.jpg
+thumbnail: KT-8497.jpg
 kt: 8497
-source-git-commit: 43c14489680e482e9450a42e82d126ffa28bb977
+exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
+source-git-commit: b924af71abccea63f50cf27fb7ee2eafbacc0656
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
