@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 2%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
@@ -44,3 +44,7 @@ ht-degree: 2%
 選取 PDF 圖示以下載 *「動作精靈」* 教學課程。
 
 [![下載動作精靈教學課程 ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf) 。
+
+>[!TIP]
+>
+>本課程中包含 Acrobat [ DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在 Experience League 上免費使用，讓您更聰明地工作！

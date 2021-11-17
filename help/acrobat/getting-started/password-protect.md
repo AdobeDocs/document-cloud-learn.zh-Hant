@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,7 @@ ht-degree: 0%
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)
+
+>[!TIP]
+>
+>本影片是本課程的一部分 [ ，提供 Acrobat DC 和 Microsoft 365 Experience League免費使用，讓您更聰明 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 地工作！

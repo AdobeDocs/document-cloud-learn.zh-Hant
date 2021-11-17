@@ -1,5 +1,5 @@
 ---
-title: PDF 共同作業 [!DNL Microsoft Teams]
+title: PDF 共同作業在 [!DNL Microsoft Teams]
 description: 適用于團隊的Adobe Acrobat可讓使用者透過檢視、批註和審核 PDF，不必離開 [!DNL Microsoft Teams]
 role: User
 product: adobe acrobat
@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,7 @@ ht-degree: 0%
 * 安全協作 – 與受信任的成員安全地共同作業，並保留將檔版本儲存在 [!DNL Microsoft SharePoint] 或 [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+
+>[!TIP]
+>
+>本課程中包含 Acrobat [ DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在 Experience League 上免費使用，讓您更聰明地工作！
