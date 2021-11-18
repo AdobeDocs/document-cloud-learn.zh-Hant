@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '335'
 ht-degree: 8%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [增強 PDF](advanced-tasks/enhance.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
    + [標記密文和淨化](advanced-tasks/redact.md)
@@ -94,7 +95,7 @@ ht-degree: 8%
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
+         + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)

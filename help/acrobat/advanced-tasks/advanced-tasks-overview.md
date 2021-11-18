@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ ht-degree: 2%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="增強 PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>增強 PDF</strong></a>
+    </div>
+    <em>透過新增圖形點綴和自動編號來轉換您的 PDF</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="偵測兩個 PDF 之間的差異" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ ht-degree: 2%
     </div>
     <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="標記密文和淨化" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ ht-degree: 2%
     </div>
     <em>從 PDF 中永久移除私人或敏感性資訊</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="縮減檔案大小和優化" src="../assets/Reduce.jpg" />
@@ -62,7 +72,7 @@ ht-degree: 2%
     <div>
     <a href="reduce.md"><strong>縮減檔案大小和優化</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
   <td>
@@ -75,6 +85,8 @@ ht-degree: 2%
     <em>將表格資料編譯為單一試算表</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="檢查 PDF 協助工具" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ ht-degree: 2%
     <em>瞭解如何檢查您的 PDF 是否可供身障人士普遍存取</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="準備具備協助工具的 PDF 檔案" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ ht-degree: 2%
     <a href="accessibility-series.md"><strong>Acrobat協助工具系列</strong></a>
     </div>
     <em>在這場六部分的隨選網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
