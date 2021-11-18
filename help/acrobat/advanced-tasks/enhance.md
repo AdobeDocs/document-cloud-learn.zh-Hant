@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 在此實作教學課程中，瞭解如何透過新增圖形增強功能和自動編號來轉換 PDF。
 
-<br> 
-
-## 您將需要什麼
-
-[![取得檔案 ](../assets/Getfiles.png)](../assets/Enhance.zip)
-要練習的範例檔案 （ZIP，342 KB）
-
-<br> 
+>[!TIP]
+>
+>[![取得檔案](../assets/Getfiles.png)](../assets/Enhance.zip)
+> 下載這些範例檔案以使用 （ZIP，342 KB）
 
 ## 瞭解如何新增背景圖形
 
@@ -38,8 +34,8 @@ ht-degree: 0%
 
 1. *從範例檔案中開啟 Altura Technology Employee Handbook.pdf。*
 1. 在 **** 右側窗格中選取「編輯 PDF」。
-1. 選 **取「更多>背景」>新增** 。
-1. 選取 **「頁面範圍選項** ...」，然後在「頁面」下方的「頁面」中選擇「2 至 **26」（** 選項），然後選取「 **確定** 」。
+1. 選 **取「更多>」背景>新增** 。
+1. 選取 **「頁面範圍選項** ...」，然後在「頁面」選項下方選擇「2 至 **26」，** 然後選取「 **確定** 」。
 1. 在「Source」選項下選擇「 **檔案** 」，然後選取 **「流覽」** 以新增 *「背景圖形.pdf」* 範例檔案。
 1. 選 **取「確定** 」以新增背景圖形。
 
