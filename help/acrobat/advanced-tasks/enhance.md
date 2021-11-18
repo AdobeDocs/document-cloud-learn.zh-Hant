@@ -1,27 +1,28 @@
 ---
 title: 增強 PDF
-description: 瞭解如何透過新增圖形點印和自動編號來轉換 PDF
+description: 瞭解如何透過新增圖形增強功能和自動編號來轉換 PDF
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # 增強 PDF
 
-瞭解如何透過新增圖形點印和自動編號來轉換 PDF。
+在此實作教學課程中，瞭解如何透過新增圖形增強功能和自動編號來轉換 PDF。
 
 <br> 
 
 ## 您將需要什麼
 
-[![讓檔案 ](../assets/Getfiles.png)](../assets/Enhance.zip)   範例檔案使用 （ZIP，342 KB）
+[![取得檔案 ](../assets/Getfiles.png)](../assets/Enhance.zip)
+要練習的範例檔案 （ZIP，342 KB）
 
 <br> 
 
