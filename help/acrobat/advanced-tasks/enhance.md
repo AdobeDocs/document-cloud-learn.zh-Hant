@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
+source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[![取得檔案](../assets/Getfiles.png)](../assets/Enhance.zip)
-> 下載這些範例檔案以使用 （ZIP，342 KB）
+>下載這些範例檔案以使用 （ZIP，342 KB）
+
+[! [取得檔案](../assets/Getfiles.png）](../assets/Enhance.zip)
 
 ## 瞭解如何新增背景圖形
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 1. *從範例檔案中開啟 Altura Technology Employee Handbook.pdf。*
 1. 在 **** 右側窗格中選取「編輯 PDF」。
-1. 選 **取「更多>」背景>新增** 。
+1. 選 **取「更多>背景」>新增** 。
 1. 選取 **「頁面範圍選項** ...」，然後在「頁面」選項下方選擇「2 至 **26」，** 然後選取「 **確定** 」。
 1. 在「Source」選項下選擇「 **檔案** 」，然後選取 **「流覽」** 以新增 *「背景圖形.pdf」* 範例檔案。
 1. 選 **取「確定** 」以新增背景圖形。
