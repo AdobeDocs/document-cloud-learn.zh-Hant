@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
+source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 瞭解如何透過新增圖形點印和自動編號來轉換 PDF。
 
-&amp;nbsp
+<br> 
 
 ## 您將需要什麼
 
 [![讓檔案 ](../assets/Getfiles.png)](../assets/Enhance.zip)   範例檔案使用 （ZIP，342 KB）
 
-&amp;nbsp
+<br> 
 
 ## 瞭解如何新增背景圖形
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. *從範例檔案中開啟 Altura Technology Employee Handbook.pdf。*
 1. 在 **** 右側窗格中選取「編輯 PDF」。
-1. 選 **取「更多>」背景>新增** 。
+1. 選 **取「更多>背景」>新增** 。
 1. 選取 **「頁面範圍選項** ...」，然後在「頁面」下方的「頁面」中選擇「2 至 **26」（** 選項），然後選取「 **確定** 」。
 1. 在「Source」選項下選擇「 **檔案** 」，然後選取 **「流覽」** 以新增 *「背景圖形.pdf」* 範例檔案。
 1. 選 **取「確定** 」以新增背景圖形。
