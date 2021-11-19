@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->下載這些範例檔案以使用 （ZIP，342 KB）
+>[下載這些範例檔案 ](../assets/Enhance.zip) 以使用 （ZIP，342 KB）
 
-[! [取得檔案](../assets/Getfiles.png）](../assets/Enhance.zip)
+[! [取得檔案](../assets/Getfiles.svg）](../assets/Enhance.zip)
 
 ## 瞭解如何新增背景圖形
 
@@ -61,5 +62,3 @@ ht-degree: 0%
 1. 在「邊界」區段的「底部」方塊中選擇「0.7」。 ****
 1. 選 **取「儲存設定** 」，在方塊中輸入「修訂 3.0」，然後選取「 **確定** 」。
 1. 選 **取「確定** 」，將新頁尾套用至 PDF。
-
-
