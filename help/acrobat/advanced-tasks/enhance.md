@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
+source-git-commit: 869364fb68d20c7333bee25513dbdf19632a64ed
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 0%
 
 在此實作教學課程中，瞭解如何透過新增圖形增強功能和自動編號來轉換 PDF。
 
-[![取得檔案 ](../assets/Getfiles.svg)](../assets/Enhance.zip)   下載這些範例檔案以使用 （ZIP，342 KB）
+## 您將需要什麼
+
+[![取得檔案 ](../assets/Getfiles.svg)](../assets/Enhance.zip)
+下載這些範例檔案以使用 （ZIP，342 KB）
 
 <br> 
 
@@ -53,7 +56,7 @@ ht-degree: 0%
 
 新增頁首或頁尾可讓您建立統一的 PDF 檔案，以提供更優質的檢視體驗。
 
-1. 選 **取「頁首和頁尾>新增>新增** 」。
+1. 選 **取「頁首和頁尾」>「新增** >」。
 1. 在「 **預覽頁面」方塊中輸入 2。**
 1. 在「字體」區段中，在「 **名稱」下拉式清單中選取「Calibri** Bold」。在「 **大小」下拉式清單中選取 12，** 然後選擇白色。
 1. ** 在 **左側頁尾文字方塊中輸入 Altura 技術機密** 。
