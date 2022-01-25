@@ -3,16 +3,16 @@ title: 共用 PDF 檔案和線上審核
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 26%
 
 ---
 
 # 共用 PDF 檔案和線上審核
 
-使用Adobe Document Cloud審核服務，從 Acrobat DC 桌面應用程式、網頁Document Cloud Acrobat Reader或行動應用程式，輕鬆共用 PDF 檔案以供審核。 當審核者從電腦上按一下電子郵件通知中的 URL 時，可以在瀏覽器中輕鬆提供回饋，而不需要登入或安裝其他軟體。
+使用Adobe Document Cloud審核服務，從桌面應用程式、網頁Document Cloud或行動應用程式Acrobat輕鬆共用 PDF 檔案 Acrobat Reader以供審核。 當審核者從電腦上按一下電子郵件通知中的 URL 時，可以在瀏覽器中輕鬆提供回饋，而不需要登入或安裝其他軟體。
 
 在本練習中，我們回顧如何、
 
@@ -27,7 +27,7 @@ ht-degree: 26%
 
 ![步驟 1 影像](assets/Step1.png)
 
-**步驟 2：** 按一下 **[!UICONTROL 右側面板中的「傳送以供注釋」或]** **[!UICONTROL 右上角的「與其他人共用此檔案]** ![ 」注釋 ](assets/sendforcommentsicon.png)  圖示。
+**步驟 2：** 按一下 **[!UICONTROL 右側面板中的「傳送以供注釋」或]** **[!UICONTROL 右上角的「與其他人共用此檔案]** ![ 」注釋 ](assets/sendforcommentsicon.png)  圖示 。
 
 **步驟 3：** 輸入收件者的電子郵件地址。 您可以輸入訊息給收件者或新增審核截止日期。
 
@@ -43,7 +43,7 @@ ht-degree: 26%
 
 ## 在電子郵件中傳送匿名或公開連結
 
-**步驟 1：** `localFoodTruckmenu_start.pdf` 在Adobe Acrobat中開啟檔案。
+**步驟 1：** `localFoodTruckmenu_start.pdf` 在「Adobe Acrobat中開啟檔案。
 
 **步驟 2：** 按一下 **[!UICONTROL 「共用]** ![ 連結圖示 ](assets/sendlinkicon.png) 」。 共用連結會立即產生；您不需要等待檔案上傳到雲端。「 [!UICONTROL  允許注釋」開關預設為 ] 開啟。
 
@@ -65,7 +65,7 @@ ht-degree: 26%
 
 ## 將 PDF 注釋匯入至InDesign
 
-InDesign CC 2019 可讓您直接從 PDF 檔案讀入注釋。 只要按一下，就可以匯入、接受和套用變更。 在新的「PDF 注釋」面板中，選取注釋後，便會在您的InDesign檔案中找到注釋並以螢光標示。
+InDesign CC 2019 可讓您直接從 PDF 檔案讀入注釋。 只要按一下，就可以匯入、接受和套用變更。 在新的「PDF 注釋」面板中，選取注釋時，便會在您的InDesign檔案中找到注釋並加上螢光標示。
 
 **步驟 1：** 下載包含注釋的 PDF 檔案。
 
@@ -85,7 +85,7 @@ InDesign CC 2019 可讓您直接從 PDF 檔案讀入注釋。 只要按一下，
 
 ## 回顧：
 
-與 Acrobat 一起檢閱及共用設計版本。 Acrobat允許您，
+檢閱設計版本並與 Acrobat 共用。 Acrobat允許您、
 
 * 傳送 PDF 連結供他人審核。
 * 隨處皆可審核，包括桌上型電腦、瀏覽器、行動裝置。

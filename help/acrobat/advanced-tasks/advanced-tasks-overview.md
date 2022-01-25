@@ -1,14 +1,14 @@
 ---
 title: 進階工作總覽
-description: 在 Acrobat 中使用這些進階工具，超越基本概念
+description: 在 Acrobat 中使用這些進階工具，超越基本知識Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![Acrobat快速入門影像](../assets/Hero-AdvancedTasks.png)
 
-使用 Acrobat DC 中的進階工具，超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
+利用這些進階工具，Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
 
 ## Acrobat教學課程
 

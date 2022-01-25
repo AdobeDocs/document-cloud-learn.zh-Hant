@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="為管理員準備及執行" src="../assets/Up-Running.png" />
+      <img alt="管理員已啟動並執行" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>為管理員準備及執行</strong></a>
+    <a href="up-and-running-admin.md"><strong>管理員已啟動並執行</strong></a>
     </div>
-    <em>概觀 7 個關鍵領域，讓管理員快速上手Adobe Sign</em>
+    <em>管理員可快速上手和快速上手的 7 個關鍵領域概觀Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -196,7 +196,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign文字標記</strong></a>
     <div>
-    <em>使用 Adobe Acrobat DC 進行文字標記，建立Adobe Sign表單欄位</em>
+    <em>使用Adobe Acrobat標記文字來建立Adobe Sign表單欄位</em>
     <br>
   </td>
   <td>

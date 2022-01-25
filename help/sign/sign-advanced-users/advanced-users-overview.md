@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![簽署進階影像](../assets/Hero-Advanced.png)
 
-瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多Adobe Sign工作方式。
+瞭解如何一次傳送檔給 100 位收件者以索取簽名、為網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多Adobe Sign工作方式。
 
 ## 正在傳送
 
@@ -83,7 +83,7 @@ ht-degree: 0%
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign文字標記</strong></a>
     </div>
-    <em>使用 Adobe Acrobat DC 進行文字標記，建立Adobe Sign表單欄位</em>
+    <em>使用Adobe Acrobat標記文字來建立Adobe Sign表單欄位</em>
     <br>
   </td> 
 </table>

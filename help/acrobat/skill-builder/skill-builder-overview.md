@@ -1,21 +1,21 @@
 ---
 title: Acrobat DC 技能小精進
-description: 運用這些互動式技能小精進，快速掌握 Acrobat DC
+description: 運用這些互動式技能小精進，快速掌握Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Acrobat技能小精進
 
-運用這些互動式技能小精進，快速掌握 Acrobat DC。 或者，加入 [ 每月一次的即時諮詢 ](skill-builder-webinars.md) 。
+運用這些互動式技能，快速掌握Acrobat。 或者，加入 [ 每月一次的即時諮詢 ](skill-builder-webinars.md) 。
 
 ![Acrobat Skill Builder 影像](../assets/Hero-SkillBuilders.png)
 

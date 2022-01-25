@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 8%
 
 ---
@@ -79,13 +79,13 @@ ht-degree: 8%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
       + [概覽](industry/gov/gov-overview.md)
       + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
-         + [使用 Acrobat DC 隨處工作的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [隨處使用 Acrobat 的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
          + [秘訣 #2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
          + [秘訣 #3 – 保護數位檔](industry/gov/protect-digital-documents.md)
@@ -101,7 +101,7 @@ ht-degree: 8%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)

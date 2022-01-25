@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 2%
 
 ---
 
 # 組織頁面
 
-使用 **[!UICONTROL Acrobat DC 中的「組織頁面]** 」，在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面。
+在 **[!UICONTROL Acrobat中使用「組織頁面]** 」，在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面。
 
 1. **** 從「 [!UICONTROL  工具 ] 」中心或右側窗格選取「組織頁面」。
 

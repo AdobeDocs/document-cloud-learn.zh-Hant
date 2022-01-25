@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Acrobat整合影像](../assets/Hero-Integrate.png)
 
-將Acrobat與 [!DNL Box] [!DNL Dropbox] [!DNL Google Drive] [!DNL OneDrive] 、、、和 [!DNL Microsoft] 應用程式整合。
+將Acrobat與 [!DNL Box] [!DNL Dropbox] [!DNL Google Drive] 、、 [!DNL OneDrive] 和 [!DNL Microsoft] 應用程式整合。
 
 ## Microsoft
 
@@ -53,7 +53,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandsp.md"><strong>處理您的 [!DNL SharePoint] 檔案</strong></a>
     </div>
-    <em>使用和Acrobat DC 簡化檔工作流程 [!DNL SharePoint]</em>
+    <em>透過和Acrobat簡化檔工作流程 [!DNL SharePoint]</em>
     <br>
   </td>  
 </tr>
@@ -85,7 +85,7 @@ ht-degree: 1%
     <div>
     <a href="edge.md"><strong>使用 [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>瞭解如何使用 Adobe Acrobat 擴充功能，即時將網頁封存為 PDF [!DNL Microsoft Edge]</em>
+    <em>瞭解如何使用 Adobe Acrobat 副檔名即時將網頁封存為 PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -99,7 +99,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Google 雲端硬碟的Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Google 雲端硬碟Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
