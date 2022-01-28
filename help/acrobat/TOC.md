@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 8%
+source-wordcount: '338'
+ht-degree: 7%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [使用表單欄位](advanced-tasks/workforms.md)
    + [增強 PDF](advanced-tasks/enhance.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
@@ -74,12 +75,12 @@ ht-degree: 8%
 + 整合 {#integrations}
    + [概覽](integrate/integrate-overview.md)
    + [建立 PDF 來源 [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [在網頁版中建立 PDF  [!DNL Office] ](integrate/createofficeweb.md)
+   + [在網頁版中  [!DNL Office]  建立 PDF](integrate/createofficeweb.md)
    + [PDF 共同作業 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -95,13 +96,13 @@ ht-degree: 8%
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [第 3 名 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 ACROBAT DC 產品更新](deploy/signentitlementchanges.md)
+   + [適用于ETLA客戶的重要 Acrobat DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
