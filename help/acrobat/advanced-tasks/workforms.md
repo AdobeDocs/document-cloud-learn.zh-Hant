@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ ht-degree: 0%
 >[!TIP]
 >
 >在「一般」類別的「偏好設定」中開啟單一按鍵加速器。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ ht-degree: 0%
 
 ## 瞭解如何一次為多個欄位設定屬性、跳位順序，以及保護表格
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ ht-degree: 0%
 
 設定跳位順序可確保表單填寫者在填寫表單時可以輕鬆地從欄位移到另一個欄位。
 
-1. 鍵入 Shift + N 以顯示跳位順序。
+1. 鍵入 *Shift + N* 以顯示跳位順序。
 1. *將「HQ 位置* 」欄位移到右側窗格中「員工 *人數」欄位下* 方。
 1. *在右側窗格中* ，將「電子郵件地址 *」欄位下方的「專案開始* 」和 *「專案結束* 」欄位移動。
 
 保護表單可確保無法修改檔的欄位或內容。
 
-1. 輸入 Ctrl + D （Mac 上的 Cmd + D） 以顯示 **「文檔內容** 」對話方塊。
+1. 輸入 *Ctrl + D （Mac 上的 Cmd + D）* 以顯示 **「文檔內容** 」對話方塊。
 1. 選取&#x200B;**「安全性」**&#x200B;索引標籤.
 1. 在「安全性方法： **」下拉式清單中** 選 **取「密碼安全** 性」。
 1. 勾選 **「限制編輯和列印檔案」。 變更這些許可權設定時需要密碼。**
