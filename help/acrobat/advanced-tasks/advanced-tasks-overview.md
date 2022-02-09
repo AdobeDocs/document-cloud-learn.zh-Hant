@@ -1,14 +1,14 @@
 ---
 title: 進階工作總覽
-description: 在 Acrobat 中使用這些進階工具，超越基本知識Acrobat
+description: 在 Acrobat 中使用這些進階工具，超越基本知識
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![Acrobat快速入門影像](../assets/Hero-AdvancedTasks.png)
 
-利用這些進階工具，Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
+利用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
 
 ## Acrobat教學課程
 
@@ -25,10 +25,10 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="optimizeseo.md">
-      <img alt="優化 PDF 以SEO" src="../assets/seo_1280.png" />
+      <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>優化 PDF 以SEO</strong></a>
+    <a href="optimizeseo.md"><strong>為SEO優化 PDF （Search引擎優化）</strong></a>
     </div>
     <em>優化 PDF 以提升可探索性和搜尋引擎在網頁上的排名</em>
     <br>

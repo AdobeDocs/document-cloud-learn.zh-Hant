@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -35,7 +36,7 @@ ht-degree: 0%
 
 PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 檔內容]** ，如下所示：
 
-1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述」]** 索引標籤。
+1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
 1. 在「標題： ]**」欄位中**[!UICONTROL  輸入關鍵字優化標題。
 1. 請確定「 **[!UICONTROL 作者：」字]** 段無法識別組織中的特定個人。
 1. 在「主旨： ]**」欄位中**[!UICONTROL  輸入檔的關鍵字優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
@@ -71,7 +72,7 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 
 ## 建立關鍵字檔案名
 
-當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
+當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔案名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
 
 ## 保護您的 PDF
 
