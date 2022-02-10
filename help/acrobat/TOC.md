@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
+source-git-commit: 8e10aac6ae42846fe1fa77d65fd933f741e3bbbc
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 7%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 7%
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
       + [概覽](industry/gov/gov-overview.md)
-      + 使用 Acrobat DC 隨處工作的 5 個秘訣 {#tips}
+      + 隨處使用 Acrobat 的 5 個秘訣 {#tips}
          + [隨處使用 Acrobat 的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
          + [秘訣 #2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
