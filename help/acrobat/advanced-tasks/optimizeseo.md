@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 檔內容]** ，如下所示：
 
-1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
+1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl+D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
 1. 在「標題： ]**」欄位中**[!UICONTROL  輸入關鍵字優化標題。
 1. 請確定「 **[!UICONTROL 作者：」字]** 段無法識別組織中的特定個人。
 1. 在「主旨： ]**」欄位中**[!UICONTROL  輸入檔的關鍵字優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
@@ -62,13 +62,17 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 
 ## 準備使用網頁版
 
-為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。 若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>另存為其他>「縮小 PDF 大小」]** 。
+為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。 若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>儲存為其他>縮減的 PDF]** 大小」。
 
 ![文件屬性的螢幕擷圖](../assets/optimizeseo4.png)
 
 此步驟可縮小檔案大小，並啟用 **PDF 中的「快速 Web 檢視** 」。 **「快速 Web 檢視** 」可讓您在串流或下載整個檔案之前立即開啟、檢視和搜尋檔案，進而創造最佳的一般使用者體驗。 開啟 **[!UICONTROL 文檔內容]** （ *Windows 上的 Ctrl + D* 或 *Mac 上的 Cmd + D* ） 以判斷是否 **啟用「快速 Web 檢視** 」。
 
 ![文件屬性的螢幕擷圖](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>如果您已Acrobat Pro，請在「動作精靈」工具中執行「優化網頁版和行動版」。 此動作會將顏色轉換為 sRGB，並嵌入字體，以便在瀏覽器和行動裝置上一致地顯示 PDF。
 
 ## 建立關鍵字檔案名
 
