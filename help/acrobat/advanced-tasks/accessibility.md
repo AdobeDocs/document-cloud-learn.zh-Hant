@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->僅適用于 Acrobat Pro DC。
+>僅適用于 Acrobat Pro。
 
 ## 協助工具檢查
 
-1. **** 從「工具」中心或右側窗格選取「協助工具」。
+1. 從「 **[!UICONTROL 工具」中心或右側窗格選取「協助工具]** 」。
 
    ![協助工具步驟 1](../assets/Accessibility_1.png)
 
-1. 在 **** 右側窗格中選取「協助工具檢查」。
+1. 在右側窗格中選 **[!UICONTROL 取「協助工具檢查]** 」。
 
    ![協助工具步驟 2](../assets/Accessibility_2.png)
 
@@ -44,16 +44,16 @@ ht-degree: 0%
 
    ![協助工具步驟 4](../assets/Accessibility_4.png)
 
-您也可以在 [!UICONTROL  「動作精靈」工具中使用「新增協助工具」 ] 動作 [ ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) ，該工具會逐步執行一組基本步驟，以建立具備協助工具的 PDF。
+您也可以在「動作精靈 ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) 」工具中 [ 使用 [!UICONTROL  「新增輔助 ] 功能」動作，該工具會逐步執行一組基本步驟，以建立具備協助工具的 PDF。
 
 ## 修正協助工具問題
 
-在「協助工具報告」視窗中，以滑鼠右鍵按一下專案以開啟內容選單。 任何失敗的協助工具檢查項目的快顯選單提供您解決問題的選項。
+在協助工具報告視窗中，以滑鼠右鍵按一下專案以開啟內容選單。 任何失敗的協助工具檢查項目的快顯選單提供您解決問題的選項。
 
 >[!NOTE]
 >
->部分問題無法自動修正，且需要手動操作才能修正問題。 在這些情況下，>Acrobat顯示對話方塊，告訴您要修正什麼。
+>部分問題無法自動修正，需要手動操作才能修正問題。 在這些情況下，>Acrobat會顯示一個對話方塊，告訴您要修正什麼。
 
-選取 PDF 圖示以下載 *「檢查 PDF 協助工具* 」教學課程。
+選取 PDF 圖示以下載「 *檢查 PDF 協助工具」教學* 課程。
 
 [![下載協助工具教學課程 ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf) 。

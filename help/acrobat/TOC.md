@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 8e10aac6ae42846fe1fa77d65fd933f741e3bbbc
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 7%
+source-wordcount: '344'
+ht-degree: 8%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 7%
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [進階表單欄位](advanced-tasks/advancedforms.md)
    + [優化 PDF 以SEO](advanced-tasks/optimizeseo.md)
    + [使用表單欄位](advanced-tasks/workforms.md)
    + [增強 PDF](advanced-tasks/enhance.md)
@@ -81,7 +82,7 @@ ht-degree: 7%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -97,7 +98,7 @@ ht-degree: 7%
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
-         + [#3 – 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
+         + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
