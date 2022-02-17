@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 9%
+source-wordcount: '387'
+ht-degree: 8%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 9%
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
    + [進階表單欄位](advanced-tasks/advancedforms.md)
-   + [優化 PDF 以SEO](advanced-tasks/optimizeseo.md)
+   + [優化 PDF 以供SEO](advanced-tasks/optimizeseo.md)
    + [使用表單欄位](advanced-tasks/workforms.md)
    + [增強 PDF](advanced-tasks/enhance.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
@@ -61,6 +61,12 @@ ht-degree: 9%
       + [將表格欄位新增至未標記的 PDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
    + [概覽](60-second/60-second-overview.md)
+   + [快速建立更有效率的 PDF 檔案](60-second/optimize.md)
+   + [使用密碼保護 PDF 檔案](60-second/protect.md)
+   + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
+   + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
+   + [從手機Export PDF至 Word](60-second/exportwordphone.md)
+   + [識別掃描的 PDF 檔案中的文字](60-second/textrecognition.md)
    + [將多個檔案合併為一個 PDF](60-second/combine-to-one-pdf.md)
    + [使用網頁Acrobat編輯 PDF](60-second/edit.md)
    + [一次Search多個 PDF 檔案](60-second/search.md)
@@ -82,7 +88,7 @@ ht-degree: 9%
    + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
    + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
    + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [Google 雲端硬碟Adobe Acrobat](integrate/acrobatandgoogle.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
@@ -104,7 +110,7 @@ ht-degree: 9%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
+   + [為ETLA客戶提供重要Acrobat DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
