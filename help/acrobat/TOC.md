@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '391'
 ht-degree: 8%
 
 ---
@@ -41,8 +41,9 @@ ht-degree: 8%
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [自訂指令和工具](advanced-tasks/custom.md)
    + [進階表單欄位](advanced-tasks/advancedforms.md)
-   + [優化 PDF 以供SEO](advanced-tasks/optimizeseo.md)
+   + [優化 PDF 以SEO](advanced-tasks/optimizeseo.md)
    + [使用表單欄位](advanced-tasks/workforms.md)
    + [增強 PDF](advanced-tasks/enhance.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
@@ -93,7 +94,7 @@ ht-degree: 8%
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}
       + [概覽](industry/gov/gov-overview.md)
-      + 隨處使用 Acrobat 的 5 個秘訣 {#tips}
+      + 使用 Acrobat 隨處工作的 5 個秘訣 {#tips}
          + [隨處使用 Acrobat 的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
          + [秘訣 #2 – 共同處理檔](industry/gov/collaborate-on-documents.md)
@@ -110,7 +111,7 @@ ht-degree: 8%
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
    + [概覽](deploy/deploy-overview.md)
-   + [為ETLA客戶提供重要Acrobat DC 產品更新](deploy/signentitlementchanges.md)
+   + [適用于ETLA客戶的重要 Acrobat DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
    + [概覽](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
