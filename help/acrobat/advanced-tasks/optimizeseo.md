@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 建立與網頁資訊不同的 PDF 內容。
 
-+++瞭解如何
-
-PDF 內容應為唯一且結構化，如下所示：
+++PDF 內容應是唯一且結構化的，如下所示：
 
 * 使用以關鍵字開頭的單一主要標題/標題
 * 使用分層式結構中組織的關鍵字子標題
@@ -38,13 +36,13 @@ PDF 內容應為唯一且結構化，如下所示：
 
 +++
 
+<br> 
+
 ## 新增文件屬性
 
 PDF 檔案的標題和元描述就像網頁一樣。
 
-+++瞭解如何
-
-新增主要 **[!UICONTROL 檔內容]** ，如下所示：
++++新增關鍵 **[!UICONTROL 檔內容]** ，如下所示：
 
 1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
 1. 在「標題： ]**」欄位中**[!UICONTROL  輸入關鍵字優化標題。
@@ -56,6 +54,8 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 +++
 
+<br> 
+
 ## 標記您的 PDF
 
 >[!NOTE]
@@ -64,9 +64,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 標記 PDF 中的內容不僅使您的檔案 [ 可供殘障人士存取 ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) ，還可以改善SEO。
 
-+++瞭解如何
-
-標記 PDF，如下所示：
+++標記 PDF，如下所示：
 
 1. 在「工具」中心選 **[!UICONTROL **[!UICONTROL  取「協助工具 ]**」]** 。
 1. 在右側窗格中選 **[!UICONTROL 取「自動標籤檔]** 」。
@@ -78,11 +76,13 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 +++
 
+<br> 
+
 ## 準備使用網頁版
 
 為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。
 
-+++瞭解如何
+++請依照下列方法，準備 PDF 的網頁版：
 
 若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>儲存為其他>大小縮減的 PDF」]** 。
 
@@ -98,21 +98,23 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 +++
 
+<br> 
+
 ## 建立關鍵字檔案名
 
-+++瞭解如何
+++建立關鍵字檔案名，如下所示：
 
 當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔案名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
 
 +++
 
+<br> 
+
 ## 保護您的 PDF
 
 最後一個步驟是保護您的 PDF，以防止未經授權的變更。
 
-+++瞭解如何
-
-按照下列方法保護 PDF：
+++保護 PDF，如下所示：
 
 1. 開啟 **[!UICONTROL 「檔內容」]** （ *Windows 上的 Ctrl+D* 或 *Mac 上的 Cmd+D* ），然後選取「安全性 **[!UICONTROL 」]** 索引標籤。
 1. 檢查 **[!UICONTROL 檔的列印編輯和列印。 您需要密碼才能變更這些設定。]**
