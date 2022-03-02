@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ ht-degree: 4%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="優化掃描的檔" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>優化掃描的檔</strong></a>
+    </div>
+    <em>瞭解如何增強掃描的檔，以提供更好的 PDF 檢視和搜尋體驗</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="自訂指令和工具" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ ht-degree: 4%
     <em>學習建立專業PDF forms的進階技巧</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ ht-degree: 4%
     <em>優化 PDF 以提升可探索性和搜尋引擎在網頁上的排名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="使用表單欄位" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ ht-degree: 4%
     </div>
     <em>透過新增圖形增強功能和自動編號來轉換 PDF</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="偵測兩個 PDF 之間的差異" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ ht-degree: 4%
     </div>
     <em>快速準確地偵測兩個 PDF 檔案之間的差異</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ ht-degree: 4%
     <em>從 PDF 中永久移除私人或敏感性資訊</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="縮減檔案大小和優化" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ ht-degree: 4%
     <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="動作精靈" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 4%
     <em>檢查您的 PDF 是否可供身障人士普遍存取</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="準備具備協助工具的 PDF 檔案" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ ht-degree: 4%
     <em>在這場六部分的隨選網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案</em>
     <br>
   </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>

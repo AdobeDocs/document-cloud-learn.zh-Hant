@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ ht-degree: 0%
 
 ## 建立獨一無二的內容
 
-建立與網頁資訊不同的 PDF 內容。 PDF 內容應為唯一且結構化，如下所示：
+建立與網頁資訊不同的 PDF 內容。
+
++++瞭解如何
+
+PDF 內容應為唯一且結構化，如下所示：
 
 * 使用以關鍵字開頭的單一主要標題/標題
 * 使用分層式結構中組織的關鍵字子標題
@@ -32,11 +36,17 @@ ht-degree: 0%
 
    ![Acrobat Reader行動應用程式中 Liquid Mode 的螢幕擷圖](../assets/optimizeseo1.png)
 
++++
+
 ## 新增文件屬性
 
-PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 檔內容]** ，如下所示：
+PDF 檔案的標題和元描述就像網頁一樣。
 
-1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl+D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
++++瞭解如何
+
+新增主要 **[!UICONTROL 檔內容]** ，如下所示：
+
+1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快速鍵 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引標籤。
 1. 在「標題： ]**」欄位中**[!UICONTROL  輸入關鍵字優化標題。
 1. 請確定「 **[!UICONTROL 作者：」字]** 段無法識別組織中的特定個人。
 1. 在「主旨： ]**」欄位中**[!UICONTROL  輸入檔的關鍵字優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
@@ -44,13 +54,19 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 
    ![文件屬性的螢幕擷圖](../assets/optimizeseo2.png)
 
++++
+
 ## 標記您的 PDF
 
 >[!NOTE]
 >
 >僅適用于 Acrobat Pro。
 
-標記 PDF 中的內容不僅使您的檔案 [ 可供殘障人士存取 ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) ，還可以改善SEO。 標記 PDF，如下所示：
+標記 PDF 中的內容不僅使您的檔案 [ 可供殘障人士存取 ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) ，還可以改善SEO。
+
++++瞭解如何
+
+標記 PDF，如下所示：
 
 1. 在「工具」中心選 **[!UICONTROL **[!UICONTROL  取「協助工具 ]**」]** 。
 1. 在右側窗格中選 **[!UICONTROL 取「自動標籤檔]** 」。
@@ -60,9 +76,15 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 
    ![在 PDF 中設定替代文字的螢幕擷圖](../assets/optimizeseo3.png)
 
++++
+
 ## 準備使用網頁版
 
-為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。 若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>儲存為其他>縮減的 PDF]** 大小」。
+為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。
+
++++瞭解如何
+
+若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>儲存為其他>大小縮減的 PDF」]** 。
 
 ![文件屬性的螢幕擷圖](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 >
 >如果您已Acrobat Pro，請在「動作精靈」工具中執行「優化網頁版和行動版」。 此動作會將顏色轉換為 sRGB，並嵌入字體，以便在瀏覽器和行動裝置上一致地顯示 PDF。
 
++++
+
 ## 建立關鍵字檔案名
+
++++瞭解如何
 
 當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔案名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
 
++++
+
 ## 保護您的 PDF
 
-最後一個步驟是保護您的 PDF，以防止未經授權的變更。 按照下列方法保護 PDF：
+最後一個步驟是保護您的 PDF，以防止未經授權的變更。
+
++++瞭解如何
+
+按照下列方法保護 PDF：
 
 1. 開啟 **[!UICONTROL 「檔內容」]** （ *Windows 上的 Ctrl+D* 或 *Mac 上的 Cmd+D* ），然後選取「安全性 **[!UICONTROL 」]** 索引標籤。
 1. 檢查 **[!UICONTROL 檔的列印編輯和列印。 您需要密碼才能變更這些設定。]**
@@ -90,5 +122,7 @@ PDF 檔案的標題和元描述就像網頁一樣。 新增主要 **[!UICONTROL 
 1. 選取 **[!UICONTROL 「確定」]** 並儲存檔案。
 
    ![文件屬性的螢幕擷圖](../assets/optimizeseo6.png)
+
++++
 
 現在您的 PDF 已經可供在網路上發佈，具有最佳的關鍵字排名潛力和使用者互動。
