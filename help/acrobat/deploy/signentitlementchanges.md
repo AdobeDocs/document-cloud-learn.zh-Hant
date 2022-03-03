@@ -52,7 +52,7 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 
 ## 存取現有合約
 
-使用者仍可透過Adobe Document Cloud登入其Adobe ID，以存取此動作之前傳送的任何合約 HTTPs://documentcloud.adobe.com。 如果預定將此使用者移轉至 Sign Enterprise，他們將需要依照下列 [ 指示操作 ](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html) 。
+使用者仍可透過Adobe Document Cloud登入其Adobe ID，以存取此動作之前傳送的任何合約 https://documentcloud.adobe.com。 如果預定將此使用者移轉至 Sign Enterprise，他們將需要依照下列 [ 指示操作 ](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html) 。
 
 ## 無權利Acrobat DC 體驗 [!DNL Sign Individual]
 
@@ -62,7 +62,7 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 
 ## Adobe Document Cloud無 Sign 個人授權的網頁體驗
 
-使用者將能夠登入 HTTPs://documentcloud.adobe.com/ 存取和下載在取消布建Adobe Sign個人權益之前送出的任何合約。
+使用者將能夠登入 https://documentcloud.adobe.com/ 存取和下載在取消布建Adobe Sign個人權益之前送出的任何合約。
 
 ![適用于網頁體驗Document Cloud錯誤訊息](../assets/Deploy_SignEntitle3.png)
 
