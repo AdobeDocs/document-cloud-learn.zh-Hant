@@ -247,7 +247,7 @@ ht-degree: 0%
 
 ### 從範本建立流程
 
-1. 登入 HTTPs://flow.microsoft.com。
+1. 登入 https://flow.microsoft.com。
 1. 按一下 **** 側邊欄中的「範本」。
 
    ![選取範本的螢幕擷圖](assets/documentautomation/automation_26.png)
@@ -257,7 +257,7 @@ ht-degree: 0%
 
    ![選取 + 元件的螢幕擷圖](assets/documentautomation/automation_27.png)
 
-1. 在新索引標籤中流覽至 HTTPs://www.adobe.com/go/powerautomate_getstarted。
+1. 在新索引標籤中流覽至 https://www.adobe.com/go/powerautomate_getstarted。
 1. 按一下 **** 「開始使用」。
 
    ![開始使用按鈕的螢幕擷圖](assets/documentautomation/automation_28.png)
@@ -334,7 +334,7 @@ ht-degree: 0%
 
 ### 將流程匯入 Microsoft Power Automate
 
-1. 登入 Microsoft Power Automate （HTTPs://flow.microsoft.com）。
+1. 登入 Microsoft Power Automate （https://flow.microsoft.com）。
 1. 按一下 **「我的流程** 」。
 
    ![選取「我的流程」的位置螢幕擷圖](assets/documentautomation/automation_39.png)
