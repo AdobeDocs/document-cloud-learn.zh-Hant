@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="新增書簽和超連結" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>新增書簽和超連結</strong></a>
+    </div>
+    <em>瞭解如何增強掃描的檔，以提供更好的 PDF 檢視和搜尋體驗</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="優化掃描的檔" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ ht-degree: 3%
     <em>使用自訂指令和工具，提升檔工作流程的生產力</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="進階表單欄位" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ ht-degree: 3%
     <em>學習建立專業PDF forms的進階技巧</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 3%
     <em>新增各種類型的表格欄位、設定表格欄位內容，並增加安全性以建立高品質的專業表單</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="增強 PDF" src="../assets/Enhance_1280.png" />
@@ -84,10 +96,8 @@ ht-degree: 3%
     </div>
     <em>透過新增圖形增強功能和自動編號來轉換 PDF</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
       <img alt="偵測兩個 PDF 之間的差異" src="../assets/Compare_1280.png" />
     </a>
@@ -107,7 +117,9 @@ ht-degree: 3%
     <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="標記密文和淨化" src="../assets/Redact.jpg" />
     </a>
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>從 PDF 中永久移除私人或敏感性資訊</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
       <img alt="縮減檔案大小和優化" src="../assets/Reduce.jpg" />
@@ -139,7 +149,9 @@ ht-degree: 3%
     <em>將表格資料編譯為單一試算表</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="檢查 PDF 協助工具" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ ht-degree: 3%
     <em>檢查您的 PDF 是否可供身障人士普遍存取</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="準備具備協助工具的 PDF 檔案" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ ht-degree: 3%
     <a href="accessibility-series.md"><strong>Acrobat協助工具系列</strong></a>
     </div>
     <em>在這場六部分的隨選網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

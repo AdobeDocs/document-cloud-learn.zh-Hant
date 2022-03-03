@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '398'
 ht-degree: 8%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [新增書簽和超連結](advanced-tasks/bookmarks.md)
    + [優化掃描的檔](advanced-tasks/optimizescan.md)
    + [自訂指令和工具](advanced-tasks/custom.md)
    + [進階表單欄位](advanced-tasks/advancedforms.md)
