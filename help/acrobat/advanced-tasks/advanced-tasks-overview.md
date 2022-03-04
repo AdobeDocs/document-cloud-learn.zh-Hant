@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 3%
     <div>
     <a href="bookmarks.md"><strong>新增書簽和超連結</strong></a>
     </div>
-    <em>瞭解如何增強掃描的檔，以提供更好的 PDF 檢視和搜尋體驗</em>
+    <em>瞭解如何新增書簽和超連結，以更好地導覽和互動</em>
     <br>
   </td>
   <td>
