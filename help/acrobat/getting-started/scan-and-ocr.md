@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 >[!TIP]
 >
->若要 OCR 多個 PDF 檔案，請嘗試使用 [ 「動作精靈 ](../advanced-tasks/action.md) 」。
+>若要 OCR 處理多個 PDF 檔案，請嘗試使用「 [ 動作精靈」 ](../advanced-tasks/action.md) 。
 
-1. **** 從「 [!UICONTROL  工具 ] 」中心或右側窗格選取「掃描與 OCR」。
+1. 從「 **[!UICONTROL 工具 ] 」中心或右側窗格選 [!UICONTROL  取「掃描與 OCR]** 」。
 
    ![掃描步驟 1](../assets/Scan_1.png)
 
@@ -31,24 +31,20 @@ ht-degree: 1%
 
    ![掃描步驟 2](../assets/Scan_2.png)
 
-1. 選擇 **[!UICONTROL 「掃描的檔」]** 或「 **[!UICONTROL 相機影像」]** 來增強檔。
+1. 選擇 **[!UICONTROL 「掃描的檔]** 」或 **[!UICONTROL 「相機影像]** 」來增強檔。
 
-1. 選 **[!UICONTROL 取「增強」]** 以清理影像。
+1. 選取 **[!UICONTROL 「增強]** 」以清理影像。
 
    ![掃描步驟 3](../assets/Scan_3.png)
 
    Acrobat自動辨識掃描檔中的文字。
 
-1. 選 **[!UICONTROL 取「識別文字]** 」以手動辨識影像檔案中的文字。
+1. 選取 **[!UICONTROL 「識別文字]** 」以手動辨識影像檔案中的文字。
 
    ![掃描步驟 4](../assets/Scan_4.png)
 
 該檔案現在是可搜尋和編輯的 PDF 檔案。
 
-按一下以下載 *掃描和 OCR* 教學課程的 PDF。
-
-[! [下載 Scan 和 OCR 教學課程](../assets/acrobat_PDF_96.png）](../assets/AcrobatDCScan.pdf)
-
 >[!TIP]
 >
->本影片是本課程的一部分 [ ，提供 Acrobat DC 和 Microsoft 365 Experience League免費使用，讓您更聰明 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 地工作！
+>本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！

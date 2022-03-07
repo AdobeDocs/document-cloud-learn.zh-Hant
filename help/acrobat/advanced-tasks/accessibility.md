@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -52,8 +52,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->部分問題無法自動修正，需要手動操作才能修正問題。 在這些情況下，>Acrobat會顯示一個對話方塊，告訴您要修正什麼。
-
-選取 PDF 圖示以下載「 *檢查 PDF 協助工具」教學* 課程。
-
-[![下載協助工具教學課程 ](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf) 。
+>部分問題無法自動修正，需要手動操作才能修正問題。 在這些情況下，>Acrobat會顯示對話方塊，告訴您要修正什麼。

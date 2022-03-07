@@ -6,18 +6,18 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
 
 # 組織頁面
 
-在 **[!UICONTROL Acrobat中使用「組織頁面]** 」，在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面。
+在Acrobat中使用 **[!UICONTROL 「組織頁面]** 」，在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面。
 
-1. **** 從「 [!UICONTROL  工具 ] 」中心或右側窗格選取「組織頁面」。
+1. 從 [!UICONTROL  「工具 ] 」中心或右側窗格選取「 **[!UICONTROL 組織頁面]** 」。
 
    ![組織步驟 1](../assets/Organize_1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 2%
 
    ![組織步驟 2](../assets/Organize_2.png)
 
-1. 選 **[!UICONTROL 取]** 工具列中的「擷取」，從一或多個頁面建立 PDF。
+1. 選 **[!UICONTROL 取工具列中的「擷]** 取」，從一或多個頁面建立 PDF。
 
-1. 選取頁面或頁面，然後選取「 **[!UICONTROL 擷取]** 」。
+1. 選取頁面或頁面，然後選取「 **[!UICONTROL 擷取」]** 。
 
-   您也可以 **[!UICONTROL 插入]** 或 **[!UICONTROL 取代]** 頁面，然後選取「更多」查看其他選項 **** 。
+   您也可以 **[!UICONTROL 插入]** 或 **[!UICONTROL 取代]** 頁面，然後選取 **[!UICONTROL 「更多]** 」查看其他選項。
 
    ![組織步驟 4](../assets/Organize_3.png)
 
@@ -40,7 +40,3 @@ ht-degree: 2%
    分割 PDF 時，您可以因頁數、檔案大小或最上層書簽而分隔。
 
    ![掃描步驟 5](../assets/Organize_4.png)
-
-按一下以下載 *「組織頁面」教學課程的* PDF。
-
-[! [下載組織頁面教學課程](../assets/acrobat_PDF_96.png）](../assets/AcrobatDCOrganize.pdf)
