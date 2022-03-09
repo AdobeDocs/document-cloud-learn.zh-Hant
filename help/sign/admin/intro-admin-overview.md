@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '395'
 ht-degree: 1%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="管理員已啟動並執行" src="../assets/Up-Running.png" />
+      <img alt="已啟動並執行管理員" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>管理員已啟動並執行</strong></a>
+    <a href="up-and-running-admin.md"><strong>已啟動並執行管理員</strong></a>
     </div>
-    <em>管理員可快速上手和快速上手的 7 個關鍵領域概觀Adobe Sign</em>
+    <em>管理員可快速上手的 7 個關鍵領域概觀Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>新增使用者</strong></a>
     </div>
-    <em>個別或大量新增使用者到您的 Adobe Sign 帳戶</em>
+    <em>將使用者個別或大量新增至您的 Adobe Sign 帳戶</em>
     <br>
   </td>
 </tr>
