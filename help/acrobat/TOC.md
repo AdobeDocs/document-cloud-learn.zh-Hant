@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat教學課程
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 8%
@@ -108,7 +108,7 @@ ht-degree: 8%
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
          + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [讓 PDF 投票更易於存取](industry/gov/making-pdf-ballots-accessible.md)
+         + [使 PDF 票數更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
    + [概覽](develop/develop-overview.md)
 + 部署 {#deploy}
