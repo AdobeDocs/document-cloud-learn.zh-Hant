@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
+source-git-commit: 77f676d923ca5b199d9c73299bbd15ae7e1518fe
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,8 @@ ht-degree: 0%
 # 適用于政府機關的Acrobat
 
 探索專為聯邦政府、州政府和地方政府設計的Acrobat教學課程。
+
+## 隨處使用 Acrobat 的 5 個秘訣
 
 <table style="table-layout:fixed">
 <tr>
@@ -81,6 +83,11 @@ ht-degree: 0%
     <br>
   </td>
 </tr>
+</table>
+
+## 辅助工具
+
+<table>
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
