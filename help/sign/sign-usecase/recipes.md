@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 使用案例配方
 
-使用這些政府和商業電子簽名範例，加快您組織的數位工作流程。 按一下以檢視 PDF，其中包含如何設定這些特定電子簽名使用案例的資源和詳細資訊。
+使用這些政府與商業電子簽名範例，加快您組織的數位工作流程。 按一下以檢視 PDF，其中包含如何設定這些特定電子簽名使用案例的資源和詳細資訊。
 
 ## 政府使用案例
 
@@ -36,10 +36,10 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="遠端辦公合約" src="../assets/UC_MegasignR.png" />
+      <img alt="遠端工作協定" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>遠端辦公合約</strong></a>
+    <a href="usecasegovtelework.md"><strong>遠端工作協定</strong></a>
     </div>
     <em>有效率地收集所有員工針對遠端辦公合約、政策更新等的簽名</em>
     <br>
@@ -105,10 +105,10 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="政策合約" src="../assets/UC_Policy.png" />
+      <img alt="政策協定" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>政策合約</strong></a>
+    <a href="usecasecompolicy.md"><strong>政策協定</strong></a>
     </div>
     <em>有效率地收集所有員工針對遠端辦公合約、政策更新等的簽名</em>
     <br>
