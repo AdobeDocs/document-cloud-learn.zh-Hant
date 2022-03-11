@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 ## 3. 標記您的 PDF
 
->[!NOTE]
->
->僅適用于 Acrobat Pro。
-
 標記 PDF 中的內容不僅使您的檔案 [ 可供殘障人士存取 ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) ，還可以改善SEO。
 
 ++檢視如何標記 PDF 的詳細資訊
@@ -81,6 +77,10 @@ PDF 檔案的標題和元描述就像網頁一樣。
    ![在 PDF 中設定替代文字的螢幕擷圖](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>僅適用于 Acrobat Pro。
 
 <br> 
 
