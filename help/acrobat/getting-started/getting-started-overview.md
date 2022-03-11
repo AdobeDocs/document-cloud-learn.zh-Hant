@@ -1,15 +1,15 @@
 ---
 title: 快速入門總覽
-description: 透過這些簡短 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
+description: 透過這些簡要 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 3%
+source-wordcount: '411'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短的逐步教學課程，瞭解如何開始使用 Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## Acrobat教學課程
 
@@ -30,7 +30,7 @@ ht-degree: 3%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作區基本介紹</strong></a>
     </div>
-    <em>瞭解 Adobe Acrobat DC 介面如何讓您輕鬆地跨桌上型電腦、網頁和行動裝置存取檔案和工具</em>
+    <em>瞭解 Adobe Acrobat 工作區如何輕鬆地跨桌上型電腦、網頁和行動裝置存取檔案和工具</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 3%
     <div>
      <a href="productivity.md"><strong>行動生產力</strong></a>
     </div>
-    <em>使用 Acrobat Reader 行動應用程式直接從平板電腦或行動電話中完成更多工作</em>
+    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
     <br>
   </td>
 </tr>
@@ -99,7 +99,7 @@ ht-degree: 3%
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="在 Acrobat DC 中對 PDF 檔案加上注釋" src="../assets/Comment.jpg" />
+      <img alt="在 PDF 上加上注釋" src="../assets/Comment.jpg" />
     </a>
     <div>
     <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上注釋</strong></a>
@@ -109,7 +109,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="在 Acrobat DC 中編輯 PDF" src="../assets/Edit.jpg" />
+      <img alt="編輯 PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
     <a href="edit-pdf.md"><strong>編輯 PDF</strong></a>
@@ -146,7 +146,7 @@ ht-degree: 3%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
 </tr>

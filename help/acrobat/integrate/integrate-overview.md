@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 1%
 
 ![Acrobat整合影像](../assets/Hero-Integrate.png)
 
-將Acrobat與 [!DNL Box] [!DNL Dropbox] [!DNL Google Drive] 、、 [!DNL OneDrive] 和 [!DNL Microsoft] 應用程式整合。
+將Acrobat與 [!DNL Box] 、 [!DNL Dropbox] 、 [!DNL Google Drive] 、 [!DNL OneDrive] 和 [!DNL Microsoft] 應用程式整合。
 
 ## Microsoft
 
-瞭解您團隊中的每個人如何直接在 [ Microsoft 365 中順暢地使用 PDF 檔案 ](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html) 。
+瞭解您團隊中的每個人都可以如何直接在 [ Microsoft 365 ](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html) 中順暢地使用 PDF 檔案。
 
 <table style="table-layout:fixed">
 <tr>
@@ -38,12 +38,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="在網頁版中建立 PDF [!DNL Office]" src="../assets/Officeweb_1280.png" />
+      <img alt="在網頁版中 [!DNL Office] 建立 PDF" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>在網頁版中建立 PDF [!DNL Office]</strong></a>
+    <a href="createofficeweb.md"><strong>在網頁版中 [!DNL Office] 建立 PDF</strong></a>
     </div>
-    <em>瞭解如何在不離開網頁應用程式的情況下建立 PDF [!DNL Microsoft Office] 檔案</em>
+    <em>瞭解如何在不離開網頁 [!DNL Microsoft Office] 應用程式的情況下建立 PDF 檔案</em>
     <br>
   </td>  
   <td>
@@ -93,18 +93,18 @@ ht-degree: 1%
 
 ## Google 雲端硬碟
 
-瞭解如何使用必要的 PDF 和電子簽名工具，在更短的時間內完成更多工作 [!DNL Google Drive] 。
+瞭解如何使用必要的 PDF 和電子簽名工具，在更短的時間內 [!DNL Google Drive] 完成更多工作。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="acrobatandgoogle.md">
-      <img alt="Google 雲端硬碟Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
+      <img alt="Google 雲端硬碟的Adobe Acrobat" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
     </div>
-    <em>直接在應用程式記憶體取省時的 PDF 工具和電子簽名工作流程 [!DNL Google Drive]</em>
+    <em>直接在應用程式內 [!DNL Google Drive] 存取省時的 PDF 工具和電子簽名工作流程</em>
     <br>
   </td>
   <td>
@@ -122,8 +122,8 @@ ht-degree: 1%
 
 ## Box
 
-瞭解 Acrobat DC 和 [ Box ](https://www.adobe.com/documentcloud/integrations/box.html) {target=&quot;_blank&quot;} 如何讓組織中的每個人更輕鬆地持續推動業務發展。
+瞭解 Acrobat 和 [ Box ](https://www.adobe.com/documentcloud/integrations/box.html) {target=&quot;_blank&quot;} 如何讓組織中的每個人更輕鬆地持續推動業務發展。
 
 ## Dropbox
 
-瞭解存取和使用儲存在 [ Dropbox {target=&quot;_blank}中的 PDF 有多麼簡單 ](https://www.adobe.com/documentcloud/integrations/dropbox.html) 。
+瞭解存取和使用儲存在 [ Dropbox{target=&quot;_blank ](https://www.adobe.com/documentcloud/integrations/dropbox.html) }中的 PDF 有多麼簡單。

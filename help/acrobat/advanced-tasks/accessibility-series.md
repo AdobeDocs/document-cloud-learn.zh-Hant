@@ -7,9 +7,9 @@ level: Experienced
 thumbnail: KT-8364.jpg
 kt: 8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDF 協助工具簡介</strong></a>
     </div>
-    <em>在本次隨選會議中，瞭解讓 PDF 具備協助工具的意義、如何設定Acrobat Pro DC處理 PDF 協助工具，以及將來源文件轉換為 PDF 的程式</em>
+    <em>在此隨選會議中，瞭解讓 PDF 具備協助工具的意義、如何設定Acrobat Pro以處理 PDF 協助工具，以及將來源文件轉換為 PDF 的程式</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession2.md"><strong>補救無法存取的 PDF</strong></a>
     </div>
-    <em>在此隨選講座中，瞭解如何使用介紹網路研討會所顯示的Acrobat Pro DC工具，來轉換 Word 檔並修正一些基本標記問題的工作流程</em>
+    <em>在本次隨選講座中，瞭解如何使用簡介網路研討會所顯示的Acrobat Pro工具來轉換 Word 檔並修正一些基本標記問題</em>
     <br>
   </td>  
   <td>
