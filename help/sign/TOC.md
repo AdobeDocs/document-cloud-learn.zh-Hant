@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign教學課程
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -59,7 +59,7 @@ ht-degree: 6%
       + [建立報告](admin/create-a-report.md)
       + [設定網頁表單](sign-advanced-users/webform.md)
       + [大量收集簽名](sign-advanced-users/megasign.md)
-      + [設定工作流程](admin/building-a-custom-workflow.md)
+      + [建立自訂工作流程](admin/building-a-custom-workflow.md)
    + 進階工作 {#advanced-tasks-admins}
       + [全域設定](admin/learn-about-global-settings.md)
       + [共用帳戶存取權](admin/share-account-access.md)
