@@ -1,5 +1,5 @@
 ---
-title: 行動概觀
+title: Acrobat行動概觀
 description: 在行動裝置上建立、填寫和簽署 PDF
 role: User
 product: adobe acrobat
@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
     <div>
      <a href="../getting-started/productivity.md"><strong>行動生產力</strong></a>
     </div>
-    <em>使用 Acrobat Reader 行動應用程式直接從平板電腦或行動電話中完成更多工作</em>
+    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
     <br>
   </td>
   <td>
@@ -50,12 +50,12 @@ ht-degree: 0%
 
 下載 [ Adobe Acrobat Reader 行動應用程式 ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target=&quot;_blank&quot;} 免費的全球標準，可靠地檢視、批註和簽署 PDF。
 
-[iOS 行動Acrobat Reader指南 ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target=&quot;_blank&quot;}
+[iOS 行動指南 ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target=&quot;_blank&quot;} 的Acrobat Reader
 [Android 版 Acrobat Reader行動指南 ](https://www.adobe.com/devnet-docs/acrobat/android/en/) {target=&quot;_blank&quot;}
 
 下載 [ Adobe Scan 行動應用程式 ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target=&quot;_blank&quot;} 以擷取任何紙本檔，並將其轉換為高品質的 PDF，內含可搜尋的文字。
 
-[iOS 版Adobe Scan行動指南 ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target=&quot;_blank&quot;}
+[iOS 行動指南 ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target=&quot;_blank&quot;} 的Adobe Scan
 [Android 版 Adobe Scan行動指南 ](https://www.adobe.com/devnet-docs/adobescan/android/en/) {target=&quot;_blank&quot;}
 
 下載 [ Adobe Fill &amp; Sign行動應用程式 ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target=&quot;_blank&quot;} 即可隨時隨地在任何裝置上使用手指或觸控筆填寫、簽署和傳送任何表格。

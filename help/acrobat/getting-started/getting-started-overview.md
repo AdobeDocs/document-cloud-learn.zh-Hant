@@ -1,14 +1,14 @@
 ---
-title: 快速入門總覽
+title: Acrobat快速入門總覽
 description: 透過這些簡要 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '411'
 ht-degree: 4%
 
 ---

@@ -1,14 +1,14 @@
 ---
-title: 快速入門總覽
+title: Acrobat Sign 快速入門總覽
 description: 透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Sign 快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔。 快速導覽Adobe Sign，然後開始向一或多個人員傳送檔。 本內容旨在協助您輕鬆進入電子簽名工作流程。
+透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔。 快速導覽Adobe Sign，然後跳入傳送檔給一或多個人員。 本內容旨在協助您輕鬆進入電子簽名工作流程。
 
 ## 正在傳送
 
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="新傳送者的Adobe Sign快速入門" src="../assets/gettingstartednew.png" />
+      <img alt="開始為新寄件者Adobe Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新傳送者的Adobe Sign快速入門</strong></a>
+    <a href="new-sender.md"><strong>開始為新寄件者Adobe Sign</strong></a>
     </div>
-    <em>這個一應俱全的教學課程是新寄件者入門Adobe Sign絕佳入門Adobe Sign</em>
+    <em>這個一應俱全的教學課程是Adobe Sign新寄件者絕佳入門Adobe Sign</em>
     <br>
   </td>
   <td>
