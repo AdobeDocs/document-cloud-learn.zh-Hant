@@ -1,5 +1,5 @@
 ---
-title: 合約和征約表單
+title: 商業合約和徵收表單
 description: 使用合規的數位工作流程（包含稽核報告）快速取代紙本處理
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# 合約和征約表單
+# 商業合約和征約表單
 
 使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解「Adobe Sign工作流程Designer工具，協助簡化整個流程。
 
