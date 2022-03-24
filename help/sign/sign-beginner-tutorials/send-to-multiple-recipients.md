@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 4%
 
 ---
 
 # 傳送給多位收件者
 
-您有多個必須與檔互動的人員嗎？ 在此教學課程影片中，瞭解如何依所要的順序，將檔傳送給多個人員以索取電子簽名。
+您有多個必須與檔互動的人員嗎？ 瞭解如何按照您想要的順序，傳送檔以索取電子簽名給一個以上人員。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
 

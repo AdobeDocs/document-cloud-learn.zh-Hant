@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # 傳送給單一收件者
 
-Adobe Sign最常見的工作流程是傳送檔以供簽署。 在這個教學課程影片中，瞭解如何上傳檔、新增表格欄位，以及傳送給其他人以索取簽名。
+Adobe Sign最常見的工作流程是傳送檔以供簽署。 瞭解如何上傳檔、新增表格欄位，以及傳送給其他人以索取簽名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
