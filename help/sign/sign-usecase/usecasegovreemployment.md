@@ -3,11 +3,11 @@ title: 重新部署協助
 description: 協助民眾獲得所需的協助，而無需配合可在數天內上線的全面數位化應用程式表單
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 重新部署協助
 
-不需配合數位化的應用程式表單，即可獲得民眾所需的協助。 瞭解如何建立線上網頁表單，不必 **** 列印或郵寄任何內容即可完成及簽署。
+不需配合數位化的應用程式表單，即可獲得民眾所需的協助。 瞭解如何建立線上網頁表單，不必列印或郵寄任何內容即可完成 **及** 簽署。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
 

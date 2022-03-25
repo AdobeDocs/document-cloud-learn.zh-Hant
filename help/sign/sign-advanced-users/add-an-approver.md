@@ -3,11 +3,11 @@ title: 新增核准者
 description: 瞭解如何在合約核准程式中新增核准者角色
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片為「使用者進階工作」課程的一部分，于 [ ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) Experience League 時免費提供！
+>本影片為「使用者進階工作」 ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 課程 [ 的一部分，于 Experience League 時免費提供！
 
 

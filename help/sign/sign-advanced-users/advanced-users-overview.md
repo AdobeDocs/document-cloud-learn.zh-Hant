@@ -3,11 +3,11 @@ title: 簽署進階工作總覽
 description: 瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定簽名檔、管理簽名交易，以及建立及管理檔範本
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%

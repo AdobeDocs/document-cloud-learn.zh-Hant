@@ -1,9 +1,9 @@
 ---
 title: Lab 概觀和簡介
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
-solution: Document Cloud
+solution: Acrobat, Acrobat Sign
 exl-id: 254bfc9f-fb19-4e4e-a91f-b08a1b3da87f
-source-git-commit: 99ed9ab8bc276df2011e8a693c043a9d3e1fba17
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

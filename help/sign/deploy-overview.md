@@ -3,11 +3,11 @@ title: 部署總覽
 description: 部署Adobe Sign的最佳實務文章和寶貴的見解
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%
@@ -59,9 +59,9 @@ ht-degree: 16%
       <img alt="Adobe Sign基本功能研究指南" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign基本要素研究指南</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign基本功能研究指南</strong></a>
     </div>
-    <em>Adobe Sign基本要素評估 （AD3-D104） Adobe Sign 研究指南</em>
+    <em>Adobe Sign基本Adobe Sign評估 （AD3-D104） 研究指南</em>
     <br>
   </td>
   <td>

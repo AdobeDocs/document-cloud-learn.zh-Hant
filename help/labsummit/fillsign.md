@@ -1,9 +1,9 @@
 ---
 title: 在桌上型電腦或行動裝置上填寫和簽署任何表格
 description: 從桌上型電腦、瀏覽器或行動應用程式快速填寫、簽署和傳送表格
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 在本練習中，您將使用行動裝置匯入、填寫、簽署和傳送寄件人。
 
-以下是 [ ](assets/03_FillSignScan.zip) 本練習的示範檔案。
+[以下是本練習的示範檔案 ](assets/03_FillSignScan.zip) 。
 
-**步驟 1：** [!DNL Adobe Fill & Sign] 從 [!DNL Apple App] 商店下載應用程式，或 [!DNL Google Play] 下載 。
+**步驟 1：** 從商店下載 [!DNL Adobe Fill & Sign] 應用程式，或 [!DNL Google Play] [!DNL Apple App] 下載 。
 
-**步驟 2：** 開啟應用程式，點 **[!UICONTROL 選「選取要填寫的表格]** 」。
+**步驟 2：** 開啟應用程式，點選 **[!UICONTROL 「選取要填寫的表格」]** 。
 
 ![Uploaddoc 影像](assets/mobilescan.jpg)
 
@@ -28,20 +28,20 @@ ht-degree: 0%
 
 ![步驟 2F 影像](assets/Step2F.jpg)
 
-**步驟 4：** 使用白色按鈕拍照，然後點一下「 **[!UICONTROL 使用相片]** 」。 點 **[!UICONTROL 一下]** 右上角的「完成」。
+**步驟 4：** 使用白色按鈕拍照，然後點一下「 **[!UICONTROL 使用相片」]** 。 點 **[!UICONTROL 一下右上角的「完成]** 」。
 
-**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線裁切影像。 **** 完成時點選「完成」。
+**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線裁切影像。 完成時點 **[!UICONTROL 選「完成]** 」。
 
 ![本機檔影像](assets/localdoc.jpg)
 
-**步驟 6：** 必要時使用「魔術棒」工具清除影像。 **** 完成時點選「完成」。
+**步驟 6：** 必要時使用「魔術棒」工具清除影像。 完成時點 **[!UICONTROL 選「完成]** 」。
 
-**步驟 7：** 點選頁面上任一處以建立欄位並將必要資訊新增至檔。 選取橢圓形以檢視更多選項。
+**步驟 7：** 點選頁面上的任意位置以建立欄位並將必要資訊新增至檔。 選取橢圓形以檢視更多選項。
 
 ![填滿影像](assets/fill.jpg)
 
 
-**步驟 8：** 點 **[!UICONTROL 選]** 應用程式底部的「簽名」按鈕以新增簽名。
+**步驟 8：** 點 **[!UICONTROL 選應用程式底部的「簽名]** 」按鈕以新增簽名。
 
 ![建立簽名影像](assets/createsign.jpg)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![簽名影像](assets/sign.jpg)
 
-**步驟 10：** 點 **[!UICONTROL 選]** 應用程式底部的「描述檔」按鈕，以取得預先填入的值，例如您的姓名和日期。 您只需要填寫一次此資訊，然後就可以在使用 Fill &amp; Sign 應用程式完成的所有未來表格上使用。
+**步驟 10：** 點 **[!UICONTROL 選應用程式底部的「描述檔]** 」按鈕，以取得預先填入的值，例如您的姓名和日期。 您只需要填寫一次此資訊，然後就可以在使用 Fill &amp; Sign 應用程式完成的所有未來表格上使用。
 
 ![已填寫](assets/filled.jpg)
 

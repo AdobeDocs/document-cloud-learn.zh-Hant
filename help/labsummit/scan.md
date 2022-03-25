@@ -1,16 +1,16 @@
 ---
-title: 使用 Adobe Scan 邁向數位化
+title: 運用 Adobe Scan 數位化
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# 使用 Adobe Scan 邁向數位化
+# 運用 Adobe Scan 數位化
 
 減少雜亂、整理或分享！ 無需將成堆的紙張放在桌面上，或是塞進錢包裡的東西。 Adobe Scan行動應用程式會將紙本檔直接掃描成 PDF，並自動辨識文字。
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 ![b 卡片影像](assets/scanbcard.png)
 
 
-**步驟 4：** 掃描完成後，請進行調整，以確保您的顯示配接器位於邊界方框內。
+**步驟 4：** 掃描完成後，請進行調整，以確保您的顯示配接器在邊界方框內。
 
-**步驟 5：** 點選 **** 右上角的「儲存 PDF」。 然後，點選「 **[!UICONTROL 儲存連絡人]** 」。
+**步驟 5：** 點 **[!UICONTROL 選右上角的「儲存 PDF]** 」。 然後，點選「 **[!UICONTROL 儲存連絡人」]** 。
 
 
 ![儲存 b 卡片 Mage](assets/savecontact.jpg)
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 掃描並儲存收據
 
-Adobe Scan應用程式也可以用來掃描和儲存您稍後需要的收據 （例如費用報告或其他補償）。
+Adobe Scan應用程式也可以用來掃描及儲存您稍後需要的收據 （例如費用報告或其他補償）。
 
 **步驟 1：** 在開啟 Adobe Scan 應用程式時，為您要儲存的收據拍照。
 
@@ -53,7 +53,7 @@ Adobe Scan應用程式也可以用來掃描和儲存您稍後需要的收據 （
 
 ![b 卡片影像](assets/receiptoutput.jpg)
 
-**步驟 3：** 點選 **[!UICONTROL 右]** 上角的「儲存 PDF」，將收據儲存在手機中。
+**步驟 3：** 點 **[!UICONTROL 選右上角的「儲存 PDF]** 」，將收據儲存在手機中。
 
 
 ## 回顧：
