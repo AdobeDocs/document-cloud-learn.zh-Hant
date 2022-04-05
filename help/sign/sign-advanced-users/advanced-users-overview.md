@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![簽署進階影像](../assets/Hero-Advanced.png)
 
-瞭解如何一次傳送檔給 100 位收件者以索取簽名、為網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多Adobe Sign工作方式。
+瞭解如何一次傳送檔給 100 位收件者以索取簽名、為網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合任何已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
 
 ## 正在傳送
 
@@ -78,12 +78,12 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign文字標記" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign文字標記</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
     </div>
-    <em>使用Adobe Acrobat標記文字來建立Adobe Sign表單欄位</em>
+    <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
     <br>
   </td> 
 </table>

@@ -3,11 +3,10 @@ title: 建立自訂工作流程
 description: 瞭解如何量身打造和自動化檔工作流程，以快速取得電子簽名及收集表格資料
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -27,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片為「管理員快速入門Adobe Sign ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 課程的一部分 [ ，Experience League免費提供！
+>本影片為「Acrobat管理員 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 快速入門」課程 [ 的一部分，Experience League時可免費取得！

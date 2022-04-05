@@ -1,23 +1,23 @@
 ---
 title: 教學課程
-description: 一系列教學課程、網路研討會和使用案例，其設計目的是讓初學者和管理員都能快速上手Adobe Sign
+description: 一系列教學課程、網路研討會和使用案例，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Adobe Sign 教學課程
+# Acrobat Sign 教學課程
 
-![Adobe Sign英雄影像](assets/Hero_Sign.jpg)
+![Acrobat Sign 主圖影像](assets/Hero_Sign.jpg)
 
-Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗證、其他管理功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計是讓初學者和管理員都能快速上手Adobe Sign。
+Acrobat Sign 是Adobe Document Cloud解決方案，可透過整合、API、進階驗證、其他管理功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手。
 
 ## 學習路徑
 
@@ -62,7 +62,7 @@ Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗�
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>數位 ID</strong></a>
     </div>
-    <em>瞭解如何使用世界各地數位 ID 與 Adobe Sign</em>
+    <em>瞭解如何使用世界各地使用數位 ID 與 Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗�
     <div>
     <a href="integrations/integrations-overview.md"><strong>整合</strong></a>
     </div>
-    <em>直接在貴組織已在使用的其他應用程式中新增Adobe Sign</em>
+    <em>新增Acrobat直接在貴組織已在使用的其他應用程式中簽署</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗�
     <div>
     <a href="develop/develop-overview.md"><strong>發展</strong></a>
     </div>
-    <em>取得 I/O Adobe Sign開發資源</em>
+    <em>取得 Acrobat Sign I/O 上的開發資源</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Sign是Adobe Document Cloud解決方案，透過整合、API、進階驗�
     <div>
     <a href="deploy-overview.md"><strong>部署</strong></a>
     </div>
-    <em>在組織內部署Adobe Sign的見解和最佳實務</em>
+    <em>在組織中部署 Acrobat Sign 的見解和最佳實務</em>
     <br>
   </td>
   <td>

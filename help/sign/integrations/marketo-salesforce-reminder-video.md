@@ -1,6 +1,6 @@
 ---
-title: Send reminders using Adobe Sign for Salesforce and Marketo video tutorial
-description: In this video tutorial, you'll learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time
+title: 使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒
+description: 在這個教學課程影片中，您將瞭解如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
@@ -8,30 +8,30 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Send reminders using Adobe Sign for Salesforce and Marketo video tutorial
+# 使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒
 
-Learn how to send an email reminder from Marketo for unsigned agreements. This integration uses Adobe Sign, Adobe Sign for Salesforce, Marketo, and the Marketo Salesforce Sync.
+瞭解如何從 Marketo 傳送電子郵件提醒以取得未簽署的合約。 此整合使用 Acrobat Sign、Acrobat Sign for Salesforce、Marketo 和 Marketo Salesforce 同步功能。
 
 ## 必要條件
 
-1. Install the Marketo Salesforce Sync.
+1. 安裝 Marketo Salesforce 同步。
 
-   [](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [ 。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Install Adobe Sign for Salesforce.
+1. 安裝 Acrobat Sign for Salesforce。
 
-   [](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   有關此增效模組的資訊請參閱 [ 這裡。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
 
 >[!TIP]
 >
->[](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)
+>本影片 [ 提供Acrobat Sign for Salesforce 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Experience League免費使用，可協助您加快銷售週期！
 

@@ -1,5 +1,5 @@
 ---
-title: 在 Adobe Sign for Salesforce 中建立自訂按鈕
+title: 在 Acrobat Sign for Salesforce 中建立自訂按鈕
 description: 瞭解如何建立啟動傳送程式和自動填入合約的自訂按鈕
 role: Admin
 product: adobe sign
@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 16%
 
 ---
 
-# 在 Adobe Sign for Salesforce 中建立自訂按鈕
+# 在 Acrobat Sign for Salesforce 中建立自訂按鈕
 
 了解如何在 Salesforce.com 的標準物件中建立自訂按鈕。此範例中，自訂按鈕會新增至 Salesforce 的「 **連絡人** 」。 按下按鈕後，就會啟動傳送程式，並將「連絡人 **」中的資訊** 直接填入合約中。
 

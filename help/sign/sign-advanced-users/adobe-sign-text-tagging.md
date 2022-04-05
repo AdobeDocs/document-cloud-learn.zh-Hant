@@ -1,26 +1,26 @@
 ---
-title: Adobe Sign文字標記
-description: 瞭解如何使用 Adobe Acrobat 標記文字來建立Adobe Sign表單欄位
+title: Acrobat簽署文字標記
+description: 瞭解如何使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe Sign文字標記
+# Acrobat簽署文字標記
 
-在此網路研討會錄製的網路研討會中 （無需註冊），瞭解如何使用Adobe Acrobat建立具有文字標記Adobe Sign表單欄位。 文字標記可大幅減少建立和修改含有許多表格欄位的檔所需的時間。 檔傳送者不需要在每一份檔上放置個別欄位， 其他優點包括表單欄位驗證 （精確且不收集錯誤的資料） 和專業的表單設計一致性。 歡迎在網路研討會期間透過 Q&amp;A pod 向我們發送您的問題。 按一下下方的影像，開始觀看錄影。
+在此網路研討會錄影中 （無需註冊），瞭解如何使用Adobe Acrobat標記文字，建立Acrobat簽署表單欄位。 文字標記可大幅減少建立和修改含有許多表格欄位的檔所需的時間。 檔傳送者不需要在每一份檔上放置個別欄位， 其他優點包括表單欄位驗證 （精確且不收集錯誤的資料） 和專業的表單設計一致性。 歡迎在網路研討會期間透過 Q&amp;A pod 向我們發送您的問題。 按一下下方的影像，開始觀看錄影。
 
 [![觀看會議](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[觀看Adobe Sign網路研討會錄製的文字標記」](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[觀看Acrobat簽署文字標記錄製的網路研討會](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >

@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 29%
@@ -24,10 +24,10 @@ ht-degree: 29%
 <tr>
   <td>
     <a href="liquidmode.md">
-      <img alt="Adobe Sign中的 Liquid Mode" src="assets/liquidmode.png" />
+      <img alt="Acrobat Sign 中的 Liquid Mode" src="assets/liquidmode.png" />
     </a>
     <div>
-    <a href="liquidmode.md"><strong>Adobe Sign中的 Liquid Mode</strong></a>
+    <a href="liquidmode.md"><strong>Acrobat Sign 中的 Liquid Mode</strong></a>
     </div>
     <em>瞭解 Liquid Mode 如何改善行動簽署體驗</em>
     <br>
@@ -37,7 +37,7 @@ ht-degree: 29%
       <img alt="iOS 版下載" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下載 Adobe Sign iOS 版行動應用程式</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下載 Acrobat iOS 版 Sign 行動應用程式</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ ht-degree: 29%
       <img alt="Android 版下載" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下載 Adobe Sign 適用于 Android 的行動應用程式</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下載 Acrobat Sign Android 版行動應用程式</strong></a>
     <br>
   </td>
 </tr>

@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 產業和部門概觀
 
-![Adobe Sign產業影像](../assets/Hero-Industry.png)
+![Acrobat Sign 產業影像](../assets/Hero-Industry.png)
 
 瞭解如何透過探索這些真實的產業和部門使用案例、配方和網路研討會來變革組織的電子簽名體驗。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
     <div>
     <a href="use-case-showcase.md"><strong>使用案例展示</strong></a>
     </div>
-    <em>觀看直播或錄製的會議，向您介紹新的Adobe Sign使用案例和趨勢</em>
+    <em>觀看直播或錄製的會議，向您介紹新的 Acrobat Sign 使用案例和趨勢</em>
     <br>
   </td>
 </tr>

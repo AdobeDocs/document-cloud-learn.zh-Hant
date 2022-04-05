@@ -1,5 +1,5 @@
 ---
-title: 新寄件者Adobe Sign快速入門
+title: 新傳送者Acrobat Sign 快速入門
 description: 這個一應俱全的教學課程是Adobe Sign新寄件者絕佳入門Adobe Sign
 role: User
 product: adobe sign
@@ -8,15 +8,15 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# 開始為新寄件者Adobe Sign
+# 新傳送者可開始使用 Acrobat Sign
 
-如果您第一次使用Adobe Sign，這個教學課程是一個不錯的開始。 此全方位教學課程著重于所有基礎知識，讓您快速上手Adobe Sign。
+如果您第一次使用 Acrobat Sign，這個教學課程是一個不錯的開始。 此全方位教學課程著重于所有基本概念，可讓您使用 Acrobat Sign 快速上手。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)

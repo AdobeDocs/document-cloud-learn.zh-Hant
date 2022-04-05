@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 管理員影像](../assets/Hero-Admin.png)
 
-瞭解如何將使用者新增至您的帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用的事件和警告。 這些教學課程是專為已進入安裝階段且已準備好開始管理Adobe Sign的管理員所設計。 「進階工作」涵蓋從管理員設定部分展開並開始定義全域設定、帳戶存取和共用以及文字標記的主題。
+瞭解如何將使用者新增至您的帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用的事件和警告。 這些教學課程是專為已進入安裝階段且已準備好開始管理 Acrobat Sign 的管理員所設計。 「進階工作」涵蓋從管理員設定部分展開並開始定義全域設定、帳戶存取和共用以及文字標記的主題。
 
 ## 快速入門
 
@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>已啟動並執行管理員</strong></a>
     </div>
-    <em>管理員可快速上手的 7 個關鍵領域概觀Adobe Sign</em>
+    <em>管理員在 Acrobat Sign 中快速上手和執行的 7 個關鍵領域概覽</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>新增使用者</strong></a>
     </div>
-    <em>將使用者個別或大量新增至您的 Adobe Sign 帳戶</em>
+    <em>個別或大量新增使用者到您的 Acrobat Sign 帳戶</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>建立報告</strong></a>
     </div>
-    <em>建立和排程報告，讓組織對Adobe Sign</em>
+    <em>建立報告並安排報告，讓組織對 Acrobat Sign 的使用具有普遍性</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ ht-degree: 1%
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign文字標記" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign文字標記</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
     <div>
-    <em>使用Adobe Acrobat標記文字來建立Adobe Sign表單欄位</em>
+    <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
     <br>
   </td>
   <td>

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 商業合約和征約表單
 
-使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解「Adobe Sign工作流程Designer工具，協助簡化整個流程。
+使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解 Acrobat Sign 工作流程Designer工具，協助簡化整個流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 

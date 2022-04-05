@@ -1,13 +1,13 @@
 ---
 title: 開發總覽
-description: 瞭解如何使用 Adobe Sign API 為您的團隊、合作夥伴和客戶建立自訂應用程式
+description: 瞭解如何使用 Acrobat Sign API 為您的團隊、合作夥伴和客戶建立自訂應用程式
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 ![Sign 編輯相片影像](../assets/Hero-Develop.png)
 
-Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、合作夥伴和客戶建立自訂應用程式。
+Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、合作夥伴和客戶建立自訂應用程式。
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,7 +39,7 @@ Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>瞭解您可以做些什麼</strong></a>
     </div>
-    <em>瞭解如何將 Adobe Sign 的功能整合到任何外部應用程式中</em>
+    <em>瞭解如何將 Acrobat Sign 的功能整合到任何外部應用程式中</em>
     <br>
   </td>  
   <td>
@@ -61,7 +61,7 @@ Adobe Sign中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、
     <div>
     <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和檔體驗</strong></a>
     </div>
-    <em>瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
+    <em>瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
     <br>
   </td>
   <td>

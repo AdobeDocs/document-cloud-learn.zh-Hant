@@ -1,13 +1,13 @@
 ---
 title: 建立嵌入式電子簽名和檔體驗
-description: 瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容和檔管理系統
+description: 瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: f015bd7ea1a25772a12cd0852d452d120f205a5c
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 建立嵌入式電子簽名和檔體驗
 
-瞭解如何使用 Adobe Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺、內容和檔管理系統中。 這個實作教學課程有四個部分，概述下列連結：
+瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統中。 這個實作教學課程有四個部分，概述下列連結：
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,7 +59,7 @@ ht-degree: 3%
 
 第 1 部分中，您將瞭解如何開始使用第 2 至第 4 部分所需的一切。 讓我們先取得API認證。
 
-* [Adobe Sign 開發人員帳戶](https://acrobat.adobe.com/tw/zh-Hant/acrobat/contact.html)
+* [Acrobat Sign 開發人員帳戶](https://acrobat.adobe.com/tw/zh-Hant/acrobat/contact.html)
 * [入門代碼](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS Code （或您選擇的編輯器）](https://code.visualstudio.com)
 * Python 3.x
@@ -72,10 +72,10 @@ ht-degree: 3%
 
 第 2 部分中，您會在使用網頁表單時探索低/無程式碼選項。 最好一開始看看是否可以避免寫下程式碼。
 
-1. 使用開發人員帳戶存取Adobe Sign。
-1. 按一下 **** 首頁上的「發佈網頁表單」。
+1. 使用開發人員帳戶存取 Acrobat Sign。
+1. 按一下 **首頁上的「發佈網頁表單** 」。
 
-   ![首頁Adobe Sign螢幕擷圖](assets/embeddedesignature/embed_1.png)
+   ![Sign 首頁Acrobat螢幕擷圖](assets/embeddedesignature/embed_1.png)
 
 1. 建立您的合約。
 
@@ -90,23 +90,23 @@ ht-degree: 3%
 
 第 3 部分中，您將動態建立合約。
 
-首先，您需要建立存取權。 使用Adobe Sign，您可以透過兩種方式透過API進行連線。 OAuth 權杖與整合金鑰。 除非您有在應用程式中使用 OAuth 的明確原因，否則您會先探索整合金鑰。
+首先，您需要建立存取權。 使用 Acrobat Sign，您可以透過兩種方式透過API進行連線。 OAuth 權杖與整合金鑰。 除非您有在應用程式中使用 OAuth 的明確原因，否則您會先探索整合金鑰。
 
-1. 在 **「帳戶」索引標籤** **下方的「API資訊」** 選單中，選取 **** 「整合金鑰」Adobe Sign。
+1. 在「帳戶」索引標籤下方的 **「API資訊** 」選單 **** 中，選 **取「Acrobat Sign」中的「整合金鑰** 」。
 
    ![哪裡可以找到整合金鑰的螢幕擷圖](assets/embeddedesignature/embed_4.png)
 
 既然您已經擁有存取權限並且可以與API互動，請看看您可以使用API做些什麼。
 
-1. 導覽至 [ Adobe Sign REST API 6 版方法 ](http://adobesign.com/public/docs/restapi/v6) 。
+1. 流覽至「 [ Acrobat 6 版方法 ](http://adobesign.com/public/docs/restapi/v6) API Sign REST。
 
-   ![導覽 Adobe Sign REST API版本 6 方法的螢幕擷圖](assets/embeddedesignature/embed_5.png)
+   ![導覽 Acrobat Sign REST API 6 版方法的螢幕擷圖](assets/embeddedesignature/embed_5.png)
 
 1. 將字元當做「持有人」值使用。
 
    ![持有人值的螢幕擷圖](assets/embeddedesignature/embed_6.png)
 
-若要傳送第一份合約，最能瞭解如何使用API。
+若要傳送第一份合約，最好瞭解如何使用API。
 
 1. 建立暫時性檔並傳送。
 
@@ -130,8 +130,8 @@ ht-degree: 3%
 
 ![基本 URI 邏輯的螢幕擷圖](assets/embeddedesignature/embed_10.png)
 
-瞭解暫時性檔在 Sign 生態系統的宏大配置中所處的位置。暫時性 ->合約
-暫時性 -> 範本 -> 合約
+瞭解暫時性檔在 Sign 生態系統的宏大配置中所處的位置。暫時性 -> 合約
+暫時性 -> 範本 ->合約
 暫時性 -> Widget ->合約
 
 本範例使用範本作為檔來源。 這通常是最佳途徑，除非您有充分的理由動態產生檔以供簽署 （例如舊有程式碼或檔產生）。
@@ -144,15 +144,15 @@ ht-degree: 3%
 
 在許多情況下，您可能會希望允許觸發參與者立即簽署合約。 這對於面向客戶的應用程式和販賣亭很實用。
 
-如果您不希望第一個觸發傳送電子郵件，管理行為的方法很簡單，就是修改API呼叫。
+如果您不希望第一個傳送電子郵件觸發，管理行為的簡單方法是修改API呼叫。
 
-![無法觸發傳送電子郵件的程式碼螢幕擷圖](assets/embeddedesignature/embed_12.png)
+![不觸發傳送電子郵件的程式碼螢幕擷圖](assets/embeddedesignature/embed_12.png)
 
 以下說明如何控制簽署後重新導向：
 
 ![可控制簽署後重新導向的程式碼螢幕擷圖](assets/embeddedesignature/embed_13.png)
 
-更新合約建立程式後，最後一個步驟是產生簽署URL。 此呼叫也相當簡單，並產生簽署者可能用來存取其部分簽署程式的URL。
+更新合約建立程式後，最後一個步驟是產生簽署URL。 此呼叫也相當簡單，並產生簽署者可用來存取其部分簽署程式的URL。
 
 ![產生簽署者URL程式碼的螢幕擷圖](assets/embeddedesignature/embed_14.png)
 
@@ -162,14 +162,14 @@ ht-degree: 3%
 
 ![螢幕截圖顯示建立重試迴圈是最佳做法](assets/embeddedesignature/embed_15.png)
 
-一切整合在一起，解決方案就相當簡單。 您正在建立合約，然後產生簽署URL，讓簽署者點選並開始簽署簽名。
+一切整合在一起，解決方案就相當簡單。 您正在製作合約，然後產生簽署URL讓簽署者點選並開始簽署指派。
 
 ### 其他主題
 
 * [JS 事件](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 活動
    * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhook/createWebhook)
-   * [Adobe Sign v6 中的 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+   * [Acrobat Sign v6 中的 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [重新開機請求電子郵件 （含事件）](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [以「重試」取代逾時](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 
@@ -186,8 +186,8 @@ ht-degree: 3%
 http://bit.ly/Summit21-T126
 
 包括：
-* Adobe Sign 開發人員帳戶
-* Adobe Sign API檔
+* Acrobat Sign 開發人員帳戶
+* Acrobat簽署檔API
 * 範例程式碼
 * Visual Studio 程式碼
 * Python

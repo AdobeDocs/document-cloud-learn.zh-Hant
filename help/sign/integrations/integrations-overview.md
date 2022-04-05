@@ -1,13 +1,13 @@
 ---
 title: Sign 整合概觀
-description: 瞭解如何將Adobe Sign新增至現有的系統、程式和應用程式
+description: 瞭解如何在現有的系統、程式和應用程式中新增Acrobat Sign
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign 整合影像](../assets/Hero-Integrate.png)
 
-您可以在貴組織已經在使用的其他應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Adobe Sign 來命名一些名稱。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
+您可以在貴組織已在其他已使用的應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Acrobat Sign 來命名一些名稱。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
 
 >[!NOTE]
 > 如果您在存取任何功能時發生問題，請向貴組織的管理員確認整合已啟用。
@@ -81,12 +81,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="利用適用于 Microsoft Power Platform 的 Adobe Sign 自動化檔" src="../assets/SF-Button.png" />
+      <img alt="使用適用于 Microsoft Power Platform 的 Acrobat Sign 進行檔自動化" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>利用適用于 Microsoft Power Platform 的 Adobe Sign 自動化檔</strong></a>
+    <a href="documentautomation.md"><strong>使用適用于 Microsoft Power Platform 的 Acrobat Sign 進行檔自動化</strong></a>
     </div>
-    <em>瞭解如何啟用和使用 Microsoft Power Apps 的 Adobe Sign 和 Adobe PDF Tools 連接器</em>
+    <em>瞭解如何啟用和使用適用于 Microsoft Power Apps 的 Acrobat Sign 和 Adobe PDF Tools 連接器</em>
     <br>
   </td>
 </tr>
@@ -98,10 +98,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="在 Adobe Sign for Salesforce 中建立檔範本" src="../assets/SF-Template.png" />
+      <img alt="在 Acrobat Sign for Salesforce 中建立檔範本" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>在 Adobe Sign for Salesforce 中建立檔範本</strong></a>
+    <a href="create-an-agreement-template.md"><strong>在 Acrobat Sign for Salesforce 中建立檔範本</strong></a>
     </div>
     <em>建立可重複使用的檔範本以提供速度和一致性</em>
     <br>
@@ -157,12 +157,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="使用 Workday 設定Adobe Sign" src="../assets/WD-Configure.png" />
+      <img alt="使用 Workday 設定 Acrobat Sign" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>使用 Workday 設定Adobe Sign</strong></a>
+    <a href="workday.md"><strong>使用 Workday 設定 Acrobat Sign</strong></a>
     </div>
-    <em>瞭解如何設定Adobe Sign以直接在 Workday 中工作，以順暢管理所有人力資源文書工作</em>
+    <em>瞭解如何將 Acrobat Sign 設定為直接在 Workday 中運作，以順暢管理所有人力資源文書工作</em>
     <br>
   </td>
   <td>
@@ -184,30 +184,30 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="使用適用于 Salesforce 和 Marketo 的 Adobe Sign 傳送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>使用適用于 Salesforce 和 Marketo 的 Adobe Sign 傳送通知</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
     </div>
     <em>瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒</strong></a>
     </div>
     <em>瞭解如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="使用 Adobe Sign 針對 Salesforce 和 Marketo 設定指南傳送提醒" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用 Adobe Sign 針對 Salesforce 和 Marketo 設定指南傳送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒</strong></a>
     </div>
     <em>閱讀如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
@@ -216,20 +216,20 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的Adobe Sign傳送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的Adobe Sign傳送提醒</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒</strong></a>
     </div>
     <em>瞭解如何在合約一段時間後仍未簽署時傳送電子郵件提醒</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="使用 Adobe Sign 針對 Microsoft Dynamics 和 Marketo 傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>使用 Adobe Sign 針對 Microsoft Dynamics 和 Marketo 傳送通知</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
     </div>
     <em>瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出</em>
     <br>
