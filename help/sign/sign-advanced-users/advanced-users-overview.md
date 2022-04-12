@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="設定路由順序" src="../assets/Routing.png">
+      <img alt="設定簽署順序" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>設定路由順序</strong></a>
+    <a href="setting-up-routing.md"><strong>設定簽署順序</strong></a>
     </div>
-    <em>為多位簽署者設定路由順序</em>
+    <em>為多位簽署者設定簽署順序</em>
     <br>
   </td>
   <td>

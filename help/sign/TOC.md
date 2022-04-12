@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -39,7 +39,7 @@ ht-degree: 6%
 + 進階工作 {#advanced-tasks}
    + [概覽](sign-advanced-users/advanced-users-overview.md)
    + 正在傳送 {#advanced-tasks-sending}
-      + [設定路由順序](sign-advanced-users/setting-up-routing.md)
+      + [設定簽署順序](sign-advanced-users/setting-up-routing.md)
       + [委派給其他人](sign-advanced-users/delegate-signature.md)
       + [新增核准者](sign-advanced-users/add-an-approver.md)
       + [大量收集簽名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
