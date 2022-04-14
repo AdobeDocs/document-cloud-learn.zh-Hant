@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # 傳送後修改檔
 
-瞭解如何修改已傳送以供簽署的檔，例如不出錯送出檔時。
+瞭解如何修改已傳送以供簽署的檔，例如不出錯送出檔時。 修改合約只能用於符合下列條件的檔：
+
+* 檔尚未簽署、核准或委派
+* 檔不包含數位簽章或書面簽名
+* 檔並非從自訂工作流程起始
+
 
 >[!NOTE]
 >
