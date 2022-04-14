@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [傳送給單一收件者](sign-beginner-tutorials/send-to-single-recipient.md)
       + [傳送給多位收件者](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [新傳送者可開始使用 Acrobat Sign](sign-beginner-tutorials/new-sender.md)
+      + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + 管理 {#getting-started-managing}
       + [管理與追蹤您的合約](sign-beginner-tutorials/manage-and-track.md)
       + [建立檔範本](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [修改已傳送以供簽署的檔](sign-beginner-tutorials/modify-in-flight.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](sign-advanced-users/advanced-users-overview.md)
    + 正在傳送 {#advanced-tasks-sending}

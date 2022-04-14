@@ -1,24 +1,28 @@
 ---
-title: 修改已傳送以供簽署的檔
+title: 傳送後修改檔
 description: 瞭解如何修改進行中檔的工作流程
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
-thumbnail: 17343.jpg
+thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 修改已傳送以供簽署的檔
+# 傳送後修改檔
 
-瞭解如何修改已傳出進行簽名的檔，例如檔誤傳時。
+瞭解如何修改已傳送以供簽署的檔，例如不出錯送出檔時。
 
->[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
+>[!NOTE]
+>
+>傳送後修改檔僅適用于企業層級計畫。 您的 Acrobat Sign 管理員可能需要在帳戶設定的「傳送設定」區段中啟用「修改合約」設定，才能使用此功能。
+
+>[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
 >[!TIP]
 >

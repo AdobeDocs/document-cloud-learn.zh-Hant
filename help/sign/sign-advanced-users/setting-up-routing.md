@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->混合路由僅適用于企業級計畫。 您可能需要連絡Acrobat Sign 管理員，才能啟用本教學課程所涵蓋的特定設定。
+>混合路由僅適用于企業級計畫。 您的 Acrobat Sign 管理員可能需要在帳戶設定的「傳送設定」區段中啟用這些功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)

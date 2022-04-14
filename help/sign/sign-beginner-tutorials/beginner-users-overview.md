@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -65,10 +65,15 @@ ht-degree: 0%
     <em>這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方</em>
     <br>
   </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="傳送後修改檔" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>傳送後修改檔</strong></a>
+    </div>
     <br>
+    <em>修改進行中的檔</em>
   </td>
   <td>
     <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -167,14 +172,9 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="修改已傳送以供簽署的檔" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>修改已傳送以供簽署的檔</strong></a>
-    </div>
     <br>
-    <em>修改進行中檔的工作流程</em>
   </td>
 </tr>
 </table>
