@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -75,10 +75,15 @@ ht-degree: 0%
     <br>
     <em>修改進行中的檔</em>
   </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="取代簽署者" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>取代簽署者</strong></a>
+    </div>
     <br>
+    <em>瞭解如何變更進行中檔的簽署者</em>
   </td>
 </tr>
 </table>
