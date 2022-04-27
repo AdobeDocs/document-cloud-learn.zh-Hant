@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="快速流覽 Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="工作區基本介紹" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>快速流覽 Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>工作區基本介紹</strong></a>
     </div>
-    <em>快速導覽 Acrobat Sign 介面，以開始使用</em>
+    <em>快速流覽 Acrobat Sign 工作區，以開始使用</em>
     <br>
   </td>
   <td>
