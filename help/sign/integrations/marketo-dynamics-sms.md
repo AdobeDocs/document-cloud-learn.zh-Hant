@@ -2,22 +2,22 @@
 title: 使用適用于 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送通知
 description: 瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出
 role: Admin
-product: adobe sign
+product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
+source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# 使用 Adobe Sign 針對 Microsoft Dynamics 365 和 Marketo 傳送通知
+# 使用適用于 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送通知
 
-瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約正在使用 Adobe Sign、Adobe Sign for Microsoft Dynamic、Marketo 和 Marketo Microsoft Dynamics Sync。 若要從 Marketo 傳送通知，您必須先購買或設定 Marketo SMS 管理功能。 此逐步解說使用 [ Twilio SMS ](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/) ，但可以使用其他 Marketo SMS 解決方案。
+瞭解如何使用 Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo 和 Marketo Microsoft Dynamics Sync，傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出。 若要從 Marketo 傳送通知，您必須先購買或設定 Marketo SMS 管理功能。 此逐步解說使用 [ Twilio SMS ](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/) ，但可以使用其他 Marketo SMS 解決方案。
 
 ## 必要條件
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [ 這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 安裝適用于 Microsoft Dynamics 的 Adobe Sign。
+1. 安裝 Acrobat Sign for Microsoft Dynamics。
 
    有關此增效模組的資訊請參閱 [ 這裡。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 尋找自訂物件
 
-Marketo Microsoft Dynamics Sync 和 Adobe Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
+Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
 
 ![管理員](assets/adminTerminal.png)
 
@@ -152,4 +152,4 @@ Marketo Microsoft Dynamics Sync 和 Adobe Sign for Dynamics 設定完成後，Ma
 1. 現在已為新增至合約的潛在客戶設定 SMS 通知行銷活動。
 >[!TIP]
 >
->本教學課程 [ 包含在 Experience League 免費提供 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) Adobe Sign，可加速銷售週期！
+>本教學課程 [ 包含Acrobat適用于 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign 可在 Experience League 上免費取得，以加速銷售週期！
