@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -197,7 +197,7 @@ ht-degree: 0%
       <img alt="使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒</strong></a>
     </div>
     <em>瞭解如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
