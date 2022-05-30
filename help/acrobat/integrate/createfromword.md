@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 從中建立 PDF 檔案 [!DNL Microsoft Word]
 
-瞭解如何使用 Acrobat 附加元件，建立具有超連結目錄和交互參照、書簽，甚至附件的豐富、健全的 PDF 檔案 [!DNL Microsoft Word] 。
+瞭解如何使用 Acrobat 附加元件來建立具有超連結目錄和交互參照、書簽，甚至附件的豐富、健全的 [!DNL Microsoft Word] PDF 檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
 >[!TIP]
 >
->本課程中包含 Acrobat [ DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在 Experience League 上免費使用，讓您更聰明地工作！
+>本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！

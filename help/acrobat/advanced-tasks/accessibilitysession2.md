@@ -22,4 +22,4 @@ ht-degree: 0%
 
 選取影像以在另一個瀏覽器索引標籤中檢視影片。
 
-[![會話 2 Video ](../assets/Accessibilitysession2_YT.png) ](https://youtu.be/eT2IFNszNuk) {target=&quot;_blank&quot;}
+[![會話 2 Video ](../assets/Accessibilitysession2_YT.png) ](https://youtu.be/eT2IFNszNuk) {target=「_blank」}

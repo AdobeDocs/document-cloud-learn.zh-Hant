@@ -1,6 +1,6 @@
 ---
-title: 隨處使用 Acrobat 的 5 個秘訣--保護數位檔
-description: 瞭解如何在 PDF 中新增密碼以防止複製、編輯或列印
+title: 5 Tips for Working Anywhere with Acrobat--Protect Digital Documents
+description: Learn how to add a password to your PDF to prevent copying, editing, or printing
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# 隨處使用 Acrobat 的 5 個秘訣--保護數位檔
+# 5 Tips for working anywhere with Acrobat--Protect digital documents
 
-為 PDF 新增密碼，以防止複製、編輯或列印。
+Add a password to your PDF to prevent copying, editing, or printing.
 
-## 秘訣 #3 - 保護數位檔 （1：23）
+## Tip #3 - Protect digital documents (1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510?hidetitle=true)
 
-[前往秘訣 #4 - 處理表單和簽名](work-with-forms-and-signatures.md)
+[Go to Tip #4 - Work with forms and signatures](work-with-forms-and-signatures.md)

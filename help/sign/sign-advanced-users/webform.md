@@ -1,6 +1,6 @@
 ---
-title: 設定網頁表單
-description: 瞭解如何建立可直接在您的網站上以電子方式簽署的檔
+title: Set up a Web Form
+description: Learn how to create a document that can be signed electronically directly on your website
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ---
 
-# 設定網頁表單
+# Set up a Web Form
 
-瞭解如何建立可直接在您的網站上以電子方式簽署的檔。 您可以建立表單 ](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*) 的 [ 託管超連結，或使用連結以 html 或JavaScript嵌入您的網站。
+Learn how to create a document that can be signed electronically directly on your website. [](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*)
 
-查看以下其他真實使用案例：
+Check out these additional real-world use cases:
 
-* [企業助學金和貸款 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 使用案例。
-* [重新部署協助 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 使用案例。
+* [](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
 
 >[!TIP]
 >
->此影片是「適用于使用者 ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 的 [ 進階工作」和 [ 「開始使用Acrobat適用于管理員的 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Sign」課程的一部分，這些課程可在 Experience League 上免費取得！
+>[](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)[](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)

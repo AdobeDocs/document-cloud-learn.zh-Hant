@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 60 秒Acrobat總覽
 
-![60 秒Acrobat圖](../assets/Hero-60sec.png)
+![60 秒Acrobat影像](../assets/Hero-60sec.png)
 
-60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內Acrobat學到新技巧。 這些任務型秘訣可讓您解鎖部分Acrobat隱藏的工具，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
+60 秒Acrobat提供小插大小教學課程，協助您在一或短的時間內Acrobat學習新技巧。 這些以任務為基礎的秘訣可説明您解鎖Acrobat的一些隱藏的工具，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
 
 ## 60 秒Acrobat教學課程
 
@@ -127,7 +127,7 @@ ht-degree: 0%
     <div>
     <a href="photo.md"><strong>立即建立相片的 PDF</strong></a>
     </div>
-    <em>瞭解如何只將一堆 JPG 拖放到Acrobat圖示上，以建立 PDF</em>
+    <em>瞭解如何僅將一堆 JPG 拖放到Acrobat圖示上，以建立 PDF</em>
     <br>
   </td>
   <td>
@@ -147,7 +147,7 @@ ht-degree: 0%
     <div>
     <a href="sign.md"><strong>電子簽署紙本檔</strong></a>
     </div>
-    <em>瞭解如何使用Adobe Scan來簽署列印表格</em>
+    <em>瞭解如何使用Adobe Scan簽署列印表格</em>
     <br>
   </td>  
 </tr>
@@ -159,7 +159,7 @@ ht-degree: 0%
     <div>
     <a href="indesign.md"><strong>將 PDF 注釋載入InDesign</strong></a>
     </div>
-    <em>瞭解如何在共用審核Acrobat後將 PDF 注釋加回InDesign</em>
+    <em>瞭解如何在共用審核Acrobat後，將 PDF 注釋加回InDesign</em>
     <br>
   </td>
    <td>

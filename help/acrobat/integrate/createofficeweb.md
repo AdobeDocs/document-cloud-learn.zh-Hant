@@ -1,6 +1,6 @@
 ---
-title: 在網頁版中建立  [!DNL Office]  PDF
-description: 瞭解如何在不離開網頁應用程式的情況下建立 PDF  [!DNL Microsoft Office]  檔案
+title: 在網頁版中  [!DNL Office]  建立 PDF
+description: 瞭解如何在不離開網頁  [!DNL Microsoft Office]  應用程式的情況下建立 PDF 檔案
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# 在網頁版中建立 PDF [!DNL Office]
+# 在網頁版中 [!DNL Office] 建立 PDF
 
-瞭解如何在不離開網頁應用程式的情況下建立 PDF [!DNL Microsoft Office] 檔案。 此附加元件需要訂閱團隊Acrobat或企業Acrobat訂閱。
+瞭解如何在不離開網頁 [!DNL Microsoft Office] 應用程式的情況下建立 PDF 檔案。 此附加元件需要訂閱團隊Acrobat或企業Acrobat訂閱。
 
 >[!NOTE]
 >
->Adobe Acrobat [!DNL Microsoft 365] 包含可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。 其他功能 （例如建立和合併 PDF） 需要團隊付費Acrobat，或是企業訂閱Acrobat。
+>Adobe Acrobat包含 [!DNL Microsoft 365] 可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。 其他功能 （例如建立和合併 PDF） 需要團隊付費Acrobat，或是企業訂閱Acrobat。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
 
 >[!TIP]
 >
->本影片是本課程的一部分，提供 [ Acrobat DC 和 Microsoft 365 Experience League ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免費優惠，讓您更聰明地工作！
+>本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！

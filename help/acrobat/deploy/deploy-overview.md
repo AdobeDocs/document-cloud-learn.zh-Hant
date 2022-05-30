@@ -19,8 +19,8 @@ ht-degree: 0%
 
 部署和最佳實務文章，以及與我們的客戶合作所得到的珍貴見解和知識。
 
-* 瞭解如果您是針對 [ 團隊或企業使用Adobe ](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html) Creative Cloud，請瞭解如何部署 Adobe Acrobat®{target=&quot;_blank™}。
+* 瞭解如果您是針對 [ 團隊或企業使用Adobe ](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html) Creative Cloud，請瞭解如何部署 Adobe Acrobat®{target=「_blank™}。
 
-* 瞭解適用于 [ Acrobat Products ](https://www.adobe.com/devnet-docs/acrobatetk/index.html) {target=&quot;_blank&quot;} 的企業工具組，以在整個組織中部署自訂產品、設定虛擬化安裝，以及建立企業 PDF 工作流程。
+* 瞭解適用于 [ Acrobat Products ](https://www.adobe.com/devnet-docs/acrobatetk/index.html) {target=「_blank」} 的企業工具組，以在整個組織中部署自訂產品、設定虛擬化安裝，以及建立企業 PDF 工作流程。
 
-* 瞭解自 2020 年 8 月 8 月到 2020 年 11 月 20 日為止，ETLA ](signentitlementchanges.md) {target=&quot;_blank&quot;} （企業授權合約） 方案中對 Acrobat DC 權益的重大變更 [ 。
+* 瞭解自 2020 年 8 月 8 月到 2020 年 11 月 20 日為止，ETLA ](signentitlementchanges.md) {target=「_blank」} （企業授權合約） 方案中對 Acrobat DC 權益的重大變更 [ 。
