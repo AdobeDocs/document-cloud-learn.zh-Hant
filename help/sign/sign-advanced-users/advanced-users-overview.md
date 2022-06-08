@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
       <img alt="委派給其他人" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>委派給其他人</strong></a>
+    <a href="delegate-signature.md"><strong>使用委派者角色</strong></a>
     </div>
     <em>使用委派者角色傳送檔給仲介人，該仲介接著就可以傳送檔以索取簽名</em>
     <br>

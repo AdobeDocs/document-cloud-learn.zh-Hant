@@ -1,5 +1,5 @@
 ---
-title: 委派給其他人
+title: 使用委派者角色
 description: 使用委派者角色傳送檔給仲介人，該仲介接著就可以傳送檔以索取簽名
 role: User
 product: adobe sign
@@ -7,18 +7,22 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# 委派給其他人
+# 使用委派者角色
 
 瞭解如何使用委派者角色將檔傳送給仲介人，交由仲介人傳送檔以索取簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>委派者角色僅適用于企業層級計畫。 您的Acrobat Sign 管理員可能需要啟用 **「允許傳送者」，才能在帳戶設定的「傳送設定」區段** **中** 將部分收件者標記為委派者 **** 設定，才能使用此功能。
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >
