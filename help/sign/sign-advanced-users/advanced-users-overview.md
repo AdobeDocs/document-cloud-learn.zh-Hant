@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="大量收集簽名" src="../assets/Megasign.png" />
+      <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>大量收集簽名</strong></a>
+    <a href="megasign.md"><strong>「傳送」並大量收集簽名</strong></a>
     </div>
     <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
     <br>
