@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
       + [取得親筆簽名](sign-beginner-tutorials/sign-in-person.md)
+      + [委派簽署給其他人](sign-beginner-tutorials/delegate-signing.md)
       + [什麼是數位簽章？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [使用印章簽署](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}

@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -125,6 +125,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="委派簽署給其他人" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>委派簽署給其他人</strong></a>
+    </div>
+    <em>瞭解如何將檔簽署作業委派給其他人</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="什麼是數位簽章" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ ht-degree: 1%
     <em>使用印章標示已核准或完成的檔</em>
      <br>
   </td> 
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
