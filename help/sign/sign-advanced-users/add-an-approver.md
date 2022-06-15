@@ -1,5 +1,5 @@
 ---
-title: 新增核准者
+title: 使用核准者角色
 description: 瞭解如何在合約核准程式中新增核准者角色
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# 新增核准者
+# 使用核准者角色
 
-瞭解如何透過核准程式傳送檔。 在這個範例中，您會看到如何透過人力資源、員工和雇用經理傳送雇用合約。
+瞭解如何透過核准程式傳送檔。 在這個範例中，瞭解如何透過人力資源、潛在員工和雇用經理傳送雇用合約。 如果有人需要在傳送文件給簽署者之前先獲得他人確認，就適合使用核准者角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >

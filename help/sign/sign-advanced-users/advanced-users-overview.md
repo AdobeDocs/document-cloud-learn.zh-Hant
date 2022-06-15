@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -46,10 +46,10 @@ ht-degree: 2%
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="新增核准者" src="../assets/Approver.png" />
+      <img alt="使用核准者角色" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>新增核准者</strong></a>
+    <a href="add-an-approver.md"><strong>使用核准者角色</strong></a>
     </div>
     <em>在合約核准程式中新增核准者角色</em>
     <br>
