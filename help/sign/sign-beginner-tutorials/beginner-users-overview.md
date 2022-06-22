@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
+source-git-commit: 0241cf9189ec43ba3e216423049091226b0172a6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ ht-degree: 1%
     <div>
     <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔</strong></a>
     </div>
-    <em>瞭解使用 Acrobat Sign 簽署傳送給您的檔有多麼簡單</em>
+    <em>瞭解使用 Acrobat Sign 傳送給您的檔簽署有多麼簡單</em>
     <br>
   </td>
   <td>
