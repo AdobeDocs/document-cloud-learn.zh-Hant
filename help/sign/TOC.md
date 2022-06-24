@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 8%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [設定外部封存](admin/set-up-your-external-archive.md)
       + [建立範本](sign-advanced-users/create-a-template.md)
       + [建立報告](admin/create-a-report.md)
-      + [設定網頁表單](sign-advanced-users/webform.md)
+      + [建立網頁表單](sign-advanced-users/webform.md)
       + [「傳送」並大量收集簽名](sign-advanced-users/megasign.md)
       + [建立自訂工作流程](admin/building-a-custom-workflow.md)
    + 進階工作 {#advanced-tasks-admins}

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -100,10 +100,10 @@ ht-degree: 1%
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="設定網頁表單" src="../assets/Webform.png" />
+      <img alt="建立網頁表單" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>設定網頁表單</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>建立網頁表單</strong></a>
     </div>
     <em>建立可直接在您的網站上進行電子簽署的檔</em>
     <br>
