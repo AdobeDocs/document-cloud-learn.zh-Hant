@@ -1,14 +1,14 @@
 ---
-title: Acrobat Sign 快速入門總覽
+title: 快速入門總覽
 description: 透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 0241cf9189ec43ba3e216423049091226b0172a6
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '363'
 ht-degree: 1%
 
 ---

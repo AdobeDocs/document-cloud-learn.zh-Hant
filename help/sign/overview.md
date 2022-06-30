@@ -1,14 +1,14 @@
 ---
-title: 教學課程
+title: Acrobat Sign 教學課程
 description: 一系列教學課程、網路研討會和使用案例，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
