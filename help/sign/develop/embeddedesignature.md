@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # 建立嵌入式電子簽名和檔體驗
 
-瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統中。 這個實作教學課程有四個部分，概述下列連結：
+瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統中。 此實作教學課程有四個部分。
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="您將需要什麼" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>第 1 部分：您需要的</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="第 2 部分：低/無程式碼 — 網頁表單的功能" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>第 2 部分：低/無程式碼 — 網頁表單的功能</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="第 3 部分：以表格傳送合約、合併資料" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>第 3 部分：以表單傳送合約及合併資料</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="第 4 部分：嵌入簽署體驗、重新導向等" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>第 4 部分：嵌入簽署體驗、重新導向等</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## 第 1 部分：您需要的
 
-## 第 1 部分：您需要的 {#part1}
+第 1 部分中，瞭解如何開始使用第 2 至 4 部分所需的一切。 讓我們先取得API認證。
 
-第 1 部分中，您將瞭解如何開始使用第 2 至第 4 部分所需的一切。 讓我們先取得API認證。
++++檢視如何取得API認證的詳細資訊
 
 * [Acrobat Sign 開發人員帳戶](https://acrobat.adobe.com/tw/zh-Hant/acrobat/contact.html)
 * [入門代碼](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ ht-degree: 3%
    * Windows — 凱西擁
    * 全部 — HTTPs://www.python.org/downloads/
 
-## 第 2 部分：低/無程式碼 — 網頁表單的功能 {#part2}
+## 第 2 部分：低/無程式碼 — 網頁表單的功能
 
-第 2 部分中，您會在使用網頁表單時探索低/無程式碼選項。 最好一開始看看是否可以避免寫下程式碼。
+第 2 部分中，探索使用網頁表單的低/無程式碼選項。 最好一開始看看是否可以避免寫下程式碼。
+
++++檢視如何建立網頁表單的詳細資訊
 
 1. 使用開發人員帳戶存取 Acrobat Sign。
-1. 按一下 **首頁上的「發佈網頁表單** 」。
+
+1. 選取 **首頁上的「發佈網頁表單** 」。
 
    ![Sign 首頁Acrobat螢幕擷圖](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ ht-degree: 3%
    ![如何建立網頁表單的螢幕擷圖](assets/embeddedesignature/embed_2.png)
 
 1. 將您的合約嵌入平面 HTML 頁面上。
+
 1. 嘗試動態新增查詢參數。
 
    ![新增查詢參數的螢幕擷圖](assets/embeddedesignature/embed_3.png)
 
-## 第 3 部分：以表單傳送合約及合併資料 {#part3}
+## 第 3 部分：以表單傳送合約及合併資料
 
-第 3 部分中，您將動態建立合約。
+第 3 部分可動態建立合約。
 
-首先，您需要建立存取權。 使用 Acrobat Sign，您可以透過兩種方式透過API進行連線。 OAuth 權杖與整合金鑰。 除非您有在應用程式中使用 OAuth 的明確原因，否則您會先探索整合金鑰。
++++檢視有關如何動態建立合約的詳細資訊
+
+首先，您需要建立存取權。 使用 Acrobat Sign，您可以透過兩種方式透過API進行連線。 OAuth 權杖與整合金鑰。 除非您有在應用程式中使用 OAuth 的明確原因，否則您應該先探索整合金鑰。
 
 1. 在「帳戶」索引標籤下方的 **「API資訊** 」選單 **** 中，選 **取「Acrobat Sign」中的「整合金鑰** 」。
 
@@ -140,9 +111,11 @@ ht-degree: 3%
 
 ![可動態新增簽名的程式碼螢幕擷圖](assets/embeddedesignature/embed_11.png)
 
-## 第 4 部分：嵌入簽署體驗、重新導向等 {#part4}
+## 第 4 部分：嵌入簽署體驗、重新導向等
 
 在許多情況下，您可能會希望允許觸發參與者立即簽署合約。 這對於面向客戶的應用程式和販賣亭很實用。
+
+++檢視如何嵌入簽署體驗的詳細資訊
 
 如果您不希望第一個傳送電子郵件觸發，管理行為的簡單方法是修改API呼叫。
 
@@ -164,11 +137,11 @@ ht-degree: 3%
 
 一切整合在一起，解決方案就相當簡單。 您正在製作合約，然後產生簽署URL讓簽署者點選並開始簽署指派。
 
-### 其他主題
+## 其他主題
 
 * [JS 事件](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook 活動
-   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhook/createWebhook)
+   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
    * [Acrobat Sign v6 中的 Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [重新開機請求電子郵件 （含事件）](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [以「重試」取代逾時](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
@@ -180,14 +153,3 @@ ht-degree: 3%
       ![導覽至 Power Automate 的螢幕擷圖](assets/embeddedesignature/embed_16.png)
 
    * 或在飛行中新增一個 [](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## 其他資源
-
-http://bit.ly/Summit21-T126
-
-包括：
-* Acrobat Sign 開發人員帳戶
-* Acrobat簽署檔API
-* 範例程式碼
-* Visual Studio 程式碼
-* Python
