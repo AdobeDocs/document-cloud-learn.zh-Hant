@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ ht-degree: 2%
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="設定線上付款" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>設定線上付款</strong></a>
+    </div>
+    <em>瞭解如何在檔中設定接受線上付款</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ ht-degree: 2%
     </div>
     <em>建立可直接在您的網站上進行電子簽署的檔</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ ht-degree: 2%
     </div>
     <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## 管理
