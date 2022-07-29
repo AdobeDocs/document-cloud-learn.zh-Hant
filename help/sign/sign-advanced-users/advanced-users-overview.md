@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 4%
     <div>
     <a href="set-up-online-payments.md"><strong>設定線上付款</strong></a>
     </div>
-    <em>瞭解如何在檔中設定接受線上付款</em>
+    <em>瞭解如何在檔中設定和接受線上付款</em>
     <br>
   </td>
   <td>
