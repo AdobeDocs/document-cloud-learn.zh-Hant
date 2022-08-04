@@ -2,10 +2,10 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '401'
+ht-degree: 7%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 8%
 + 快速入門 {#getting-started}
    + [概覽](getting-started/getting-started-overview.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [新的工作區體驗](getting-started/new-workspace.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

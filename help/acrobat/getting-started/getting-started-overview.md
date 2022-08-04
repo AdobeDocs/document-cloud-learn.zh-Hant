@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 4%
+source-wordcount: '431'
+ht-degree: 3%
 
 ---
 
@@ -25,12 +25,22 @@ ht-degree: 4%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="工作區基本介紹" src="../assets/Workspace_1280.png" />
+      <img alt="工作區基本介紹" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作區基本介紹</strong></a>
     </div>
     <em>瞭解 Acrobat 工作區如何輕鬆地跨桌上型電腦、網頁和行動裝置存取檔案和工具</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="新的工作區體驗" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>新的工作區體驗</strong></a>
+    </div>
+    <em>瞭解您可以在 Acrobat 中啟用的新工作區體驗</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ ht-degree: 4%
     <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="行動生產力" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ ht-degree: 4%
     <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 4%
     <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 4%
     <em>將許多不同類型的檔案合併成單一 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ ht-degree: 4%
     <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="編輯 PDF" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 4%
     <em>在 PDF 檔案中編輯文字和影像</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ ht-degree: 4%
     <em>將在其他應用程式中建立的檔轉換為可填寫的 PDF 表格</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="掃描與 OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ ht-degree: 4%
     <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="組織頁面" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ ht-degree: 4%
     <em>為 PDF 新增密碼以保護其他人開啟或編輯檔案</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ ht-degree: 4%
     <em>快速填寫和簽署 PDF 表格</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="取得簽名" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ ht-degree: 4%
     <em>隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ ht-degree: 4%
     <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
     </div>
     <em>瞭解 PDF 來自何處及其用途</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
