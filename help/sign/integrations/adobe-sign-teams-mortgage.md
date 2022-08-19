@@ -1,6 +1,6 @@
 ---
-title: 傳送檔以供登入 [!DNL Microsoft Teams]
-description: 「Acrobat簽署與  [!DNL Microsoft Teams]  整合」功能可讓您傳送合約以索取簽名，或檢查現有合約的狀態，全都可在 [!DNL Microsoft Teams]
+title: 傳送以供簽署 [!DNL Microsoft Teams]
+description: 瞭解如何從內部傳送合約以供簽署、檢查合約狀態，以及傳送提醒 [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,18 +8,18 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 傳送檔以供登入 [!DNL Microsoft Teams]
+# 傳送以供簽署 [!DNL Microsoft Teams]
 
-「Acrobat Sign &amp; [!DNL Microsoft Teams] 整合」可讓您傳送合約以索取簽名，或檢查現有合約的狀態，全都可在檔案內 [!DNL Microsoft Teams] 完成。 這個範例會逐步解說一位貸款經紀人，他直接在 Teams 中送出貸款申請。 這種緊密整合加速了房屋貸款的申請流程—即使與遠端工作環境中的貸款申請者合作也一同工作。
+瞭解如何從 [!DNL Microsoft Teams] 內部傳送合約以索取簽名、檢查合約狀態，以及傳送提醒。此範例會直接在 Teams 中逐步解說一位貸款代理商送出申請貸款以索取簽名。 這種緊密整合加速了房屋貸款的申請流程—即使與遠端工作環境中的貸款申請者合作也一同工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
 >[!TIP]
 >
