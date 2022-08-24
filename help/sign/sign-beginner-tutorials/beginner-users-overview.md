@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,16 @@ ht-degree: 1%
     <a href="quick-tour.md"><strong>工作區基本介紹</strong></a>
     </div>
     <em>快速流覽 Acrobat Sign 工作區，以開始使用</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-sender.md">
+      <img alt="新傳送者可開始使用 Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>新傳送者可開始使用 Acrobat Sign</strong></a>
+    </div>
+    <em>這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方</em>
     <br>
   </td>
   <td>
@@ -56,13 +66,13 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="新傳送者可開始使用 Acrobat Sign" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="將欄位新增至檔" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新傳送者可開始使用 Acrobat Sign</strong></a>
+    <a href="adding-fields.md"><strong>將欄位新增至檔</strong></a>
     </div>
-    <em>這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方</em>
+    <em>瞭解如何在檔中新增不同類型的欄位</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ ht-degree: 1%
     </div>
     <em>瞭解如何變更進行中檔的簽署者</em>
      <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ ht-degree: 1%
     <em>使用 Acrobat Sign 行動應用程式取得其他人的親筆簽名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="委派簽署給其他人" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ ht-degree: 1%
     <em>瞭解如何將檔簽署作業委派給其他人</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="什麼是數位簽章" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ ht-degree: 1%
     <em>使用印章標示已核准或完成的檔</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="使用印章簽署" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>使用印章簽署</strong></a>
+    </div>
+    <em>使用印章標示已核准或完成的檔</em>
+     <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ ht-degree: 1%
     <a href="../sign-advanced-users/create-a-template.md"><strong>建立檔範本</strong></a>
     </div>
     <em>建立可重複使用的檔範本，為您的組織提供速度和一致性</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
