@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 4%
 
 ---
 
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>在合約核准程式中新增核准者角色</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="設定線上付款" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ ht-degree: 0%
     <em>瞭解如何在檔中設定和接受線上付款</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ ht-degree: 0%
     <em>建立可直接在您的網站上進行電子簽署的檔</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ ht-degree: 0%
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
     </div>
     <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ ht-degree: 0%
     <a href="edit-a-template.md"><strong>管理檔範本</strong></a>
     </div>
     <em>編輯或刪除資料庫中的範本</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="修改現有的網頁表單" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>修改現有的網頁表單</strong></a>
+    </div>
+    <em>瞭解如何停用、編輯和重新啟用現有的網頁表單</em>
     <br>
   </td>  
   <td>
