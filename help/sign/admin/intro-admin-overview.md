@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign 管理員影像](../assets/Hero-Admin.png)
 
-瞭解如何將使用者新增至您的帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用的事件和警告。 這些教學課程是專為已進入安裝階段且已準備好開始管理 Acrobat Sign 的管理員所設計。 「進階工作」涵蓋從管理員設定部分展開並開始定義全域設定、帳戶存取和共用以及文字標記的主題。
+瞭解如何將使用者新增至您的帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用的事件和警告。 這些教學課程是專為已進入安裝階段且已準備好開始管理 Acrobat Sign 的管理員所設計。 「進階工作」涵蓋從管理員設定擴展並開始定義全域設定、帳戶存取和共用以及文字標記的主題。
 
 ## 快速入門
 
@@ -54,8 +54,6 @@ ht-degree: 1%
     <em>個別或大量新增使用者到您的 Acrobat Sign 帳戶</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="建立和管理群組" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ ht-degree: 1%
     <em>建立群組、將使用者新增至群組，以及編輯群組設定</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="設定外部封存" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ ht-degree: 1%
     <em>建立可重複使用的檔範本，以加快與一致性</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="建立報告" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>建立報告</strong></a>
     </div>
-    <em>建立報告並安排報告，讓組織對 Acrobat Sign 的使用具有普遍性</em>
+    <em>建立並排程報告，讓您瞭解組織對 Acrobat Sign 的使用方式</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ ht-degree: 1%
     <em>建立可直接在您的網站上進行電子簽署的檔</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="修改現有的網頁表單" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>修改現有的網頁表單</strong></a>
+    </div>
+    <em>瞭解如何停用、編輯和重新啟用現有的網頁表單</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ ht-degree: 1%
     <em>針對任何檔，一次收集數百個簽名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="設定工作流程" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ ht-degree: 1%
     <a href="building-a-custom-workflow.md"><strong>設定工作流程</strong></a>
     </div>
     <em>自動化檔工作流程，快速取得電子簽名和資料</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ ht-degree: 1%
     <em>設定帳戶共用，以允許管理員和使用者委派傳送、修改和檢視許可權</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="使用生技識別設定" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ ht-degree: 1%
     <em>設定可讓您符合 FDA 21 CFR Part 11 需求的生技識別設定</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ ht-degree: 1%
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
     <div>
     <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
