@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 9%
+source-wordcount: '436'
+ht-degree: 8%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 9%
       + [傳送給單一收件者](sign-beginner-tutorials/send-to-single-recipient.md)
       + [傳送給多位收件者](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [將欄位新增至檔](sign-beginner-tutorials/adding-fields.md)
+      + [設定傳送選項](sign-beginner-tutorials/sending-options.md)
       + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
       + [取代簽署者](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}

@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -66,6 +66,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="設定傳送選項" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>設定傳送選項</strong></a>
+    </div>
+    <em>瞭解如何在傳送檔以供簽署時設定各種選項</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="將欄位新增至檔" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ ht-degree: 1%
     <em>瞭解如何在檔中新增不同類型的欄位</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="傳送後修改檔" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ ht-degree: 1%
     <em>修改進行中的檔</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="取代簽署者" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ ht-degree: 1%
     </div>
     <em>瞭解如何變更進行中檔的簽署者</em>
      <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
