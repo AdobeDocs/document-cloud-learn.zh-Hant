@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '305'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ![簽署進階影像](../assets/Hero-Advanced.png)
 
-瞭解如何一次傳送檔給 100 位收件者以索取簽名、為網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合任何已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
+瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合任何已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
 
 ## 正在傳送
 
@@ -129,10 +129,15 @@ ht-degree: 4%
     <br>
   </td>  
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="建立報告" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>建立報告</strong></a>
+    </div>
+    <em>瞭解如何建立您自己的報告，以瞭解檔簽署流程</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
     <div>
