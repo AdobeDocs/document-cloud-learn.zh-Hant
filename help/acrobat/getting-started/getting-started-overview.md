@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
+source-git-commit: d25f441ba55bd24fe854a19eb04a301712723a07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '478'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
-## Acrobat教學課程
+## 快速入門教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ ht-degree: 3%
     <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="productivity.md">
       <img alt="行動生產力" src="../assets/Productivity_1280.png" />
     </a>
@@ -65,80 +63,171 @@ ht-degree: 3%
     <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
     <br>
   </td>
-  <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-    </a>
-    <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
-    </div>
-    <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
-    <br>
-  </td>
-  <td>
-    <a href="collaborate.md">
-      <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
-    </a>
-    <div>
-     <a href="collaborate.md"><strong>即時共同作業</strong></a>
-    </div>
-    <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
-    <br>
-  </td>
 </tr>
 <tr>
-  <td>
-    <a href="combine-to-pdf.md">
-      <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
-    </a>
-    <div>
-     <a href="combine-to-pdf.md"><strong>將檔案合併為 PDF</strong></a>
-    </div>
-    <em>將許多不同類型的檔案合併成單一 PDF</em>
-    <br>
-  </td>
- <td>
-    <a href="create-pdf.md">
-      <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
-    </a>
-    <div>
-    <a href="create-pdf.md"><strong>建立 PDF</strong></a>
-    </div>
-    <em>從所有不同檔案類型建立 PDF</em>
-    <br>
-  </td>
- <td>
-    <a href="comment-on-pdf-files.md">
-      <img alt="在 PDF 上加上注釋" src="../assets/Comment.jpg" />
-    </a>
-    <div>
-    <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上注釋</strong></a>
-    </div>
-    <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
-    <br>
-  </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
+      </div>
+      <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
+      </div>
+      <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
+      </div>
+      <em>瞭解 PDF 來自何處及其用途</em>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## 建立、合併和組織教學課程
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="create-pdf.md">
+        <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
+      </a>
+      <div>
+      <a href="create-pdf.md"><strong>建立 PDF</strong></a>
+      </div>
+      <em>從所有不同檔案類型建立 PDF</em>
+      <br>
+    </td>
+    <td>
+      <a href="combine-to-pdf.md">
+        <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>將檔案合併為 PDF</strong></a>
+      </div>
+      <em>將許多不同類型的檔案合併成單一 PDF</em>
+      <br>
+    </td>
+    <td>
+      <a href="organize.md">
+        <img alt="組織頁面" src="../assets/Organize.jpg" />
+      </a>
+      <div>
+      <a href="organize.md"><strong>組織頁面</strong></a>
+      </div>
+      <em>在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面</em>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## 編輯和匯出教學課程
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="edit-pdf.md">
+        <img alt="編輯 PDF" src="../assets/Edit.jpg" />
+      </a>
+      <div>
+      <a href="edit-pdf.md"><strong>編輯 PDF</strong></a>
+      </div>
+      <em>在 PDF 檔案中編輯文字和影像</em>
+      <br>
+    </td>
+    <td>
+      <a href="auto-adjust-layout.md">
+        <img alt="自動調整版面" src="../assets/Autoadjust.png" />
+      </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>自動調整版面</strong></a>
+      </div>
+      <em>瞭解自動調整內容的新編輯模式</em>
+      <br>
+    </td>
+    <td>
+      <a href="export-pdf.md">
+        <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
+      </a>
+      <div>
+      <a href="export-pdf.md"><strong>將 PDF 轉存為可編輯的格式</strong></a>
+      </div>
+      <em>瞭解如何將 PDF 檔案轉存為可編輯的格式</em>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## 協作教學課程
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="collaborate.md">
+        <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
+      </a>
+      <div>
+      <a href="collaborate.md"><strong>即時共同作業</strong></a>
+      </div>
+      <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
+      <br>
+    </td>
+    <td>
+      <a href="comment-on-pdf-files.md">
+        <img alt="在 PDF 上加上注釋" src="../assets/Comment.jpg" />
+      </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上注釋</strong></a>
+      </div>
+      <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
+</table>
+
+## 其他教學課程
+
+<table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="edit-pdf.md">
-      <img alt="編輯 PDF" src="../assets/Edit.jpg" />
-    </a>
-    <div>
-    <a href="edit-pdf.md"><strong>編輯 PDF</strong></a>
-    </div>
-    <em>在 PDF 檔案中編輯文字和影像</em>
-    <br>
-  </td>
-  <td>
-    <a href="export-pdf.md">
-      <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
-    </a>
-    <div>
-    <a href="export-pdf.md"><strong>將 PDF 轉存為可編輯的格式</strong></a>
-    </div>
-    <em>瞭解如何將 PDF 檔案轉存為可編輯的格式</em>
-    <br>
-  </td>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="建立可填寫的表格" src="../assets/Form_1280.png" />
@@ -149,9 +238,17 @@ ht-degree: 3%
     <em>將在其他應用程式中建立的檔轉換為可填寫的 PDF 表格</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
+    <a href="fill-and-sign.md">
+      <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign_1280.png" />
+    </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>填寫和簽署PDF forms</strong></a>
+    </div>
+    <em>快速填寫和簽署 PDF 表格</em>
+    <br>
+  </td>
+  <td>
     <a href="scan-and-ocr.md">
       <img alt="掃描與 OCR" src="../assets/Scan.jpg" />
     </a>
@@ -159,16 +256,6 @@ ht-degree: 3%
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
     <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="organize.md">
-      <img alt="組織頁面" src="../assets/Organize.jpg" />
-    </a>
-    <div>
-    <a href="organize.md"><strong>組織頁面</strong></a>
-    </div>
-    <em>在 PDF 中新增、取代、擷取、旋轉、刪除和移動頁面</em>
     <br>
   </td>
   <td>
@@ -183,16 +270,6 @@ ht-degree: 3%
   </td>
 </tr>
 <tr>
-  <td>
-    <a href="fill-and-sign.md">
-      <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign_1280.png" />
-    </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>填寫和簽署PDF forms</strong></a>
-    </div>
-    <em>快速填寫和簽署 PDF 表格</em>
-    <br>
-  </td>
   <td>
     <a href="signatures.md">
       <img alt="取得簽名" src="../assets/Signatures_1280.png" />
@@ -213,24 +290,10 @@ ht-degree: 3%
     <em>隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
-    </a>
-    <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
-    </div>
-    <em>瞭解 PDF 來自何處及其用途</em>
-    <br>
-  </td>
-  </td>
   <td>
    <img alt="間隔" src="../assets/Whitespacer.png" />
     <div>
     <br>
-  </td>
   </td>
   <td>
    <img alt="間隔" src="../assets/Whitespacer.png" />

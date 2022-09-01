@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [即時共同作業](getting-started/collaborate.md)
-   + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
+   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
    + [建立 PDF](getting-started/create-pdf.md)
-   + [在 PDF 上加上注釋](getting-started/comment-on-pdf-files.md)
-   + [編輯 PDF](getting-started/edit-pdf.md)
-   + [將 PDF 轉存為可編輯的格式](getting-started/export-pdf.md)
-   + [建立可填寫的表格](getting-started/create-fillable-forms.md)
-   + [掃描與 OCR](getting-started/scan-and-ocr.md)
+   + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
-   + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
+   + [編輯 PDF](getting-started/edit-pdf.md)
+   + [自動調整版面](getting-started/auto-adjust-layout.md)
+   + [將 PDF 轉存為可編輯的格式](getting-started/export-pdf.md)
+   + [即時共同作業](getting-started/collaborate.md)
+   + [在 PDF 上加上注釋](getting-started/comment-on-pdf-files.md)
+   + [建立可填寫的表格](getting-started/create-fillable-forms.md)
    + [填寫和簽署PDF forms](getting-started/fill-and-sign.md)
+   + [掃描與 OCR](getting-started/scan-and-ocr.md)
+   + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
    + [取得簽名](getting-started/signatures.md)
    + [追蹤您的檔](getting-started/track.md)
-   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概覽](advanced-tasks/advanced-tasks-overview.md)
    + [新增書簽和超連結](advanced-tasks/bookmarks.md)
