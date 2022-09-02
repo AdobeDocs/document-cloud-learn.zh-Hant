@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>將 Word 檔案和表格轉換為 PDF，並自動建立表格欄位</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="讓Acrobat協助您製作具備協助工具的 PDF" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ ht-degree: 0%
     <em>檢查 PDF 是否可供存取</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="從手機Export PDF至 Word" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ ht-degree: 0%
     <em>轉換掃描的 PDF，以便在 PDF 中搜尋文字</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="將多個檔案合併為一個 PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ ht-degree: 0%
     <em>即使未下載 PDF，也能對文字和影像進行簡單的編輯</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="一次Search多個 PDF 檔案" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ ht-degree: 0%
     <em>在 PDF 檔案中開始搜尋，然後開啟「進階Search」，然後搜尋整個 PDF 檔案資料夾</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="立即建立相片的 PDF" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ ht-degree: 0%
     </div>
     <em>瞭解如何使用Adobe Scan簽署列印表格</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ ht-degree: 0%
     </div>
     <em>瞭解如何使用 Illustrator 在 PDF 中對圖形進行進階編輯</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="快速組織頁面" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ ht-degree: 0%
     <em>瞭解如何使用「組織頁面」工具來取得 PDF 的鳥覽檢視</em>
     <br>
   </td>
-  <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>

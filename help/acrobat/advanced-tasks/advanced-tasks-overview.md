@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
 
-## Acrobat教學課程
+## 進階工作教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ ht-degree: 3%
     <em>使用自訂指令和工具，提升檔工作流程的生產力</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="進階表單欄位" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ ht-degree: 3%
     <em>學習建立專業PDF forms的進階技巧</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ ht-degree: 3%
     <em>新增各種類型的表格欄位、設定表格欄位內容，並增加安全性以建立高品質的專業表單</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="增強 PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ ht-degree: 3%
     <em>快速準確地偵測兩個 PDF 檔案之間的差異</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ ht-degree: 3%
     <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="標記密文和淨化" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
