@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 7%
    + [建立 PDF](getting-started/create-pdf.md)
    + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
+   + [新增自訂頁面](getting-started/add-custom-page.md)
    + [編輯 PDF](getting-started/edit-pdf.md)
    + [自動調整版面](getting-started/auto-adjust-layout.md)
    + [將 PDF 轉存為可編輯的格式](getting-started/export-pdf.md)

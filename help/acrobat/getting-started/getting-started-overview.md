@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 3%
+source-wordcount: '484'
+ht-degree: 4%
 
 ---
 
@@ -133,8 +133,13 @@ ht-degree: 3%
       <br>
     </td>
     <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+      <a href="add-custom-page.md">
+        <img alt="新增自訂頁面" src="../assets/Custompage.png" />
+      </a>
       <div>
+      <a href="add-custom-page.md"><strong>新增自訂頁面</strong></a>
+      </div>
+      <em>瞭解如何使用整合式 Adobe Express 應用程式，將自訂頁面新增至 PDF</em>
       <br>
     </td>
   </tr>
