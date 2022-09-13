@@ -7,15 +7,15 @@ level: Beginner
 thumbnail: KT-8086.jpg
 kt: 8086
 exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Acrobat Sign 中的 Liquid Mode
 
-瞭解 Liquid Mode 如何改善行動簽署體驗。 可減少捏合和縮放以輕鬆專注于可填寫的欄位。
+瞭解 Liquid Mode 如何改善行動簽署體驗。 嘗試讀取和簽署檔時，不必再捏合和縮放。 此教學課程說明如何傳送 _HTML 表格_ 以供簽署，並自動為行動使用者建立增強的簽署體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)

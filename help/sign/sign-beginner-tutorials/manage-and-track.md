@@ -7,16 +7,16 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # 管理與追蹤您的合約
 
-瞭解如何管理和追蹤在 Acrobat Sign 中傳送以供簽署的檔。在您處理的每份檔上，取得即時狀態更新和通知。
+瞭解如何管理和追蹤在 Acrobat Sign 中傳送以供簽署的檔。針對您簽署或傳送以供簽署的每份檔，取得即時狀態更新和通知。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 

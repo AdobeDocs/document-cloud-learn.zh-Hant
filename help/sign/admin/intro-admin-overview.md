@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="set-up-your-external-archive.md"><strong>設定外部封存</strong></a>
     </div>
-    <em>建立外部封存檔，以備份已傳送的合約副本</em>
+    <em>為已簽署的合約備份建立外部封存檔</em>
     <br>
   </td>
   <td>

@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# 使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知
+# 使用 Acrobat Sign 針對 [!DNL Salesforce] 和 [!DNL Marketo]
 
 瞭解如何使用 Acrobat Sign、Acrobat Sign for Salesforce、Marketo 和 Marketo Salesforce 同步功能，傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出。 若要從 Marketo 傳送通知，您必須先購買或設定 Marketo SMS 管理功能。 此逐步解說使用 [ Twilio SMS ](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/) ，但可以使用其他 Marketo SMS 解決方案。
 
