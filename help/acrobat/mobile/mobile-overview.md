@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ ht-degree: 0%
      <a href="../getting-started/productivity.md"><strong>行動生產力</strong></a>
     </div>
     <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Adobe Scan行動應用程式教學課程
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="將任何內容掃描成 PDF" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>將任何內容掃描成 PDF</strong></a>
+    </div>
+    <em>瞭解如何使用免費的 Adobe Scan 行動應用程式將任何紙本檔轉換為 PDF</em>
     <br>
   </td>
   <td>
