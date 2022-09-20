@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 7%
 
 ---
@@ -85,10 +85,11 @@ ht-degree: 7%
    + [建立 PDF 來源 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [在網頁版中  [!DNL Office]  建立 PDF](integrate/createofficeweb.md)
    + [PDF 共同作業 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [使用 SharePoint 檔案](integrate/acrobatandsp.md)
-   + [在 Outlook 中將電子郵件訊息和附件轉換為 PDF](integrate/outlook.md)
-   + [使用 Microsoft Edge 流覽時建立 PDF 內容](integrate/edge.md)
-   + [Google 雲端硬碟的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [處理您的  [!DNL SharePoint]  檔案](integrate/acrobatandsp.md)
+   + [將電子郵件訊息和附件轉換為 PDF [!DNL Outlook]](integrate/outlook.md)
+   + [使用 [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [使用來自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 產業和部門 {#by-industry}
    + [概覽](industry/industry-overview.md)
    + 政府 {#gov}

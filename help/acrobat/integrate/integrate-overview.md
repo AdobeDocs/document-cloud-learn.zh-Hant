@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ ht-degree: 1%
 </tr>
 </table>
 
-## Box
-
-瞭解 Acrobat 和 [ Box ](https://www.adobe.com/documentcloud/integrations/box.html) {target=&quot;_blank&quot;} 如何讓組織中的每個人更輕鬆地持續推動業務發展。
-
 ## Dropbox
 
-瞭解存取和使用儲存在 [ Dropbox{target=&quot;_blank ](https://www.adobe.com/documentcloud/integrations/dropbox.html) }中的 PDF 有多麼簡單。
+瞭解存取和使用儲存在 [!DNL Dropbox] 其中的檔案有多簡單。
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="使用來自 [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>使用來自 [!DNL Dropbox]</strong></a>
+    </div>
+    <em>瞭解如何從檔案內開啟、建立、編輯、簽署和儲存對檔案所做的變更 [!DNL Dropbox] Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Box
+
+瞭解 Acrobat 和 [ Box ](https://www.adobe.com/documentcloud/integrations/box.html) {target=「_blank」} 如何讓組織中的每個人更輕鬆地持續推動業務發展。
