@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [使用下列方式  [!DNL SharePoint]  自動存檔檔案 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [使用適用于 Microsoft Power Platform 的 Acrobat Sign 進行檔自動化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [建立檔範本](integrations/create-an-agreement-template.md)
+      + [適用于 Salesforce 的檔建立程式](integrations/create-an-agreement-template.md)
       + [設定資料對應](integrations/set-up-data-mapping.md)
       + [設定合併對應](integrations/set-up-merging-map.md)
       + [建立自訂按鈕](integrations/create-a-custom-button.md)
