@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的 Acrobat Sign 管理員必須啟用「 **全域設定** 」「網頁表單 **」區段** 中 **的其他參與者** ，才能使用其他參與者工作流程。
+>只有商業和企業層級計畫有設定網頁表單存取權的選項和簽署者選項。 「帳戶> 帳戶設定 >全域設定」下的帳戶或群組層級會啟用或停用網頁表單存取權和簽署者選項，>網頁表單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
