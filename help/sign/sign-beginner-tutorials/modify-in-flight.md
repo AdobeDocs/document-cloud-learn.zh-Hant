@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->傳送後修改檔僅適用于企業層級計畫。 您的 Acrobat Sign 管理員可能需要在帳戶設定的「傳送 **設定」區段** 中 **啟** 用「修改 **合約** 」設定，才能使用此功能。
+>傳送後修改檔僅適用于企業層級計畫。 您的 Acrobat Sign 管理員必須啟用 **帳戶設定的** 「傳送設定 **」區段** 中的「修改 **合約」** ，才能使用此功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 

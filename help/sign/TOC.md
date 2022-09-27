@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 8%
 
 ---
@@ -52,9 +52,10 @@ ht-degree: 8%
       + [Acrobat簽署文字標記](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文字標記登入 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
+      + [建立報告](sign-advanced-users/creating-a-report.md)
       + [管理檔範本](sign-advanced-users/edit-a-template.md)
       + [修改現有的網頁表單](sign-advanced-users/modify-webform.md)
-      + [建立報告](sign-advanced-users/creating-a-report.md)
+      + [管理網頁表單資料](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
    + [概覽](admin/intro-admin-overview.md)
    + 快速入門 {#getting-started-admin}

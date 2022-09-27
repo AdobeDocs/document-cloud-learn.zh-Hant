@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -113,6 +113,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="建立報告" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>建立報告</strong></a>
+    </div>
+    <em>瞭解如何建立您自己的報告，以瞭解檔簽署流程</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="管理檔範本" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ ht-degree: 3%
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="建立報告" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="管理網頁表單資料" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>建立報告</strong></a>
+    <a href="manage-webform-data.md"><strong>管理網頁表單資料</strong></a>
     </div>
-    <em>瞭解如何建立您自己的報告，以瞭解檔簽署流程</em>
+    <em>瞭解如何從網頁表單追蹤、管理和匯出資料</em>
     <br>
   </td>  
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
