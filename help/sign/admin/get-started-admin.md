@@ -5,10 +5,10 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: b5f9e469d0e26fa4a9ef97b2d273f76ed590bad6
+source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 3%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
@@ -24,10 +24,9 @@ ht-degree: 3%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>存取Admin Console</strong></a>
-        </div>
-        <em>1:00</em>
-        <br>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>存取Admin Console </strong></a> <br> <em> 1：00
+         
+        </em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -35,10 +34,9 @@ ht-degree: 3%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>向使用者Acrobat簽署許可權</strong></a>
-        </div>
-        <em>1:45</em>
-        <br>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>將Acrobat簽署給使用者 </strong></a> <br> <em> 1：45
+        
+        </em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -46,10 +44,9 @@ ht-degree: 3%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign 網頁入口網站概觀</strong></a>
-        </div>
-        <em>3:11</em>
-        <br>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign 網頁入口網站概觀 </strong></a> <br> <em> 3：11
+        
+        </em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -57,10 +54,9 @@ ht-degree: 3%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>全域設定和設定</strong></a>
-        </div>
-        <em>5:58</em>
-        <br>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>全域設定和設定 </strong></a> <br> <em> 5：58
+        
+        </em>
     </td>
   </tr>
   </table>
