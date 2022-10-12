@@ -1,13 +1,13 @@
 ---
 title: 新管理員快速入門
-description: 在這個全面的影片指南中，瞭解讓組織開始執行 Acrobat Sign 所需的所有工具
+description: 在這個全面的影片指南中，瞭解讓您的組織開始執行 Acrobat Sign 所需的所有工具
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
