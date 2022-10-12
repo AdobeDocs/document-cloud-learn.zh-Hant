@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 3%
@@ -22,4 +22,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->此影片為「管理員進階工作 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 」課程 [ 的一部分，可在 Experience League 上免費使用！
+>本影片為管理員進階工作 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 課程 [ 的一部分，可在 Experience League 上免費取得！

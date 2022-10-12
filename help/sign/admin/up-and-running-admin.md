@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: aae60046431de366214addf8514646f2b61a59d1
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片為「Acrobat管理員 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 快速入門」課程 [ 的一部分，Experience League時可免費取得！
+>本影片 [ 為開始使用 Acrobat Sign 課程的一部分，適用于管理員 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) ，可在 Experience League 上免費取得！

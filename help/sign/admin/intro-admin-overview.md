@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="新管理員快速入門" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>新管理員快速入門</strong></a>
+    </div>
+    <em>在這個全面的影片指南中，瞭解讓組織開始執行 Acrobat Sign 所需的所有工具</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="管理員已啟動並執行" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ ht-degree: 0%
     <em>個別或大量新增使用者到您的 Acrobat Sign 帳戶</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="建立和管理群組" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ ht-degree: 0%
     <em>建立群組、將使用者新增至群組，以及編輯群組設定</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="設定外部封存" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ ht-degree: 0%
     <em>瞭解如何建立、儲存和管理您自己的自訂報告和資料匯出</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="建立網頁表單" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ ht-degree: 0%
     <em>建立可直接在您的網站上進行電子簽署的檔</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="修改現有的網頁表單" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ ht-degree: 0%
     <em>針對任何檔，一次收集數百個簽名</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="設定工作流程" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ ht-degree: 0%
     <a href="building-a-custom-workflow.md"><strong>設定工作流程</strong></a>
     </div>
     <em>自動化檔工作流程，快速取得電子簽名和資料</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
