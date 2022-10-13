@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 8%
    + Digidentity {#digidentity}
       + [從 Digidentity 取得數位 ID](digitalid/digidentity-reg.md)
       + [使用 Digidentity 進行簽署](digitalid/digidentity-sign.md)
+   + D-Trust {#dtrust}
+      + [使用 [！DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [從 Intesi Group （進階） 取得數位 ID](digitalid/intesi-advanced.md)
       + [從 Intesi Group （合格） 取得數位 ID](digitalid/intesi-qualified.md)

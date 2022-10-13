@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -82,6 +82,23 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="使用 D-Trust 進行註冊和簽署" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>使用 D-Trust 進行註冊和簽署</strong></a>
+    </div>
+    <em>瞭解如何註冊您的身 [!DNL D-Trust] 分，然後在 Acrobat Sign 中使用 [!DNL D-Trust] 檔的數位簽章</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
