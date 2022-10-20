@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,13 @@ ht-degree: 0%
 
 >[!NOTE]
 > 如果您在存取任何功能時發生問題，請向貴組織的管理員確認整合已啟用。
+
+## 新增功能
+
+* [透過 Power Automate ](auto-archive-sharepoint-power-automate.md) 在 SharePoint 中自動封存檔案
+瞭解如何使用 Power Automate 自動將已簽署的檔封存至 SharePoint 資料庫
+* [適用于 Salesforce ](create-an-agreement-template.md) 的檔建立程式
+瞭解如何使用 Salesforce 檔建立器建立可重複使用的檔範本
 
 ## Microsoft 整合教學課程
 

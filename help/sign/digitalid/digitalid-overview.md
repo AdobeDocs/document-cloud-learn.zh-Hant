@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在使用具有雲端簽名的數位 ID 之前，請先與貴組織的管理員確認在 Acrobat Sign 中已啟用提供者的解決方案。
+
+## 新增功能
+
+* [使用 D-Trust ](d-trust.md) 進行註冊和簽署
+瞭解如何註冊您的身 [!DNL D-Trust] 分，然後在 Acrobat Sign 中使用 [!DNL D-Trust] 檔的數位簽章
 
 ## [!DNL Aadhaar]
 

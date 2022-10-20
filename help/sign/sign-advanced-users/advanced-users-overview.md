@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![簽署進階影像](../assets/Hero-Advanced.png)
 
 瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合任何已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
+
+## 新增功能
+
+* [設定線上付款 ](set-up-online-payments.md)
+瞭解如何在檔中設定和接受線上付款
+* [建立報告 ](creating-a-report.md)
+瞭解如何建立您自己的報告，以瞭解檔簽署流程
 
 ## 正在傳送
 

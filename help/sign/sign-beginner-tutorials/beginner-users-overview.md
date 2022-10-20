@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Sign 快速入門影像](../assets/Hero-GettingStarted.png)
 
 透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔。 快速導覽 Acrobat Sign，然後跳入傳送檔給一或多個人員。 本內容旨在協助您輕鬆進入電子簽名工作流程。
+
+## 新增功能
+
+* [使用印章 ](sign-with-a-stamp.md) 簽署
+瞭解如何使用印章來標示已核准或完成的檔
+* [取代簽署者 ](replace-signer.md)
+瞭解如何變更進行中檔的簽署者
 
 ## 正在傳送
 
