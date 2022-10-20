@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat教學課程
 source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 7%
          + [秘訣 #3 – 保護數位檔](industry/gov/protect-digital-documents.md)
          + [秘訣 4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
          + [秘訣 5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
-      + 辅助工具 {#pdfs}
+      + 協助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
