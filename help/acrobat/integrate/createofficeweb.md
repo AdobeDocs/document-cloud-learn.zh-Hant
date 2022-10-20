@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-8497.jpg
 kt: 8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -22,6 +22,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Adobe Acrobat包含 [!DNL Microsoft 365] 可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。 其他功能 （例如建立和合併 PDF） 需要團隊付費Acrobat，或是企業訂閱Acrobat。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
 

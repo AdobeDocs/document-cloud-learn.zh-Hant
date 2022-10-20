@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Adobe Acrobat， [!DNL SharePoint] [!DNL OneDrive] 並且 [!DNL Office 365] 包含可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。 某些功能 （例如建立和合併 PDF） 需要適用于團隊的付費Acrobat，或是企業訂閱Acrobat。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 
