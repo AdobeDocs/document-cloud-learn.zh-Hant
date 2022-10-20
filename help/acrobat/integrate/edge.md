@@ -8,9 +8,9 @@ topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 kt: 8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,12 @@ ht-degree: 0%
 
 瞭解如何使用 Adobe Acrobat 副檔名，即時將網頁封存為 [!DNL Microsoft Edge] PDF。 僅限 Windows 的工具對於研究專案和離線檢視網頁型資訊非常有價值。
 
+>[!TIP]
+>
+>查看這些其他 Microsoft [ 整合 ](../integrate/integrate-overview.md#microsoft) 功能。
+
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
 
 >[!TIP]
 >
->本影片是本課程的一部分 [ ，提供 Acrobat DC 和 Microsoft 365 Experience League免費使用，讓您更聰明 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 地工作！
+>本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！

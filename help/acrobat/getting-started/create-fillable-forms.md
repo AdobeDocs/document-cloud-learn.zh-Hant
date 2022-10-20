@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ ht-degree: 0%
 1. 選取 **[!UICONTROL 「編輯]** 」以繼續工作，或選取 **[!UICONTROL 「檔案]** **>** **[!UICONTROL 另存新]** 檔」以儲存 PDF 表格。
 
    ![表格步驟 4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>透過這些 [ 進階技巧深入探索如何建立表單 ](../advanced-tasks/advancedforms.md) 。

@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # 從中建立 PDF 檔案 [!DNL Microsoft Word]
 
 瞭解如何使用 Acrobat 附加元件來建立具有超連結目錄和交互參照、書簽，甚至附件的豐富、健全的 [!DNL Microsoft Word] PDF 檔案。
+
+>[!TIP]
+>
+>您會使用 [!DNL Microsoft Office] 網頁應用程式嗎？ 查看如何在 [ 網頁版中  [!DNL Office]  建立 PDF ](../integrate/createofficeweb.md) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
