@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
     </div>
     <em>建立可在檔上進行協作的簡單輕鬆工作流程</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="提示：3Protect 數位檔" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ ht-degree: 0%
     <em>為 PDF 新增密碼以避免複製、編輯或列印</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="秘訣 4：使用表單和簽名" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ ht-degree: 0%
     <a href="scan-and-edit-on-mobile.md"><strong>秘訣 5：在行動裝置上掃描和編輯</strong></a>
     </div>
     <em>瞭解如何使用 Adobe Scan 和 Acrobat Reader 行動應用程式，隨時隨地完成工作</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ ht-degree: 0%
     </div>
     <em>瞭解建立所撰寫 PDF 檔案的最佳作法 [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="使 PDF 具備協助工具：以Acrobat完成作業" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ ht-degree: 0%
     <em>瞭解如何使用 Acrobat Pro 中的工具，完成 PDF 檔案的存取</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="使 PDF 票數更易於存取" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ ht-degree: 0%
     <em>本次網路研討會涵蓋必要的 PDF 協助工具重要領域，讓螢幕閱讀程式等輔助技術使用者閱讀和完成票證</em>
     <br>
   </td>  
+  <td>
+   <img alt="間隔" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="間隔" src="../../assets/Grayspacer.png" />
     <div>

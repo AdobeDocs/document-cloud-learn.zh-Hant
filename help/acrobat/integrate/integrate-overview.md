@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
     </div>
     <em>瞭解如何在不離開網頁 [!DNL Microsoft Office] 應用程式的情況下建立 PDF 檔案</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="處理您的 [!DNL SharePoint] 檔案" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ ht-degree: 1%
     </div>
     <em>透過和Acrobat簡化檔工作流程 [!DNL SharePoint]</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ ht-degree: 1%
     <em>瞭解如何使用 Adobe Acrobat 副檔名即時將網頁封存為 PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ ht-degree: 1%
     <a href="acrobat-dropbox.md"><strong>使用來自 [!DNL Dropbox]</strong></a>
     </div>
     <em>瞭解如何從檔案內開啟、建立、編輯、簽署和儲存對檔案所做的變更 [!DNL Dropbox] Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 29%
+source-wordcount: '111'
+ht-degree: 28%
 
 ---
 
@@ -46,6 +46,11 @@ ht-degree: 29%
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下載 Acrobat Sign Android 版行動應用程式</strong></a>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

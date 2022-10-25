@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ ht-degree: 0%
     <em>使用合規的數位工作流程（包含稽核報告）快速取代紙本處理</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="重新部署協助" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ ht-degree: 0%
     <em>協助民眾獲得所需的協助，而無需配合可在數天內上線的全面數位化應用程式表單</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="薪資保護" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>遠端擔保要求</strong></a>
     </div>
     <em>搭配使用電子簽名和網路會議，縮短向判斷者索取及保護授權所需的時間</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ ht-degree: 0%
     <a href="usecasecomtelework.md"><strong>遠端工作協定</strong></a>
     </div>
     <em>有效率地收集所有員工的遠端辦公合約簽名</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

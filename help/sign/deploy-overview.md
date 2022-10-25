@@ -7,9 +7,9 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
+source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 10%
 
 ---
@@ -50,6 +50,11 @@ ht-degree: 10%
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign 基本功能研究指南</strong></a>
     </div>
     <em>Acrobat Sign Acrobat基本要素評估 （AD3-D104） 研究指南</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>準備簽名</strong></a>
     </div>
     <em>使用電子簽名欄位建立 PDF</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ ht-degree: 0%
     <em>將文字、影像、連結和浮水印新增至 PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="簽署您的作品" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ ht-degree: 0%
     <em>直接在 Microsoft Outlook 中簽署檔</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="轉換 PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ ht-degree: 0%
     <em>在任何裝置上以電子方式填寫、簽署和傳送表格</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="優化您的 PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>優化您的 PDF</strong></a>
     </div>
     <em>準備 PDF 以供發佈</em>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ ht-degree: 0%
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>保護您的 PDF</strong></a>
     </div>
     <em>在 PDF 中標記密文及保護敏感性資訊</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
