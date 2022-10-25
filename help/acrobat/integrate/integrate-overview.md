@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -56,8 +56,6 @@ ht-degree: 1%
     <em>透過和Acrobat簡化檔工作流程 [!DNL SharePoint]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF 共同作業 [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ ht-degree: 1%
     <em>無需離開即可透過檢視、批註和審核 PDF 與同事協作及協作 [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="在 Outlook 中將電子郵件訊息和附件轉換為 PDF" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ ht-degree: 1%
     <a href="edge.md"><strong>使用 [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>瞭解如何使用 Adobe Acrobat 副檔名即時將網頁封存為 PDF [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
