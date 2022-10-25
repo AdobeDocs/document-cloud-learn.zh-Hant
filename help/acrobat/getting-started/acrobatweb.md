@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # 使用網頁Acrobat隨處工作
 
-瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求。
+隨處在遠端工作，以速度和規模提供內容至關重要。 瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求。
 
 >[!TIP]
 >

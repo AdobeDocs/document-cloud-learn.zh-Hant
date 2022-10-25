@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # 行動生產力
 
-使用 Acrobat Reader 行動應用程式，直接從平板電腦或行動電話中完成更多工作。
+隨處在遠端工作，以速度和規模提供內容至關重要。 瞭解如何使用 Acrobat Reader 行動應用程式直接從平板電腦或行動電話中執行更多操作。
 
 >[!TIP]
 >

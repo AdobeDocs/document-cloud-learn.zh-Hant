@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # 動作精靈
 
-使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作。
+要打造最佳客戶體驗，內容的建立速度必須比以往更快。 使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作。
 
 >[!NOTE]
 >
