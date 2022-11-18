@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -30,15 +30,15 @@ Acrobat已完全整合至 Microsoft 365 應用程式，因此您不必在螢幕�
 
 * **[重複使用您的 PDF 內容：編輯和 Export ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a) {target=「_blank」}**
 日期：2022 年 10 月 27 日
-瞭解如何修改現有的 PDF：編輯文字和影像、新增超連結和書簽、轉換為 Microsoft Word、PowerPoint 和 Excel 檔案等。
+瞭解如何 [ 修改現有的 PDF{ ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) target=「_blank」}：編輯文字和影像、新增超連結和書簽、轉換為 Microsoft Word、PowerPoint 和 Excel 檔案等。
 
 * **[開始使用 Acrobat ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7) {target=「_blank」}**
 日期：2022 年 9 月 22 日
-開始使用 Adobe Acrobat 和 PDF。 我們將向您介紹Acrobat介面，並向您展示如何： * 從影像檔案和檔 （包括 Word、Excel 和 PowerPoint） 建立 PDF。 * 將多個檔案 （PDF、Word、影像等） 合併為一個可編輯的 PDF。 * 使用 Acrobat Web 和行動裝置，隨時隨地完成工作。
+開始使用 Adobe Acrobat 和 PDF。 我們將向您介紹Acrobat介面，並向您展示如何：* [ 從影像檔案 ](https://www.adobe.com/tw/acrobat/online/convert-pdf.html) {target=「_blank」} 和檔 （包括 Word、Excel 和 PowerPoint） 建立 PDF。 * [ 將多個檔案 ](https://www.adobe.com/tw/acrobat/online/merge-pdf.html) {target=「_blank」} （ PDF、Word、影像等） 合併為一個可編輯的 PDF。 * 使用 Acrobat Web 和行動裝置，隨時隨地完成工作。
 
 * **[PDF Security ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff) {target=「_blank」}**
 日期：2022 年 8 月 25 日
-取得保護 PDF 內容所需的所有資訊。 本講座會分享新增密碼以防止檢視、編輯或列印 PDF 的技術，並展示如何永久移除敏感性資訊，即使是從看不見的中繼資料也一樣！
+取得保護 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target=「_blank」} 內容所需的 [ 所有資訊。本講座會分享新增密碼以防止檢視、編輯或列印 PDF 的技術，並展示如何永久移除敏感性資訊，即使是從看不見的中繼資料也一樣！
 
 * **[使用 Action Wizard ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c) {target=「_blank」}** 的簡易自動化
 日期：2022 年 7 月 28 日

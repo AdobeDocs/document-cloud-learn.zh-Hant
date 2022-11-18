@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 4%
+source-wordcount: '493'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護 PDF 檔案，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [ 編輯 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank」}，此內容旨在協助您輕鬆進入 PDF 工作流程。
 
 ## 快速入門教學課程
 

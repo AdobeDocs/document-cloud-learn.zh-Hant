@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 7%
 
 ---
 
 # 取得簽名
 
-隨時隨地收集其他人具有法律效力的電子簽名，以持續推動業務發展。
+隨時隨地收集他人具法律效力 [ 的電子簽名 ](https://www.adobe.com/acrobat/online/request-signature.html) {target=「_blank」} 來持續推展業務。
 
 >[!IMPORTANT]
 >

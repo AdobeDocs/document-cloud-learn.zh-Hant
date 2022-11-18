@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![Acrobat行動影像](../assets/Hero-Mobile.png)
 
-在行動裝置上建立、填寫和簽署 PDF。
+在行動裝置上建立、填寫和 [ 簽署 PDF{ ](https://www.adobe.com/tw/acrobat/online/sign-pdf.html) target=「_blank」}。
 
 ## Acrobat Reader行動應用程式教學課程
 

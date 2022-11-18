@@ -7,10 +7,10 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 瞭解如何新增背景圖形
 
-使用「編輯」工具將背景圖形新增至 PDF。
+使用「 [ 編輯 PDF」工具 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank」} 來新增背景圖形至您的 PDF。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

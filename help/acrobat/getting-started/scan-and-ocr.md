@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
 # 掃描與 OCR
 
-將檔掃描或影像轉換為可搜尋、可編輯的 PDF 檔案，持續推動業務發展。
+將檔掃描或影像轉換為可搜尋、 [ 可編輯的 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank}，持續推動業務發展。
 
 >[!TIP]
 >

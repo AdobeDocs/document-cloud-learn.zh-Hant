@@ -6,15 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9278.jpg
 KT: 9278
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 7%
 
 ---
 
 # 快速組織頁面
 
-在這 60 秒的教學課程影片中，瞭解如何使用「組織頁面」工具，以鳥瞰 PDF。 變更頁面順序和版面，甚至將 PDF 分割成較小的檔案。
+在這 60 秒的教學課程影片中，瞭解如何使用「組織頁面」工具，以鳥瞰 PDF。 變更頁面順序和版面，甚至 [ 將 PDF ](https://www.adobe.com/tw/acrobat/online/split-pdf.html) {target=「_blank」} 分割成較小的檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338278?hidetitle=true)

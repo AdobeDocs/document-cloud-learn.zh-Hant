@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -86,7 +86,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 ## 4. 準備使用網頁版
 
-為 PDF 的網頁檢視和縮小檔案大小做好準備，優化與 PDF 互動的體驗。
+將 PDF 的互動體驗優化，將其準備用於網頁檢視，並 [ 降低 PDF 檔案大小 ](https://www.adobe.com/tw/acrobat/online/compress-pdf.html) {target=「_blank}。
 
 +++檢視如何準備 PDF 網頁版的詳細資訊
 
@@ -122,7 +122,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 ## 6. 保護您的 PDF
 
-最後一個步驟是保護您的 PDF，以防止未經授權的變更。
+最後一個步驟是 [ 保護您的 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target=「_blank」} 以防止未經授權的變更。
 
 ++檢視如何保護 PDF 的詳細資訊
 
