@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 ## 新增功能
 
+* [設定截止日期和提醒 ](set-deadlines-reminders.md)
+瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔
 * [使用印章 ](sign-with-a-stamp.md) 簽署
 瞭解如何使用印章來標示已核准或完成的檔
-* [取代簽署者 ](replace-signer.md)
-瞭解如何變更進行中檔的簽署者
 
 ## 正在傳送
 
@@ -62,10 +62,10 @@ ht-degree: 1%
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="傳送給多位收件者" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="傳送給多個收件者" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>傳送給多位收件者</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>傳送給多個收件者</strong></a>
     </div>
     <em>依照您想要的順序，傳送檔給多個人員以索取電子簽名</em>
     <br>
@@ -112,6 +112,33 @@ ht-degree: 1%
     <em>瞭解如何變更進行中檔的簽署者</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="設定截止日期和提醒" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>設定截止日期和提醒</strong></a>
+      </div>
+      <em>瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 

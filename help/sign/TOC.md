@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 8%
+source-wordcount: '486'
+ht-degree: 9%
 
 ---
 
@@ -25,11 +25,12 @@ ht-degree: 8%
       + [工作區基本介紹](sign-beginner-tutorials/quick-tour.md)
       + [新傳送者可開始使用 Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [傳送給單一收件者](sign-beginner-tutorials/send-to-single-recipient.md)
-      + [傳送給多位收件者](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [傳送給多個收件者](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [將欄位新增至檔](sign-beginner-tutorials/adding-fields.md)
       + [設定傳送選項](sign-beginner-tutorials/sending-options.md)
       + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
       + [取代簽署者](sign-beginner-tutorials/replace-signer.md)
+      + [設定截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
    + Signing {#getting-started-signing}
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
