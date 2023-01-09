@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 8%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 8%
    + [處理您的  [!DNL SharePoint]  檔案](integrate/acrobatandsp.md)
    + [將電子郵件訊息和附件轉換為 PDF [!DNL Outlook]](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]](integrate/edge.md)
+   + [使用  [!DNL Microsoft Purview Information]  靈敏度標籤保護 PDF](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [使用來自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 產業和部門 {#by-industry}

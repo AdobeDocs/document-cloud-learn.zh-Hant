@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -89,8 +89,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="microsoftsensitivitylabels.md">
+      <img alt="使用 [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+    </a>
     <div>
+    <a href="microsoftsensitivitylabels.md"><strong>使用 [!DNL Microsoft Purview Information] 靈敏度標籤保護 PDF</strong></a>
+    </div>
+    <em>瞭解如何直接在Acrobat中新增、編輯、自訂和刪除 [!DNL Microsoft Purview] 靈敏度標籤來保護 PDF</em>
     <br>
   </td>
   <td>
