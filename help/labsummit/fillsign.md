@@ -3,10 +3,10 @@ title: 在桌上型電腦或行動裝置上填寫和簽署任何表格
 description: 從桌上型電腦、瀏覽器或行動應用程式快速填寫、簽署和傳送表格
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **步驟 4：** 使用白色按鈕拍照，然後點一下「 **[!UICONTROL 使用相片」]** 。 點 **[!UICONTROL 一下右上角的「完成]** 」。
 
-**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線裁切影像。 完成時點 **[!UICONTROL 選「完成]** 」。
+**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線 [ 裁切影像 ](https://www.adobe.com/tw/acrobat/online/crop-pdf.html) 。 完成時點 **[!UICONTROL 選「完成]** 」。
 
 ![本機檔影像](assets/localdoc.jpg)
 

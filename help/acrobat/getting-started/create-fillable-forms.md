@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
 # 建立可填寫的表格
 
-將在 InDesign、Microsoft Word、Excel 或其他應用程式中建立的掃描紙本表格或檔轉換為可填寫的 PDF 表格。
+將在 InDesign、Microsoft Word、Excel 或其他應用程式中建立的掃描紙本表格或檔轉換為 [ 可填寫的 PDF 表格 ](https://www.adobe.com/tw/acrobat/online/sign-pdf.html) 。
 
 1. 從「工具 ] 」中心或右側窗格中， [!UICONTROL  選 **[!UICONTROL 取「準備表格]** 」。
 
