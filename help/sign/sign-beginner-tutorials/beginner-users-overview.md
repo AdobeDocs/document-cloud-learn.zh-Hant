@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
+source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '465'
 ht-degree: 5%
 
 ---
@@ -42,10 +42,10 @@ ht-degree: 5%
   </td>
   <td>
     <a href="new-sender.md">
-      <img alt="新傳送者可開始使用 Acrobat Sign" src="../assets/gettingstartednew.png" />
+      <img alt="開始使用 Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>新傳送者可開始使用 Acrobat Sign</strong></a>
+    <a href="new-sender.md"><strong>開始使用 Acrobat Sign</strong></a>
     </div>
     <em>這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方</em>
     <br>
