@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,42 +24,42 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 日期：2023 年 6 月 29 日
 輕鬆將舊的表格和紙本檔轉換成數位、可填寫的 PDF。Acrobat提供各種方法和工具，協助您進行數位檔轉型。 在本講座中，我們將涵蓋以下內容：
 
-    * 從各種檔案 （PDF、掃描影像、Word） 
-     建立表格範本* 瞭解可用的欄位類型 （文字、核取方塊、選項按鈕、下拉式清單、行事曆） 
-     * 使用欄位屬性和生產力工具 （外觀、格式、計算、驗證）
+* 從各種檔案 （PDF、掃描影像、Word） 建立表格範本
+* 瞭解可用欄位類型 （文字、核取方塊、選項按鈕、下拉式清單、行事曆）
+* 使用欄位屬性和生產力工具 （外觀、格式、計算、驗證）
 
 **[在 PDF ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}** 中增加互動功能
 日期：2023 年 5 月 25 日
 讓您的 PDF 更輕鬆且吸引人，讓受眾與之互動。請加入本講座，瞭解如何透過以下方式為 PDF 增添互動性：
 
-    * 新增超連結和書簽，讓檔導覽更輕鬆 
-     * 在 PDF 
-     中包含視訊、聲音、3D 等* 在單一檔中組織不同類型的內容
+* 新增超連結和書簽，讓檔導覽更輕鬆
+* 在 PDF 中包含視訊、聲音、3D 等
+* 在單一檔中組織不同類型的內容
 
 **[重複使用 PDF 內容：編輯和轉存 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 日期：2023 年 4 月 27 日
 當您只需編輯和轉存 PDF 時，為什麼要重新建立輪盤？在本講座中，我們會教您如何使用Acrobat的編輯和轉存工具來修改現有的 PDF。 您將瞭解如何：
 
-    * 編輯文字和影像 
-     * 新增超連結和書簽，使檔導覽更輕鬆 
-     * 轉存為常用的格式 （如 Microsoft Word、PowerPoint 和 Excel 
-     * 匯出整份檔，或選擇特定文字、影像或表格）
+* 編輯文字和影像
+* 新增超連結和書簽，讓檔導覽更輕鬆
+* 轉存為熟悉的格式，例如 Microsoft Word、PowerPoint 和 Excel
+* 匯出整份檔，或選擇特定文字、影像或表格
 
 **[PDF 協作：共用、審核及協作 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 日期：2023 年 3 月 23 日
 開始使用 Adobe Acrobat 和 PDF。加入我們的行列，學習基本概念，介紹Acrobat介面和關鍵功能，協助您提高工作效率。 我們將向您展示如何：
 
-    * 從影像檔和檔 （包括 Word、Excel 和 PowerPoint 
-     *） 建立 PDF* 將多個檔案 （PDF、Word、影像等） 合併為一個可編輯的 PDF 
-     * 透過 Acrobat Web 和 Acrobat 行動裝置隨時隨地完成工作
+* 從影像檔案和檔 （包括 Word、Excel 和 PowerPoint） 建立 PDF
+* 將多個檔案 （PDF、Word、影像等） 合併為一個可編輯的 PDF
+* 使用 Acrobat Web 和 Acrobat 行動裝置隨時隨地完成工作
 
 **[開始使用Acrobat ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 日期：2023 年 2 月 23 日
 開始使用 Adobe Acrobat 和 PDF。加入我們的行列，學習基本概念，介紹Acrobat介面和關鍵功能，協助您提高工作效率。 我們將向您展示如何：
 
-    * 從影像檔和檔 （包括 Word、Excel 和 PowerPoint 
-     *） 建立 PDF* 將多個檔案 （PDF、Word、影像等） 合併為一個可編輯的 PDF 
-     * 透過 Acrobat Web 和 Acrobat 行動裝置隨時隨地完成工作
+* 從影像檔案和檔 （包括 Word、Excel 和 PowerPoint） 建立 PDF
+* 將多個檔案 （PDF、Word、影像等） 合併為一個可編輯的 PDF
+* 使用 Acrobat Web 和 Acrobat 行動裝置隨時隨地完成工作
 
 **[無論您身在何處，都能提高 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}** 生產力
 日期：2023 年 1 月 26 日

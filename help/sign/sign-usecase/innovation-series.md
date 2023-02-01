@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名
 日期：2023 年 4 月 20 日
 深入瞭解「Acrobat Sign 編寫環境」中可用的選項。涵蓋的主題包括：
 
-    * 使用Acrobat、文字標記和 Acrobat Sign 編寫環境準備Acrobat Sign 檔範本的概覽。
-    * 深入瞭解編寫環境，包括複製與複製欄位、新增專業欄位、指派欄位，以及設定條件式和計算欄位。
-    * 如何傳送範本以供簽署，比較檔範本與表單欄位範本。
+* 使用Acrobat、文字標記和 Acrobat Sign 編寫環境準備Acrobat Sign 檔範本的概覽。
+* 深入瞭解編寫環境，包括複製與複製欄位、新增專業欄位、指派欄位，以及設定條件式和計算欄位。
+* 如何傳送範本以索取簽名，比較檔範本與表單欄位範本。
 
 **[發佈可填寫、可簽署的網頁表單 ](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 日期：2023 年 3 月 16 日
@@ -50,9 +50,9 @@ Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名
 日期：2023 年 1 月 19 日
 瞭解設定檔以進行電子簽名的三種簡單方法。無論是 PDF、Microsoft 365 檔案，還是簡單的影像檔，本講座都會提供您簽署檔所需的工具。 我們將涵蓋三種方法：
 
-    * Adobe Acrobat Sign 的簡單拖放製作環境 
-     * 在 Adobe Acrobat 
-     中設定 PDF 表格* 使用文字標籤快速撰寫檔
+* Adobe Acrobat Sign 簡單的拖放製作環境
+* 在Adobe Acrobat中設定 PDF 表格
+* 使用文字標籤快速撰寫檔
 
 **[在 Microsoft 應用程式 ](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}** 中使用電子簽名
 日期：2022 年 12 月 8 日
