@@ -8,19 +8,108 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # 開始使用 Acrobat Sign
 
-您第一次使用 Acrobat Sign 嗎？ 這個教學課程是一個不錯的開始，因為它著重在所有基本知識上，可讓您使用 Acrobat Sign 快速上手。
+您第一次使用 Acrobat Sign 嗎？ 這個全面的教學課程是一個不錯的開始，因為它著重在所有基本知識上，可讓您使用 Acrobat Sign 快速上手。
 
 >[!NOTE]
 >
 >本教學課程是專為企業級和企業級計畫所設計。
+
+本詳細的教學課程涵蓋下列主題：
+
+<table style="table-layout:auto">
+<tr>
+  <td>
+    <a href="https://video.tv.adobe.com/v/337151?hidetitle=true">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>登入 </strong></a> <br> <em> 從 0：00 開始
+         
+        </em>
+    </td>
+     <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>首頁 </strong></a> <br> <em> 從 0：54 開始
+         
+        </em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>設定您的設定檔 </strong></a> <br> <em> 從 2：32 開始
+        
+        </em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>傳送設定 </strong></a> <br> <em> 從 4：31 開始
+        
+        </em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>新增可填寫欄位 </strong></a> <br> <em> 從 8：22 開始
+         
+        </em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>簽署體驗 </strong></a> <br> <em> 從 11：58 開始
+        
+        </em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>管理和追蹤檔 </strong></a> <br> <em> 從 12：53 開始
+        
+        </em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
+      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>支援和資源 </strong></a> <br> <em> 從 14：58 開始
+        
+        </em>
+    </td>
+  </tr>
+  </table>
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)
