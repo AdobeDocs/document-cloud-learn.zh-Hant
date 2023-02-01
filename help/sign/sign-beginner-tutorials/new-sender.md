@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
+source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,32 +38,32 @@ ht-degree: 0%
         </em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>首頁 </strong></a> <br> <em> 從 0：54 開始
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>首頁 </strong></a> <br> <em> 從 0：55 開始
          
         </em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>設定您的設定檔 </strong></a> <br> <em> 從 2：32 開始
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>設定您的設定檔 </strong></a> <br> <em> 從 2：33 開始
         
         </em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>傳送設定 </strong></a> <br> <em> 從 4：31 開始
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>傳送設定 </strong></a> <br> <em> 從 4：32 開始
         
         </em>
     </td>
@@ -80,22 +80,22 @@ ht-degree: 0%
         </em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>簽署體驗 </strong></a> <br> <em> 從 11：58 開始
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>簽署體驗 </strong></a> <br> <em> 從 11：59 開始
         
         </em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>管理和追蹤檔 </strong></a> <br> <em> 從 12：53 開始
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>管理和追蹤檔 </strong></a> <br> <em> 從 12：54 開始
         
         </em>
     </td>
