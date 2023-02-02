@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 7b00851bd253e219d3dce1fbe0f06df80d8dafef
+source-git-commit: e6a96b762a4d9f15b1aa0ebc716960dc4e65a14f
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 4%
 
 ---
@@ -44,11 +44,11 @@ Adobe Acrobat （Adobe Document Cloud解決方案） 可轉換、編輯、共用
     <br>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-overview.md">
+    <a href="skill-builder/skill-builder-webinars.md">
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>技術等級</strong></a>
+    <a href="skill-builder/skill-builder-webinars.md"><strong>Skill Builder 網路研討會</strong></a>
     </div>
     <em>協助您數位化、保持數位化並完成工作的基於任務的秘訣</em>
     <br>

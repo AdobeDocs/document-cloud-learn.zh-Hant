@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 8%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 8%
    + [在 PDF 中編輯圖形](60-second/editgraphic.md)
    + [快速組織頁面](60-second/organize.md)
 + 技術等級 {#skill-builders}
-   + [概覽](skill-builder/skill-builder-overview.md)
    + [網路研討會](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
    + [概覽](integrate/integrate-overview.md)
