@@ -5,16 +5,16 @@ breadcrumb-title: Acrobat教學課程
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
 
 # Acrobat教學課程 {#acrobat-learning}
 
-+ [概覽](overview.md)
++ [概觀](overview.md)
 + 快速入門 {#getting-started}
-   + [概覽](getting-started/getting-started-overview.md)
+   + [概述](getting-started/getting-started-overview.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作區體驗](getting-started/new-workspace.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
@@ -37,7 +37,7 @@ ht-degree: 8%
    + [取得簽名](getting-started/signatures.md)
    + [追蹤您的檔](getting-started/track.md)
 + 進階工作 {#advanced-tasks}
-   + [概覽](advanced-tasks/advanced-tasks-overview.md)
+   + [概述](advanced-tasks/advanced-tasks-overview.md)
    + [新增書簽和超連結](advanced-tasks/bookmarks.md)
    + [優化掃描的檔](advanced-tasks/optimizescan.md)
    + [自訂指令和工具](advanced-tasks/custom.md)
@@ -46,13 +46,13 @@ ht-degree: 8%
    + [使用表單欄位](advanced-tasks/workforms.md)
    + [增強 PDF](advanced-tasks/enhance.md)
    + [偵測兩個 PDF 之間的差異](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [動作精靈](advanced-tasks/action.md)
    + [標記密文和淨化](advanced-tasks/redact.md)
    + [縮減檔案大小和優化](advanced-tasks/reduce.md)
    + [處理表格資料](advanced-tasks/formdata.md)
    + [檢查 PDF 協助工具](advanced-tasks/accessibility.md)
    + Acrobat協助工具系列 {#accessibility-series}
-      + [概覽](advanced-tasks/accessibility-series.md)
+      + [概述](advanced-tasks/accessibility-series.md)
       + [PDF 協助工具簡介](advanced-tasks/accessibilitysession1.md)
       + [補救無法存取的 PDF](advanced-tasks/accessibilitysession2.md)
       + [複雜表格](advanced-tasks/accessibilitysession3.md)
@@ -60,7 +60,7 @@ ht-degree: 8%
       + [將表格欄位新增至標籤的 PDF](advanced-tasks/accessibilitysession5.md)
       + [將表格欄位新增至未標記的 PDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
-   + [概覽](60-second/60-second-overview.md)
+   + [概述](60-second/60-second-overview.md)
    + [快速建立更有效率的 PDF 檔案](60-second/optimize.md)
    + [使用密碼保護 PDF 檔案](60-second/protect.md)
    + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
@@ -78,9 +78,9 @@ ht-degree: 8%
    + [在 PDF 中編輯圖形](60-second/editgraphic.md)
    + [快速組織頁面](60-second/organize.md)
 + 技術等級 {#skill-builders}
-   + [網路研討會](skill-builder/skill-builder-webinars.md)
+   + [網路講座](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
-   + [概覽](integrate/integrate-overview.md)
+   + [概述](integrate/integrate-overview.md)
    + [建立 PDF 來源 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [在網頁版中  [!DNL Office]  建立 PDF](integrate/createofficeweb.md)
    + [PDF 共同作業 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -91,9 +91,9 @@ ht-degree: 8%
    + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [使用來自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 產業和部門 {#by-industry}
-   + [概覽](industry/industry-overview.md)
+   + [概述](industry/industry-overview.md)
    + 政府 {#gov}
-      + [概覽](industry/gov/gov-overview.md)
+      + [概述](industry/gov/gov-overview.md)
       + 隨處使用 Acrobat 的 5 個秘訣 {#tips}
          + [隨處使用 Acrobat 的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
@@ -101,18 +101,18 @@ ht-degree: 8%
          + [秘訣 #3 – 保護數位檔](industry/gov/protect-digital-documents.md)
          + [秘訣 4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
          + [秘訣 5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
-      + 協助工具 {#pdfs}
+      + 協助功能 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
          + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [使 PDF 票數更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
-   + [概覽](develop/develop-overview.md)
+   + [概述](develop/develop-overview.md)
 + 部署 {#deploy}
-   + [概覽](deploy/deploy-overview.md)
+   + [概述](deploy/deploy-overview.md)
    + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動電話 {#mobile}
-   + [概覽](mobile/mobile-overview.md)
+   + [概述](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [將任何內容掃描成 PDF](mobile/scan-mobile-app.md)
