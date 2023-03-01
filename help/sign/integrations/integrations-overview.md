@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [傳送檔以供公證 ](send-document-notarize.md)
+在這三部分教學課程中，瞭解如何傳送檔進行公證、檢視簽署者的體驗，以及接收結果
 * [透過 Power Automate ](auto-archive-sharepoint-power-automate.md) 在 SharePoint 中自動封存檔案
 瞭解如何使用 Power Automate 自動將已簽署的檔封存至 SharePoint 資料庫
-* [適用于 Salesforce ](create-an-agreement-template.md) 的檔建立程式
-瞭解如何使用 Salesforce 檔建立器建立可重複使用的檔範本
 
 ## Microsoft 整合教學課程
 
@@ -104,6 +104,38 @@ ht-degree: 0%
     <a href="documentautomation.md"><strong>檔自動化與 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>瞭解如何啟用和使用應用程式的 [!DNL Acrobat Sign] [!DNL Adobe PDF Tools] 連接器 [!DNL Microsoft Power]</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] 整合教學課程
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="傳送檔以供公證" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>傳送檔以供公證</strong></a>
+    </div>
+    <em>瞭解如何傳送檔以供公證</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
