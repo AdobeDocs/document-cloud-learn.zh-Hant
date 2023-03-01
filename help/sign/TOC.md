@@ -11,14 +11,14 @@ breadcrumb-title: Acrobat Sign 教學課程
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 
 # Acrobat Sign 教學課程 {#sign-learning-hub}
 
-+ [概觀](overview.md)
++ [概述](overview.md)
 + 快速入門 {#getting-started}
    + [概述](sign-beginner-tutorials/beginner-users-overview.md)
    + 傳送 {#getting-started-sending}
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
       + [取代簽署者](sign-beginner-tutorials/replace-signer.md)
       + [設定截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 正在簽名 {#getting-started-signing}
+   + 正在簽署 {#getting-started-signing}
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
       + [取得親筆簽名](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 0%
       + [建立檔範本](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 進階工作 {#advanced-tasks}
    + [概述](sign-advanced-users/advanced-users-overview.md)
-   + 發送 {#advanced-tasks-sending}
+   + 傳送 {#advanced-tasks-sending}
       + [設定簽署順序](sign-advanced-users/setting-up-routing.md)
       + [使用委派者角色](sign-advanced-users/delegate-signature.md)
       + [使用核准者角色](sign-advanced-users/add-an-approver.md)
@@ -59,7 +59,7 @@ ht-degree: 0%
       + [管理網頁表單資料](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
    + [概述](admin/intro-admin-overview.md)
-   + 開始 {#getting-started-admin}
+   + 快速入門 {#getting-started-admin}
       + [新管理員快速入門](admin/get-started-admin.md)
       + [為管理員啟動和執行](admin/up-and-running-admin.md)
       + [設定事件和警告的通知](admin/set-up-shared-events-and-alert.md)
@@ -142,7 +142,7 @@ ht-degree: 0%
       + [建立嵌入式電子簽名和檔體驗](develop/embeddedesignature.md)
 + 部署 {#deploy}
    + [概述](deploy-overview.md)
-+ 行動電話 {#mobile}
++ 行動裝置版本 {#mobile}
    + [概述](mobile/mobile-overview.md)
    + 行動裝置教學課程 {#mobile-tutorials}
       + [Acrobat Sign 中的 Liquid Mode](mobile/liquidmode.md)
