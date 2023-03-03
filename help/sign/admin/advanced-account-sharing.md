@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->「進階帳戶共用」僅適用于企業層級計畫。 技術支援可啟用「進階共用」，但一旦啟用後，會以無法復原的方式變更共用物件的關係。 因此，建議您連絡您的客戶成功經理，並設定試用帳戶以供您測試功能，並驗證其允許您想要完成的一切作業。
+>「進階帳戶共用」僅適用于企業層級計畫。 技術支援可啟用「進階共用」，但一旦啟用後，會以無法復原的方式變更共用物件的關係。 因此，建議您聯絡Adobe帳戶團隊，並設定試用帳戶以供您測試功能，並確認其允許您想要完成的所有作業。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
