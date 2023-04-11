@@ -4,7 +4,8 @@ description: 瞭解如何直接在 Acrobat 中新增、編輯、自訂和刪除 
 role: User
 product: adobe acrobat
 level: Intermediate
-source-git-commit: 4d6b38accff980b20dbd4af0e3d8af541bbb2680
+exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -15,4 +16,4 @@ ht-degree: 0%
 
 瞭解如何直接在 Acrobat 中新增、編輯、自訂和刪除 [ Microsoft「許可權資訊 ](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) 」敏感度標籤，以保護 PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?learn=on&hidetitle=true&autoplay=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)

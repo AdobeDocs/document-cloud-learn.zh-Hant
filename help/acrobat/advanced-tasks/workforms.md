@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 [![取得檔案 ](../assets/Getfiles.svg)](../assets/Questionnaire.pdf)
 要練習的範例檔案 （PDF，934 KB）
 
-<br> 
+<br>
 
 ## 瞭解如何使用表單欄位
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ ht-degree: 0%
 
 1. 下載並開啟 *Microsoft.pdf* 。
 1. 在「 **工具」中心選取「準備表格** 」。
-1. 選取&#x200B;**「開始」**。
+1. 選取「 **開始」** 。
 1. 在工具列中選 **取「編輯文字和影像** 」以修正錯字。
 1. 在工具列中選擇「 **選** 取」以退出「編輯」模式。
 1. 選取並刪除最上方的表格欄位。

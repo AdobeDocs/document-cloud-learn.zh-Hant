@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -21,4 +21,4 @@ Digidentity 是歐盟合格的信任服務提供者 （QTSP）。 Digidentity �
 
 本教學課程影片詳述了從收到註冊邀請電子郵件到使用數位 ID 在 Acrobat Sign 中驗證和套用雲端簽名的使用者歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

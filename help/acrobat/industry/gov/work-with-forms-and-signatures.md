@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%
@@ -19,6 +19,6 @@ ht-degree: 6%
 
 ## 秘訣 #4 - 使用表單和簽名 （7：03）
 
->[!VIDEO](https://video.tv.adobe.com/v/34512?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34512?quality=12&learn=on&hidetitle=true)
 
 [前往秘訣 #5 - 在行動裝置上掃描和編輯](scan-and-edit-on-mobile.md)

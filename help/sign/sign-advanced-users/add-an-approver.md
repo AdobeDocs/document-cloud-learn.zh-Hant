@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 22%
@@ -18,7 +18,7 @@ ht-degree: 22%
 
 瞭解如何透過核准程式傳送檔。 在這個範例中，瞭解如何透過人力資源、潛在員工和雇用經理傳送雇用合約。 如果有人需要在傳送文件給簽署者之前先獲得他人確認，就適合使用核准者角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

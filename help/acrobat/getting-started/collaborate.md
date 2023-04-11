@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 無所不在的遠端工作，無縫協作對於快速、大規模地提供內容至關重要。 隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進。
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

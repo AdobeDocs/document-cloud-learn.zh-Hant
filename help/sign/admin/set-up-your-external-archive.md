@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何為已簽署的合約備份建立外部封存檔。 您可以將副本封存至任何電子郵件地址，或封存至 [!DNL Box] Evernote。 已簽署並完成的電子郵件副本會傳送至您指定的電子郵件地址或雲端服務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

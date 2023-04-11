@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%
@@ -19,4 +19,4 @@ ht-degree: 16%
 
 了解如何在 Salesforce.com 的標準物件中建立自訂按鈕。此範例中，自訂按鈕會新增至 **「連絡人** 」中的 [!DNL Salesforce] 。 按下按鈕後，就會啟動傳送程式，並將「連絡人 **」中的資訊** 直接填入合約中。
 
->[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

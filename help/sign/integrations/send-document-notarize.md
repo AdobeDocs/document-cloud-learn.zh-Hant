@@ -6,9 +6,9 @@ product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
-source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Acrobat Sign 已與 Notarize， Inc. 合作提供線上公證服務。 透
 >
 >Acrobat Sign 與 [!DNL Notarize] Inc.的線上公證服務整合，僅適用于美國商業和企業層級服務方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

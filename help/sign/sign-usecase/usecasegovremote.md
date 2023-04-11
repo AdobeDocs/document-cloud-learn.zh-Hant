@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33813.jpg
 exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 使用電子簽名和網路會議來減少向法官索取和安全保證所需的時間。
 
->[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33813?quality=12&learn=on&hidetitle=true)
 
 按一下以下載逐步 PDF 配方，以索取遠端擔保要求。
 
-[! [下載 PDF 配方](../assets/acrobat_PDF_96.png）](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![下載 PDF 配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9277.jpg
 KT: 9277
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 在這 60 秒的教學課程影片中，瞭解如何使用 Illustrator 對 PDF 中的圖形進行進階編輯！ 選取「編輯 PDF」後，在圖形上按一下滑鼠右鍵，然後選擇在Illustrator中進行編輯。 完成後，只需選擇「儲存Illustrator」，然後Acrobat更新 PDF 中的圖稿。
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)

@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 9%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 
 # 使用密碼保護 PDF 檔案
 
-瞭解如何將 [ 密碼新增至 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target=「_blank」} 以保護其他人不開啟或 [ 編輯 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank」}。
+瞭解如何為 [ PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"} 新增密碼。
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ ht-degree: 9%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9276.jpg
 KT: 9276
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 在這 60 秒的教學課程影片中，瞭解如何使用「Photoshop」在 PDF 中對相片進行進階編輯！ 從「編輯 PDF」工具到Photoshop，再往後，此過程順暢無阻，讓您快速輕鬆地完成工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)

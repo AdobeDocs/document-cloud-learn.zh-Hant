@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >企業計畫可使用「大量傳送」工具，在一次交易中傳送最多 300 封電子郵件。 如果您需要一次收集 300 多個簽名，請務必 [ 查看 GigaSign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) 。
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
 [以 ZIP 格式下載範例CSV檔案](../assets/megasign_merge_sample.zip)
 

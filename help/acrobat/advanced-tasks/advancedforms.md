@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
 kt: 9346
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -24,12 +25,12 @@ ht-degree: 7%
 [![取得檔案 ](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
 要練習的範例檔案 （ZIP，1.7 MB）
 
-<br> 
+<br>
 
 >[!TIP]
 >
 >在「一般」類別的「偏好設定」中開啟單一按鍵加速器。
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)
