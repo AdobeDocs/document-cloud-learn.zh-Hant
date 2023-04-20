@@ -5,9 +5,9 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1111'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,47 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 
 ## 每月諮詢
 
+**[使用動作精靈 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}** 實現簡易自動化
+日期：2023 年 11 月 16 日
+停止重複簡單的手動工作。本講座將說明如何在Acrobat Pro使用 Action Wizard 批次處理 PDF 檔案，以及自動執行串列、重複的工作，例如讓檔具備協助工具、保護檔、優化檔案、封存等。 您將瞭解：
+
+* 什麼是動作
+* 如何使用預先建立的動作
+* 如何建立您自己的動作
+* 如何與其他人共用動作
+
+**[解除鎖定紙本檔：大規模 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/46e148fe-92c0-4d79-ac83-8888e9f0521e/dfcf3b90-4390-4c6e-abd9-20ba6e913dc1){target="_blank"}** 數位化
+日期：2023 年 10 月 26 日
+您或您的組織有成堆的紙張需要匯入數位世界，以便讓您和其他人更容易存取嗎？瞭解Acrobat如何使用光學字元辨識 （OCR） 技術，將掃描的檔案轉換為可搜尋、可編輯和可重複使用的 PDF 檔，看起來與原始檔案一樣。 我們也會透過 Power Automate 和 Adobe PDF Services API，分享有關大規模 OCR 技術以及自動化數位化工作流程的秘訣。
+
+**[利用 Acrobat 載入 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/8b4ea780-6e4d-48b6-8c70-ea10245a5a64/b4fe64de-3614-4a6d-94c6-ff6612ac07fb){target="_blank"}** 宏充分運用 Microsoft 應用程式
+日期：2023 年 9 月 28 日
+有了直接內建于 Microsoft 365 中的Acrobat工具和服務，每個人都可以更快地進行業務交易和共同作業，無需切換應用程式。我們將向您展示如何將 PDF 工作流程新增至您每天使用的 Microsoft 應用程式，包括：
+
+* Microsoft Teams （在 PDF 上共同作業）
+* SharePoint （建立、合併、組織及轉存 PDF）
+* Word、Excel、PowerPoint （建立 PDF 並共同作業）
+* Outlook （建立 PDF）
+
+**[探索內建 PDF 安全性 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/b454ab64-9c2e-4aec-bcf9-ca82e3a6b869/3a456ace-042e-41c8-8e8c-d285e9ba0ab8){target="_blank"}**
+日期：2023 年 8 月 24 日
+透過自動化的完整稽核記錄、移除敏感資訊的密文、可自訂的 PDF 安全性功能 （如檢視、浮水印、存取控制和加密），減少確保法律檔安全且合規所花費的時間。
+
+* Microsoft 365 應用程式中的 PDF 安全性 （Word、Excel、PPT、Outlook）
+* Adobe應用程式 （InDesign、Illustrator、Photoshop、InCopy） 中的 PDF 安全性
+* 新增用於檢視、編輯等的密碼。
+* 收件者可使用的動作
+* 保護多個檔案 （大量）
+* 移除 PDF 中的敏感性資訊 （標記密文、淨化、隱藏敏感性資訊）
+
+**[PDF 表格 201：進一步提升您的表格技能 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
+日期：2023 年 7 月 27 日
+隨著我們深入瞭解Acrobat提供的進階選項，讓您的PDF forms更上一層樓。本講座內容包括：
+
+* 建立線上表格，以便隨時隨地輕鬆收集資料和簽名
+* 使用JavaScript以執行更複雜的動作
+* 收件者如何在各種檢視器或瀏覽器中與表格互動
+
 **[PDF 表格 101：建立可填寫的表格 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 日期：2023 年 6 月 29 日
 輕鬆將舊的表格和紙本檔轉換成數位、可填寫的 PDF。Acrobat提供各種方法和工具，協助您進行數位檔轉型。 在本講座中，我們將涵蓋以下內容：
@@ -28,13 +69,13 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 * 瞭解可用欄位類型 （文字、核取方塊、選項按鈕、下拉式清單、行事曆）
 * 使用欄位屬性和生產力工具 （外觀、格式、計算、驗證）
 
-**[在 PDF ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}** 中增加互動功能
+**[建立具備協助工具的 PDF ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 日期：2023 年 5 月 25 日
-讓您的 PDF 更輕鬆且吸引人，讓受眾與之互動。請加入本講座，瞭解如何透過以下方式為 PDF 增添互動性：
+協助確保您的 PDF 內容更易於存取且吸引所有使用者互動。無論您是從具備協助工具的檔開始，還是需要在 Acrobat 中套用協助工具功能，我們將向您展示如何建立符合規範且允許檔通用存取的 PDF。 本講座內容包括：
 
-* 新增超連結和書簽，讓檔導覽更輕鬆
-* 在 PDF 中包含視訊、聲音、3D 等
-* 在單一檔中組織不同類型的內容
+* 檢查 PDF 並新增標籤
+* 從 Microsoft Word 或 Adobe InDesign 建立具備協助工具的 PDF
+* Acrobat協助工具導覽
 
 **[重複使用 PDF 內容：編輯和轉存 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 日期：2023 年 4 月 27 日
@@ -64,31 +105,3 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 **[無論您身在何處，都能提高 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}** 生產力
 日期：2023 年 1 月 26 日
 本講座將教導您如何從任何網頁瀏覽器或行動裝置存取您最愛的Acrobat工具。Acrobat Web 版可讓您隨時隨地工作，Acrobat行動應用程式可將您的工作效率提升至現成的內容。
-
-**[在 Microsoft 應用程式 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target="_blank"}** 中處理 PDF
-日期：2022 年 12 月 15 日
-Acrobat已完全整合至 Microsoft 365 應用程式，因此您不必在螢幕之間切換，也能在工作流程中完成更多工作。在此 Skill Builder 講座中，您將瞭解如何將 PDF 工作流程新增至日常使用的 Microsoft 應用程式，包括 Teams、Outlook、SharePoint、Word、PowerPoint 和 Excel。
-
-**[PDF 協作：共用、審核及協作 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target="_blank"}**
-日期：2022 年 11 月 17 日
-此 Skill Builder 與數位檔協作十分相關。來瞭解與您的團隊一起審核檔的簡單方法，並取得可供您使用的注釋工具導覽。 我們也會討論如何在Microsoft Teams與其他人一起檢閱 PDF，以及如何使用 Acrobat 行動應用程式和網頁Acrobat提供來自任何位置的意見反應。
-
-**[重複使用您的 PDF 內容：編輯和轉存 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target="_blank"}**
-日期：2022 年 10 月 27 日
-瞭解 [ 如何修改現有的 PDF ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target="_blank"} ：編輯文字和影像、新增超連結和書簽、轉換為 Microsoft Word、PowerPoint 和 Excel 檔案等。
-
-**[開始使用Acrobat ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
-日期：2022 年 9 月 22 日
-開始使用 Adobe Acrobat 和 PDF。我們將向您介紹Acrobat介面，並向您展示如何： * [ 將影像檔案 ](https://www.adobe.com/tw/acrobat/online/convert-pdf.html) {target="_blank"} and documents — including Word, Excel, and PowerPoint. * [Combine multiple files](https://www.adobe.com/tw/acrobat/online/merge-pdf.html){target="_blank"} （PDF、Word、影像等） 建立 PDF 轉換為一個可編輯的 PDF。* 使用 Acrobat Web 和行動裝置，隨時隨地完成工作。
-
-**[PDF 安全性 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
-日期：2022 年 8 月 25 日
-取得保護 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target="_blank"} 內容所需的 [ 所有資訊。本講座會分享新增密碼以防止檢視、編輯或列印 PDF 的技術，並展示如何永久移除敏感性資訊，即使是從看不見的中繼資料也一樣！
-
-**[使用動作精靈 ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target="_blank"}** 實現簡易自動化
-日期：2022 年 7 月 28 日
-停止重複簡單的手動工作！本講座將教導如何在Acrobat使用 Action Wizard 批次處理 PDF 檔案，以及自動執行序號、重複性工作。
-
-**[適合所有人的可讀性：建立具備協助工具的 PDF ](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target="_blank"}**
-日期：2022 年 6 月 23 日
-在 PDF 中新增協助工具功能可協助所有讀者存取內容。請加入本講座，瞭解如何使用 Acrobat 建立合規且具備協助工具的 PDF。
