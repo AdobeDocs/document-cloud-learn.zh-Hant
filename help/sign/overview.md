@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -109,10 +109,10 @@ Acrobat Sign 是Adobe Document Cloud解決方案，可透過整合、API、進�
   </td>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="行動電話" src="assets/AS_Title_Mobile.png" />
+      <img alt="行動裝置版本" src="assets/AS_Title_Mobile.png" />
     </a>
     <div>
-    <a href="mobile/mobile-overview.md"><strong>行動電話</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>行動裝置</strong></a>
     </div>
     <em>在行動裝置上傳送、追蹤和取得即時更新</em>
     <br>
