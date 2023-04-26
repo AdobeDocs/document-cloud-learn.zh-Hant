@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [Acrobat Sign + Workday 新進員工到職工作 ](acrobat-sign-workday-onboarding.md)
+瞭解如何使用 Acrobat Sign + Workday 簡化登入工作流程
 * [傳送檔以供公證 ](send-document-notarize.md)
 在這三部分教學課程中，瞭解如何傳送檔進行公證、檢視簽署者的體驗，以及接收結果
-* [透過 Power Automate ](auto-archive-sharepoint-power-automate.md) 在 SharePoint 中自動封存檔案
-瞭解如何使用 Power Automate 自動將已簽署的檔封存至 SharePoint 資料庫
 
 ## Microsoft 整合教學課程
 
