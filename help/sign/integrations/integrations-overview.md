@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ ht-degree: 0%
       <img alt="使用 Workday 設定 Acrobat Sign" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>使用 Workday 設定 Acrobat Sign</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>使用 Workday 設定 Acrobat Sign</strong></a>
     </div>
     <em>瞭解如何將 Acrobat Sign 設定為直接在 Workday 中運作，以順暢管理所有人力資源文書工作</em>
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign + Workday 新進員工到職工作" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday 新進員工到職工作</strong></a>
+    </div>
+    <em>瞭解如何使用 Acrobat Sign + Workday 簡化登入工作流程</em>
     <br>
   </td>
   <td>
