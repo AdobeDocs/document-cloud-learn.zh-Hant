@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 6%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![Acrobat快速入門影像](../assets/Hero-GettingStarted.png)
 
-透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [ 編輯 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank」}，此內容旨在協助您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [ 編輯 PDF 檔案 ](https://www.adobe.com/acrobat/online/pdf-editor.html) {target="_blank"} ，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## 快速入門教學課程
 
@@ -255,7 +255,7 @@ ht-degree: 6%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
     <br>
   </td>
   <td>
@@ -291,12 +291,12 @@ ht-degree: 6%
     <br>
   </td>
   <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
+   <img alt="間隔" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="間隔" src="../assets/Whitespacer.png" />
+   <img alt="間隔" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
