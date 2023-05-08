@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 193bed355e602b569d475e7c1604fd0ccd5582fb
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ## Acrobat SDK
 
-[Acrobat SDK ](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/) {target=&quot;_blank&quot;} 是一組工具，可協助您開發與Acrobat技術互動的軟體。
+Acrobat [ SDK ](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/) {target="_blank"} 是一組工具，可協助您開發與Acrobat技術互動的軟體。
 
-## Adobe檔服務 API
+## Adobe Acrobat服務 API
 
-[Adobe PDF服務API ](https://developer.adobe.com/document-services/apis/pdf-services/) {target=&quot;_blank&quot;}
-[Adobe PDF Extract API ](https://developer.adobe.com/document-services/apis/pdf-extract/) {target=&quot;_blank&quot;}
-[Adobe檔產生API ](https://developer.adobe.com/document-services/apis/doc-generation/) {target=&quot;_blank&quot;}
-[Adobe PDF嵌入API ](https://developer.adobe.com/document-services/apis/pdf-embed/) {target=&quot;_blank&quot;}
-[Adobe檔服務教學課程 ](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html) {target=&quot;_blank&quot;}
+[Adobe PDF服務」API ](https://developer.adobe.com/document-services/apis/pdf-services/) {target="_blank"} [ Adobe PDF「擷取API Adobe {target="_blank"} ](https://developer.adobe.com/document-services/apis/pdf-extract/) [ 檔產生API [ {target="_blank"} ](https://developer.adobe.com/document-services/apis/doc-generation/) Adobe PDF嵌入API Adobe Acrobat ](https://developer.adobe.com/document-services/apis/pdf-embed/) {target="_blank"} [ 服務」教學課程
+
+
+
+](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
