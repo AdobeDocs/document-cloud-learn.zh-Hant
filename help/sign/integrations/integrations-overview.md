@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -104,6 +104,11 @@ ht-degree: 0%
     <a href="documentautomation.md"><strong>檔自動化與 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>瞭解如何啟用和使用應用程式的 [!DNL Acrobat Sign] [!DNL Adobe PDF Tools] 連接器 [!DNL Microsoft Power]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
