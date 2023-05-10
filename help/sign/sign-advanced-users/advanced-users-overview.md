@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -18,16 +18,16 @@ ht-degree: 3%
 
 ![簽署進階影像](../assets/Hero-Advanced.png)
 
-瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合任何已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
+瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
 
 ## 新增功能
 
+* [Acrobat Sign ](authentication-methods.md) 中的Authentication方法
+瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法範圍
 * [設定線上付款 ](set-up-online-payments.md)
 瞭解如何在檔中設定和接受線上付款
-* [建立報告 ](creating-a-report.md)
-瞭解如何建立您自己的報告，以瞭解檔簽署流程
 
-## 正在傳送
+## 傳送
 
 <table style="table-layout:fixed">
 <tr>
@@ -62,6 +62,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Authentication簽署Acrobat方法" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Authentication簽署Acrobat方法</strong></a>
+    </div>
+    <em>瞭解 Acrobat Sign 提供的身分驗證方法範圍</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="設定線上付款" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ ht-degree: 3%
     <em>瞭解如何在檔中設定和接受線上付款</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>「傳送」並大量收集簽名</strong></a>
+      </div>
+      <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="建立網頁表單" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>建立網頁表單</strong></a>
+      </div>
+      <em>建立可直接在您的網站上進行電子簽署的檔</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
+      </div>
+      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>「傳送」並大量收集簽名</strong></a>
-    </div>
-    <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="建立網頁表單" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>建立網頁表單</strong></a>
-    </div>
-    <em>建立可直接在您的網站上進行電子簽署的檔</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
-    </div>
-    <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="使用文字標記登入 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文字標記登入 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的檔範本 [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
