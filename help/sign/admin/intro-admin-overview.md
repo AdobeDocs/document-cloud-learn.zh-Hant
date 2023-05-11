@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>已啟動並執行管理員</strong></a>
     </div>
-    <em>管理員在 Acrobat Sign 中快速上手和執行的 7 個關鍵領域概覽</em>
+    <em>管理員在 Acrobat Sign 中快速上手和執行的 7 個關鍵區域概覽</em>
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="新增 Ssers" src="../assets/Adding-Users.png" />
+      <img alt="新增使用者" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>新增使用者</strong></a>
@@ -116,6 +116,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="使用者的報告選項" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>使用者的報告選項</strong></a>
+    </div>
+    <em>瞭解如何為使用者設定報告選項</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="建立網頁表單" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ ht-degree: 1%
     <em>針對任何檔，一次收集數百個簽名</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="設定工作流程" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ ht-degree: 1%
     <em>自動化檔工作流程，快速取得電子簽名和資料</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## 進階工作
