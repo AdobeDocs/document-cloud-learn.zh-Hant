@@ -1,21 +1,21 @@
 ---
 title: 新增使用者
-description: 瞭解如何個別或大量新增使用者到您的 Acrobat Sign 帳戶
+description: 新增和管理使用者的 Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: 17356.jpg
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 611ce75f67c69c7a493cd09d399120030386788a
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 12%
+source-wordcount: '30'
+ht-degree: 20%
 
 ---
 
 # 新增使用者
 
-瞭解如何個別或大量新增使用者到您的 Acrobat Sign 帳戶。
+瞭解如何新增和管理 Acrobat Sign 的使用者。 使用者管理會在 [ Admin Console ](https://adminconsole.adobe.com/tw) 中進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/17356?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3419315?quality=12&learn=on&hidetitle=true)
