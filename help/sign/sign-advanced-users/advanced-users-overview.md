@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 3%
 
 * [Acrobat Sign ](authentication-methods.md) 中的Authentication方法
 瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法範圍
-* [設定線上付款 ](set-up-online-payments.md)
-瞭解如何在檔中設定和接受線上付款
+* [管理表格資料 ](manage-form-data.md)
+瞭解如何整合檔中的表格資料
 
 ## 傳送
 
@@ -74,6 +74,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="管理表格資料" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>管理表格資料</strong></a>
+      </div>
+      <em>瞭解如何整合檔中的表格資料</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="設定線上付款" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ ht-degree: 3%
       </div>
       <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="建立網頁表單" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>建立網頁表單</strong></a>
-      </div>
-      <em>建立可直接在您的網站上進行電子簽署的檔</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>建立網頁表單</strong></a>
+    </div>
+    <em>建立可直接在您的網站上進行電子簽署的檔</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ ht-degree: 3%
       <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="使用文字標記登入 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文字標記登入 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的檔範本 [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
