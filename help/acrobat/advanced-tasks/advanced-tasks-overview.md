@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat快速入門影像](../assets/Hero-AdvancedTasks.png)
 
 使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
+
+## 新增功能
+
+* [使用網頁Acrobat隨處工作 ](optimizeseo.md)
+瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
 
 ## 進階工作教學課程
 
@@ -109,10 +114,10 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/Action.jpg" />
+      <img alt="動作精靈" src="../assets/Action.jpg" />
     </a>
     <div>
-    <a href="action.md"><strong>Action Wizard</strong></a>
+    <a href="action.md"><strong>動作精靈</strong></a>
     </div>
     <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
     <br>
@@ -134,7 +139,7 @@ ht-degree: 3%
     <div>
     <a href="reduce.md"><strong>縮減檔案大小和優化</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF</em>
+    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
     <br>
   </td>
   <td>
