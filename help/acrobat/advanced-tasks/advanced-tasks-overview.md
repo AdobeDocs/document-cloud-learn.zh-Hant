@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: d69bc986a03d218b61b92b3a8129d8e21116e2bf
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 ## 新增功能
 
-* [使用網頁Acrobat隨處工作 ](optimizeseo.md)
+* [為SEO優化 PDF （Search引擎優化） ](optimizeseo.md)
 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
 
 ## 進階工作教學課程
