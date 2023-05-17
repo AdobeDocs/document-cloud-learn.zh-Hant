@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 5%
 
 * [使用網頁Acrobat隨處工作 ](acrobatweb.md)
 瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求
+* [即時 ](collaborate.md) 共同作業
+隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進
 
 ## 快速入門教學課程
 
