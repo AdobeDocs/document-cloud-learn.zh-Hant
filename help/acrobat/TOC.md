@@ -2,17 +2,17 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 
 # Acrobat教學課程 {#acrobat-learning}
 
-+ [概觀](overview.md)
++ [概述](overview.md)
 + 快速入門 {#getting-started}
    + [概述](getting-started/getting-started-overview.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [將表格欄位新增至未標記的 PDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
    + [概述](60-second/60-second-overview.md)
-   + [快速建立更有效率的 PDF 檔案](60-second/optimize.md)
-   + [使用密碼保護 PDF 檔案](60-second/protect.md)
-   + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
-   + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
-   + [從手機Export PDF至 Word](60-second/exportwordphone.md)
+   + [使用網頁Acrobat編輯 PDF](60-second/edit.md)
    + [識別掃描的 PDF 檔案中的文字](60-second/textrecognition.md)
    + [將多個檔案合併為一個 PDF](60-second/combine-to-one-pdf.md)
-   + [使用網頁Acrobat編輯 PDF](60-second/edit.md)
-   + [一次Search多個 PDF 檔案](60-second/search.md)
-   + [立即建立相片的 PDF](60-second/photo.md)
-   + [在手機上將 PPT 檔案轉換為 PDF](60-second/phone.md)
-   + [電子簽署紙本檔](60-second/sign.md)
-   + [將 PDF 注釋載入InDesign](60-second/indesign.md)
+   + [快速組織頁面](60-second/organize.md)
    + [在 PDF 中編輯相片](60-second/editphoto.md)
    + [在 PDF 中編輯圖形](60-second/editgraphic.md)
-   + [快速組織頁面](60-second/organize.md)
+   + [從手機Export PDF至 Word](60-second/exportwordphone.md)
+   + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
+   + [立即建立相片的 PDF](60-second/photo.md)
+   + [在手機上將 PPT 檔案轉換為 PDF](60-second/phone.md)
+   + [快速建立更有效率的 PDF 檔案](60-second/optimize.md)
+   + [電子簽署紙本檔](60-second/sign.md)
+   + [使用密碼保護 PDF 檔案](60-second/protect.md)
+   + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
+   + [一次Search多個 PDF 檔案](60-second/search.md)
+   + [將 PDF 注釋載入InDesign](60-second/indesign.md)
 + 技術等級 {#skill-builders}
    + [網路講座](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
@@ -101,7 +101,7 @@ ht-degree: 0%
          + [秘訣 #3 – 保護數位檔](industry/gov/protect-digital-documents.md)
          + [秘訣 4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
          + [秘訣 5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
-      + 協助功能 {#pdfs}
+      + 協助工具 {#pdfs}
          + [使 PDF 具備協助工具](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 瞭解協助工具](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)
@@ -112,7 +112,7 @@ ht-degree: 0%
 + 部署 {#deploy}
    + [概述](deploy/deploy-overview.md)
    + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
-+ 行動電話 {#mobile}
++ 行動裝置版本 {#mobile}
    + [概述](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [將任何內容掃描成 PDF](mobile/scan-mobile-app.md)
