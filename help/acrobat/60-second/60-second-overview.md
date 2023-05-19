@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
+source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
 workflow-type: tm+mt
 source-wordcount: '643'
 ht-degree: 0%
@@ -130,11 +130,12 @@ ht-degree: 0%
       <img alt="將 PDF 轉換為 PowerPoint" src="../assets/60sec_convertppt.png" />
     </a>
     <div>
-    <a href="convert-pdf-excel.md"><strong>將 PDF 轉換為 PowerPoint</strong></a>
+    <a href="convert-pdf-powerpoint.md"><strong>將 PDF 轉換為 PowerPoint</strong></a>
     </div>
     <em>將 PDF 檔案轉換為可完全編輯的 Microsoft PowerPoint 檔</em>
     <br>
   </td>
+  <td>
     <a href="exportwordphone.md">
       <img alt="從手機Export PDF至 Word" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
