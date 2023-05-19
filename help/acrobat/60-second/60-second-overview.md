@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="將 PDF 轉換為 Word" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>將 PDF 轉換為 Word</strong></a>
+    </div>
+    <em>將 PDF 檔案轉換為可完全編輯的 Microsoft Word 檔</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="將 PDF 轉換為 Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>將 PDF 轉換為 Excel</strong></a>
+    </div>
+    <em>將 PDF 檔案轉換為可完全編輯的 Microsoft Excel 檔</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="將 PDF 轉換為 PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>將 PDF 轉換為 PowerPoint</strong></a>
+    </div>
+    <em>將 PDF 檔案轉換為可完全編輯的 Microsoft PowerPoint 檔</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="從手機Export PDF至 Word" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>使用 Acrobat 行動應用程式，將 PDF 檔案轉換為可完全編輯的 Microsoft Word 檔</em>
     <br>
-  </td>
-  <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>檢查 PDF 是否可供存取</em>
     <br>
   </td>
-  <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="將 PDF 符合標準格式" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>將 PDF 符合標準格式</strong></a>
+    </div>
+    <em>瞭解如何根據 PDF/X、PDF/A 或 PDF/E 等 PDF 標準驗證 PDF 內容</em>
+    <br>
   </td>
   <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />

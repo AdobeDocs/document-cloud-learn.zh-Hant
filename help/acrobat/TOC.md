@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '434'
 ht-degree: 6%
 
 ---
@@ -67,6 +67,9 @@ ht-degree: 6%
    + [快速組織頁面](60-second/organize.md)
    + [在 PDF 中編輯相片](60-second/editphoto.md)
    + [在 PDF 中編輯圖形](60-second/editgraphic.md)
+   + [將 PDF 轉換為 Word](60-second/convert-pdf-word.md)
+   + [將 PDF 轉換為 Excel](60-second/convert-pdf-excel.md)
+   + [將 PDF 轉換為 PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [從手機Export PDF至 Word](60-second/exportwordphone.md)
    + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
    + [立即建立相片的 PDF](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 6%
    + [電子簽署紙本檔](60-second/sign.md)
    + [使用密碼保護 PDF 檔案](60-second/protect.md)
    + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
+   + [將 PDF 符合標準格式](60-second/conform.md)
    + [一次Search多個 PDF 檔案](60-second/search.md)
    + [將 PDF 注釋載入InDesign](60-second/indesign.md)
 + 技術等級 {#skill-builders}
