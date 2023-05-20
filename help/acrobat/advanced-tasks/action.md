@@ -1,5 +1,5 @@
 ---
-title: Action Wizard
+title: 動作精靈
 description: 使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作
 role: User
 product: adobe acrobat
@@ -9,7 +9,7 @@ exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
 source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 

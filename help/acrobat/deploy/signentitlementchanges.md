@@ -1,6 +1,6 @@
 ---
 title: 適用于ETLA客戶的重要 Acrobat DC 產品更新
-description: 瞭解從 2020 年 8 月到 2020 年 11 月 20 日為止，ETLA （企業授權合約） 方案中對 Acrobat DC 權益進行重要變更
+description: 瞭解 2020 年 8 月到 2020 年 11 月 20 日ETLA （企業授權合約） 優惠中對 Acrobat DC 權益的重要變更
 role: Admin
 product: adobe acrobat
 level: Intermediate
@@ -8,8 +8,8 @@ thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] （也稱為 Adobe Sign Pro） 將從 2020 年 8 月起從 ETLA （企業授權合約） 優惠中包含的所有 Acrobat DC 權益取消布建，並持續到 2020 年 11 月 20 日。 [!DNL Adobe Sign Individual] 不提供企業級功能，且應更換為適用于企業的 Adobe Sign 客戶。 這包括以獨立應用程式授權的 Acrobat DC，以及適用於企業的 Creative Cloud – 完整應用程式中一併授權Acrobat DC。
 
-[!DNL Adobe Sign Individual]您可以透過Adobe Sign工具或 **「填寫和簽署** 」工具 （請求 [ 簽名 ](https://www.adobe.com/acrobat/online/request-signature.html) {target=「_blank **** }） 在Acrobat中取得存取權。
+[!DNL Adobe Sign Individual]您可以透過「Adobe Sign」工具或 **「** 填寫和簽署 **」工具 （ [ 請求籤名 ](https://www.adobe.com/tw/acrobat/online/request-signature.html) {target="_blank"} ） 在Acrobat** 中存取。
 
 ![[!DNL Adobe Sign Individual] 在 Acrobat DC 中存取](../assets/Deploy_SignEntitle1.png)
 
@@ -25,11 +25,11 @@ ht-degree: 5%
 
 ## 我們為何要取消布建此功能？
 
-[在 2018 年 10 月，我們發佈了全新的 Acrobat DC ](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC) 。 這個最新版本包含了新的工具和功能，可讓您更妥善地在行動裝置、網頁和桌上型電腦上處理 PDF，以及全新的協作工具。 身為 Acrobat DC 訂閱者，您應該已經擁有這些絕佳功能。 我們發佈的另一個主要更新是電子簽名解決方案 Adobe Sign。
+[在 2018 年 10 月，我們發佈了全新的 Acrobat DC ](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC) 。 這個最新版本包含了新的工具和功能，可讓您更妥善地在行動裝置、網頁和桌上型電腦上處理 PDF，以及全新的協作工具。 身為 Acrobat DC 訂閱者，您應該已經擁有這些絕佳功能。 我們發佈的另一個主要更新是電子簽名解決方案Adobe Sign。
 
 在 2018 年 10 月版本之前，Acrobat DC 使用者能夠使用已布 [!DNL Adobe Sign Individual] 建權益的「填寫和簽署」（或「傳送以供簽署」） Acrobat 標記為「填寫和簽署」（或「Adobe Sign 傳送以供簽署」） 的工具，傳送檔以索取電子簽名。
 
-雖然擁有此選項提供了擷取電子簽名的絕佳方式，但我們已取消布建 [!DNL Adobe Sign Individual] ，因為它不會提供透過 Adobe Sign Enterprise 提供的企業級別功能，例如：
+雖然擁有這個選項提供了擷取電子簽名的絕佳方式，但我們已取消布建 [!DNL Adobe Sign Individual] ，因為它不會提供透過 Adobe Sign Enterprise 提供的企業級別功能，例如：
 
 * 能夠集中管理具有傳送合約或簽署許可權的使用者
 * 允許管理員管理在整個組織中傳送和使用的合約
@@ -52,7 +52,7 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 
 ## 存取現有合約
 
-使用者仍可透過Adobe Document Cloud在 HTTPs://documentcloud.adobe.com 以其Adobe ID登入，存取此動作之前傳送的任何合約。 如果預定將此使用者移轉至 Sign Enterprise，他們將需要依照這些 [ 指示進行 ](https://helpx.adobe.com/tw/sign/kb/how-to-download-signed-documents---adobe-sign.html) 。
+使用者仍可透過Adobe Document Cloud在 HTTPs://documentcloud.adobe.com 以其Adobe ID登入，以存取此動作之前傳送的任何合約。 如果預定將此使用者移轉至 Sign Enterprise，他們將需要依照這些 [ 指示進行 ](https://helpx.adobe.com/tw/sign/kb/how-to-download-signed-documents---adobe-sign.html) 。
 
 ## 無 [!DNL Sign Individual] 權利Acrobat DC 體驗
 
@@ -70,8 +70,8 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 
 * [登入 Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [管理檔案 （我的檔案在哪裡？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
-* [使用 [!UICONTROL  Acrobat Customization Wizard ] 進行設定](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Admin Console概覽 ](https://helpx.adobe.com/enterprise/using/admin-console.html)
-* [在Admin Console上 [!UICONTROL  管理Adobe Sign]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [使用 [!UICONTROL  Acrobat Customization Wizard ] 進行設定](https://www.adobe.com/tw/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [Admin Console概覽 ](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
+* [在Admin Console上 [!UICONTROL  管理Adobe Sign]](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)
 
 **** 2020 年 5 月 20 日修訂;原始貼文 – 2019 年 8 月

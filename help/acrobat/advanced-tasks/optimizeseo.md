@@ -1,6 +1,6 @@
 ---
 title: 為SEO優化 PDF （Search引擎優化）
-description: 瞭解如何優化 PDF 以提升在網路上的可探索性和搜尋引擎排名
+description: 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
 role: User
 product: adobe acrobat
 level: Experienced
@@ -8,7 +8,7 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -58,7 +58,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 +++
 
-<br> 
+<br>
 
 ## 3. 標記您的 PDF
 
@@ -82,11 +82,11 @@ PDF 檔案的標題和元描述就像網頁一樣。
 >
 >僅適用于 Acrobat Pro。
 
-<br> 
+<br>
 
 ## 4. 準備使用網頁版
 
-將 PDF 的互動體驗優化，將其準備用於網頁檢視，並 [ 降低 PDF 檔案大小 ](https://www.adobe.com/tw/acrobat/online/compress-pdf.html) {target=「_blank}。
+為 PDF 的網頁檢視 [ 和縮減 PDF 檔案大小做好準備，優化與 PDF 互動的體驗 ](https://www.adobe.com/tw/acrobat/online/compress-pdf.html) {target="_blank"} 。
 
 +++檢視如何準備 PDF 網頁版的詳細資訊
 
@@ -106,7 +106,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 +++
 
-<br> 
+<br>
 
 ## 5. 建立關鍵字檔案名
 
@@ -114,21 +114,21 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 建立關鍵字檔案名，如下所示：
 
-當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔案名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
+當 PDF 張貼到網路上時，檔案名會成為URL的一部分。 一個好的做法是讓您的關鍵字優化標題與檔名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或雜湊，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字號或底線。
 
 +++
 
-<br> 
+<br>
 
 ## 6. 保護您的 PDF
 
-最後一個步驟是 [ 保護您的 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target=「_blank」} 以防止未經授權的變更。
+最後一個步驟是 [ 保護您的 PDF ](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) {target="_blank"} ，以防止未經授權的變更。
 
 ++檢視如何保護 PDF 的詳細資訊
 
 按照下列方法保護 PDF：
 
-1. 開啟 **[!UICONTROL 「檔內容」]** （ *Windows 上的 Ctrl+D* 或 *Mac 上的 Cmd+D* ），然後選取「安全性 **[!UICONTROL 」]** 索引標籤。
+1. 開啟 **[!UICONTROL 「文檔內容]** 」（ *Windows 上的 Ctrl+D* 或 *Mac 上的 Cmd+D* ），然後選取「安全性 **[!UICONTROL 」]** 索引標籤。
 1. 檢查 **[!UICONTROL 檔的列印編輯和列印。 您需要密碼才能變更這些設定。]**
 1. 在「允許的變更」下 **[!UICONTROL ：]** 選取「 **[!UICONTROL 無」]** 。
 1. 勾選 **[!UICONTROL 「為視力障礙者啟用螢幕閱讀器裝置的文字存取權」。]**

@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 3%
 
 1. 流覽至「 [ Acrobat 6 版方法 ](http://adobesign.com/public/docs/restapi/v6) API Sign REST。
 
-   ![導覽 Acrobat Sign REST API 6 版方法的螢幕擷圖](assets/embeddedesignature/embed_5.png)
+   ![導覽Acrobat Sign REST API 6 版方法的螢幕擷圖](assets/embeddedesignature/embed_5.png)
 
 1. 將字元當做「持有人」值使用。
 
@@ -91,7 +91,7 @@ ht-degree: 3%
 
 ![建立暫時性檔的螢幕擷圖](assets/embeddedesignature/embed_7.png)
 
-第一次傳送合約後，您準備好加入邏輯。 建立一些輔助程式來減少重複性始終是個好主意。 一些範例如下：
+第一次傳送合約後，您準備好加入邏輯。 建立一些輔助程式來減少重複性始終是個好主意。 以下是一些範例：
 
 **驗證**
 
@@ -123,7 +123,7 @@ ht-degree: 3%
 
 ++檢視如何嵌入簽署體驗的詳細資訊
 
-如果您不希望第一個傳送電子郵件觸發，管理行為的簡單方法是修改API呼叫。
+如果您不希望第一個傳送電子郵件觸發，管理行為的方法很簡單，就是修改API呼叫。
 
 ![不觸發傳送電子郵件的程式碼螢幕擷圖](assets/embeddedesignature/embed_12.png)
 
@@ -133,7 +133,7 @@ ht-degree: 3%
 
 更新合約建立程式後，最後一個步驟是產生簽署URL。 此呼叫也相當簡單，並產生簽署者可用來存取其部分簽署程式的URL。
 
-![產生簽署者URL程式碼的螢幕擷圖](assets/embeddedesignature/embed_14.png)
+![產生簽署者URL的程式碼螢幕擷圖](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >

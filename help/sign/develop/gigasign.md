@@ -24,7 +24,7 @@ Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上�
 
 [下載 GigaSign Zip 檔案](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[JAVA 1.8 下載連結 （僅在需要時） ](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[JAVA 1.8 下載連結 （僅需視需要） ](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [IP 位址至白名單 （僅視需要）](https://helpx.adobe.com/tw/sign/system-requirements.html#IPs){target="_blank"}
 

@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
 # 掃描與 OCR
 
-將檔掃描或影像轉換為可搜尋、 [ 可編輯的 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank}，持續推動業務發展。
+將檔掃描或影像轉換為可搜尋、可編輯的 PDF 檔案 ](https://www.adobe.com/acrobat/online/pdf-editor.html) {target="_blank"} ， [ 持續推動業務發展。
 
 >[!TIP]
 >

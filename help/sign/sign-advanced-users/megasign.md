@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 「傳送」並大量收集簽名
 
-瞭解如何透過幾個簡短步驟收集數百個簽名。 在此使用案例中，每個人都會收到要簽署的免責聲明書，您可以追蹤每份責任豁免書的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的線上簽名都是安全且具法律效力的。
+瞭解如何透過幾個簡短步驟收集數百個簽名。 在此使用案例中，每個人都會收到自己要簽署的免責聲明書，您可以追蹤每份責任豁免書的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的線上簽名都是安全且具法律效力的。
 
 查看此額外的真實電話 [ 工作合約 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) 使用案例。
 

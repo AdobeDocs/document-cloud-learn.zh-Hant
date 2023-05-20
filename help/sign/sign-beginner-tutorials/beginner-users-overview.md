@@ -26,7 +26,7 @@ ht-degree: 5%
 * [設定截止日期和提醒 ](set-deadlines-reminders.md)
 瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔
 
-## 正在傳送
+## 傳送
 
 <table style="table-layout:fixed">
 <tr>
@@ -142,7 +142,7 @@ ht-degree: 5%
 </tr>
 </table>
 
-## Signing
+## 正在簽署
 
 <table style="table-layout:fixed">
 <tr>

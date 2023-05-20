@@ -35,7 +35,7 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 
 **[利用 Acrobat 載入 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/8b4ea780-6e4d-48b6-8c70-ea10245a5a64/b4fe64de-3614-4a6d-94c6-ff6612ac07fb){target="_blank"}** 宏充分運用 Microsoft 應用程式
 日期：2023 年 9 月 28 日
-有了直接內建于 Microsoft 365 中的Acrobat工具和服務，每個人都可以更快地進行業務交易和共同作業，無需切換應用程式。我們將向您展示如何將 PDF 工作流程新增至您每天使用的 Microsoft 應用程式，包括：
+有了直接內建于 Microsoft 365 中的Acrobat工具和服務，每個人都可以更快速地進行業務交易和共同作業，無需切換應用程式。我們將向您展示如何將 PDF 工作流程新增至您每天使用的 Microsoft 應用程式，包括：
 
 * Microsoft Teams （在 PDF 上共同作業）
 * SharePoint （建立、合併、組織及轉存 PDF）
@@ -44,7 +44,7 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 
 **[探索內建 PDF 安全性 ](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/b454ab64-9c2e-4aec-bcf9-ca82e3a6b869/3a456ace-042e-41c8-8e8c-d285e9ba0ab8){target="_blank"}**
 日期：2023 年 8 月 24 日
-透過自動化的完整稽核記錄、移除敏感資訊的密文、可自訂的 PDF 安全性功能 （如檢視、浮水印、存取控制和加密），減少確保法律檔安全且合規所花費的時間。
+透過自動化的完整稽核記錄、移除敏感資訊的密文、可自訂的 PDF 安全性功能 （例如檢視、浮水印、存取控制和加密），減少確保法律檔安全且合規所花費的時間。
 
 * Microsoft 365 應用程式中的 PDF 安全性 （Word、Excel、PPT、Outlook）
 * Adobe應用程式 （InDesign、Illustrator、Photoshop、InCopy） 中的 PDF 安全性

@@ -32,7 +32,7 @@ ht-degree: 1%
 
 Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
 
-![管理員](assets/adminTerminal.png)
+![管理](assets/adminTerminal.png)
 
 * 按一下 **[!UICONTROL 「Dynamics 實體同步」]** 。
 
@@ -50,7 +50,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
    * **[!UICONTROL 如果您想要在 Dynamics 中將帳戶新增至合約時觸發「帳戶」底下的物件「同步]** 」。
 
-   * **在所需的父級 （商機、連絡人或帳戶） 下方啟用合約物件的同步** 功能。
+   * **在所需的父級 （商機、連絡人或帳戶） 下方，啟用合約物件的同步** 功能。
 
    ![自訂物件](assets/enableSyncDynamics.png)
 
@@ -98,7 +98,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 1. 按一下 **[!UICONTROL 右上方的「管理員]** 」。
 
-   ![管理員](assets/adminTab.png)
+   ![管理](assets/adminTab.png)
 
 1. 按一下 **[!UICONTROL 「Webhook」]** ，然後按一下 **[!UICONTROL 「新增 Webhook」]** 。
 
@@ -151,4 +151,4 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 1. 現在已為新增至合約的潛在客戶設定 SMS 通知行銷活動。
 >[!TIP]
 >
->本教學課程 [ 包含Acrobat適用于 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign 可在 Experience League 上免費取得，以加速銷售週期！
+>本教學課程 [ 包含 Acrobat適用于 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign，可在 Experience League 上免費使用，以加速銷售週期！

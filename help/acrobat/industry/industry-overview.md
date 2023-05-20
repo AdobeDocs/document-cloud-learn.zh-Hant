@@ -30,7 +30,7 @@ ht-degree: 0%
     <div>
     <a href="gov/gov-overview.md"><strong>政府機關教學課程</strong></a>
     </div>
-    <em>探索專為聯邦、州政府和地方政府設計的Acrobat教學課程</em>
+    <em>探索專為聯邦政府、州政府和地方政府設計的Acrobat教學課程</em>
     <br>
   </td>
   <td>

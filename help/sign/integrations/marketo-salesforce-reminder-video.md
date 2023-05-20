@@ -11,7 +11,7 @@ exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [ 。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. 安裝 Acrobat Sign for Salesforce。
+1. 安裝適用於 Salesforce 的 Acrobat Sign.
 
    有關此增效模組的資訊請參閱 [ 這裡。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

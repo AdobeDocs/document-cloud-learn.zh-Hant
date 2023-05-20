@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat Sign 主圖影像](assets/Hero_Sign.jpg)
 
-Acrobat Sign 是Adobe Document Cloud解決方案，可透過整合、API、進階驗證、其他管理功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手。
+Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階驗證、其他管理員功能等滿足您組織的需求。 在這裡，您可以找到各式各樣的學習體驗，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手。
 
 ## 學習路徑
 

@@ -9,7 +9,7 @@ kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 1%
 [![取得檔案 ](../assets/Getfiles.svg)](../assets/Enhance.zip)
 要練習的範例檔案 （ZIP，342 KB）
 
-<br> 
+<br>
 
 ## 瞭解如何新增背景圖形
 
-使用「 [ 編輯 PDF」工具 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target=「_blank」} 來新增背景圖形至您的 PDF。
+使用「 [ 編輯 PDF」工具 ](https://www.adobe.com/acrobat/online/pdf-editor.html) {target="_blank"} 將背景圖形新增至 PDF。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
-<br> 
+<br>
 
 ## 所學：將背景圖形新增至 PDF
 
@@ -52,7 +52,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
-<br> 
+<br>
 
 ## 所學：若要在 PDF 中新增頁尾
 

@@ -5,7 +5,8 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
+exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
+source-git-commit: fa814d526f36ea8686924817554253caf9ad133c
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # 新管理員快速入門
 
-此完整影片指南是專為新的 Acrobat Sign 管理員所設計。 瞭解讓組織開始執行 Acrobat Sign 所需的所有工具。 本詳細指南涵蓋以下主題：
+本完整影片指南是專為新的 Acrobat Sign 管理員所設計。 瞭解讓組織開始執行 Acrobat Sign 所需的所有工具。 本詳細指南涵蓋以下主題：
 
 <table style="table-layout:auto">
 <tr>

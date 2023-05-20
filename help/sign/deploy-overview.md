@@ -1,6 +1,6 @@
 ---
 title: 部署總覽
-description: 部署 Acrobat Sign 的最佳實務文章和寶貴的見解
+description: 部署 Acrobat Sign 的最佳實務文章和有價值的見解
 role: Admin
 product: adobe sign
 solution: Acrobat
@@ -27,7 +27,7 @@ ht-degree: 10%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
+    <a href="https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
     </div>
     <em>瞭解如何在Adobe的企業平臺Adobe Admin Console上管理Acrobat Sign 使用者和授權</em>
     <br>

@@ -10,7 +10,7 @@ kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 ![Acrobat行動影像](../assets/Hero-Mobile.png)
 
-在行動裝置上建立、填寫和 [ 簽署 PDF{ ](https://www.adobe.com/tw/acrobat/online/sign-pdf.html) target=「_blank」}。
+在行動裝置上建立、填寫和 [ 簽署 PDF ](https://www.adobe.com/tw/acrobat/online/sign-pdf.html) {target="_blank"} 。
 
 ## Acrobat Reader行動應用程式教學課程
 
@@ -85,14 +85,14 @@ ht-degree: 2%
 </tr>
 </table>
 
-下載 [ Adobe Acrobat Reader 行動應用程式 ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target=「_blank」} 免費的全球標準，可靠地檢視、批註和簽署 PDF。
+下載 [ Adobe Acrobat Reader 行動應用程式 ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target="_blank"} ，這是免費的全球標準，讓您可靠地檢視、批註和簽署 PDF。
 
-[iOS 行動指南 ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target=「_blank」} 的Acrobat Reader
-[Android 版 Acrobat Reader行動指南 ](https://www.adobe.com/devnet-docs/acrobat/android/en/) {target=「_blank」}
+[iOS 版 Acrobat Reader 行動指南 ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target="_blank"} [ Acrobat Reader for Android 行動指南
+](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-下載 [ Adobe Scan 行動應用程式 ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target=「_blank」} 以擷取任何紙本檔，並將其轉換為高品質的 PDF，內含可搜尋的文字。
+下載 [ Adobe Scan行動應用程式 ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target="_blank"} 以擷取任何紙本檔，並將其轉換為高品質的 PDF，內含可搜尋的文字。
 
-[iOS 行動指南 ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target=「_blank」} 的Adobe Scan
-[Android 版 Adobe Scan行動指南 ](https://www.adobe.com/devnet-docs/adobescan/android/en/) {target=「_blank」}
+[適用于 iOS 行動指南 ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target="_blank"} [ 的 Adobe Scan Adobe Scan for Android 行動指南
+](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-下載 [ Adobe Fill &amp; Sign行動應用程式 ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target=「_blank」} 即可隨時隨地在任何裝置上使用手指或觸控筆填寫、簽署和傳送任何表格。
+下載 [ Adobe Fill &amp; Sign行動應用程式 ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target="_blank"} ，隨時隨地在任何裝置上使用手指或觸控筆填寫、簽署和傳送任何表格。

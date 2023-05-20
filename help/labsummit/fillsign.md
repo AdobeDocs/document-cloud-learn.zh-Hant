@@ -6,7 +6,7 @@ exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,13 +30,13 @@ ht-degree: 1%
 
 **步驟 4：** 使用白色按鈕拍照，然後點一下「 **[!UICONTROL 使用相片」]** 。 點 **[!UICONTROL 一下右上角的「完成]** 」。
 
-**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線 [ 裁切影像 ](https://www.adobe.com/tw/acrobat/online/crop-pdf.html) 。 完成時點 **[!UICONTROL 選「完成]** 」。
+**步驟 5：** 在應用程式底部輕觸 **[!UICONTROL 「裁切]** 」工具並使用輔助線 [ 裁切影像 ](https://www.adobe.com/acrobat/online/crop-pdf.html) 。 完成時點 **[!UICONTROL 選「完成]** 」。
 
 ![本機檔影像](assets/localdoc.jpg)
 
 **步驟 6：** 必要時使用「魔術棒」工具清除影像。 完成時點 **[!UICONTROL 選「完成]** 」。
 
-**步驟 7：** 點選頁面上的任意位置以建立欄位並將必要資訊新增至檔。 選取橢圓形以檢視更多選項。
+**步驟 7：** 點選頁面上任一處以建立欄位並將必要資訊新增至檔。 選取橢圓形以檢視更多選項。
 
 ![填滿影像](assets/fill.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: 在 Acrobat Sign for Salesforce 中建立自訂按鈕
-description: 瞭解如何建立啟動傳送程式和自動填入合約的自訂按鈕
+description: 瞭解如何建立自訂按鈕以啟動傳送程式並自動填入合約
 role: Admin
 product: adobe sign
 solution: Acrobat Sign

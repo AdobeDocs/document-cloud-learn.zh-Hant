@@ -15,7 +15,7 @@ ht-degree: 3%
 
 # 將檔案合併為單一 PDF
 
-要打造最佳客戶體驗，內容的建立速度必須比以往更快。 瞭解如何無縫合並許多不同類型的檔案 （PDF、Word、Excel、PowerPoint、JPEG 等） 轉換為單一 PDF。 [將檔案合併為單一 PDF ](https://www.adobe.com/tw/acrobat/online/merge-pdf.html) {target="_blank"} 可讓您管理和控制傳送給其他人的內容，從而創造更好的體驗。
+要打造最佳客戶體驗，內容的建立速度必須比以往更快。 瞭解如何無縫地合併許多不同類型的檔案 （PDF、Word、Excel、PowerPoint、JPEG 等） 轉換為單一 PDF。 [將檔案合併為單一 PDF ](https://www.adobe.com/tw/acrobat/online/merge-pdf.html) {target="_blank"} 可讓您管理和控制傳送給其他人的內容，從而創造更好的體驗。
 
 >[!TIP]
 >

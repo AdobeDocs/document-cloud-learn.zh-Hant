@@ -1,5 +1,5 @@
 ---
-title: 讓 PDF 具備協助工具，在Acrobat中進行修飾
+title: 讓 PDF 具備協助工具--在Acrobat中進行完稿作業
 description: 完成在Acrobat中建立具備協助工具的檔
 role: User
 product: adobe acrobat
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 使 PDF 具備協助工具：以Acrobat完成作業
+# 使 PDF 具備協助工具：在Acrobat中完成作業
 
 在「使 PDF 具備協助工具」系列的第三個教學課程影片中，瞭解如何使用「Acrobat Pro」中的工具，完成 PDF 檔案的存取。
 

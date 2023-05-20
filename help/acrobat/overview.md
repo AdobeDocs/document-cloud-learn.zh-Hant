@@ -8,8 +8,8 @@ thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 source-git-commit: ceb48d1ab5cad8ee32e3e7833997847050786aad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 

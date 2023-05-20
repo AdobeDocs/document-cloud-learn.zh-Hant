@@ -20,7 +20,7 @@ ht-degree: 0%
 
 [![觀看會議](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[觀看Acrobat簽署文字標記錄製的網路研討會](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[觀看Acrobat簽署網路研討會記錄的文字標記」](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >

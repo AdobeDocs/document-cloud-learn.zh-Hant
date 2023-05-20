@@ -25,7 +25,7 @@ ht-degree: 1%
 
    如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [ 。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. 安裝 Acrobat Sign for Salesforce。
+1. 安裝適用於 Salesforce 的 Acrobat Sign.
 
    有關此增效模組的資訊請參閱 [ 這裡。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marketo Admin Terminal 中會出現幾個新選項。
 
-![管理員](assets/adminTab.png)
+![管理](assets/adminTab.png)
 
 ![物件同步](assets/salesforceAdmin.png)
 
@@ -89,7 +89,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 請先確認您擁有有效 Twilio 帳戶，並購買所需的 SMS 功能。
 
-設定 Marketo - Twilio SMS Webhook 需要您的帳戶中的三個 Twilio 參數。
+設定 Marketo - Twilio SMS Webhook 需要您的帳戶提供三個 Twilio 參數。
 
 - 帳戶 SID
 - 帳戶權杖
@@ -99,7 +99,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 1. **按一下右上方的「管理員** 」。
 
-   ![管理員](assets/adminTab.png)
+   ![管理](assets/adminTab.png)
 
 1. 按一下「 **Webhook」** ，然後按一下「 **新增 Webhook」** 。
 
@@ -137,7 +137,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
    如果「自訂物件同步」的設定已正確完成，您應該會在 Salesforce 檔案夾下方看到下列可供使用的觸發。
 
-1. 按一下並拖曳「新增至合約」至「智慧型清單」。 新增觸發時您希望擁有的任何限制。
+1. 按一下並拖曳「新增至合約」至智慧型清單。 新增觸發時您希望擁有的任何限制。
 
    ![新增至合約 2](assets/addedToAgreement2.png)
 
@@ -151,4 +151,4 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 >[!TIP]
 >
->本教學課程包含 Acrobat Sign for Salesforce 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) （可于 Experience League 日免費取得），為課程 [ 一併加速銷售週期！
+>本教學課程 [ 包含 Acrobat Sign for Salesforce 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) ，Experience League免費提供，可加速銷售週期！

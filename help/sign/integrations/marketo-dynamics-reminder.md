@@ -33,7 +33,7 @@ ht-degree: 2%
 
 Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
 
-![管理員](assets/adminTerminal.png)
+![管理](assets/adminTerminal.png)
 
 1. 按一下 **[!UICONTROL 「Dynamics 實體同步」]** 。
 
@@ -55,7 +55,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
    ![自訂物件](assets/enableSyncDynamics.png)
 
-1. 在新視窗中，根據「合約」選取您要的屬性，然後啟用「限制 **」和** 「觸發」 **下方** 的方塊，以將其公開至您的行銷活動。
+1. 在新視窗中，根據「合約」選取您需要的屬性，然後啟用「限制 **」和** 「觸發器 **」下方** 的方塊，以將其公開至您的行銷活動。
 
    ![自訂同步 1](assets/entitySync1.png)
 
@@ -133,7 +133,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
    ![新電子郵件](assets/createNewEmail.png)
 
-1. 在新標籤中，輸入電子郵件的 **[!UICONTROL 「名稱]** 」和 **[!UICONTROL 「說明]** 」，然後從範本選擇器選取範本。
+1. 在新索引標籤中，輸入 **[!UICONTROL 電子郵件的「名稱]** 」和 **[!UICONTROL 「說明]** 」，然後從範本選擇器中選取範本。
 
    ![範本選擇器](assets/templatePicker.png)
 
@@ -165,7 +165,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
    ![智慧型Campaign 2](assets/smartCampaign2.png)
 
-1. Search用，然後按一下「合約已 ]**存取智慧型清單」，然後按一下並拖**[!UICONTROL  曳至「智慧型清單」。
+1. Search，然後按一下「合約已 ]**存取智慧型清單」，然後按一下並拖**[!UICONTROL  曳至「智慧型清單」。
 
    ![有合約](assets/hasAgreementDynamics1.png)
 
@@ -205,4 +205,4 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 >[!TIP]
 >
->本教學課程 [ 包含Acrobat適用于 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign 可在 Experience League 上免費取得，以加速銷售週期！
+>本教學課程 [ 包含 Acrobat適用于 Microsoft Dynamics 和 Marketo ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign，可在 Experience League 上免費使用，以加速銷售週期！

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 建立檔範本
 
-瞭解如何建立可重複使用的檔範本，並將其新增至Acrobat Sign 資料庫，以供日後使用。 檔範本提供簽署交易的速度和一致性，以及管理檔修訂和變更的功能。
+瞭解如何建立可重複使用的檔範本，並將其新增至您的 Acrobat Sign 資料庫，以供日後使用。 檔範本提供簽署交易的速度和一致性，以及管理檔修訂和變更的功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
 

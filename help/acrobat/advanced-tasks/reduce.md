@@ -1,6 +1,6 @@
 ---
 title: 縮小檔案大小並優化
-description: 在不影響共用、張貼或封存品質的情況下，縮減大型檔案並優化 PDF
+description: 在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF
 role: User
 product: adobe acrobat
 level: Experienced
@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
 1. 從「 **[!UICONTROL 設定」選單中選**[!UICONTROL  取 ]**「標準]** 」，以使用預設設定。
 
-   如果您在「**[!UICONTROL PDF 最佳化程式]**」對話方塊中變更設定，「**設定**」功能表將自動切換為「**自訂**」。
+   如果您在「PDF 優化程式」對話方塊中 **[!UICONTROL 變更任何設定，「** 設定」選單會 **自動切換為** 「自訂」 **。]**
 
 1. 從「相容 ]**于」選單中**[!UICONTROL  選取 **[!UICONTROL 「保留現有]** 檔案」以保留目前的 PDF 版本，或是選擇特定的Acrobat版本。
 

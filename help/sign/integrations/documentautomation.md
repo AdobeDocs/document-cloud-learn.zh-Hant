@@ -10,7 +10,7 @@ exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 ## 第 2 部分：自動化核准流程，以使用 Acrobat Sign 取得電子簽名 {#part2}
 
-在第二部分中，我們以更強大的「流程」建立第一個部分，並測試「流程」，以瞭解它們的實際運作。
+在第二部分中，我們以更強大的「流程」建立第一個部分，並測試兩個「流程」，以瞭解它們的實際運作。
 
 1. 從 Power Automate 介面選 **取左側的範本** 。
 
@@ -247,7 +247,7 @@ ht-degree: 0%
 
 ### 從範本建立流程
 
-1. 登入 https://flow.microsoft.com。
+1. 登入 HTTPs://flow.microsoft.com。
 1. 按一下 **側邊欄中的「範本** 」。
 
    ![選取範本的螢幕擷圖](assets/documentautomation/automation_26.png)
@@ -257,12 +257,12 @@ ht-degree: 0%
 
    ![選取 + 元件的螢幕擷圖](assets/documentautomation/automation_27.png)
 
-1. 在新索引標籤中流覽至「https://www.adobe.com/go/powerautomate_getstarted」。
+1. 在新索引標籤中流覽至「HTTPs://www.adobe.com/go/powerautomate_getstarted」。
 1. 按一下「**開始使用**」。
 
    ![開始使用按鈕螢幕擷圖](assets/documentautomation/automation_28.png)
 
-1. 使用您的 Adobe ID 登入.
+1. 使用您的 Adobe ID 登入。
 
    ![「登入」畫面的螢幕擷圖](assets/documentautomation/automation_29.png)
 
@@ -278,7 +278,7 @@ ht-degree: 0%
 
    ![輸入 PDF 工具認證的螢幕擷圖](assets/documentautomation/automation_32.png)
 
-1. 請按一下&#x200B;**「繼續」**。
+1. 按一下「**繼續**」。
 
    ![按一下「繼續」的位置螢幕擷圖](assets/documentautomation/automation_33.png)
 
@@ -334,12 +334,12 @@ ht-degree: 0%
 
 ### 將流程匯入 Microsoft Power Automate
 
-1. 登入 Microsoft Power Automate （https://flow.microsoft.com）。
+1. 登入 Microsoft Power Automate （HTTPs://flow.microsoft.com）。
 1. 按一下「 **我的流程」** 。
 
    ![選取「我的流程」的位置螢幕擷圖](assets/documentautomation/automation_39.png)
 
-1. 按一下「 **讀入」** 。
+1. 按一下&#x200B;**「讀入」**。
 
    ![讀入畫面螢幕擷圖](assets/documentautomation/automation_40.png)
 
@@ -347,7 +347,7 @@ ht-degree: 0%
 
    ![選取檔案夾的螢幕擷圖](assets/documentautomation/automation_41.png)
 
-1. 按一下「 **讀入」** 。
+1. 按一下&#x200B;**「讀入」**。
 
 1. 按一下「傳送提案給客戶」旁的 **「動作」** 下方的扳手圖示。
 
@@ -367,7 +367,7 @@ ht-degree: 0%
 
 在建立流程後，請執行下列動作：
 
-1. 按一下 **「編輯」** 。
+1. 按一下&#x200B;**「編輯」**。
 
    ![選取編輯位置的螢幕擷圖](assets/documentautomation/automation_44.png)
 
@@ -444,7 +444,7 @@ ht-degree: 0%
 
 ![使用新 PDF 檔案的 SharePoint 目錄螢幕擷圖](assets/documentautomation/automation_53.png)
 
-### 新增「保護」和其他動作來進行流程
+### 在流程中加入「保護」和其他動作
 
 現在您已成功建立流程，您將會編輯流程，以密碼加密 PDF 檔。 這也會逐步說明如何運用其他動作。
 

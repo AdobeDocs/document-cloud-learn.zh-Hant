@@ -1,6 +1,6 @@
 ---
 title: 適用于政府機關的Acrobat
-description: 探索專為聯邦、州政府和地方政府設計的Acrobat教學課程
+description: 探索專為聯邦政府、州政府和地方政府設計的Acrobat教學課程
 role: User
 product: adobe acrobat
 level: Beginner
@@ -96,7 +96,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 辅助工具
+## 協助工具
 
 <table>
 <tr>
@@ -132,12 +132,12 @@ ht-degree: 0%
   </td>
    <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="使 PDF 具備協助工具：以Acrobat完成作業" src="../../assets/Accessibilityacrobat.png" />
+      <img alt="使 PDF 具備協助工具：在Acrobat中完成作業" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>使 PDF 具備協助工具：以Acrobat完成作業</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>使 PDF 具備協助工具：在Acrobat中完成作業</strong></a>
     </div>
-    <em>瞭解如何使用 Acrobat Pro 中的工具，完成 PDF 檔案的存取</em>
+    <em>瞭解如何使用 Acrobat Pro 中的工具，完成 PDF 檔案的存取作業</em>
     <br>
   </td>
 </tr>
