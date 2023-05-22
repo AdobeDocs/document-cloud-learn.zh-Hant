@@ -2,10 +2,10 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [將 PDF 轉換為 Excel](60-second/convert-pdf-excel.md)
    + [將 PDF 轉換為 PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [從手機Export PDF至 Word](60-second/exportwordphone.md)
+   + [從 Microsoft Word 建立 PDF](60-second/word-to-pdf.md)
+   + [使用 Acrobat 建立 PDF 檔案](60-second/create-from-acrobat.md)
    + [將 Word 轉換為 PDF，包括表格欄位](60-second/wordform.md)
    + [立即建立相片的 PDF](60-second/photo.md)
    + [在手機上將 PPT 檔案轉換為 PDF](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [共用以供注釋](60-second/share-comment.md)
    + [在 Teams 中共用 PDF 檔案並加上注釋](60-second/share-comment-teams.md)
    + [使用摘要來排列 PDF 注釋](60-second/summarize-comments.md)
+   + [將 PDF 注釋載入InDesign](60-second/indesign.md)
    + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
    + [將 PDF 符合標準格式](60-second/conform.md)
+   + [使用 PDF 比較找出差異](60-second/compare.md)
    + [一次Search多個 PDF 檔案](60-second/search.md)
-   + [將 PDF 注釋載入InDesign](60-second/indesign.md)
 + 技術等級 {#skill-builders}
    + [網路講座](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
