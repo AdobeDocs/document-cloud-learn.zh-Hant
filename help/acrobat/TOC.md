@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [快速建立更有效率的 PDF 檔案](60-second/optimize.md)
    + [電子簽署紙本檔](60-second/sign.md)
    + [使用密碼保護 PDF 檔案](60-second/protect.md)
+   + [密文：正確方式](60-second/redaction.md)
+   + [共用以供注釋](60-second/share-comment.md)
+   + [在 Teams 中共用 PDF 檔案並加上注釋](60-second/share-comment-teams.md)
+   + [使用摘要來排列 PDF 注釋](60-second/summarize-comments.md)
    + [讓Acrobat協助您製作具備協助工具的 PDF](60-second/accessible.md)
    + [將 PDF 符合標準格式](60-second/conform.md)
    + [一次Search多個 PDF 檔案](60-second/search.md)

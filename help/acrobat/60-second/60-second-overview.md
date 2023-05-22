@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="密文：正確方式" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>密文：正確方式</strong></a>
+    </div>
+    <em>瞭解移除 PDF 敏感性資訊的正確方式</em>
+    <br>
   </td>
   <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ ht-degree: 0%
       <img alt="間隔" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## 共用和審核
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="共用 PDF 以供注釋" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>共用 PDF 以供注釋</strong></a>
+    </div>
+    <em>瞭解如何共用 PDF，以在單一檔案中快速收集多位人員的意見回饋</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="在 Teams 中共用 PDF 檔案並加上注釋" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>在 Teams 中共用 PDF 檔案並加上注釋</strong></a>
+    </div>
+    <em>瞭解如何在 Microsoft Teams 中即時共同處理 PDF 檔案</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="使用摘要來排列 PDF 注釋" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>使用摘要來排列 PDF 注釋</strong></a>
+    </div>
+    <em>瞭解如何建立 PDF 檔案中所有注釋和標注的摘要</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="將 PDF 注釋載入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>將 PDF 注釋載入InDesign</strong></a>
+    </div>
+    <em>瞭解如何在共用審核Acrobat後，將 PDF 注釋加回InDesign</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ ht-degree: 0%
     <em>在 PDF 檔案中開始搜尋，然後開啟「進階Search」，然後搜尋整個 PDF 檔案資料夾</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="將 PDF 注釋載入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>將 PDF 注釋載入InDesign</strong></a>
-    </div>
-    <em>瞭解如何在共用審核Acrobat後，將 PDF 注釋加回InDesign</em>
-    <br>
+ <td>
+      <img alt="間隔" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />
