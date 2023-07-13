@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [整合網頁表單與  [!DNL SharePoint]  線上 ](integrate-web-form-sharepoint-online.md)
+瞭解如何將從網頁表單收集的資料對應到清單中 [!DNL SharePoint]
 * [Acrobat Sign + Workday 新進員工到職工作 ](acrobat-sign-workday-onboarding.md)
 瞭解如何使用 Acrobat Sign + Workday 簡化登入工作流程
-* [傳送檔以供公證 ](send-document-notarize.md)
-在這三部分教學課程中，瞭解如何傳送檔進行公證、檢視簽署者的體驗，以及接收結果
 
 ## Microsoft 整合教學課程
 
