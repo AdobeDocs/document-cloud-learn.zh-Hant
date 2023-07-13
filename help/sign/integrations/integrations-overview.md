@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ ht-degree: 0%
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="傳送檔以供登入 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="整合網頁表單 [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>傳送以供簽署 [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>整合網頁表單 [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>直接在內部傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
+    <em>瞭解如何將從網頁表單收集的資料對應到清單中 [!DNL SharePoint]</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ ht-degree: 0%
     <em>瞭解如何啟用和使用應用程式的 [!DNL Acrobat Sign] [!DNL Adobe PDF Tools] 連接器 [!DNL Microsoft Power]</em>
     <br>
   </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="傳送檔以供登入 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>傳送以供簽署 [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>直接在內部傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>

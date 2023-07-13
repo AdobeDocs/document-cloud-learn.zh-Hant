@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -18,9 +18,9 @@ ht-degree: 10%
 
 # Acrobat Sign 教學課程 {#sign-learning-hub}
 
-+ [概述](overview.md)
++ [概觀](overview.md)
 + 快速入門 {#getting-started}
-   + [概述](sign-beginner-tutorials/beginner-users-overview.md)
+   + [概觀](sign-beginner-tutorials/beginner-users-overview.md)
    + 傳送 {#getting-started-sending}
       + [工作區基本介紹](sign-beginner-tutorials/quick-tour.md)
       + [開始使用 Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -42,7 +42,7 @@ ht-degree: 10%
       + [管理與追蹤您的合約](sign-beginner-tutorials/manage-and-track.md)
       + [建立檔範本](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 進階工作 {#advanced-tasks}
-   + [概述](sign-advanced-users/advanced-users-overview.md)
+   + [概觀](sign-advanced-users/advanced-users-overview.md)
    + 傳送 {#advanced-tasks-sending}
       + [設定簽署順序](sign-advanced-users/setting-up-routing.md)
       + [使用委派者角色](sign-advanced-users/delegate-signature.md)
@@ -60,7 +60,7 @@ ht-degree: 10%
       + [修改現有的網頁表單](sign-advanced-users/modify-webform.md)
       + [管理網頁表單資料](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
-   + [概述](admin/intro-admin-overview.md)
+   + [概觀](admin/intro-admin-overview.md)
    + 快速入門 {#getting-started-admin}
       + [新管理員快速入門](admin/get-started-admin.md)
       + [為管理員啟動和執行](admin/up-and-running-admin.md)
@@ -82,7 +82,7 @@ ht-degree: 10%
       + [使用生技識別設定](admin/use-bio-pharma-settings.md)
       + [Acrobat簽署文字標記](sign-advanced-users/adobe-sign-text-tagging.md)
 + 數位 ID {#digital-id}
-   + [概述](digitalid/digitalid-overview.md)
+   + [概觀](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [使用 Aadhaar 進行簽署](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -94,37 +94,38 @@ ht-degree: 10%
       + [從 Intesi Group （合格） 取得數位 ID](digitalid/intesi-qualified.md)
       + [使用 Intesi 群組進行簽署](digitalid/intesi-sign.md)
 + 整合 {#integrations}
-   + [概述](integrations/integrations-overview.md)
+   + [概觀](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [在 Outlook 中填寫和簽署](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Outlook 中的傳送以供簽署](integrations/send-for-signature-with-outlook.md)
-      + [在 SharePoint Online 中傳送以索取簽名](integrations/send-for-signature-with-sharepoint-online.md)
-      + [SharePoint Online 中的追蹤](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [傳送以供簽署 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [填寫和登入 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [傳送以供簽署 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [傳送以供簽署 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [追蹤方式 [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [整合網頁表單 [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [使用下列方式  [!DNL SharePoint]  自動存檔檔案 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [使用適用于 Microsoft Power Platform 的 Acrobat Sign 進行檔自動化](integrations/documentautomation.md)
+      + [使用 Acrobat Sign 進行檔自動化 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [傳送以供簽署 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + 公證 {#notarize}
       + [傳送檔以供公證](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [適用于 Salesforce 的檔建立程式](integrations/create-an-agreement-template.md)
+      + [Document Builder for [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [設定資料對應](integrations/set-up-data-mapping.md)
       + [設定合併對應](integrations/set-up-merging-map.md)
       + [建立自訂按鈕](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [使用 Workday 設定 Acrobat Sign](integrations/workday.md)
+      + [設定 Acrobat 使用 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday 新進員工到職工作](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知](integrations/marketo-salesforce-sms.md)
-      + [使用 Acrobat Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒](integrations/marketo-salesforce-reminder-video.md)
-      + [使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒](integrations/marketo-salesforce-reminder.md)
-      + [使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知](integrations/marketo-dynamics-sms.md)
-      + [使用適用于 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送提醒](integrations/marketo-dynamics-reminder.md)
+      + [使用 Acrobat Sign for  [!DNL Salesforce]  and Marketo 傳送通知](integrations/marketo-salesforce-sms.md)
+      + [使用 Acrobat Sign for 和  [!DNL Salesforce]  Marketo 視訊教學課程傳送提醒](integrations/marketo-salesforce-reminder-video.md)
+      + [使用 Acrobat Sign for  [!DNL Salesforce]  and Marketo 設定指南傳送提醒](integrations/marketo-salesforce-reminder.md)
+      + [使用 Acrobat Sign for  [!DNL Microsoft Dynamics]  and Marketo 傳送通知](integrations/marketo-dynamics-sms.md)
+      + [使用 Acrobat Sign for  [!DNL Microsoft Dynamics 365]  and Marketo 傳送提醒](integrations/marketo-dynamics-reminder.md)
 + 產業和部門 {#expand}
-   + [概述](sign-usecase/expand-inspire-overview.md)
+   + [概觀](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [網路講座](sign-usecase/innovation-series.md)
    + 使用案例配方 {#recipes}
-      + [概述](sign-usecase/recipes.md)
+      + [概觀](sign-usecase/recipes.md)
       + 政府 {#gov}
          + [企業助學金和貸款](sign-usecase/usecasegovgrants.md)
          + [遠端工作協定](sign-usecase/usecasegovtelework.md)
@@ -139,13 +140,13 @@ ht-degree: 10%
    + 使用案例展示 {#use-case}
       + [展示](sign-usecase/use-case-showcase.md)
 + 發展 {#develop}
-   + [概述](develop/develop-overview.md)
+   + [概觀](develop/develop-overview.md)
    + 自訂 API {#custom}
       + [使用 GigaSign 收集大量檔](develop/gigasign.md)
       + [建立嵌入式電子簽名和檔體驗](develop/embeddedesignature.md)
 + 部署 {#deploy}
-   + [概述](deploy-overview.md)
+   + [概觀](deploy-overview.md)
 + 行動裝置版本 {#mobile}
-   + [概述](mobile/mobile-overview.md)
+   + [概觀](mobile/mobile-overview.md)
    + 行動裝置教學課程 {#mobile-tutorials}
       + [Acrobat Sign 中的 Liquid Mode](mobile/liquidmode.md)
