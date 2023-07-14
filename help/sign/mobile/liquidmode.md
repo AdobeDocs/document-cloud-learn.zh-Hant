@@ -4,10 +4,11 @@ description: 瞭解 Liquid Mode 如何改善行動簽署體驗
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-8086
 thumbnail: KT-8086.jpg
 kt: 8086
 exl-id: e7680e55-d95d-413a-bb2b-2ee6416b7b99
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

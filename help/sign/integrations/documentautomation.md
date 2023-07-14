@@ -5,9 +5,9 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -247,7 +247,7 @@ ht-degree: 1%
 
 ### 從範本建立流程
 
-1. 登入 https://flow.microsoft.com。
+1. 登入 HTTPs://flow.microsoft.com。
 1. 按一下 **側邊欄中的「範本** 」。
 
    ![選取範本的螢幕擷圖](assets/documentautomation/automation_26.png)
@@ -257,7 +257,7 @@ ht-degree: 1%
 
    ![選取 + 元件的螢幕擷圖](assets/documentautomation/automation_27.png)
 
-1. 在新索引標籤中流覽至「https://www.adobe.com/go/powerautomate_getstarted」。
+1. 在新索引標籤中流覽至「HTTPs://www.adobe.com/go/powerautomate_getstarted」。
 1. 按一下「**開始使用**」。
 
    ![開始使用按鈕螢幕擷圖](assets/documentautomation/automation_28.png)
@@ -334,7 +334,7 @@ ht-degree: 1%
 
 ### 將流程匯入 Microsoft Power Automate
 
-1. 登入 Microsoft Power Automate （https://flow.microsoft.com）。
+1. 登入 Microsoft Power Automate （HTTPs://flow.microsoft.com）。
 1. 按一下「 **我的流程」** 。
 
    ![選取「我的流程」的位置螢幕擷圖](assets/documentautomation/automation_39.png)

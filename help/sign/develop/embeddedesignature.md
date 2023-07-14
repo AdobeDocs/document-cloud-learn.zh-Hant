@@ -4,10 +4,11 @@ description: 瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內�
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -156,6 +157,6 @@ ht-degree: 2%
 * 自訂提醒
    * 透過初始建立
 
-      ![導覽至 Power Automate 的螢幕擷圖](assets/embeddedesignature/embed_16.png)
+     ![導覽至 Power Automate 的螢幕擷圖](assets/embeddedesignature/embed_16.png)
 
    * 或在飛行中新增一個 [](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

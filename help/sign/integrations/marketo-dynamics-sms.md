@@ -5,9 +5,10 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -36,9 +37,9 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 * 按一下 **[!UICONTROL 「Dynamics 實體同步」]** 。
 
-   同步自訂實體之前，必須停用同步。 如果這是您第一次這麼做，請按一下 **[!UICONTROL 「同步結構]** 」。 否則，請按一下 **[!UICONTROL 「重新整理結構」]** 。
+  同步自訂實體之前，必須停用同步。 如果這是您第一次這麼做，請按一下 **[!UICONTROL 「同步結構]** 」。 否則，請按一下 **[!UICONTROL 「重新整理結構」]** 。
 
-   ![重新整理](assets/refreshSchema.png)
+  ![重新整理](assets/refreshSchema.png)
 
 ## 同步自訂物件
 
