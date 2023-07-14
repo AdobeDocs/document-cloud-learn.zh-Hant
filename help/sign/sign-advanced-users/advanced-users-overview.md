@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ ht-degree: 3%
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="建立網頁表單" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="建立包含多名不明簽署者的網頁表單" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>建立網頁表單</strong></a>
+    <a href="webform-multiple-signers.md"><strong>建立包含多名不明簽署者的網頁表單</strong></a>
     </div>
-    <em>建立可直接在您的網站上進行電子簽署的檔</em>
+    <em>瞭解如何建立包含多名不明參與者的複雜網頁表單</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
+      </div>
+      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文字標記登入 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的檔範本 [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
