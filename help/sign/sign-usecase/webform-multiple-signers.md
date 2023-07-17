@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 建立包含多名不明簽署者的網頁表單
+# 政府貸款申請與多名不明簽署者
 
 瞭解網頁表單 ](../sign-advanced-users/webform.md) 如何 [ 用於涉及多名不明參與者的複雜政府貸款申請工作流程。這些表單可以內嵌到網站中，也可以當做電子郵件中的連結傳送。 您也可以在任何位置在任何裝置上填寫，加速流程和服務交付。
 

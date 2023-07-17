@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ ht-degree: 3%
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat簽署文字標記" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="建立網頁表單" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
+      <a href="webform.md"><strong>建立網頁表單</strong></a>
       </div>
-      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+      <em>瞭解如何建立可直接在您的網站上以電子方式簽署的檔</em>
       <br>
   </td>
 </tr>
