@@ -3,8 +3,10 @@ title: 在團隊中共用 PDF 檔案及加上注釋
 description: 瞭解如何在 Microsoft Teams 中即時共同處理 PDF 檔案
 role: User
 product: adobe acrobat
-level: Beginner
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+level: Intermediate
+jira: KT-13296
+exl-id: b8411496-6488-4c13-b26e-dd5f6b825494
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

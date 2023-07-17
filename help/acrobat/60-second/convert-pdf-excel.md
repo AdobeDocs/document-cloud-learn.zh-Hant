@@ -4,7 +4,9 @@ description: 將 PDF 檔案轉換為可完全編輯的 Microsoft Excel 檔
 role: User
 product: adobe acrobat
 level: Beginner
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+jira: KT-13289
+exl-id: bf55affc-d7ac-4d55-a77f-cfd72c6a8ffd
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

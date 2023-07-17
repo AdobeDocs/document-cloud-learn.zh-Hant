@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -34,7 +35,7 @@ PDF 內容應為唯一且結構化，如下所示：
 * 建立適合行動裝置的 PDF
 若要查看 PDF 的行動檢視體驗，請在 Acrobat Reader 行動應用程式 ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) 中 [ 開啟檔案，然後開啟 Liquid Mode。必要時加入其他子標題，以改善導覽方式。
 
-   ![Acrobat Reader行動應用程式中 Liquid Mode 的螢幕擷圖](../assets/optimizeseo1.png)
+  ![Acrobat Reader行動應用程式中 Liquid Mode 的螢幕擷圖](../assets/optimizeseo1.png)
 
 +++
 

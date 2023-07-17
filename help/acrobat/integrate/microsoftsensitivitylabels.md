@@ -4,8 +4,9 @@ description: 瞭解如何直接在 Acrobat 中新增、編輯、自訂和刪除 
 role: User
 product: adobe acrobat
 level: Intermediate
+jira: KT-10482
 exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
