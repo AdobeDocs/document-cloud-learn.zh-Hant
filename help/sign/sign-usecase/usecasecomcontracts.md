@@ -8,7 +8,7 @@ level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 商業合約和征約表單
 
-使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解 Acrobat Sign 工作流程Designer工具，協助簡化整個流程。
+使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解 [ Acrobat Sign 工作流程Designer ](../admin/building-a-custom-workflow.md) 工具，協助簡化整個流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

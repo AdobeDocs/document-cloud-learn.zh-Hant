@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign 教學課程
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 10%
       + [設定線上付款](sign-advanced-users/set-up-online-payments.md)
       + [「傳送」並大量收集簽名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [建立網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [建立包含多名不明簽署者的網頁表單](sign-advanced-users/webform-multiple-signers.md)
       + [Acrobat簽署文字標記](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文字標記登入 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
@@ -128,6 +127,7 @@ ht-degree: 10%
    + 使用案例配方 {#recipes}
       + [概觀](sign-usecase/recipes.md)
       + 政府 {#gov}
+         + [政府貸款申請與多名不明簽署者](sign-usecase/webform-multiple-signers.md)
          + [企業助學金和貸款](sign-usecase/usecasegovgrants.md)
          + [遠端工作協定](sign-usecase/usecasegovtelework.md)
          + [合約和征約表單](sign-usecase/usecasegovcontracts.md)
