@@ -2,13 +2,13 @@
 title: 使用來自 [!DNL Dropbox]
 description: 瞭解如何從檔案內部開啟、建立、編輯、簽署和儲存變更  [!DNL Dropbox]  Acrobat
 role: User
-product: adobe acrobat
 level: Beginner
+topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-10837.jpg
 jira: KT-10837
 exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

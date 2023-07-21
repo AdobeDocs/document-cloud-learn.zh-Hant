@@ -2,12 +2,11 @@
 title: 組織頁面
 description: 在 PDF 中新增、取代、擷取、旋轉、刪除和重新排列頁面
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 jira: KT-6832
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 30%

@@ -2,12 +2,11 @@
 title: 使用密碼保護 PDF 檔案
 description: 瞭解如何在 PDF 中新增密碼，以保護其他人無法開啟或編輯檔案
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

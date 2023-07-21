@@ -2,12 +2,11 @@
 title: 使用生技識別設定
 description: 瞭解讓您設定 Acrobat Sign 以符合 FDA 21 CFR Part 11 需求的生技識別設定
 role: Admin
-product: adobe sign
 level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

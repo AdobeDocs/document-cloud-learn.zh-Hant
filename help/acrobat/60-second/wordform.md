@@ -2,12 +2,11 @@
 title: 將 Word 轉換成 PDF 包括表單欄位
 description: 將 Word 檔案和表格轉換為 PDF，並自動建立表格欄位
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9704.jpg
 jira: KT-9704
 exl-id: 2b24426b-2c7d-4c84-b8bc-4ea7a1313598
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 17%

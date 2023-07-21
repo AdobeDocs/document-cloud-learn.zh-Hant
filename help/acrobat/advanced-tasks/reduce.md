@@ -2,12 +2,11 @@
 title: 縮小檔案大小並優化
 description: 在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate
 thumbnail: KT-6827.jpg
 jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: 共用帳戶存取權
 description: 瞭解如何設定其他使用者帳戶中交易的僅檢視存取權
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

@@ -2,13 +2,11 @@
 title: 使用文字標記登入 [!DNL Microsoft Word]
 description: 瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的檔範本 [!DNL Microsoft Word]
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-11163
 thumbnail: KT-11163.jpg
 exl-id: 48bc9cd0-019f-479b-9904-19e64354e2e7
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

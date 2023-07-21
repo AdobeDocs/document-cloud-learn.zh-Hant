@@ -2,14 +2,12 @@
 title: 使用案例配方
 description: 使用這些政府與商業電子簽名範例加快您組織的數位工作流程
 role: User
-product: adobe sign
-solution: Acrobat Sign
-level: Intermediate
+level: Beginner, Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%

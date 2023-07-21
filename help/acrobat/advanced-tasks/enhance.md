@@ -2,12 +2,11 @@
 title: 增強 PDF
 description: 瞭解如何透過新增圖形增強功能和自動編號來轉換 PDF
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 jira: KT-9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 1%

@@ -2,12 +2,11 @@
 title: 建立可填寫的表格
 description: 將以 InDesign、Microsoft Word 或 Excel 建立的檔轉換為可填寫的 PDF 表格
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 jira: KT-6831
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%

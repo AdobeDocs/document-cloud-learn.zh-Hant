@@ -2,12 +2,11 @@
 title: 偵測兩個 PDF 之間的差異
 description: 快速準確地偵測兩個 PDF 檔案之間的差異，改進檔審核工作流程
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
 jira: KT-8496
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

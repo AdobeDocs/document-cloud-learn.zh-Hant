@@ -2,12 +2,11 @@
 title: 60 秒Acrobat總覽
 description: 60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內Acrobat學習新技巧
 role: User
-product: adobe acrobat
-level: Beginner
+level: Beginner, Intermediate
 thumbnail: KT-8493.jpg
 jira: KT-8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%

@@ -1,11 +1,10 @@
 ---
 title: 政府貸款申請與多名不明簽署者
 description: 瞭解網頁表單如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

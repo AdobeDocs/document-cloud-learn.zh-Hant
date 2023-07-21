@@ -1,19 +1,18 @@
 ---
-title: 從 Microsoft Word 建立 PDF
-description: 瞭解如何從 Microsoft Word 建立 PDF
+title: 建立 PDF 來源 [!DNL Microsoft Word]
+description: 瞭解如何從 [!DNL Microsoft Word]
 role: User
-product: adobe acrobat
 level: Beginner
 jira: KT-13292
 exl-id: a61848c0-2a24-4006-a740-f09ec7370598
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 12%
+source-wordcount: '34'
+ht-degree: 14%
 
 ---
 
-# 從 Microsoft Word 建立 PDF
+# 建立 PDF 來源 [!DNL Microsoft Word]
 
 在此 60 秒的教學課程影片中，瞭解如何 [ 使用 Microsoft Word ](https://www.adobe.com/acrobat/online/word-to-pdf.html) {target="_blank"} 建立 PDF。
 

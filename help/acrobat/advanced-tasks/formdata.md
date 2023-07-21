@@ -2,12 +2,11 @@
 title: 使用表格資料
 description: 在 Acrobat 中將表單欄位資料合併為單一試算表
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 jira: KT-6828
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

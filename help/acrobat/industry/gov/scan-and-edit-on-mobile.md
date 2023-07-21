@@ -2,12 +2,11 @@
 title: 隨處使用 Acrobat 的 5 個秘訣--掃描和行動編輯
 description: 瞭解如何使用 Adobe Scan 和 Acrobat Reader 行動應用程式，隨時隨地完成工作
 role: User
-product: adobe acrobat
 level: Beginner
 topic-revisit: mobile
 thumbnail: 34511.jpg
 exl-id: 6da76aff-a72f-4524-aec6-49f343f834a1
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

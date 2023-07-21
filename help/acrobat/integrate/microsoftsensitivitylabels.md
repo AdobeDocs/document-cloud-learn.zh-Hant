@@ -2,11 +2,11 @@
 title: 使用  [!DNL Microsoft Purview]  「靈敏度標籤」保護 PDF
 description: 瞭解如何直接在 Acrobat 中新增、編輯、自訂和刪除  [!DNL Microsoft Purview]  靈敏度標籤來保護 PDF
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Intermediate
 jira: KT-10482
 exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

@@ -2,11 +2,10 @@
 title: 隨處使用 Acrobat的 5 個秘訣--取得工具
 description: 瞭解如何讓您的Acrobat工具和隨附行動應用程式隨時隨地都能使用
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

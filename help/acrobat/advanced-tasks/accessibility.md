@@ -2,13 +2,12 @@
 title: 檢查 PDF 協助工具
 description: 瞭解如何檢查您的 PDF 是否可供身障人士普遍存取
 role: User
-product: adobe acrobat
 level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 jira: KT-6829
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%

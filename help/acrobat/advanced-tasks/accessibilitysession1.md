@@ -2,12 +2,11 @@
 title: PDF 協助工具簡介
 description: 在本講座中，您會學到讓 PDF 具備協助工具的意義、如何設定Acrobat Pro處理 PDF 協助工具，以及從原始檔案轉換為 PDF 的程式
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

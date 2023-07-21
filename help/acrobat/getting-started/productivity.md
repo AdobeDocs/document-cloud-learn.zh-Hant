@@ -2,12 +2,11 @@
 title: 行動生產力
 description: 使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9155.jpg
 jira: KT-9155
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

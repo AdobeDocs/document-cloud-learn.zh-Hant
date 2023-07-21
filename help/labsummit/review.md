@@ -2,8 +2,10 @@
 title: 共用 PDF 檔案和線上審核
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%

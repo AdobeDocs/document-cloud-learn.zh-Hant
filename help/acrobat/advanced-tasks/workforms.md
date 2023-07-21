@@ -2,12 +2,11 @@
 title: 使用表單欄位
 description: 瞭解如何新增各種類型的表格欄位、設定表單欄位內容，以及提高安全性，以建立高品質的專業表單
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 jira: KT-9345
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%

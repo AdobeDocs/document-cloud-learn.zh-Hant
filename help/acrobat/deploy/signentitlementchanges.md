@@ -2,12 +2,11 @@
 title: 適用于ETLA客戶的重要 Acrobat DC 產品更新
 description: 瞭解 2020 年 8 月到 2020 年 11 月 20 日ETLA （企業授權合約） 優惠中對 Acrobat DC 權益的重要變更
 role: Admin
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%

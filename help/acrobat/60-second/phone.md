@@ -2,12 +2,11 @@
 title: 在手機上將 PPT 檔案轉換為 PDF
 description: 瞭解如何在手機上將 PowerPoint 附件轉換為 PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8576.jpg
 jira: KT-8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%

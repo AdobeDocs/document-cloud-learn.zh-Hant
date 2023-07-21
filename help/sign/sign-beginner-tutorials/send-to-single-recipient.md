@@ -2,13 +2,11 @@
 title: 傳送給單一收件者
 description: 跳入並瞭解傳送檔以索取簽名有多麼簡單
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

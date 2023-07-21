@@ -2,13 +2,12 @@
 title: 管理員總覽
 description: 瞭解將使用者新增至帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用事件和警告的基本知識
 role: Admin
-product: adobe sign
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

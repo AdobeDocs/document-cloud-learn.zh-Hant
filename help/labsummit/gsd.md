@@ -2,8 +2,10 @@
 title: 運用Adobe Document Cloud釋放數位體驗的練習
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%

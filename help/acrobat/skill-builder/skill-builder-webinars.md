@@ -1,12 +1,11 @@
 ---
 title: Adobe Acrobat Skill Builder 網路研討會
 description: Adobe Acrobat技術小將」為 30 分鐘的會議，旨在讓您的 PDF 工作流程更上層樓
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 thumb: KT-8199.jpg
 jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%

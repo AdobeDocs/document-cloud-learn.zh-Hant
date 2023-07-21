@@ -2,13 +2,12 @@
 title: 使用 [！DNL D-Trust]
 description: 瞭解如何使用 [！DNL D-Trust]，然後使用 [！在 Acrobat Sign 中的檔上使用 DNL D-Trust] 數位簽章
 role: User
-product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 jira: KT-11120
 thumbnail: KT-11120.jpg
 exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

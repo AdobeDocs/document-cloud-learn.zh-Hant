@@ -2,7 +2,8 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
-source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
+role: User
+source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -12,9 +13,9 @@ ht-degree: 5%
 
 # Acrobat教學課程 {#acrobat-learning}
 
-+ [概述](overview.md)
++ [概觀](overview.md)
 + 快速入門 {#getting-started}
-   + [概述](getting-started/getting-started-overview.md)
+   + [概觀](getting-started/getting-started-overview.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作區體驗](getting-started/new-workspace.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
@@ -37,7 +38,7 @@ ht-degree: 5%
    + [取得簽名](getting-started/signatures.md)
    + [追蹤您的檔](getting-started/track.md)
 + 進階工作 {#advanced-tasks}
-   + [概述](advanced-tasks/advanced-tasks-overview.md)
+   + [概觀](advanced-tasks/advanced-tasks-overview.md)
    + [新增書簽和超連結](advanced-tasks/bookmarks.md)
    + [優化掃描的檔](advanced-tasks/optimizescan.md)
    + [自訂指令和工具](advanced-tasks/custom.md)
@@ -52,7 +53,7 @@ ht-degree: 5%
    + [處理表格資料](advanced-tasks/formdata.md)
    + [檢查 PDF 協助工具](advanced-tasks/accessibility.md)
    + Acrobat協助工具系列 {#accessibility-series}
-      + [概述](advanced-tasks/accessibility-series.md)
+      + [概觀](advanced-tasks/accessibility-series.md)
       + [PDF 協助工具簡介](advanced-tasks/accessibilitysession1.md)
       + [補救無法存取的 PDF](advanced-tasks/accessibilitysession2.md)
       + [複雜表格](advanced-tasks/accessibilitysession3.md)
@@ -60,7 +61,7 @@ ht-degree: 5%
       + [將表格欄位新增至標籤的 PDF](advanced-tasks/accessibilitysession5.md)
       + [將表格欄位新增至未標記的 PDF](advanced-tasks/accessibilitysession6.md)
 + 60 秒Acrobat {#60-second}
-   + [概述](60-second/60-second-overview.md)
+   + [概觀](60-second/60-second-overview.md)
    + [使用網頁Acrobat編輯 PDF](60-second/edit.md)
    + [識別掃描的 PDF 檔案中的文字](60-second/textrecognition.md)
    + [將多個檔案合併為一個 PDF](60-second/combine-to-one-pdf.md)
@@ -91,7 +92,7 @@ ht-degree: 5%
 + 技術等級 {#skill-builders}
    + [網路講座](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
-   + [概述](integrate/integrate-overview.md)
+   + [概觀](integrate/integrate-overview.md)
    + [建立 PDF 來源 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [在網頁版中  [!DNL Office]  建立 PDF](integrate/createofficeweb.md)
    + [PDF 共同作業 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -102,9 +103,9 @@ ht-degree: 5%
    + [Adobe Acrobat [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [使用來自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 產業和部門 {#by-industry}
-   + [概述](industry/industry-overview.md)
+   + [概觀](industry/industry-overview.md)
    + 政府 {#gov}
-      + [概述](industry/gov/gov-overview.md)
+      + [概觀](industry/gov/gov-overview.md)
       + 隨處使用 Acrobat 的 5 個秘訣 {#tips}
          + [隨處使用 Acrobat 的 5 個秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣 1 – 取得工具](industry/gov/get-your-tools.md)
@@ -119,11 +120,11 @@ ht-degree: 5%
          + [#3 – 最後以Acrobat](industry/gov/finishing-in-acrobat.md)
          + [使 PDF 票數更易於存取](industry/gov/making-pdf-ballots-accessible.md)
 + 發展 {#develop}
-   + [概述](develop/develop-overview.md)
+   + [概觀](develop/develop-overview.md)
 + 部署 {#deploy}
-   + [概述](deploy/deploy-overview.md)
+   + [概觀](deploy/deploy-overview.md)
    + [為ETLA客戶Acrobat重要的 DC 產品更新](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
-   + [概述](mobile/mobile-overview.md)
+   + [概觀](mobile/mobile-overview.md)
    + [行動生產力](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [將任何內容掃描成 PDF](mobile/scan-mobile-app.md)

@@ -1,14 +1,13 @@
 ---
 title: 產業和部門概觀
 description: 透過這些真實世界的產業和部門使用案例、配方和網路研討會，瞭解如何變革客戶和員工的電子簽名體驗
-role: User
-product: adobe sign
+role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

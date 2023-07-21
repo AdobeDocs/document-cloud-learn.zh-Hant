@@ -2,12 +2,11 @@
 title: 優化掃描的檔
 description: 瞭解如何增強掃描的檔，以提供更好的 PDF 檢視和搜尋體驗
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9344.jpg
 jira: KT-9344
 exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
