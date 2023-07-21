@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [教育版網頁表單實習申請 ](usecase-edu-intern.md)
+瞭解如何使用網頁表單來改善學生對所需表單的存取權
 * [政府貸款申請與多名不明簽署者 ](webform-multiple-signers.md)
 瞭解網頁表單如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
 
@@ -152,3 +154,36 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## 教育機構使用案例
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="教育版網頁表單實習申請" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>教育版網頁表單實習申請</strong></a>
+    </div>
+    <em>瞭解如何使用網頁表單來改善學生對所需表單的存取權</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
