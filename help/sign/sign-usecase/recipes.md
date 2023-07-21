@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 * [教育版網頁表單實習申請 ](usecase-edu-intern.md)
 瞭解如何使用網頁表單來改善學生對所需表單的存取權
+* [建立教育版網頁表單實習申請 ](usecase-edu-intern-create.md)
+瞭解如何建立實習網頁表單
 * [政府貸款申請與多名不明簽署者 ](webform-multiple-signers.md)
 瞭解網頁表單如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
 
@@ -170,10 +172,15 @@ ht-degree: 0%
     <br>
   </td> 
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="建立教育版網頁表單實習申請" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>建立教育版網頁表單實習申請</strong></a>
+    </div>
+    <em>瞭解如何建立實習網頁表單</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
     <div>
