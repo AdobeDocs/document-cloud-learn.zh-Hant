@@ -9,9 +9,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [Microsoft Dynamics 365 for Customer Service ](dynamics-customer-service.md)
+瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度
 * [整合網頁表單與  [!DNL SharePoint]  線上 ](integrate-web-form-sharepoint-online.md)
 瞭解如何將從網頁表單收集的資料對應到清單中 [!DNL SharePoint]
-* [Acrobat Sign + Workday 新進員工到職工作 ](acrobat-sign-workday-onboarding.md)
-瞭解如何使用 Acrobat Sign + Workday 簡化登入工作流程
 
 ## Microsoft 整合教學課程
 
@@ -116,6 +116,33 @@ ht-degree: 0%
     <a href="adobe-sign-teams-mortgage.md"><strong>傳送以供簽署 [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>直接在內部傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
