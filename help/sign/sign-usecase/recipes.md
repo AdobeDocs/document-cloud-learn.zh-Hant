@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [教育版 IEP 程式的自訂工作流程 ](usecase-edu-iep.md)
+瞭解「自訂工作流程Designer如何用於數位化個人化教育計畫 （IEP） 程式
 * [教育版網頁表單實習申請 ](usecase-edu-intern.md)
 瞭解如何使用網頁表單來改善學生對所需表單的存取權
 * [建立教育版網頁表單實習申請 ](usecase-edu-intern-create.md)
@@ -180,8 +182,13 @@ ht-degree: 0%
     <br>
   </td> 
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="教育版 IEP 程式的自訂工作流程" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>教育版 IEP 程式的自訂工作流程</strong></a>
+    </div>
+    <em>瞭解「自訂工作流程Designer如何用於數位化個人化教育計畫 （IEP） 程式</em>
     <br>
   </td>
   <td>
