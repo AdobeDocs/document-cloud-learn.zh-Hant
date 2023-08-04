@@ -1,12 +1,13 @@
 ---
 title: 整合網頁表單 [!DNL SharePoint Online]
 description: 瞭解如何將從網頁表單收集的資料對應到清單中  [!DNL SharePoint]
+feature: Integrations, Web Forms
 role: User
 product: adobe sign
 topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

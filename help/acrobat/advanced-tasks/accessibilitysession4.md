@@ -1,12 +1,13 @@
 ---
 title: 掃描的檔和複雜的清單
 description: 此隨選會話解決人們經常遇到的較複雜的問題，例如掃描的檔和複雜的清單
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8611.jpg
 jira: KT-8611
+thumbnail: KT-8611.jpg
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

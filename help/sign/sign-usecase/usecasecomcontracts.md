@@ -1,12 +1,13 @@
 ---
 title: 商業合約和徵收表單
 description: 使用合規的數位工作流程（包含稽核報告）快速取代紙本處理
+feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

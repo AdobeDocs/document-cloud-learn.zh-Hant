@@ -1,12 +1,13 @@
 ---
 title: Acrobat Sign 教學課程
 description: 一系列教學課程、網路研討會和使用案例，其設計目的是讓初學者和管理員都能在 Acrobat Sign 上快速上手
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%

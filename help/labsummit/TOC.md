@@ -7,7 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+feature-set: Document Cloud
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

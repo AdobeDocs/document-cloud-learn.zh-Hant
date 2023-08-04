@@ -1,14 +1,15 @@
 ---
 title: PDF 共同作業在 [!DNL Microsoft Teams]
 description: 適用于團隊的Adobe Acrobat可讓使用者透過檢視、批註和審核 PDF，不必離開 [!DNL Microsoft Teams]
+feature: Integrations, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331277.jpg
 jira: KT-7119
+thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

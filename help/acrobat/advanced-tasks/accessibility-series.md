@@ -1,12 +1,13 @@
 ---
 title: Acrobat協助工具系列
 description: 六場隨選協助工具系列
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8364.jpg
 jira: KT-8364
+thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%

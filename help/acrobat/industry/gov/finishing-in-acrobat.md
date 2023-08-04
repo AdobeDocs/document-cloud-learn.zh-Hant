@@ -1,12 +1,13 @@
 ---
 title: 讓 PDF 具備協助工具--在Acrobat中進行完稿作業
 description: 完成在Acrobat中建立具備協助工具的檔
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

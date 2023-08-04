@@ -1,10 +1,11 @@
 ---
 title: 建立教育網頁表單實習申請
 description: 瞭解如何建立實習網頁表單
+feature: Use Cases, Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

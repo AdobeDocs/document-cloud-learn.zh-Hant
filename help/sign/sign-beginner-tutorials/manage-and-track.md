@@ -1,12 +1,13 @@
 ---
 title: 管理與追蹤您的合約
 description: 瞭解如何管理和追蹤在 Acrobat Sign 中傳送以供簽署的合約
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

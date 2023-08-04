@@ -1,11 +1,12 @@
 ---
 title: 隨處使用 Acrobat 的 5 個秘訣--使用表單和簽名
 description: 瞭解如何在填寫表格時保持數位化
+feature: Sign, Form
 role: User
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

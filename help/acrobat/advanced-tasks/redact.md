@@ -1,12 +1,13 @@
 ---
 title: 標記密文和淨化
 description: 瞭解如何從 PDF 中永久移除私人或敏感性資訊
+feature: Security
 role: User
 level: Intermediate
-thumbnail: KT-6804.jpg
 jira: KT-6804
+thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

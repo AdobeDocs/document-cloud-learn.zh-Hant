@@ -1,11 +1,12 @@
 ---
 title: 在桌上型電腦或行動裝置上填寫和簽署任何表格
 description: 從桌上型電腦、瀏覽器或行動應用程式快速填寫、簽署和傳送表格
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%

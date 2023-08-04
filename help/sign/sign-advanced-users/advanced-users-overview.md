@@ -1,12 +1,13 @@
 ---
 title: 進階工作總覽
 description: 瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定簽名檔、管理簽名交易，以及建立及管理檔範本
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%

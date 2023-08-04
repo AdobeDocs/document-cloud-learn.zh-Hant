@@ -1,11 +1,12 @@
 ---
 title: 隨處使用 Acrobat 的 5 個秘訣--保護數位檔
 description: 瞭解如何在 PDF 中新增密碼以防止複製、編輯或列印
+feature: Security
 role: User
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%

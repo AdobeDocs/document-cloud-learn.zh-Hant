@@ -1,13 +1,14 @@
 ---
 title: Acrobat Sign Skill Builder
 description: Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名正常運作，而無需為日常新增任何額外工作
+feature: Skill Builder
 role: User
 level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%

@@ -1,11 +1,12 @@
 ---
 title: Acrobat Sign 中的Authentication方法
 description: 瞭解 Acrobat Sign 提供的身分驗證方法範圍
+feature: Security, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-10982
 exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

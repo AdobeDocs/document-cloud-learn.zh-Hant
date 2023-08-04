@@ -1,12 +1,13 @@
 ---
 title: 自動調整版面
 description: 瞭解自動調整內容的新編輯模式
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-10835.jpg
 jira: KT-10835
+thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

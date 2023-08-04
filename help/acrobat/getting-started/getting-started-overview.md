@@ -1,12 +1,13 @@
 ---
 title: Acrobat快速入門總覽
 description: 透過這些簡要 （1 到 2 分鐘） 逐步教學課程，瞭解如何開始使用 Adobe Acrobat
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%

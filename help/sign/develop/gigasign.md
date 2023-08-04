@@ -1,13 +1,14 @@
 ---
 title: 使用 GigaSign 收集大量檔
 description: Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上萬的人
+feature: Workflow
 role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 5%

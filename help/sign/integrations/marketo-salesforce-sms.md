@@ -1,6 +1,7 @@
 ---
 title: 使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知
 description: 瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -26,7 +27,7 @@ ht-degree: 1%
 
    如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [ 。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. 安裝適用於 Salesforce 的 Acrobat Sign.
+1. 安裝 Acrobat Sign for Salesforce。
 
    有關此增效模組的資訊請參閱 [ 這裡。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

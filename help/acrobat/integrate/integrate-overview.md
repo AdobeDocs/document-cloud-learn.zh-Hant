@@ -1,14 +1,15 @@
 ---
 title: Acrobat整合概觀
 description: 將 Acrobat 與 Box、Dropbox、Google 雲端硬碟、OneDrive 和 Microsoft 應用程式整合
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%

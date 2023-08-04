@@ -1,12 +1,13 @@
 ---
 title: 為SEO優化 PDF （Search引擎優化）
 description: 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%

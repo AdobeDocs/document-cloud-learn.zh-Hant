@@ -1,12 +1,13 @@
 ---
 title: 新管理員快速入門
 description: 在這個全面的影片指南中，瞭解讓您的組織開始執行 Acrobat Sign 所需的所有工具
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

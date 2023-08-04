@@ -1,13 +1,13 @@
 ---
 title: 使用 [!DNL Digidentity]
 description: 瞭解如何使用 Acrobat Sign 註冊及使用您的  [!DNL Digidentity]  數位 ID
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8670
 thumbnail: KT-8670.jpg
-kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

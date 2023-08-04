@@ -1,12 +1,13 @@
 ---
 title: 重新部署協助
 description: 協助民眾獲得所需的協助，而無需配合可在數天內上線的全面數位化應用程式表單
+feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-5300
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

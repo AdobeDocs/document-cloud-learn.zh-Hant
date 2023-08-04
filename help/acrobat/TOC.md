@@ -2,8 +2,10 @@
 user-guide-title: Acrobat教學課程
 solution: Acrobat
 breadcrumb-title: Acrobat教學課程
+feature-set: Document Cloud
 role: User
-source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
+type: Tutorial
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%

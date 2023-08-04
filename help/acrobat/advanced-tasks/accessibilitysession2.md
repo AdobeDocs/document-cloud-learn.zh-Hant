@@ -1,12 +1,13 @@
 ---
 title: 補救無法存取的 PDF
 description: 在本次隨選講座中，瞭解如何使用簡介網路研討會所顯示的Acrobat Pro工具，來轉換 Word 檔並修正一些基本標記問題
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8609.jpg
 jira: KT-8609
+thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

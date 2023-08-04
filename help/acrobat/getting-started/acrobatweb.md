@@ -1,12 +1,13 @@
 ---
 title: 使用網頁Acrobat隨處工作
 description: 瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求
+feature: Workspace
 role: User
 level: Beginner
-thumbnail: KT-8498.jpg
 jira: KT-8498
+thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 1%

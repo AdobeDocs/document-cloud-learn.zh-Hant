@@ -1,11 +1,12 @@
 ---
 title: 運用 Adobe Scan 數位化
 description: 瞭解使用 Adobe Document Cloud 的一些技巧和秘訣
+feature: Create PDF
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%

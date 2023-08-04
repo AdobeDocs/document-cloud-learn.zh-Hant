@@ -1,12 +1,13 @@
 ---
 title: 追蹤您的檔
 description: 隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署
+feature: Sign
 role: User
 level: Beginner
-thumbnail: KT-8256.jpg
 jira: KT-8256
+thumbnail: KT-8256.jpg
 exl-id: 2a86c55a-cb15-4ccb-9a8d-54df1164310f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
 title: 進階帳戶共用
 description: 進階帳戶共用允許管理員和使用者委派傳送、修改和檢視許可權
+feature: Administration, Deploy
 role: User, Admin
 level: Intermediate
 jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

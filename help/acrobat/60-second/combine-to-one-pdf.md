@@ -1,12 +1,13 @@
 ---
 title: 將檔案合併為一個 PDF
 description: 將數種不同類型的檔案合併為單一 PDF，快速建立檔
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8571.jpg
 jira: KT-8571
+thumbnail: KT-8571.jpg
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%

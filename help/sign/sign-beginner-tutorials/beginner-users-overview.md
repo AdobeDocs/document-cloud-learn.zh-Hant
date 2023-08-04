@@ -1,12 +1,13 @@
 ---
 title: 快速入門總覽
 description: 透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署和追蹤檔
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%

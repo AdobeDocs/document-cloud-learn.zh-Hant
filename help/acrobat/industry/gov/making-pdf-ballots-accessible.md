@@ -1,13 +1,14 @@
 ---
 title: 讓 PDF 投票更易於存取
 description: 瞭解允許螢幕閱讀程式等輔助技術使用者閱讀和完成票數所需的 PDF 協助工具重要領域。
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
-thumbnail: KT-6817.jpg
 jira: KT-6817
+thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: 取代簽署者
 description: 瞭解如何取代簽署者，例如傳送檔以供簽署時使用錯誤的電子郵件
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

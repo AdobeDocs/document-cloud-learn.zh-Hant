@@ -1,12 +1,13 @@
 ---
 title: 進階表格欄位
 description: 瞭解如何設定計算、建立電子郵件送出按鈕，以及快速更新表格頁面，而無需重新整理所有現有的表格欄位
+feature: Edit PDF, Form
 role: User
 level: Experienced
-thumbnail: KT-9346.jpg
 jira: KT-9346
+thumbnail: KT-9346.jpg
 exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%

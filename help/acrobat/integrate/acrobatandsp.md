@@ -1,14 +1,15 @@
 ---
 title: 處理您的  [!DNL SharePoint]  檔案
 description: 使用 Adobe Acrobat來簡化檔工作流程  [!DNL SharePoint]  ，並Acrobat [!DNL Microsoft 365]
+feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331855.jpg
 jira: KT-7190
+thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%

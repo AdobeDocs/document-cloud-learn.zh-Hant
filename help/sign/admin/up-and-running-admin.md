@@ -1,12 +1,13 @@
 ---
 title: 已啟動並執行 Acrobat Sign 管理員
 description: 管理員可快速上手和快速使用 Acrobat Sign 的七個主要區域概覽
+feature: Administration
 role: Admin
 level: Beginner
 jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

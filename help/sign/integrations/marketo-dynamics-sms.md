@@ -1,6 +1,7 @@
 ---
 title: 使用適用于 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送通知
 description: 瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%

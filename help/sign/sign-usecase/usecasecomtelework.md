@@ -1,12 +1,13 @@
 ---
 title: 商業遠端辦公協定
 description: 有效率地收集所有員工的遠端辦公合約簽名
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

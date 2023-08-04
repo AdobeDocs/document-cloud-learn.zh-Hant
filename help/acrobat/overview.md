@@ -1,12 +1,13 @@
 ---
 title: Acrobat教學課程
 description: 一系列的教學課程、網路研討會和Adobe Acrobat使用案例
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%

@@ -1,12 +1,13 @@
 ---
 title: 使 PDF 具備協助工具
 description: 瞭解建立具備協助工具的 PDF 檔案的最佳工作流程
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

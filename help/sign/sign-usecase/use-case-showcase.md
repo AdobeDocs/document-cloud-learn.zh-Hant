@@ -1,13 +1,14 @@
 ---
 title: 使用案例展示
 description: 「使用案例展示」是一場直播會議，向您介紹新的 Acrobat Sign 使用案例和趨勢，並展示您的組織如何實施並從中受益
+feature: Use Cases
 role: User
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%

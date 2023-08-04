@@ -1,11 +1,12 @@
 ---
 title: 隨處使用 Acrobat 的 5 個秘訣
 description: 讓政府雇員隨處使用 Acrobat 的 5 個秘訣
+feature: Workspace, Mobile
 role: User
 level: Beginner
 thumbnail: 34200.jpg
 exl-id: 7486a89c-2c60-42a6-8ab2-2878c42f9eda
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
