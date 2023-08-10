@@ -8,9 +8,9 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -23,20 +23,20 @@ Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名
 
 ## 每月諮詢
 
-**[在 Microsoft 應用程式 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}** 中使用電子簽名
-日期：2023 年 10 月 19 日
-將 Adobe Acrobat Sign 新增至現有的工作流程中，以擴展您使用 Word、Outlook 和 Sharepoint 等 Microsoft 應用程式的方式。本講座將教導如何開始簡化常見 Microsoft 應用程式中的檔程式，讓您不需要切換內容來取得簽名或檢查狀態。
-
-**[管理合約：即時洞察合約狀態 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
-日期：2023 年 9 月 21 日
+**[管理合約：即時洞察合約狀態 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/aad26d3c-699b-4d99-a272-30bcbfbc1bf2/e1b6dd21-c94a-4c1b-9eeb-abec464e3cbd){target="_blank"}**
+日期：2023 年 11 月 9 日
 瞭解合約管理工具和最佳做法的來回之處，讓您隨時瞭解合約狀態。本講座內容包括：
 
 * 您可以從「管理」索引標籤對檔採取哪些動作
 * 如何處理和使用來自網頁表單和大量傳送的資料
 * 如何搜尋和篩選，以尋找所需的檔
 
-**[傳送檔以供簽署的 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}** 進階提示
-日期：2023 年 8 月 17 日
+**[在 Microsoft 應用程式 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}** 中使用電子簽名
+日期：2023 年 10 月 19 日
+將 Adobe Acrobat Sign 新增至現有的工作流程中，以擴展您使用 Word、Outlook 和 Sharepoint 等 Microsoft 應用程式的方式。本講座將教導如何開始簡化常見 Microsoft 應用程式中的檔程式，讓您不需要切換內容來取得簽名或檢查狀態。
+
+**[傳送檔以供簽署的 ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}** 進階提示
+日期：2023 年 9 月 21 日
 加入我們，深入瞭解傳送合約以供簽署時可用的所有選項。在本講座中，您會學到：
 
 * 傳送給多個收件者
@@ -44,9 +44,18 @@ Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名
 * 新增 CC 欄位
 * 密碼保護等
 
-**[Acrobat Sign 整合：Salesforce &amp; Workday ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
+**[適用于 Salesforce ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}** 中 Acrobat Sign 的檔建立器
+日期：2023 年 8 月 17 日
+將日常工作自動化，例如直接在 Salesforce 中準備資料導向的檔，讓您的銷售團隊在幾秒鐘內預先填入提案、合約、發票等，取得優勢。Document Builder 可讓您在傳送以索取簽名之前使用 Salesforce 資料動態產生檔，讓曾經繁瑣的流程更加簡單和簡化。 我們將逐步逐步解說，此程式將一定會為您節省時間和精力。
+
+**[工作流程自動化由 Microsoft Power Automate ](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}** 提供支援
 日期：2023 年 7 月 20 日
-加入我們，一起檢視與 Salesforce 和 Workday 的一些最常見、最強大的 Acrobat Sign 整合。本講座將直接在您已使用的工具中，探索如何透過減少手動、低效任務、建立 100% 數位化工作流程和電子簽名流程來加速業務交易。
+利用 Microsoft 低程式碼/無程式碼解決方案 Power Automate 直接在 Adobe Acrobat Sign 中運用所有的自動化功能。請聽聽非開發人員如何擁有建立新一代工作流程的功能和靈活性。 在本講座中，您將瞭解如何：
+
+* 設定工作流程整合以開始使用
+* 使用預製範本快速開始您的工作流程建立
+* 利用龐大的連接器生態系統，將 Acrobat Sign 整合到已封裝和自訂應用程式中
+* 提高生產力並擴充 Acrobat Sign 功能
 
 **[適用于 Adobe Acrobat Sign ](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}** 的進階報告
 日期：2023 年 6 月 22 日
