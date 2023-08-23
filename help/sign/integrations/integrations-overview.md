@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [Microsoft Dynamics 365 for Field Service ](dynamics-field-service.md)
+瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動
 * [Microsoft Dynamics 365 for Customer Service ](dynamics-customer-service.md)
 瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度
 * [整合網頁表單與  [!DNL SharePoint]  線上 ](integrate-web-form-sharepoint-online.md)
@@ -132,8 +134,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動</em>
     <br>
   </td>
   <td>
