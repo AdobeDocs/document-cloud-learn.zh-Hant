@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [ [!DNL Power Automate]](simple-workflow-power-automate.md)使用
+瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程
 * [Microsoft Dynamics 365 for Sales ](dynamics-sales.md)
 瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化
 * [Microsoft Dynamics 365 for Field Service ](dynamics-field-service.md)
 瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動
-* [Microsoft Dynamics 365 for Customer Service ](dynamics-customer-service.md)
-瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度
-* [整合網頁表單與  [!DNL SharePoint]  線上 ](integrate-web-form-sharepoint-online.md)
-瞭解如何將從網頁表單收集的資料對應到清單中 [!DNL SharePoint]
+
 
 ## Microsoft 整合教學課程
 
@@ -126,6 +125,16 @@ ht-degree: 0%
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="使用 Power Automate 建立簡單的工作流程" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>使用 Power Automate 建立簡單的工作流程</strong></a>
+    </div>
+    <em>瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ ht-degree: 0%
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
