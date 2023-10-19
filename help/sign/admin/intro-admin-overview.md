@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # 管理員總覽
-
-![Sign 管理員影像](../assets/Hero-Admin.png)
 
 瞭解如何將使用者新增至您的帳戶、設定群組、共用存取權，以及設定工作流程、外部封存以及共用的事件和警告。 這些教學課程是專為已進入安裝階段且已準備好開始管理 Acrobat Sign 的管理員所設計。 「進階工作」涵蓋從管理員設定擴展並開始定義全域設定、帳戶存取和共用以及文字標記的主題。
 

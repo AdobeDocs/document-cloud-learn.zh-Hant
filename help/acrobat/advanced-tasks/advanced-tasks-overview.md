@@ -7,16 +7,14 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '364'
 ht-degree: 2%
 
 ---
 
 # 進階工作概觀
-
-![Acrobat快速入門影像](../assets/Hero-AdvancedTasks.png)
 
 使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
 

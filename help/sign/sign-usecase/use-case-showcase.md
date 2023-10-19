@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # 使用案例展示
-
-![使用案例橫幅](../assets/UCSC_Rebrand.png)
 
 使用案例展示是一場直播會議，向您介紹新的 Acrobat Sign 使用案例和趨勢，並展示您的組織如何實施並從中受益。 每月都會著重一個新主題。
 

@@ -8,16 +8,14 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 # 使用案例配方
-
-![使用案例橫幅](../assets/Hero-Recipe.png)
 
 使用這些政府和商業電子簽名範例，加快您組織的數位工作流程。 按一下以檢視 PDF，其中包含如何設定這些特定電子簽名使用案例的資源和詳細資訊。
 

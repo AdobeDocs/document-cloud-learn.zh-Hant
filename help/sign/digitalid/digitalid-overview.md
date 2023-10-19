@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # 數位 ID 概觀
-
-![Sign 數位 ID 影像](../assets/Hero-DigitalID.png)
 
 與試算表中的護照類似，數位身分 （數位 ID） 可讓您安全地證明自己是誰。 此外，在 Acrobat Sign 中進行電子簽名時，使用數位 ID 可為您提供更高程度的保證，確保您已授權該特定檔上的電子簽名。 下列教學課程將說明如何使用世界各地使用 Acrobat Sign 的數位 ID。
 

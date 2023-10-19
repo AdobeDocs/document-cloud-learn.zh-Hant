@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # 整合概觀
-
-![Sign 整合影像](../assets/Hero-Integrate.png)
 
 您可以在貴組織已在其他已使用的應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Acrobat Sign 來命名一些名稱。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
 

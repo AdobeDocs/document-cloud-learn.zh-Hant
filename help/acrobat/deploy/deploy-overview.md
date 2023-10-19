@@ -7,16 +7,14 @@ level: Intermediate
 jira: KT-6862
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 4%
 
 ---
 
 # 部署總覽
-
-![Acrobat部署影像](../assets/Hero-Deploy.png)
 
 部署和最佳實務文章，以及與我們的客戶合作所得到的珍貴見解和知識。
 

@@ -8,16 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 13%
 
 ---
 
 # 編輯相片概觀
-
-![Sign 編輯相片影像](../assets/Hero-Develop.png)
 
 Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、合作夥伴和客戶建立自訂應用程式。
 

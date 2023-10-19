@@ -7,16 +7,14 @@ level: Intermediate
 jira: KT-6861
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # 編輯相片概觀
-
-![Acrobat開發影像](../assets/Hero-Develop.png)
 
 開發與使用 JavaScript、增效模組或 IAC Acrobat 和Adobe Reader整合的軟體。
 

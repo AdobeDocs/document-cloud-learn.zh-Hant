@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Acrobat教學課程
-
-![Acrobat英雄影像](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat （Adobe Document Cloud解決方案） 可轉換、編輯、共用和簽署 PDF，協助您持續推展業務。 在這裡，您會找到各式各樣的學習體驗，其設計是讓初學者和進階使用者快速上手Adobe Acrobat。
 

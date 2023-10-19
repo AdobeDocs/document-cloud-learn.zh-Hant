@@ -1,13 +1,13 @@
 ---
 title: 新增自訂頁面
 description: 瞭解如何使用整合式 Adobe Express 應用程式，將自訂頁面新增至 PDF
-feautre: Create PDF
+feature: Create PDF
 role: User
 level: Beginner
 jira: KT-10836
 thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 5%

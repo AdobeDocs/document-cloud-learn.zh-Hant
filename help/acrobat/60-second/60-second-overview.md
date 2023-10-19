@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # 60 秒Acrobat總覽
-
-![60 秒Acrobat影像](../assets/Hero-60sec.png)
 
 60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內Acrobat學習新技巧。 這些以任務為基礎的秘訣可説明您解鎖Acrobat的一些隱藏的工具，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或是觀看五個以提升檔生產力的影片 – 還有時間享受喝咖啡的時光。
 
