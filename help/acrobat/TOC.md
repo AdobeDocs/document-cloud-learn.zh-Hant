@@ -5,9 +5,9 @@ breadcrumb-title: Acrobat教學課程
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
    + [組織頁面](getting-started/organize.md)
    + [新增自訂頁面](getting-started/add-custom-page.md)
    + [編輯 PDF](getting-started/edit-pdf.md)
+   + [將此 PDF 風格化](getting-started/stylize-this-PDF.md)
    + [自動調整版面](getting-started/auto-adjust-layout.md)
    + [將 PDF 轉存為可編輯的格式](getting-started/export-pdf.md)
    + [即時共同作業](getting-started/collaborate.md)
