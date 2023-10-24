@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [建立進階工作流程與  [!DNL Power Automate]](advanced-workflow-power-automate.md)
+瞭解如何使用 [!DNL Power Automate] 連接器建立進一步工作流程
 * [ [!DNL Power Automate]](simple-workflow-power-automate.md)使用
 瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程
 * [Microsoft Dynamics 365 for Sales ](dynamics-sales.md)
 瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化
-* [Microsoft Dynamics 365 for Field Service ](dynamics-field-service.md)
-瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動
 
 
 ## Microsoft 整合教學課程
@@ -133,6 +133,16 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+    <a href="advanced-workflow-power-automate.md">
+      <img alt="使用 Power Automate 建立進階工作流程" src="../assets/advanced-workflow.png" />
+    </a>
+    <div>
+    <a href="advanced-workflow-power-automate.md"><strong>使用 Power Automate 建立進階工作流程</strong></a>
+    </div>
+    <em>瞭解如何使用 [!DNL Power Automate] 連接器建立進階工作流程</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -152,6 +162,7 @@ ht-degree: 0%
     <em>瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動</em>
     <br>
   </td>
+<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -160,6 +171,21 @@ ht-degree: 0%
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
