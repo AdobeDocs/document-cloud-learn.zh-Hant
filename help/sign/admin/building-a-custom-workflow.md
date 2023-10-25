@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 瞭解如何量身打造和自動化檔工作流程，以取得電子簽名、收集表格資料，並確認重要檔的傳遞，以簡化工作流程管理。
 
-查看以下其他真實使用案例：
+[!BADGE 使用案例]
 
-* [政府合約和徵收表 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) 使用案例。
-* [商業合約和徵收表 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) 使用案例。
+* [教育版 IEP 程式的自訂工作流程 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+瞭解「自訂工作流程Designer如何用於數位化個人化教育計畫 （IEP） 程式
+* [政府合約和徵收表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [商業合約和徵收表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >

@@ -5,9 +5,10 @@ feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: c3da976d-df41-4632-ab9b-c3be3e4a7ffc
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -16,9 +17,13 @@ ht-degree: 0%
 
 瞭解網頁表單 ](../sign-advanced-users/webform.md) 如何 [ 用於涉及多名不明參與者的複雜政府貸款申請工作流程。這些表單可以內嵌到網站中，也可以當做電子郵件中的連結傳送。 您也可以在任何位置在任何裝置上填寫，加速流程和服務交付。
 
-查看以下其他真實網頁表單使用案例：
+[!BADGE 使用案例]
 
-* [企業助學金和貸款 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 使用案例。
-* [重新部署協助 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 使用案例。
+* [教育版網頁表單實習申請 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+瞭解如何使用網頁表單來改善學生對所需表單的存取權
+* [建立教育版網頁表單實習申請 ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+瞭解如何建立實習網頁表單
+* [企業助學金和貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [重新部署協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
