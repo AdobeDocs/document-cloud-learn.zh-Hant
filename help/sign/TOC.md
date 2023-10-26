@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8c7e4c3c0d8f1a7dd90da7f32c9766220d0b9235
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '544'
 ht-degree: 10%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 10%
       + [使用下列方式  [!DNL SharePoint]  自動存檔檔案 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [使用 Acrobat Sign 進行檔自動化 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [傳送以供簽署 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [即時簽署 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
       + [建立簡單的工作流程 [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [在中建立進階工作流程 [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] 針對客戶服務](integrations/dynamics-customer-service.md)

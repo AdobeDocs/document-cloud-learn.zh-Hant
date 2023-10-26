@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [即時簽署  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [即時登入 Adobe Acrobat Sign for  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 瞭解如何建立類似于會議中 [!DNL Microsoft Teams] 當面簽署的線上簽署體驗
 * [建立進階工作流程與  [!DNL Power Automate]](advanced-workflow-power-automate.md)
 瞭解如何使用 [!DNL Power Automate] 連接器建立進一步工作流程
@@ -123,10 +123,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="即時登入 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>即時登入 [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>瞭解如何建立類似于會議中 [!DNL Microsoft Teams] 當面簽署的線上簽署體驗</em>
     <br>
