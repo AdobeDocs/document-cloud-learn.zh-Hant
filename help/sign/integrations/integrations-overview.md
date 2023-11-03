@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -132,11 +132,21 @@ ht-degree: 0%
     <br>
   </td>
    <td>
+    <a href="acrobat-sign-teams-documents-tab.md">
+      <img alt="使用 Power Automate 建立簡單的工作流程" src="../assets/Documents-tab.png" />
+    </a>
+    <div>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>檔索引標籤整合 [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>瞭解如何直接從「檔」索引標籤中傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+ <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="使用 Power Automate 建立簡單的工作流程" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>使用 Power Automate 建立簡單的工作流程</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>使用 [!DNL Power Automate]</strong></a>
     </div>
     <em>瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程</em>
     <br>
@@ -151,6 +161,7 @@ ht-degree: 0%
     <em>瞭解如何使用 [!DNL Power Automate] 連接器建立進階工作流程</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
@@ -161,7 +172,6 @@ ht-degree: 0%
     <em>瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度</em>
     <br>
   </td>
-<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -180,11 +190,6 @@ ht-degree: 0%
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
