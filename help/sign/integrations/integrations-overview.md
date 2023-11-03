@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [檔索引標籤整合  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+瞭解如何直接從「檔」索引標籤中傳送檔以索取簽名 [!DNL Microsoft Teams]
 * [即時登入 Adobe Acrobat Sign for  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 瞭解如何建立類似于會議中 [!DNL Microsoft Teams] 當面簽署的線上簽署體驗
 * [建立進階工作流程與  [!DNL Power Automate]](advanced-workflow-power-automate.md)
 瞭解如何使用 [!DNL Power Automate] 連接器建立進一步工作流程
-* [ [!DNL Power Automate]](simple-workflow-power-automate.md)使用
-瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程
 
 ## Microsoft 整合教學課程
 
