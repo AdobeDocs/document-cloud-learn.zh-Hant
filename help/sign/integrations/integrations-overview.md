@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -133,7 +133,7 @@ ht-degree: 0%
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="使用 Power Automate 建立簡單的工作流程" src="../assets/Documents-tab.png" />
+      <img alt="檔索引標籤整合 [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
     <a href="acrobat-sign-teams-documents-tab.md"><strong>檔索引標籤整合 [!DNL Microsoft Teams]</strong></a>
