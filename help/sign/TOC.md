@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 10%
       + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
       + [取代簽署者](sign-beginner-tutorials/replace-signer.md)
       + [設定截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 正在簽署 {#getting-started-signing}
+   + 簽署 {#getting-started-signing}
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
       + [取得親筆簽名](sign-beginner-tutorials/sign-in-person.md)
@@ -54,7 +54,7 @@ ht-degree: 10%
       + [Authentication簽署Acrobat方法](sign-advanced-users/authentication-methods.md)
       + [管理表格資料](sign-advanced-users/manage-form-data.md)
       + [設定線上付款](sign-advanced-users/set-up-online-payments.md)
-      + [「傳送」並大量收集簽名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [大量傳送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [建立網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat簽署文字標記](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文字標記登入 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [使用者的報告選項](admin/report-options.md)
       + [建立網頁表單](sign-advanced-users/webform.md)
       + [修改現有的網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [「傳送」並大量收集簽名](sign-advanced-users/megasign.md)
+      + [大量傳送](sign-advanced-users/megasign.md)
       + [建立自訂工作流程](admin/building-a-custom-workflow.md)
    + 進階工作 {#advanced-tasks-admins}
       + [全域設定](admin/learn-about-global-settings.md)

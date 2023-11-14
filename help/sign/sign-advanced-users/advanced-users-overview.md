@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 3%
 
 ## 新增功能
 
+* [「大量傳送」 ](megasign.md)
+瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
 * [Acrobat Sign ](authentication-methods.md) 中的Authentication方法
 瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法範圍
-* [設定線上付款 ](set-up-online-payments.md)
-瞭解如何在檔中設定和接受線上付款
 
 ## 傳送
 
@@ -93,12 +93,12 @@ ht-degree: 3%
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="「傳送」並大量收集簽名" src="../assets/Megasign.png" />
+        <img alt="大量傳送" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>「傳送」並大量收集簽名</strong></a>
+      <a href="megasign.md"><strong>大量傳送</strong></a>
       </div>
-      <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
+      <em>只需幾個簡短步驟，即可針對任何檔一次收集數千個簽名</em>
       <br>
   </td>
  <td>
