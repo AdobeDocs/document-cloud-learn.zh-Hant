@@ -1,13 +1,13 @@
 ---
 title: 大量傳送
-description: 瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
+description: 瞭解如何透過幾個簡短步驟，一次收集數百份檔簽名
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 44c0c060f7847efb1f20bd0dc0de5bbcbfc49f5e
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 大量傳送
 
-瞭解如何以幾個簡短步驟傳送及收集數千個簽名，為您的組織節省數小時的時間。 每個人都可以簽署自己的檔，而且您可以追蹤您傳送檔的每個成員的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的線上簽名都是安全且具法律效力的。
+瞭解如何以幾個簡短步驟傳送及收集數百個簽名，為您的組織節省數小時的時間。 每個人都可以簽署自己的檔，而且您可以追蹤您傳送檔的每個成員的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的線上簽名都是安全且具法律效力的。
 
 [!BADGE 使用案例]
 
