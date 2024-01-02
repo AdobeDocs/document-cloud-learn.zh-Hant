@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
+source-git-commit: 25aa2a1255431787b5db306781eba22707129111
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上�
 
 ## 下載並安裝 GigaSign 應用程式
 
-[下載 GigaSign Zip 檔案](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
+[下載 GigaSign Zip 檔案](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
 
 [JAVA 1.8 下載連結 （僅需視需要） ](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
