@@ -8,22 +8,22 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 5%
+source-wordcount: '244'
+ht-degree: 1%
 
 ---
 
 # 使用 GigaSign 收集大量檔
 
-Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上萬的人。 這是專為與您的員工和客戶進行大量通訊所設計，支援多達 2，500 位收件者，每個都可大量傳送。 GigaSign 使用 Acrobat Sign API 提供與 MegaSign 相同的功能，並包含對多位簽署者、收件者群組、收件者角色、合約名稱、Carbon 副本等的支援。
+Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上萬的人。 這是專為與您的員工和客戶進行大量通訊所設計，支援多達 2,500 位收件者，每個都可大量傳送。 GigaSign 使用 Acrobat Sign API 提供與 MegaSign 相同的功能，並包含對多位簽署者、收件者群組、收件者角色、合約名稱、Carbon 副本等的支援。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## 下載並安裝 GigaSign 應用程式
 
-[下載 GigaSign Zip 檔案](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
+[下載 GigaSign Zip 檔案](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
 
 [JAVA 1.8 下載連結 （僅需視需要） ](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -31,7 +31,7 @@ Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上�
 
 ## 基本設定指示
 
-1. 登入您的 Acrobat Sign 帳戶.
+1. 登入您的 Acrobat Sign 帳戶。
 
 1. 按一下 **[!UICONTROL 「群組]** 」或 **[!UICONTROL 「帳戶]** 」，無論您在頂端看到哪一個。
 
