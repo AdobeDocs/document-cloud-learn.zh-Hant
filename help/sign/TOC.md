@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 11%
 # Acrobat Sign 教學課程 {#sign-learning-hub}
 
 + [概觀](overview.md)
-+ 快速入門 {#getting-started}
++ 開始 {#getting-started}
    + [概觀](sign-beginner-tutorials/beginner-users-overview.md)
-   + 傳送 {#getting-started-sending}
+   + 發送 {#getting-started-sending}
       + [工作區基本介紹](sign-beginner-tutorials/quick-tour.md)
       + [開始使用 Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [傳送給單一收件者](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,7 +35,7 @@ ht-degree: 11%
       + [傳送後修改檔](sign-beginner-tutorials/modify-in-flight.md)
       + [取代簽署者](sign-beginner-tutorials/replace-signer.md)
       + [設定截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 簽署 {#getting-started-signing}
+   + 標誌 {#getting-started-signing}
       + [以電子方式簽署檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填寫和簽署檔](sign-beginner-tutorials/fill-and-sign.md)
       + [取得親筆簽名](sign-beginner-tutorials/sign-in-person.md)
@@ -47,14 +47,14 @@ ht-degree: 11%
       + [建立檔範本](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 進階工作 {#advanced-tasks}
    + [概觀](sign-advanced-users/advanced-users-overview.md)
-   + 傳送 {#advanced-tasks-sending}
+   + 發送 {#advanced-tasks-sending}
       + [設定簽署順序](sign-advanced-users/setting-up-routing.md)
       + [使用委派者角色](sign-advanced-users/delegate-signature.md)
       + [使用核准者角色](sign-advanced-users/add-an-approver.md)
       + [Authentication簽署Acrobat方法](sign-advanced-users/authentication-methods.md)
       + [管理表格資料](sign-advanced-users/manage-form-data.md)
       + [設定線上付款](sign-advanced-users/set-up-online-payments.md)
-      + [大量傳送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [「大量傳送」](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [建立網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat簽署文字標記](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文字標記登入 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
       + [管理網頁表單資料](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
    + [概觀](admin/intro-admin-overview.md)
-   + 快速入門 {#getting-started-admin}
+   + 開始 {#getting-started-admin}
       + [新管理員快速入門](admin/get-started-admin.md)
       + [為管理員啟動和執行](admin/up-and-running-admin.md)
       + [設定事件和警告的通知](admin/set-up-shared-events-and-alert.md)
@@ -91,15 +91,15 @@ ht-degree: 11%
       + [使用 Aadhaar 進行簽署](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]](digitalid/digidentity-sign.md)
-   + D-Trust {#dtrust}
+   + D-信任 {#dtrust}
       + [使用 [！DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi 群組 {#intesi}
       + [從 Intesi Group （進階） 取得數位 ID](digitalid/intesi-advanced.md)
       + [從 Intesi Group （合格） 取得數位 ID](digitalid/intesi-qualified.md)
       + [使用 Intesi 群組進行簽署](digitalid/intesi-sign.md)
-+ 整合 {#integrations}
++ 集成 {#integrations}
    + [概觀](integrations/integrations-overview.md)
-   + Microsoft {#microsoft}
+   + 微軟 {#microsoft}
       + [填寫和登入 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [傳送以供簽署 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
       + [傳送以供簽署 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
@@ -122,7 +122,7 @@ ht-degree: 11%
       + [設定資料對應](integrations/set-up-data-mapping.md)
       + [設定合併對應](integrations/set-up-merging-map.md)
       + [建立自訂按鈕](integrations/create-a-custom-button.md)
-   + Workday {#workday}
+   + 工作日 {#workday}
       + [設定 Acrobat 使用 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday 新進員工到職工作](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
@@ -135,7 +135,7 @@ ht-degree: 11%
    + [概觀](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [網路講座](sign-usecase/innovation-series.md)
-   + 使用案例配方 {#recipes}
+   + 使用案例 {#recipes}
       + [概觀](sign-usecase/recipes.md)
       + 政府 {#gov}
          + [政府貸款申請與多名不明簽署者](sign-usecase/webform-multiple-signers.md)
@@ -149,7 +149,7 @@ ht-degree: 11%
          + [合約和征約表單](sign-usecase/usecasecomcontracts.md)
          + [政策協定](sign-usecase/usecasecompolicy.md)
          + [遠端工作協定](sign-usecase/usecasecomtelework.md)
-      + 教育機構 {#edu}
+      + 教育 {#edu}
          + [教育版網頁表單實習申請](sign-usecase/usecase-edu-intern.md)
          + [建立教育版網頁表單實習申請](sign-usecase/usecase-edu-intern-create.md)
          + [教育版 IEP 程式的自訂工作流程](sign-usecase/usecase-edu-iep.md)
@@ -162,7 +162,7 @@ ht-degree: 11%
       + [建立嵌入式電子簽名和檔體驗](develop/embeddedesignature.md)
 + 部署 {#deploy}
    + [概觀](deploy-overview.md)
-+ 行動裝置版本 {#mobile}
++ 移動 {#mobile}
    + [概觀](mobile/mobile-overview.md)
    + 行動裝置教學課程 {#mobile-tutorials}
       + [在外出時簽署檔](mobile/sign-mobile.md)
