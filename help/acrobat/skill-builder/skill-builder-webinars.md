@@ -1,13 +1,13 @@
 ---
 title: Adobe Acrobat Skill Builder 網路研討會
-description: Adobe Acrobat技術小將」為 30 分鐘的會議，旨在讓您的 PDF 工作流程更上層樓
+description: Adobe Acrobat技術 小將」為 30 分鐘的會議，旨在讓您的 PDF 工作流程更上層樓
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
 role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
+source-git-commit: f245b71242d37319be5bd7c4faa5d0b6467c2f2a
 workflow-type: tm+mt
 source-wordcount: '1015'
 ht-degree: 0%
