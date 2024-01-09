@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
+source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 
 **[探索 6 個基本Adobe Acrobat工具](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
 日期：2024 年 1 月 24 日
-瞭解有關數位工作世界主要趨勢的產業報告，以及Acrobat如何輕鬆合併檔工作流程，為團隊節省寶貴的時間。我們將向您展示如何：
+瞭解有關數位工作世界主要趨勢的產業報告，以及Acrobat如何輕鬆合併檔工作流程，為團隊節省寶貴的時間。了解如何：
 
 * 在多個表面Acrobat順暢地導覽
 * 輕鬆合併和編輯檔
 * 輕鬆協作 — 即使在Microsoft Teams
 * 使用世界級安全性保護檔
-* CQuickly 傳送和電子簽署檔
+* 快速傳送和電子簽署檔
 
 **[使用Adobe Acrobat開始使用](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
 日期：2024 年 1 月 18 日
-瞭解Adobe Acrobat如何繁重地處理日常檔工作，以支援快速、安全的業務。您將瞭解如何：
+瞭解Adobe Acrobat如何繁重地處理日常檔工作，以支援快速、安全的業務。了解如何：
 
 * 在多個表面Acrobat順暢地導覽
 * 快速合併和編輯檔
@@ -42,7 +42,7 @@ Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作�
 
 **[使用動作精靈](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**實現簡易自動化
 日期：2023 年 11 月 16 日
-停止重複簡單的手動工作。 本講座將說明如何在Acrobat Pro使用 Action Wizard 批處理 PDF 檔案，以及自動執行串行、重複的工作，例如讓文件具備輔助功能、保護檔、優化檔案、封存等。 您將瞭解：
+停止重複簡單的手動工作。 本講座將說明如何在Acrobat Pro使用 Action Wizard 批處理 PDF 檔案，以及自動執行串行、重複的工作，例如讓文件具備輔助功能、保護檔、優化檔案、封存等。 了解如何：
 
 * 什麼是動作
 * 如何使用預先建立的動作
