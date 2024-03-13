@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
+source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Gigasign 可讓您同時傳送、收集和追蹤檔以索取簽名給成千上�
 
 >[!IMPORTANT]
 >
->GigaSign 不再更新至 Java 或 Acrobat Sign 的最新版本，且只有有限的支援。 GigaSign 的功能正透過「大量](https://helpx.adobe.com/acrobat/using/send-in-bulk.html)傳送」功能新增至產品[中。如未明確要求使用 GigaSign，請將「大量傳送」用於所有使用。
+>GigaSign 不再更新至 Java 或 Acrobat Sign 的最新版本，且只有有限的支援。 GigaSign 的功能正透過「大量](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?)傳送」功能新增至產品[中。如未明確要求使用 GigaSign，請將「大量傳送」用於所有使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
