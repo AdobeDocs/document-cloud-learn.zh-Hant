@@ -7,22 +7,22 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
 # 快速入門總覽
 
-透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [ 編輯 PDF 檔案 ](https://www.adobe.com/tw/acrobat/online/pdf-editor.html) {target="_blank"} ，此內容的設計可讓您輕鬆進入 PDF 工作流程。
+透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [編輯 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## 新增功能
 
-* [將此 PDF ](stylize-this-PDF.md) 風格化
-瞭解如何在 Adobe Express 中使用整合式便於使用的設計工具建立具有專業型式的 PDF
-* [使用網頁Acrobat隨處工作 ](acrobatweb.md)
+* [將此 PDF](stylize-this-PDF.md) 風格化
+瞭解如何在 Adobe Express 中使用整合式易於使用的設計工具建立具有專業外觀的 PDF
+* [使用網頁Acrobat隨處工作](acrobatweb.md)
 瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求
 
 ## 快速入門教學課程
@@ -34,9 +34,9 @@ ht-degree: 4%
       <img alt="工作區基本介紹" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作區基本介紹</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace基本知識</strong></a>
     </div>
-    <em>瞭解 Acrobat 工作區如何輕鬆地跨桌上型電腦、網頁和行動裝置存取檔案和工具</em>
+    <em>瞭解 Acrobat 工作區如何輕鬆地跨桌面電腦、網頁和行動裝置存取檔案和工具</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 4%
     <div>
      <a href="productivity.md"><strong>行動生產力</strong></a>
     </div>
-    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作</em>
+    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多任務作</em>
     <br>
   </td>
 </tr>
@@ -110,12 +110,12 @@ ht-degree: 4%
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="建立 PDF 檔案" src="../assets/Create.jpg" />
+        <img alt="建立 PDF 檔案" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>建立 PDF</strong></a>
       </div>
-      <em>從所有不同檔案類型建立 PDF</em>
+      <em>從所有不同文件類型建立 PDF</em>
       <br>
     </td>
     <td>
@@ -145,13 +145,13 @@ ht-degree: 4%
       <div>
       <a href="add-custom-page.md"><strong>新增自訂頁面</strong></a>
       </div>
-      <em>瞭解如何使用整合式 Adobe Express 應用程式，將自訂頁面新增至 PDF</em>
+      <em>瞭解如何使用整合式 Adobe Express 應用程式，將自定義頁面新增至 PDF</em>
       <br>
     </td>
   </tr>
   </table>
 
-## 編輯和匯出教學課程
+## 編輯和導出教學課程
 
 <table style="table-layout:fixed">
   <tr>
@@ -209,17 +209,17 @@ ht-degree: 4%
       <div>
       <a href="collaborate.md"><strong>即時共同作業</strong></a>
       </div>
-      <em>隨時隨地即時收集注釋、協作回應，以及追蹤檔進度，讓您的專案向前邁進</em>
+      <em>隨時隨地即時收集註釋、協作回應，以及追蹤文件進度，讓您的專案向前邁進</em>
       <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="在 PDF 上加上注釋" src="../assets/Comment.jpg" />
+        <img alt="在 PDF 上加上註釋" src="../assets/Comment.jpg" />
       </a>
       <div>
-      <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上注釋</strong></a>
+      <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上註釋</strong></a>
       </div>
-      <em>新增注釋至 PDF 檔案，然後與其他人共用</em>
+      <em>新增註釋至 PDF 檔案，然後與其他人共用</em>
       <br>
     </td>
     <td>
@@ -246,7 +246,7 @@ ht-degree: 4%
     <div>
     <a href="create-fillable-forms.md"><strong>建立可填寫的表格</strong></a>
     </div>
-    <em>將在其他應用程式中建立的檔轉換為可填寫的 PDF 表格</em>
+    <em>將在其他應用程式中建立的檔案轉換為可填寫的 PDF 表格</em>
     <br>
   </td>
   <td>
@@ -266,7 +266,7 @@ ht-degree: 4%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
+    <em>在不影響共用、張貼或封存質量的情況下，縮減大型檔案及優化 PDF</em>
     <br>
   </td>
   <td>
@@ -293,10 +293,10 @@ ht-degree: 4%
   </td>
   <td>
     <a href="track.md">
-      <img alt="追蹤您的檔" src="../assets/Track_1280.png" />
+      <img alt="追蹤您的檔案" src="../assets/Track_1280.png" />
     </a>
     <div>
-    <a href="track.md"><strong>追蹤您的檔</strong></a>
+    <a href="track.md"><strong>追蹤您的檔案</strong></a>
     </div>
     <em>隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署</em>
     <br>
