@@ -1,31 +1,31 @@
 ---
-title: 編輯 PDF
-description: 瞭解如何在 PDF 檔案中編輯文字和影像
+title: 編輯 PDF 中的文字
+description: 瞭解如何在 PDF 中編輯文字、片語，甚至整頁
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 11%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# 編輯 PDF
+# 編輯 PDF 中的文字
 
-瞭解 [ 如何在 PDF 檔案中編輯文字和影像 ](https://www.adobe.com/acrobat/online/pdf-editor.html) {target="_blank"} 。按一下或點選以新增段落或修正錯字。 您甚至可以新增影像 [ 或裁切相片 ](https://www.adobe.com/acrobat/online/crop-pdf.html) 。
+瞭解如何在 PDF 中編輯文字、片語，甚至整頁。 直接在Acrobat中編輯文字，可讓您精確專業地更新內容，不必在應用程式之間來回切換。 此影片教學課程使用 [新的工作區體驗](new-workspace.md)。
 
 >[!TIP]
 >
->瞭解自動調整內容 ](auto-adjust-layout.md) 的新編輯模式 [ 。
+>瞭解自動調整內容](auto-adjust-layout.md)的新編輯模式[。
 
-<br> 
+<br>
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！
+>本課程 [中包含 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！
