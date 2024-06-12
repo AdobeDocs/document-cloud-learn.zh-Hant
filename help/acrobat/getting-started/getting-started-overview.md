@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 透過這些簡短的逐步教學課程，瞭解如何開始使用Adobe Acrobat。 從建立檔到保護或 [編輯 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，此內容的設計可讓您輕鬆進入 PDF 工作流程。
 
 ## 新增功能
+
+* [將 PDF 轉換為不同檔案格式](export-pdf.md)
+瞭解如何將 PDF 檔案轉換為不同的檔案格式 ，例如 Microsoft Word、Excel 或 PowerPoint
 
 * [編輯 PDF](edit-pdf.md) 中的文字
 瞭解如何在 PDF 中編輯文字、片語，甚至整頁
@@ -188,12 +191,12 @@ ht-degree: 1%
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="將 PDF 轉存為可編輯的格式" src="../assets/Export.jpg" />
+        <img alt="將 PDF 轉換為不同檔案格式" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>將 PDF 轉存為可編輯的格式</strong></a>
+      <a href="export-pdf.md"><strong>將 PDF 轉換為不同檔案格式</strong></a>
       </div>
-      <em>瞭解如何將 PDF 檔案轉存為可編輯的格式</em>
+      <em>瞭解如何將 PDF 檔案轉換為不同的檔案格式 ，例如 Microsoft Word、Excel 或 PowerPoint</em>
       <br>
     </td>
   </tr>
