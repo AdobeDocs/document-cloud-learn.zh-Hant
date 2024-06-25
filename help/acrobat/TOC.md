@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 4%
+source-wordcount: '480'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 4%
    + [概觀](getting-started/getting-started-overview.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作區體驗](getting-started/new-workspace.md)
+   + [使用 AI Assistant 探索 PDF 見解](getting-started/ai-assistant.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
@@ -117,7 +118,7 @@ ht-degree: 4%
          + [秘訣 #3 – 保護數字檔](industry/gov/protect-digital-documents.md)
          + [秘訣 4 – 使用表單和簽名](industry/gov/work-with-forms-and-signatures.md)
          + [秘訣 5 – 在行動裝置上掃描和編輯](industry/gov/scan-and-edit-on-mobile.md)
-      + 輔助功能 {#pdfs}
+      + 可及性 {#pdfs}
          + [使 PDF 具備輔助功能](industry/gov/making-pdfs-accessible.md)
          + [第 1 名 – 了解輔助功能](industry/gov/understanding-accessibility.md)
          + [#2 – 在 Word 中編寫](industry/gov/authoring-in-word.md)

@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -20,8 +20,11 @@ ht-degree: 1%
 
 ## 新增功能
 
+* [使用 AI Assistant](ai-assistant.md) 探索 PDF 見解
+瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解
+
 * [將 PDF 轉換為不同檔案格式](export-pdf.md)
-瞭解如何將 PDF 檔案轉換為不同的檔案格式 ，例如 Microsoft Word、Excel 或 PowerPoint
+瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint
 
 * [編輯 PDF](edit-pdf.md) 中的文字
 瞭解如何在 PDF 中編輯文字、片語，甚至整頁
@@ -54,6 +57,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="使用 AI Assistant 探索 PDF 見解" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>使用 AI Assistant 探索 PDF 見解</strong></a>
+    </div>
+    <em>瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="使用網頁Acrobat隨處工作" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ ht-degree: 1%
     <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="行動生產力" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ ht-degree: 1%
     <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多任務作</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ ht-degree: 1%
       <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
       </div>
       <em>瞭解 PDF 來自何處及其用途</em>
-      <br>
-    </td>
-    <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
@@ -196,7 +204,7 @@ ht-degree: 1%
       <div>
       <a href="export-pdf.md"><strong>將 PDF 轉換為不同檔案格式</strong></a>
       </div>
-      <em>瞭解如何將 PDF 檔案轉換為不同的檔案格式 ，例如 Microsoft Word、Excel 或 PowerPoint</em>
+      <em>瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint</em>
       <br>
     </td>
   </tr>
