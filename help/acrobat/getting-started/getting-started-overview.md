@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
+source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
@@ -22,16 +22,12 @@ ht-degree: 1%
 
 * [新的工作區體驗](new-workspace.md)
 瞭解 Acrobat 中的新工作區，可協助您快速發現工具並有效率地完成 PDF 工作
-
 * [使用 AI Assistant](ai-assistant.md) 探索 PDF 見解
 瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解
-
 * [將 PDF 轉換為不同檔案格式](export-pdf.md)
 瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint
-
 * [編輯 PDF](edit-pdf.md) 中的文字
 瞭解如何在 PDF 中編輯文字、片語，甚至整頁
-
 
 ## 快速入門教學課程
 
@@ -41,73 +37,36 @@ ht-degree: 1%
     <a href="new-workspace.md">
       <img alt="新的工作區體驗" src="../assets/new-workspace.png" />
     </a>
-    <div>
-    <a href="new-workspace.md"><strong>新的工作區體驗</strong></a>
-    </div>
-    <em>瞭解 Acrobat 中的新工作區，可協助您快速發現工具並有效率地完成 PDF 工作</em>
-    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="工作區基本介紹" src="../assets/workspace_acrobat.png" />
+      <img alt="工作區基本介紹" src="../assets/workspace-basics.png" />
     </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace基本知識</strong></a>
-    </div>
-    <em>瞭解 Acrobat 工作區如何輕鬆地跨桌面電腦、網頁和行動裝置存取檔案和工具</em>
-    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="使用 AI Assistant 探索 PDF 見解" src="../assets/ai-assistant.png" />
     </a>
-    <div>
-    <a href="ai-assistant.md"><strong>使用 AI Assistant 探索 PDF 見解</strong></a>
-    </div>
-    <em>瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解</em>
-    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="使用網頁Acrobat隨處工作" src="../assets/Acrobatweb_1280.png" />
+      <img alt="使用網頁Acrobat隨處工作" src="../assets/acrobat-web.png" />
     </a>
-    <div>
-    <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
-    </div>
-    <em>瞭解如何使用瀏覽器中的Acrobat網頁工具處理來自任何位置的業務檔請求</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
-      <img alt="行動生產力" src="../assets/Productivity_1280.png" />
-    </a>
-    <div>
-     <a href="productivity.md"><strong>行動生產力</strong></a>
-    </div>
-    <em>使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多任務作</em>
-    <br>
+      <img alt="行動生產力" src="../assets/productivity.png" />
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="使用 Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
-      </div>
-      <em>透過 Acrobat 和 [!DNL Microsoft 365]</em>
-      <br>
+        <img alt="使用 Microsoft 365" src="../assets/microsoft-365.png" />
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
-        <img alt="PDF 從何而來？" src="../assets/WherePDFs.jpg" />
+        <img alt="PDF 從何而來？" src="../assets/where-pdfs.png" />
       </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
-      </div>
-      <em>瞭解 PDF 來自何處及其用途</em>
-      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -125,41 +84,20 @@ ht-degree: 1%
       <a href="create-pdf.md">
         <img alt="建立 PDF 檔案" src="../assets/create.png" />
       </a>
-      <div>
-      <a href="create-pdf.md"><strong>建立 PDF</strong></a>
-      </div>
-      <em>從所有不同文件類型建立 PDF</em>
-      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="將檔案合併為 PDF" src="../assets/Combine.jpg" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>將檔案合併為 PDF</strong></a>
-      </div>
-      <em>將許多不同類型的檔案合併成單一 PDF</em>
-      <br>
+        <img alt="將檔案合併為 PDF" src="../assets/combine.png" />
     </td>
     <td>
       <a href="organize.md">
-        <img alt="組織頁面" src="../assets/Organize.png" />
+        <img alt="組織頁面" src="../assets/organize-pages.png" />
       </a>
-      <div>
-      <a href="organize.md"><strong>組織頁面</strong></a>
-      </div>
-      <em>在 PDF 中新增、取代、擷取、旋轉、刪除和重新排列頁面</em>
-      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="新增自訂頁面" src="../assets/Custompage.png" />
+        <img alt="新增自訂頁面" src="../assets/custom.png" />
       </a>
-      <div>
-      <a href="add-custom-page.md"><strong>新增自訂頁面</strong></a>
-      </div>
-      <em>瞭解如何使用整合式 Adobe Express 應用程式，將自定義頁面新增至 PDF</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -172,41 +110,21 @@ ht-degree: 1%
       <a href="edit-pdf.md">
         <img alt="編輯 PDF 中的文字" src="../assets/edit-text.png" />
       </a>
-      <div>
-      <a href="edit-pdf.md"><strong>編輯 PDF 中的文字</strong></a>
-      </div>
-      <em>瞭解如何編輯 PDF 中的文字</em>
-      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
-        <img alt="將此 PDF 風格化" src="../assets/Stylize.png" />
+        <img alt="將此 PDF 風格化" src="../assets/stylize-pdf.png" />
       </a>
-      <div>
-      <a href="stylize-this-PDF.md"><strong>將此 PDF 風格化</strong></a>
-      </div>
-      <em>瞭解自動調整內容的新編輯模式</em>
-      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
-        <img alt="自動調整版面" src="../assets/Autoadjust.png" />
+        <img alt="自動調整版面" src="../assets/auto-adjust.png" />
       </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>自動調整版面</strong></a>
-      </div>
-      <em>瞭解自動調整內容的新編輯模式</em>
-      <br>
     </td>
     <td>
       <a href="export-pdf.md">
         <img alt="將 PDF 轉換為不同檔案格式" src="../assets/convert.png" />
       </a>
-      <div>
-      <a href="export-pdf.md"><strong>將 PDF 轉換為不同檔案格式</strong></a>
-      </div>
-      <em>瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint</em>
-      <br>
     </td>
   </tr>
   </table>
