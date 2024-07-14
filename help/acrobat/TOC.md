@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 3%
 + [概觀](overview.md)
 + 開始 {#getting-started}
    + [概觀](getting-started/getting-started-overview.md)
-   + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作區體驗](getting-started/new-workspace.md)
+   + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用 AI Assistant 探索 PDF 見解](getting-started/ai-assistant.md)
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
    + [建立 PDF](getting-started/create-pdf.md)
-   + [將檔案合併為 PDF](getting-started/combine-to-pdf.md)
+   + [將檔案合併為單一 PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
    + [新增自訂頁面](getting-started/add-custom-page.md)
    + [編輯 PDF 中的文字](getting-started/edit-pdf.md)
