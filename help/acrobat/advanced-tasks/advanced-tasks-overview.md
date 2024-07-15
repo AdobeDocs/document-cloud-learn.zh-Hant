@@ -7,20 +7,20 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 2%
+source-wordcount: '136'
+ht-degree: 3%
 
 ---
 
 # 進階工作概觀
 
-使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格資料，以及建立具備通用協助工具的 PDF 檔案。
+使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格數據，以及建立具備通用輔助功能的 PDF 檔案。
 
 ## 新增功能
 
-* [為SEO優化 PDF （Search引擎優化） ](optimizeseo.md)
+* [為SEO優化 PDF （Search引擎優化）](optimizeseo.md)
 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
 
 ## 進階工作教學課程
@@ -29,149 +29,79 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="bookmarks.md">
-      <img alt="新增書簽和超連結" src="../assets/Bookmarks_1280.png" />
+      <img alt="新增書籤和超連結" src="../assets/bookmarks.png" />
     </a>
-    <div>
-    <a href="bookmarks.md"><strong>新增書簽和超連結</strong></a>
-    </div>
-    <em>瞭解如何新增書簽和超連結，以更好地導覽和互動</em>
-    <br>
   </td>
   <td>
     <a href="optimizescan.md">
-      <img alt="優化掃描的檔" src="../assets/Scan_1280.png" />
+      <img alt="優化掃描的檔" src="../assets/optimize.png" />
     </a>
-    <div>
-    <a href="optimizescan.md"><strong>優化掃描的檔</strong></a>
-    </div>
-    <em>瞭解如何增強掃描的檔，以提供更好的 PDF 檢視和搜尋體驗</em>
-    <br>
   </td>
   <td>
     <a href="custom.md">
-      <img alt="自訂指令和工具" src="../assets/Createcustom_1280.png" />
+      <img alt="自訂指令和工具" src="../assets/custom-commands.png" />
     </a>
-    <div>
-    <a href="custom.md"><strong>自訂指令和工具</strong></a>
-    </div>
-    <em>使用自訂指令和工具，提升檔工作流程的生產力</em>
-    <br>
   </td>
   <td>
     <a href="advancedforms.md">
-      <img alt="進階表單欄位" src="../assets/Advancedforms_1280.png" />
+      <img alt="進階表單欄位" src="../assets/advanced-forms.png" />
     </a>
-    <div>
-    <a href="advancedforms.md"><strong>進階表單欄位</strong></a>
-    </div>
-    <em>學習建立專業PDF forms的進階技巧</em>
-    <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo_1280.png" />
+      <img alt="為SEO優化 PDF （Search引擎優化）" src="../assets/seo.png" />
     </a>
-    <div>
-    <a href="optimizeseo.md"><strong>為SEO優化 PDF （Search引擎優化）</strong></a>
-    </div>
-    <em>優化 PDF 以提升可探索性和搜尋引擎在網頁上的排名</em>
-    <br>
   </td>
   <td>
     <a href="workforms.md">
-      <img alt="使用表單欄位" src="../assets/Workform_1280.png" />
+      <img alt="使用表單域" src="../assets/work-forms.png" />
     </a>
-    <div>
-    <a href="workforms.md"><strong>使用表單欄位</strong></a>
-    </div>
-    <em>新增各種類型的表格欄位、設定表格欄位內容，並增加安全性以建立高品質的專業表單</em>
-    <br>
   </td>
   <td>
     <a href="enhance.md">
-      <img alt="增強 PDF" src="../assets/Enhance_1280.png" />
+      <img alt="增強 PDF" src="../assets/enhance.png" />
     </a>
-    <div>
-    <a href="enhance.md"><strong>增強 PDF</strong></a>
-    </div>
-    <em>透過新增圖形增強功能和自動編號來轉換 PDF</em>
-    <br>
   </td>
  <td>
     <a href="compare.md">
-      <img alt="偵測兩個 PDF 之間的差異" src="../assets/Compare_1280.png" />
+      <img alt="偵測兩個 PDF 之間的差異" src="../assets/compare.png" />
     </a>
-    <div>
-    <a href="compare.md"><strong>偵測兩個 PDF 之間的差異</strong></a>
-    </div>
-    <em>快速準確地偵測兩個 PDF 檔案之間的差異</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="動作精靈" src="../assets/Action.jpg" />
+      <img alt="動作精靈" src="../assets/action-wizard.png" />
     </a>
-    <div>
-    <a href="action.md"><strong>動作精靈</strong></a>
-    </div>
-    <em>使用動作自動將一組指令套用至一或多個檔案，以節省時間和按鍵動作</em>
-    <br>
   </td>
   <td>
     <a href="redact.md">
-      <img alt="標記密文和淨化" src="../assets/Redact.jpg" />
+      <img alt="標記密文和凈化" src="../assets/redact.png" />
     </a>
-    <div>
-    <a href="redact.md"><strong>標記密文和淨化</strong></a>
-    </div>
-    <em>從 PDF 中永久移除私人或敏感性資訊</em>
-    <br>
   </td>
  <td>
     <a href="reduce.md">
-      <img alt="縮減檔案大小和優化" src="../assets/Reduce.jpg" />
+      <img alt="縮減檔案大小和優化" src="../assets/reduce.png" />
     </a>
-    <div>
-    <a href="reduce.md"><strong>縮減檔案大小和優化</strong></a>
-    </div>
-    <em>在不影響共用、張貼或封存品質的情況下，縮減大型檔案及優化 PDF</em>
-    <br>
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="動作精靈" src="../assets/FormData.jpg" />
+      <img alt="動作精靈" src="../assets/form-data.png" />
     </a>
-    <div>
-    <a href="formdata.md"><strong>處理表格資料</strong></a>
-    </div>
-    <em>將表格資料編譯為單一試算表</em>
-    <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="accessibility.md">
-      <img alt="檢查 PDF 協助工具" src="../assets/Checkaccessible_1280.jpg" />
+      <img alt="檢查 PDF 輔助功能" src="../assets/accessibility.png" />
     </a>
-    <div>
-    <a href="accessibility.md"><strong>檢查 PDF 協助工具</strong></a>
-    </div>
-    <em>檢查您的 PDF 是否可供身障人士普遍存取</em>
-    <br>
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="準備具備協助工具的 PDF 檔案" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="準備具備輔助功能的 PDF 檔案" src="../assets/accessibility-series.png" />
     </a>
-    <div>
-    <a href="accessibility-series.md"><strong>Acrobat協助工具系列</strong></a>
-    </div>
-    <em>在這場六部分的隨選網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案</em>
-    <br>
   </td>
   <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
