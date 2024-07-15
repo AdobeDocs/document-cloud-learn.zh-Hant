@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ ht-degree: 4%
 
 ## 新增功能
 
+* [在 PDF](edit-graphics.md) 中編輯圖形
+瞭解如何在 PDF 中建立、編輯和增強圖形
 * [新的工作區體驗](new-workspace.md)
 瞭解 Acrobat 中的新工作區，可協助您快速發現工具並有效率地完成 PDF 工作
 * [使用 AI Assistant](ai-assistant.md) 探索 PDF 見解
 瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解
-* [將 PDF 轉換為不同檔案格式](export-pdf.md)
-瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint
-* [編輯 PDF](edit-pdf.md) 中的文字
-瞭解如何在 PDF 中編輯文字、片語，甚至整頁
 
 ## 快速入門教學課程
 
@@ -112,6 +110,11 @@ ht-degree: 4%
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="在 PDF 中編輯圖形" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="將此 PDF 風格化" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ ht-degree: 4%
         <img alt="自動調整版面" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="將 PDF 轉換為不同檔案格式" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## 協作教學課程
 
