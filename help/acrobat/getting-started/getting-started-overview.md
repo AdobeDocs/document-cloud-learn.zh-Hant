@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ ht-degree: 2%
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="即時共同作業" src="../assets/Collaborate_1280.png" />
+        <img alt="即時共同作業" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>即時共同作業</strong></a>
-      </div>
-      <em>隨時隨地即時收集註釋、協作回應，以及追蹤文件進度，讓您的專案向前邁進</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="在 PDF 上加上註釋" src="../assets/Comment.jpg" />
+        <img alt="在 PDF 上加上註釋" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上註釋</strong></a>
-      </div>
-      <em>新增註釋至 PDF 檔案，然後與其他人共用</em>
-      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="建立可填寫的表格" src="../assets/Form_1280.png" />
+      <img alt="建立可填寫的表格" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>建立可填寫的表格</strong></a>
-    </div>
-    <em>將在其他應用程式中建立的檔案轉換為可填寫的 PDF 表格</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填寫和簽署 PDF 表格" src="../assets/FillSign_1280.png" />
+      <img alt="填寫和簽署 PDF 表格" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>填寫和簽署PDF forms</strong></a>
-    </div>
-    <em>快速填寫和簽署 PDF 表格</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="掃描與 OCR" src="../assets/Scan.jpg" />
+      <img alt="掃描與 OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
-    </div>
-    <em>在不影響共用、張貼或封存質量的情況下，縮減大型檔案及優化 PDF</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="使用密碼保護 PDF 檔案" src="../assets/Protect.jpg" />
+      <img alt="使用密碼保護 PDF 檔案" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>使用密碼保護 PDF 檔案</strong></a>
-    </div>
-    <em>為 PDF 新增密碼以保護其他人開啟或編輯檔案</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="取得簽名" src="../assets/Signatures_1280.png" />
+      <img alt="取得簽名" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>取得簽名</strong></a>
-    </div>
-    <em>隨時隨地收集其他人具有法律效力的電子簽名，以持續推動業務發展</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="追蹤您的檔案" src="../assets/Track_1280.png" />
+      <img alt="追蹤您的檔案" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>追蹤您的檔案</strong></a>
-    </div>
-    <em>隨時瞭解哪些檔案正在等待簽名，以及哪些檔案已簽署</em>
-    <br>
   </td>
   <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
