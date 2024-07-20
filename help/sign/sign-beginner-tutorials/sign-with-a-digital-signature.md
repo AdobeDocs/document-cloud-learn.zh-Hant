@@ -1,6 +1,6 @@
 ---
-title: 什麼是數位簽章
-description: 瞭解憑證式數位簽章
+title: 什麼是數字簽名
+description: 了解憑證式數字簽名
 feature: Digital ID, Sign
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 什麼是數位簽章
+# 什麼是數字簽名
 
-瞭解憑證式數位簽章，其符合全球最嚴格的法規，為簽署者身分提供最高程度的保證。
+了解憑證式數字簽名，其符合全球最嚴格的法規，為簽署者身分提供最高程度的保證。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343648?quality=12&learn=on&hidetitle=true)

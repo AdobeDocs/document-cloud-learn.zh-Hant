@@ -1,6 +1,6 @@
 ---
 title: 進階工作總覽
-description: 瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定簽名檔、管理簽名交易，以及建立及管理檔範本
+description: 瞭解如何一次傳送檔給100位收件者以索取簽名、為您的網站設定簽名檔、管理簽名交易，以及建立及管理文件範本
 feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
@@ -10,19 +10,19 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
 # 進階工作概觀
 
-瞭解如何一次傳送檔給 100 位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理檔範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
+瞭解如何一次傳送檔給100位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理文件範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
 
 ## 新增功能
 
-* [「大量傳送」 ](megasign.md)
+* [「大量傳送」](megasign.md)
 瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
-* [Acrobat Sign ](authentication-methods.md) 中的Authentication方法
+* [Acrobat Sign](authentication-methods.md) 中的Authentication方法
 瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法範圍
 
 ## 傳送
@@ -73,12 +73,12 @@ ht-degree: 5%
 <tr>
   <td>
       <a href="manage-form-data.md">
-        <img alt="管理表格資料" src="../assets/manage-form-data.png" />
+        <img alt="管理表格數據" src="../assets/manage-form-data.png" />
       </a>
       <div>
-      <a href="manage-form-data.md"><strong>管理表格資料</strong></a>
+      <a href="manage-form-data.md"><strong>管理表格數據</strong></a>
       </div>
-      <em>瞭解如何整合檔中的表格資料</em>
+      <em>瞭解如何整合檔中的表格數據</em>
       <br>
     </td>
   <td>
@@ -86,9 +86,9 @@ ht-degree: 5%
       <img alt="設定線上付款" src="../assets/Payments.png" />
     </a>
     <div>
-    <a href="set-up-online-payments.md"><strong>設定線上付款</strong></a>
+    <a href="set-up-online-payments.md"><strong>設定在線付款</strong></a>
     </div>
-    <em>瞭解如何在檔中設定和接受線上付款</em>
+    <em>瞭解如何在文件中設定和接受在線付款</em>
     <br>
   </td>
   <td>
@@ -96,7 +96,7 @@ ht-degree: 5%
         <img alt="大量傳送" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>大量傳送</strong></a>
+      <a href="megasign.md"><strong>「大量傳送」</strong></a>
       </div>
       <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
       <br>
@@ -120,7 +120,7 @@ ht-degree: 5%
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
       </div>
-      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單域</em>
       <br>
     </td>
   <td>
@@ -130,7 +130,7 @@ ht-degree: 5%
     <div>
     <a href="text-tagging-word.md"><strong>使用文字標記登入 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的檔範本 [!DNL Microsoft Word]</em>
+    <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的文件範本 [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -157,15 +157,15 @@ ht-degree: 5%
     <div>
     <a href="creating-a-report.md"><strong>建立報告</strong></a>
     </div>
-    <em>瞭解如何建立您自己的報告，以瞭解檔簽署流程</em>
+    <em>瞭解如何建立您自己的報告，以了解文件簽署流程</em>
     <br>
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="管理檔範本" src="../assets/ManageTemplate.png" />
+      <img alt="管理文件範本" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>管理檔範本</strong></a>
+    <a href="edit-a-template.md"><strong>管理文件範本</strong></a>
     </div>
     <em>編輯或刪除資料庫中的範本</em>
     <br>
@@ -177,17 +177,17 @@ ht-degree: 5%
     <div>
     <a href="modify-webform.md"><strong>修改現有的網頁表單</strong></a>
     </div>
-    <em>瞭解如何停用、編輯和重新啟用現有的網頁表單</em>
+    <em>瞭解如何停用、編輯和重新啟用現有的網頁窗體</em>
     <br>
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="管理網頁表單資料" src="../assets/Managewebform.png" />
+      <img alt="管理網頁表單數據" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>管理網頁表單資料</strong></a>
+    <a href="manage-webform-data.md"><strong>管理網頁表單數據</strong></a>
     </div>
-    <em>瞭解如何從網頁表單追蹤、管理和匯出資料</em>
+    <em>瞭解如何從網頁窗體追蹤、管理和導出數據</em>
     <br>
   </td>  
 </tr>

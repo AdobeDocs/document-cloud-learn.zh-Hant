@@ -1,6 +1,6 @@
 ---
 title: 政府企業助學金與貸款
-description: 透過提供授予、貸款和稅務延期申請表單的自助存取權，為企業提供快速的協助
+description: 透過提供授予、貸款和稅務延期申請窗體的自助存取權，為企業提供快速的協助
 feature: Use Cases, Web Forms, Form
 role: User
 level: Intermediate
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 政府企業助學金和貸款
 
-透過提供授予、貸款和稅務延期申請表單的自助存取權，為企業提供快速的協助。 瞭解如何建立線上網頁表單，不必列印或郵寄任何內容即可完成 **及** 簽署。
+透過提供授予、貸款和稅務延期申請窗體的自助存取權，為企業提供快速的協助。 瞭解如何建立在線網頁窗體，不必列印或郵寄任何內容即可完成 **及** 簽署。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 

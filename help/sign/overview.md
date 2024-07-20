@@ -10,7 +10,7 @@ exl-id: 72762750-5764-4541-aedd-94230b56936b
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -46,7 +46,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
-      <img alt="數位 ID" src="assets/AS_Title_DigitalID.png" />
+      <img alt="數位ID" src="assets/AS_Title_DigitalID.png" />
     </a>
   </td>
 </tr>

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 在 PDF 中編輯圖形
 
-在這 60 秒的教學課程影片中，瞭解如何使用 Illustrator 對 PDF 中的圖形進行進階編輯！ 選取「編輯 PDF」後，在圖形上按一下滑鼠右鍵，然後選擇在Illustrator中進行編輯。 完成後，只需選擇「儲存Illustrator」，然後Acrobat更新 PDF 中的圖稿。
+在這 60 秒的教學課程影片中，瞭解如何使用 Illustrator 對 PDF 中的圖形進行進階編輯！ 選取「編輯 PDF」後，在圖形上按下滑鼠右鍵，然後選擇在Illustrator中進行編輯。 完成後，只需選擇「儲存Illustrator」，然後Acrobat更新 PDF 中的圖稿。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)

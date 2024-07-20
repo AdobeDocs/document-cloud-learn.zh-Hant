@@ -1,6 +1,6 @@
 ---
 title: 掃描與 OCR
-description: 將檔的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案，並調整所產生檔案的品質
+description: 將文件的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案，並調整所產生檔案的品質
 feature: Edit PDF
 role: User
 level: Beginner
@@ -9,24 +9,24 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 4%
+source-wordcount: '181'
+ht-degree: 0%
 
 ---
 
 # 掃描與 OCR
 
-將檔掃描或影像轉換為可搜尋、可編輯的 PDF 檔案 ](https://www.adobe.com/acrobat/online/pdf-editor.html) {target="_blank"} ， [ 持續推動業務發展。
+將文件掃描或影像轉換為可搜尋、可編輯的 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，[持續推動業務發展。
 
 >[!TIP]
 >
->若要 OCR 處理多個 PDF 檔案，請嘗試使用「 [ 動作精靈」 ](../advanced-tasks/action.md) 。
+>若要 OCR 處理多個 PDF 檔案，請嘗試使用「 [動作精靈」](../advanced-tasks/action.md)。
 
-1. 從「 **[!UICONTROL 工具 ] 」中心或右側窗格選 [!UICONTROL  取「掃描與 OCR]** 」。
+1. 從「**[!UICONTROL 工具]」中心或右側窗格選[!UICONTROL 取「掃描與 OCR]**」。
 
    ![掃描步驟 1](../assets/Scan_1.png)
 
-1. 選取檔案.
+1. 選取檔案。
 
    此檔案可能是檔的相片，或是使用掃描器或 Adobe Scan 行動應用程式建立的已掃描檔案。 或者，您可以掃描檔，使用連接的掃描器建立新檔案。
 
@@ -40,7 +40,7 @@ ht-degree: 4%
 
    Acrobat自動辨識掃描檔中的文字。
 
-1. 選取 **[!UICONTROL 「識別文字]** 」以手動辨識影像檔案中的文字。
+1. 選取 **[!UICONTROL 「識別文字]** 」以手動辨識圖像檔案中的文字。
 
    ![掃描步驟 4](../assets/Scan_4.png)
 
@@ -48,4 +48,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！
+>本影片是本課程 [的一部分，提供 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League版，讓您更聰明地工作！

@@ -99,7 +99,7 @@ ht-degree: 7%
       + [使用 Intesi 群組進行簽署](digitalid/intesi-sign.md)
 + 集成 {#integrations}
    + [概觀](integrations/integrations-overview.md)
-   + 微軟 {#microsoft}
+   + Microsoft {#microsoft}
       + [填寫和登入 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [傳送以供簽署 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
       + [傳送以供簽署 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)

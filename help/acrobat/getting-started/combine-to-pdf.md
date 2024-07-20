@@ -9,23 +9,23 @@ thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
 # 將檔案合併為單一 PDF
 
-要打造最佳客戶體驗，內容的建立速度必須比以往更快。 瞭解如何無縫地合併許多不同類型的檔案 （PDF、Word、Excel、PowerPoint、JPEG 等） 轉換為單一 PDF。 [將檔案合併為單一 PDF ](https://www.adobe.com/tw/acrobat/online/merge-pdf.html) {target="_blank"} 可讓您管理和控制傳送給其他人的內容，從而創造更好的體驗。
+要打造最佳客戶體驗，內容的建立速度必須比以往更快。 瞭解如何無縫地合併許多不同類型的檔案 （PDF、Word、Excel、PowerPoint、JPEG 等） 轉換為單一 PDF。 [將檔案合併為單一 PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} 可讓您管理和控制傳送給其他人的內容，從而創造更好的體驗。
 
 >[!TIP]
 >
->瞭解如何在 [ 合併檔案時新增全新自訂頁面 ](add-custom-page.md) 。
+>瞭解如何在 [合併檔案時新增全新自定義頁面](add-custom-page.md) 。
 
-<br> 
+<br>
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->本課程 [ 中包含 Acrobat DC 和 Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！
+>本影片是本課程 [的一部分，提供 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League版，讓您更聰明地工作！

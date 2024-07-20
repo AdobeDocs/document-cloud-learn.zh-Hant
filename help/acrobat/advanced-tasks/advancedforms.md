@@ -1,6 +1,6 @@
 ---
 title: 進階表格欄位
-description: 瞭解如何設定計算、建立電子郵件送出按鈕，以及快速更新表格頁面，而無需重新整理所有現有的表格欄位
+description: 瞭解如何設定計算、建立電子郵件送出按鈕，以及快速更新表格頁面，而無需重新整理所有現有的表格字段
 feature: Edit PDF, Form
 role: User
 level: Experienced
@@ -16,13 +16,13 @@ ht-degree: 7%
 
 # 進階表單欄位
 
-在此實作教學課程中，瞭解如何設定計算、建立電子郵件送出按鈕，以及快速更新表格頁面，而無需重新整理所有現有的表格欄位。
+在此實作教學課程中，瞭解如何設定計算、建立電子郵件送出按鈕，以及快速更新表格頁面，而無需重新整理所有現有的表格字段。
 
-<br> 
+<br>
 
 ## 您需要的
 
-[![取得檔案 ](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
+[![取得檔案](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
 要練習的範例檔案 （ZIP，1.7 MB）
 
 <br>

@@ -1,6 +1,6 @@
 ---
 title: 行動生產力
-description: 使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多工作
+description: 使用平板電腦或行動電話，使用 Acrobat Reader 行動應用程式完成更多任務作
 feature: Mobile
 role: User
 level: Beginner
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->有興趣深入瞭解您可以從任何地方存取Acrobat工具嗎？ 請參閱 [ 使用網頁 ](acrobatweb.md) Acrobat隨處工作。
+>有興趣深入瞭解您可以從任何地方存取Acrobat工具嗎？ 請參閱 [使用網頁](acrobatweb.md)Acrobat隨處工作。
 
-<br> 
+<br>
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
 

@@ -1,14 +1,15 @@
 ---
 title: Microsoft Dynamics 365 for Sales
-description: 瞭解如何使用 Acrobat Sign 和  [!DNL Microsoft Dynamics 365]  sales 來自動化銷售報價簽署程式
+description: 瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] sales 來自動化銷售報價簽署程式
 feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13722
-source-git-commit: c7a28b88e4547f942dc7831b10e2ba5cff73fe20
+exl-id: e15a71b4-82c7-48a7-bcdc-9e33cbfb5caf
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---

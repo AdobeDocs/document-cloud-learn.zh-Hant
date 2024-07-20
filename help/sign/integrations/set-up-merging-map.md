@@ -1,6 +1,6 @@
 ---
 title: 在 Salesforce 中設定合併對應
-description: 瞭解如何將 Salesforce 的資料直接合並到 Acrobat Sign 檔
+description: 瞭解如何將 Salesforce 的數據直接合併到 Acrobat Sign 檔
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 在 Salesforce 中設定合併對應
 
-瞭解如何將 Salesforce 的資料直接合並到 Acrobat Sign 檔中。
+瞭解如何將 Salesforce 的數據直接合併到 Acrobat Sign 檔中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)

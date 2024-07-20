@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 10%
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
-    <em>瞭解我們在安全性、合法性及 Acrobat Sign 標準方面正在進行的努力</em>
+    <em>瞭解我們在安全性、合法性及Acrobat Sign標準方面正在進行的努力</em>
     <br>
   </td>
   <td>

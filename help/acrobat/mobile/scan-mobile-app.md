@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 將任何內容掃描成 PDF
 
-瞭解如何使用免費的 Adobe Scan 行動應用程式，將任何紙本檔轉換為 PDF。
+瞭解如何使用免費的 Adobe Scan 行動應用程式，將任何紙本文件轉換為 PDF。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 

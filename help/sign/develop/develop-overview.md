@@ -1,6 +1,6 @@
 ---
 title: 開發總覽
-description: 瞭解如何使用 Acrobat Sign API 為您的團隊、合作夥伴和客戶建立自訂應用程式
+description: 瞭解如何使用 Acrobat Sign API 為您的團隊、合作夥伴和客戶建立自定義應用程式
 feature: Workflow, Integrations
 role: Developer
 level: Intermediate
@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -53,12 +53,12 @@ Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊
   </td>
    <td>
     <a href="embeddedesignature.md">
-      <img alt="建立嵌入式電子簽名和檔體驗" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+      <img alt="建立嵌入式電子簽名和文件體驗" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和檔體驗</strong></a>
+    <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和文件體驗</strong></a>
     </div>
-    <em>瞭解如何使用 Acrobat Sign API 將電子簽名和檔體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
+    <em>瞭解如何使用 Acrobat Sign API 將電子簽名和文件體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
     <br>
   </td>
 </tr>

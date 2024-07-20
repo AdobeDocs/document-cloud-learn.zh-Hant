@@ -1,6 +1,6 @@
 ---
 title: 使用來自 [!DNL Dropbox]
-description: 瞭解如何從檔案內部開啟、建立、編輯、簽署和儲存變更  [!DNL Dropbox]  Acrobat
+description: 瞭解如何從檔案內部開啟、建立、編輯、簽署和儲存變更 [!DNL Dropbox] Acrobat
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner

@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Enterprise 和 Business 計畫可以在傳送過程中選擇性地顯示「提醒」選項，或是啟用整個帳戶/整個群組的自動化。
+>Enterprise 和 Business 計劃可以在傳送過程中選擇性地顯示「提醒」選項，或是啟用整個帳戶/整個群組的自動化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
 

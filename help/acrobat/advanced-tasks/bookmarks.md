@@ -1,6 +1,6 @@
 ---
-title: 新增書簽和超連結
-description: 瞭解如何新增書簽和超連結，以便改善 PDF 檔案的導覽和互動
+title: 新增書籤和超連結
+description: 瞭解如何新增書籤和超連結，以便改善 PDF 檔案的導覽和互動
 feature: Edit PDF
 role: User
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 新增書簽和超連結
+# 新增書籤和超連結
 
-瞭解如何新增書簽和超連結，以便改善 PDF 檔案的導覽和互動。
+瞭解如何新增書籤和超連結，以便改善 PDF 檔案的導覽和互動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)

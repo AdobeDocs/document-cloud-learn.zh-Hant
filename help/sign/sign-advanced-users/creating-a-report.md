@@ -1,6 +1,6 @@
 ---
 title: 建立報告
-description: 瞭解如何建立您自己的報告，以瞭解檔簽署流程
+description: 瞭解如何建立您自己的報告，以了解文件簽署流程
 feature: Report
 role: User, Admin
 level: Intermediate
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 建立報告
 
-瞭解如何建立自己的報告，以深入瞭解檔簽署程式，或瞭解個別群組或使用者的狀況。
+瞭解如何建立自己的報告，以深入瞭解文件簽署程式，或了解個別群組或用戶的狀況。
 
 >[!NOTE]
 >
->報告僅適用于商業和企業層級計畫。
+>報告僅適用於商業和企業層級計劃。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)

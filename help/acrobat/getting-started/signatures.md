@@ -9,14 +9,14 @@ thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 取得簽名
 
-隨時隨地收集其他人具有法律效力 [ 的電子簽名 ](https://www.adobe.com/tw/acrobat/online/request-signature.html) {target="_blank"} ，以持續推動業務發展。
+隨時隨地收集其他人具有法律效力 [的電子簽名](https://www.adobe.com/tw/acrobat/online/request-signature.html){target="_blank"} ，以持續推動業務發展。
 
 >[!IMPORTANT]
 >
@@ -26,4 +26,4 @@ ht-degree: 7%
 
 >[!TIP]
 >
->瞭解如何在 [ 單一簡易的位置追蹤傳送以索取簽名的檔 ](track.md) 。
+>瞭解如何在 [單一簡易的位置追蹤傳送以索取簽名的檔](track.md) 。

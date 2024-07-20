@@ -1,20 +1,20 @@
 ---
-title: 共用 PDF 以供注釋
+title: 共用 PDF 以供註釋
 description: 瞭解如何共用 PDF，以在單一檔案中快速收集多位人員的意見回饋
 feature: Share, Collaboration
 role: User
 level: Beginner
 jira: KT-13295
-exl-id: efba836a-17be-44b3-9126-4540aa7ec942
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: d3c633aa-29e8-4878-a3fc-057121d7b0da
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# 共用 PDF 以供注釋
+# 共用 PDF 以供註釋
 
-在這 60 秒的教學課程影片中，瞭解如何共用 PDF，以在單一檔案中快速收集多位使用者的意見回饋。
+在這 60 秒的教學課程影片中，瞭解如何共用 PDF，以在單一檔案中快速收集多位用戶的意見回饋。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)

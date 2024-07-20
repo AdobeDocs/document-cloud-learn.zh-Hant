@@ -21,14 +21,14 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [教育版 IEP 程式的自訂工作流程 ](usecase-edu-iep.md)
-瞭解「自訂工作流程Designer如何用於數位化個人化教育計畫 （IEP） 程式
-* [教育版網頁表單實習申請 ](usecase-edu-intern.md)
-瞭解如何使用網頁表單來改善學生對所需表單的存取權
-* [建立教育版網頁表單實習申請 ](usecase-edu-intern-create.md)
-瞭解如何建立實習網頁表單
-* [政府貸款申請與多名不明簽署者 ](webform-multiple-signers.md)
-瞭解網頁表單如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
+* [教育版 IEP 程式的自定義工作流程](usecase-edu-iep.md)
+瞭解「自定義工作流程Designer如何用於數位化個人化教育計劃 （IEP） 程式
+* [教育版網頁窗體實習申請](usecase-edu-intern.md)
+瞭解如何使用網頁窗體來改善學生對所需表單的存取權
+* [建立教育版網頁窗體實習申請](usecase-edu-intern-create.md)
+瞭解如何建立實習網頁窗體
+* [政府貸款申請與多名不明簽署者](webform-multiple-signers.md)
+瞭解網頁窗體如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
 
 ## 政府使用案例
 
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
     <a href="webform-multiple-signers.md"><strong>政府貸款申請與多名不明簽署者</strong></a>
     </div>
-    <em>瞭解網頁表單如何用於涉及多名不明參與者的複雜政府貸款申請工作流程</em>
+    <em>瞭解網頁窗體如何用於涉及多名不明參與者的複雜政府貸款申請工作流程</em>
     <br>
   </td> 
   <td>
@@ -51,7 +51,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovgrants.md"><strong>企業助學金和貸款</strong></a>
     </div>
-    <em>透過提供授予、貸款和稅務延期申請表單的自助存取權，為企業提供快速的協助</em>
+    <em>透過提供授予、貸款和稅務延期申請窗體的自助存取權，為企業提供快速的協助</em>
     <br>
   </td> 
   <td>
@@ -93,7 +93,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>薪資保護</strong></a>
     </div>
-    <em>瞭解如何使用 Acrobat Sign 將付款保護計劃表格轉換為線上互動表格</em>
+    <em>瞭解如何使用 Acrobat Sign 將付款保護計劃表格轉換為在線互動表格</em>
     <br>
   </td>
   <td>
@@ -162,32 +162,32 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="usecase-edu-intern.md">
-      <img alt="教育版網頁表單實習申請" src="../assets/Webform-internship.png" />
+      <img alt="教育版網頁窗體實習申請" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>教育版網頁表單實習申請</strong></a>
+    <a href="usecase-edu-intern.md"><strong>教育版網頁窗體實習申請</strong></a>
     </div>
-    <em>瞭解如何使用網頁表單來改善學生對所需表單的存取權</em>
+    <em>瞭解如何使用網頁窗體來改善學生對所需表單的存取權</em>
     <br>
   </td> 
   <td>
     <a href="usecase-edu-intern-create.md">
-      <img alt="建立教育版網頁表單實習申請" src="../assets/Webform-internship-create.png" />
+      <img alt="建立教育版網頁窗體實習申請" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>建立教育版網頁表單實習申請</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>建立教育版網頁窗體實習申請</strong></a>
     </div>
-    <em>瞭解如何建立實習網頁表單</em>
+    <em>瞭解如何建立實習網頁窗體</em>
     <br>
   </td> 
   <td>
     <a href="usecase-edu-iep.md">
-      <img alt="教育版 IEP 程式的自訂工作流程" src="../assets/Workflow-iep.png" />
+      <img alt="教育版 IEP 程式的自定義工作流程" src="../assets/Workflow-iep.png" />
     </a>
     <div>
-    <a href="usecase-edu-iep.md"><strong>教育版 IEP 程式的自訂工作流程</strong></a>
+    <a href="usecase-edu-iep.md"><strong>教育版 IEP 程式的自定義工作流程</strong></a>
     </div>
-    <em>瞭解「自訂工作流程Designer如何用於數位化個人化教育計畫 （IEP） 程式</em>
+    <em>瞭解「自定義工作流程Designer如何用於數位化個人化教育計劃 （IEP） 程式</em>
     <br>
   </td>
   <td>

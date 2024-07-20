@@ -1,5 +1,5 @@
 ---
-title: 讓Acrobat協助您製作具備協助工具的 PDF
+title: 讓Acrobat協助您製作具備輔助功能的 PDF
 description: 檢查 PDF 是否可供存取
 feature: Accessibility
 role: User
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# 讓Acrobat協助您製作具備協助工具的 PDF
+# 讓Acrobat協助您製作具備輔助功能的 PDF
 
 >[!NOTE]
 >
->僅適用于 Acrobat Pro。
+>僅適用於 Acrobat Pro。
 
 在此 60 秒的教學課程影片中，瞭解如何檢查 PDF 是否可供存取。
 

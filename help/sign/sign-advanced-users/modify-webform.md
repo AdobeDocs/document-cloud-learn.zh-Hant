@@ -1,6 +1,6 @@
 ---
 title: 修改現有的網頁表單
-description: 瞭解如何停用、編輯和重新啟用現有的網頁表單
+description: 瞭解如何停用、編輯和重新啟用現有的網頁窗體
 feature: Web Forms
 role: User, Admin
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 修改現有的網頁表單
 
-瞭解如何停用、編輯和重新啟用現有的網頁表單。 停用網頁表單時，您可以將URL重新導向，或為使用者建立自訂訊息。
+瞭解如何停用、編輯和重新啟用現有的網頁窗體。 停用網頁表單時，您可以將URL重新導向，或為使用者建立自定義訊息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)

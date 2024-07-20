@@ -1,6 +1,6 @@
 ---
 title: 使用 [！DNL D-Trust]
-description: 瞭解如何使用 [！DNL D-Trust]，然後使用 [！在 Acrobat Sign 中的檔上使用 DNL D-Trust] 數位簽章
+description: 瞭解如何使用 [！DNL D-Trust]，然後使用 [！在 Acrobat Sign 中的檔上使用 DNL D-Trust] 數位簽名
 feature: Digital ID
 role: User
 solution: Acrobat Sign
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 使用 [!DNL D-Trust]
 
-瞭解如何註冊您的身 [!DNL D-Trust] 分，然後在 Acrobat Sign 中使用 [!DNL D-Trust] 檔的數位簽章。
+瞭解如何註冊您的身 [!DNL D-Trust]分，然後在 Acrobat Sign 中使用 [!DNL D-Trust] 檔的數位簽名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

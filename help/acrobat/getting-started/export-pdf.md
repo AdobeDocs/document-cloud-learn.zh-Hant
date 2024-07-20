@@ -1,6 +1,6 @@
 ---
 title: 將 PDF 轉換為不同檔案格式
-description: 瞭解如何將 PDF 檔案轉換為不同的檔案格式 ，例如 Microsoft Word、Excel 或 PowerPoint
+description: 瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 Microsoft Word、Excel 或 PowerPoint
 feature: Convert PDF
 role: User
 level: Beginner
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 將 PDF 轉換為不同檔案格式
 
-瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 [Microsoft Word](https://www.adobe.com/tw/acrobat/online/pdf-to-word.html)、 [PowerPoint](https://www.adobe.com/tw/acrobat/online/pdf-to-ppt.html) 和 [Excel](https://www.adobe.com/tw/acrobat/online/pdf-to-excel.html)。 我們也提供將 PDF 轉換為 [Adobe Express](https://express.adobe.com) 以新增品牌化設計元素的內容。 當您將 PDF 轉換為 Microsoft Word 之類的其他檔案格式時，可提高檔工作流程效率，並大幅節省對冗長文件進行變更時的大量時間。 此影片教學課程使用新的工作區體驗。
+瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 [Microsoft Word](https://www.adobe.com/tw/acrobat/online/pdf-to-word.html)、 [PowerPoint](https://www.adobe.com/tw/acrobat/online/pdf-to-ppt.html) 和 [Excel](https://www.adobe.com/tw/acrobat/online/pdf-to-excel.html)。 我們也提供將 PDF 轉換為 [Adobe Express](https://express.adobe.com) 以新增品牌化設計元素的內容。 當您將 PDF 轉換為其他檔案格式 （例如 Microsoft Word） 時，便可提升檔工作流程效率，並大幅節省大量變更冗長文件的時間。 此影片教學課程使用新的工作區體驗。
 
 >[!TIP]
 >
@@ -32,4 +32,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->本課程 [中包含 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) （可在 Experience League 上免費取得） 更聰明地工作！
+>本影片是本課程 [的一部分，提供 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League版，讓您更聰明地工作！

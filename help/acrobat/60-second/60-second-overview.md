@@ -1,6 +1,6 @@
 ---
-title: 60 秒Acrobat概覽
-description: 60 秒Acrobat為您提供一口大小的教程，説明您在一分鐘或更短的時間內學習Acrobat的新技巧
+title: 60 秒Acrobat總覽
+description: 60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內Acrobat學習新技巧
 feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 ---
 
-# 60 秒Acrobat概覽
+# 60 秒Acrobat總覽
 
-60 秒Acrobat為您提供一口大小的教程，説明您在一分鐘或更短的時間內學習Acrobat的新技巧。 這些基於任務的技巧可説明您通過解鎖一些Acrobat隱藏寶石來學習處理 PDF 檔的新技能。 您可以觀看一個以獲得快速答案，或者觀看五個以提高您的檔工作效率 - 並且仍然有時間享受您的咖啡休息時間。
+60 秒Acrobat提供插點大小教學課程，協助您在一或短的時間內Acrobat學習新技巧。 這些以任務為基礎的秘訣可説明您解鎖Acrobat的一些隱藏的工具，以取得處理 PDF 檔案的新技能。 您可以觀看其中一個影片以快速解答，或是觀看五個以提升文件生產力的影片 – 還有時間享受喝咖啡的時光。
 
-## 60 秒Acrobat教程
+## 60 秒Acrobat教學課程
 
 ## 編輯
 
@@ -26,17 +26,17 @@ ht-degree: 1%
 <tr>
    <td>
     <a href="edit.md">
-      <img alt="使用 Acrobat Web Edit PDF" src="../assets/60-edit-web.png" />
+      <img alt="使用網頁Acrobat編輯 PDF" src="../assets/60-edit-web.png" />
     </a>
   </td>
   <td>
     <a href="textrecognition.md">
-      <img alt="識別掃描的 PDF 檔中的文字" src="../assets/60-ocr.png" />
+      <img alt="識別掃描的 PDF 檔案中的文字" src="../assets/60-ocr.png" />
     </a>
   </td>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="將檔案合併為一個 PDF" src="../assets/60-combine.png" />
+      <img alt="將多個檔案合併為一個 PDF" src="../assets/60-combine.png" />
     </a>
   </td>
    <td>
@@ -111,24 +111,24 @@ ht-degree: 1%
     </a>
   <td>
     <a href="wordform.md">
-      <img alt="將 Word 轉換為包含表單域的 PDF" src="../assets/60-convert-word-form.png" />
+      <img alt="將 Word 轉換為 PDF，包括表格欄位" src="../assets/60-convert-word-form.png" />
     </a>
   </td>
   <td>
       <a href="photo.md">
-        <img alt="立即建立 PDF 照片" src="../assets/60-create-photos.png" />
+        <img alt="立即建立相片的 PDF" src="../assets/60-create-photos.png" />
       </a>
   </td>
 </tr>
 <tr>
   <td>
     <a href="phone.md">
-      <img alt="在手機上將PPT檔轉換為PDF" src="../assets/60-ppt-phone.png" />
+      <img alt="在手機上將PPT檔案轉換為 PDF" src="../assets/60-ppt-phone.png" />
     </a>
   </td>
   <td>
       <a href="optimize.md">
-        <img alt="快速建立更高效的 PDF 檔" src="../assets/60-efficient.png" />
+        <img alt="快速建立更有效率的 PDF 檔案" src="../assets/60-efficient.png" />
       </a>
   </td>
   <td>
@@ -150,7 +150,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="sign.md">
-      <img alt="電子簽署檔檔" src="../assets/60-electronically-sign.png" />
+      <img alt="電子簽署紙本檔" src="../assets/60-electronically-sign.png" />
     </a>
   </td>
   <td>
@@ -219,7 +219,7 @@ ht-degree: 1%
   </td>
    <td>
     <a href="indesign.md">
-      <img alt="將 PDF 評論載入到 InDesign" src="../assets/60-indesign.png" />
+      <img alt="將 PDF 註釋載入InDesign" src="../assets/60-indesign.png" />
     </a>
   </td>
 </tr>
@@ -231,12 +231,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="accessible.md">
-      <img alt="讓Acrobat説明您製作無障礙 PDF" src="../assets/60-accessible.png" />
+      <img alt="讓Acrobat協助您製作具備輔助功能的 PDF" src="../assets/60-accessible.png" />
     </a>
   </td>
  <td>
     <a href="conform.md">
-      <img alt="使 PDF 符合標準格式" src="../assets/60-conform.png" />
+      <img alt="將 PDF 符合標準格式" src="../assets/60-conform.png" />
     </a>
   </td>
   <td>

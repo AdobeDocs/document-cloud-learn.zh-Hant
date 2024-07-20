@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 3%
 
 ## 新增功能
 
-* [「大量傳送」 ](../sign-advanced-users/megasign.md)
+* [「大量傳送」](../sign-advanced-users/megasign.md)
 瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
-* [報告選項 ](report-options.md)
-瞭解如何為使用者設定報告選項
-* [新增使用者 ](add-users-to-your-account.md)
+* [報告選項](report-options.md)
+瞭解如何為用戶設定報告選項
+* [新增使用者](add-users-to-your-account.md)
 瞭解如何新增和管理使用者的 Acrobat Sign
 
 ## 快速入門
@@ -91,17 +91,17 @@ ht-degree: 3%
     <div>
     <a href="set-up-your-external-archive.md"><strong>設定外部封存</strong></a>
     </div>
-    <em>為已簽署的合約備份建立外部封存檔</em>
+    <em>為已簽署的合約備份建立外部封存盤</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="建立檔範本" src="../assets/Template.png" />
+      <img alt="建立文件範本" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>建立檔範本</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>建立文件範本</strong></a>
     </div>
-    <em>建立可重複使用的檔範本，以加快與一致性</em>
+    <em>建立可重複使用的文件範本，以加快與一致性</em>
     <br>
   </td>
   <td>
@@ -111,19 +111,19 @@ ht-degree: 3%
     <div>
     <a href="create-a-report.md"><strong>建立報告圖表</strong></a>
     </div>
-    <em>瞭解如何建立、儲存和管理您自己的自訂報告和資料匯出</em>
+    <em>瞭解如何建立、儲存和管理您自己的自定義報告和數據匯出</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="report-options.md">
-      <img alt="使用者的報告選項" src="../assets/report-options.png" />
+      <img alt="用戶的報告選項" src="../assets/report-options.png" />
     </a>
     <div>
-    <a href="report-options.md"><strong>使用者的報告選項</strong></a>
+    <a href="report-options.md"><strong>用戶的報告選項</strong></a>
     </div>
-    <em>瞭解如何為使用者設定報告選項</em>
+    <em>瞭解如何為用戶設定報告選項</em>
     <br>
   </td>
   <td>
@@ -143,7 +143,7 @@ ht-degree: 3%
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>修改現有的網頁表單</strong></a>
     </div>
-    <em>瞭解如何停用、編輯和重新啟用現有的網頁表單</em>
+    <em>瞭解如何停用、編輯和重新啟用現有的網頁窗體</em>
     <br>
   </td>
   <td>
@@ -151,7 +151,7 @@ ht-degree: 3%
       <img alt="大量傳送" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>大量傳送</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>「大量傳送」</strong></a>
     </div>
     <em>針對任何檔一次收集數千個簽名</em>
     <br>
@@ -165,7 +165,7 @@ ht-degree: 3%
     <div>
     <a href="building-a-custom-workflow.md"><strong>設定工作流程</strong></a>
     </div>
-    <em>自動化檔工作流程，快速取得電子簽名和資料</em>
+    <em>自動化檔工作流程，快速取得電子簽名和數據</em>
     <br>
   </td>
   <td>
@@ -206,7 +206,7 @@ ht-degree: 3%
     <div>
     <a href="share-account-access.md"><strong>共用帳戶存取權</strong></a>
     </div>
-    <em>設定另一個使用者帳戶中交易的僅限檢視存取權</em>
+    <em>設定另一個用戶帳戶中交易的僅限檢視存取權</em>
     <br>
   </td>
   <td>
@@ -238,7 +238,7 @@ ht-degree: 3%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
     <div>
-    <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單欄位</em>
+    <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單域</em>
     <br>
   </td>
   <td>

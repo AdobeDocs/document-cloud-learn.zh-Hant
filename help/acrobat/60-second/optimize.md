@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->僅適用于 Acrobat Pro。
+>僅適用於 Acrobat Pro。
 
 在這 60 秒的教學課程影片中，瞭解如何使用「優化 PDF」工具大幅縮減 PDF 檔案的大小。
 

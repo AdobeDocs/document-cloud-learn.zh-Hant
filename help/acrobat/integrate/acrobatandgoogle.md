@@ -1,6 +1,6 @@
 ---
 title: Adobe Acrobat [!DNL Google Drive]
-description: 直接在應用程式內  [!DNL Google Drive]  存取省時的 PDF 工具和電子簽名工作流程
+description: 直接在應用程式記憶體 [!DNL Google Drive] 取省時的 PDF 工具和電子簽名工作流程
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Acrobat [!DNL Google Drive]
 
-瞭解如何直接在應用程式內 [!DNL Google Drive] 存取省時的 PDF 工具和電子簽名工作流程。
+瞭解如何直接在應用程式記憶體 [!DNL Google Drive] 取省時的 PDF 工具和電子簽名工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

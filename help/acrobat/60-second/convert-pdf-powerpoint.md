@@ -1,12 +1,12 @@
 ---
 title: 將 PDF 轉換為 Powerpoint
-description: 將 PDF 檔案轉換為可完全編輯的 Microsoft PowerPoint 檔
+description: 將 PDF 檔案轉換為完全可編輯的 Microsoft PowerPoint 檔
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13290
-exl-id: b5b3908e-422e-4ee5-95e9-5fd72c165242
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: ed397b50-9b11-44ba-adeb-e962a078e772
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

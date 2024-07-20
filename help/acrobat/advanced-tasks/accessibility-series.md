@@ -1,6 +1,6 @@
 ---
-title: Acrobat協助工具系列
-description: 六場隨選協助工具系列
+title: Acrobat輔助功能系列
+description: 六場隨選輔助功能系列
 feature: Accessibility
 role: User
 level: Experienced
@@ -14,22 +14,22 @@ ht-degree: 0%
 
 ---
 
-# Acrobat協助工具系列
+# Acrobat輔助功能系列
 
-![Acrobat協助工具系列影像](../assets/Hero_Accessibility.png)
+![Acrobat輔助功能系列影像](../assets/Hero_Accessibility.png)
 
-在這場由六部分部分與隨選的網路研討會系列中，從「協助工具」的基本知識，到深入探討如何標記 PDF 檔案。 每個會話都包含後續的實務檔案。
+在這場由六部分部分與隨選的網路研討會系列中，從「輔助功能」的基本知識，到深入探討如何標記 PDF 檔案。 每個會話都包含後續的實務檔案。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="accessibilitysession1.md">
-      <img alt="PDF 協助工具簡介" src="../assets/Accessibilitysession1_1280.png" />
+      <img alt="PDF 輔助功能簡介" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>PDF 協助工具簡介</strong></a>
+    <a href="accessibilitysession1.md"><strong>PDF 輔助功能簡介</strong></a>
     </div>
-    <em>在此隨選會議中，瞭解讓 PDF 具備協助工具的意義、如何設定Acrobat Pro以處理 PDF 協助工具，以及將來源文件轉換為 PDF 的程式</em>
+    <em>在此隨選會議中，瞭解讓 PDF 具備輔助功能的意義、如何設定Acrobat Pro以處理 PDF 輔助功能，以及將源文檔轉換為 PDF 的程式</em>
     <br>
   </td>
   <td>
@@ -49,7 +49,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession3.md"><strong>複雜表格</strong></a>
     </div>
-    <em>此隨選會議解決了針對協助工具 （複雜表格） 補救 PDF 時，比較常見且更具挑戰性的問題之一</em>
+    <em>此隨選會議解決了針對輔助功能 （複雜表格） 補救 PDF 時，比較常見且更具挑戰性的問題之一</em>
     <br>
   </td>
 </tr>
@@ -71,7 +71,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession5.md"><strong>將表格欄位新增至標籤的 PDF</strong></a>
     </div>
-    <em>此隨選會話著重于將表單欄位新增至先前標記的 PDF</em>
+    <em>此隨選會話著重於將表單域新增至先前標記的 PDF</em>
     <br>
   </td>  
   <td>
@@ -79,9 +79,9 @@ ht-degree: 0%
       <img alt="將表格欄位新增至未標記的 PDF" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>將表單欄位新增至未標記的 PDF</strong></a>
+    <a href="accessibilitysession6.md"><strong>將表單域新增至未標記的 PDF</strong></a>
     </div>
-    <em>此隨選會話更深入地建立手動表單欄位和其他表單欄位內容</em>
+    <em>此隨選會話更深入地建立手錶單域和其他表單域內容</em>
     <br>
   </td> 
 </tr>

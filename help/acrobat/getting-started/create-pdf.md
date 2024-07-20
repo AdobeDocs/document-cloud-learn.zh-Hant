@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->您會一直使用 Microsoft Office 嗎？ 查看這些 [整合](../integrate/integrate-overview.md#microsoft) 功能，讓您能直接在最愛的 Office 應用程式中建立 PDF。
+>您是否一直使用 Microsoft Office？ 查看這些 [整合](../integrate/integrate-overview.md#microsoft) 功能，讓您能直接在最愛的 Office 應用程式中建立 PDF。
 
 <br>
 

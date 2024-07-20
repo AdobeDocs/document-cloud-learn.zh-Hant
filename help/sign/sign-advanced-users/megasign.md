@@ -1,6 +1,6 @@
 ---
 title: 大量傳送
-description: 瞭解如何透過幾個簡短步驟，一次收集數百份檔簽名
+description: 瞭解如何透過幾個簡短步驟，一次收集數百份文件簽名
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -9,14 +9,14 @@ thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
 source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '152'
 ht-degree: 3%
 
 ---
 
 # 大量傳送
 
-瞭解如何以幾個簡短步驟傳送及收集數百個簽名 （每個簽名最多可傳送 1,000 位收件者），為貴組織節省數小時的時間。 每個人都可以簽署自己的檔，而且您可以追蹤您傳送檔的每個成員的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的線上簽名都是安全且具法律效力的。
+瞭解如何以幾個簡短步驟傳送及收集數百個簽名 （每個簽名最多可傳送 1,000 位收件者），為貴組織節省數小時的時間。 每個人都可以簽署自己的檔，而且您可以追蹤您傳送檔的每個成員的進度，讓您確切知道誰或誰尚未簽署。 每個您擷取的在線簽名都是安全且具法律效力的。
 
 [!BADGE 使用案例]
 
@@ -25,8 +25,8 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[以 ZIP 格式 ](../assets/sendInBulkSample.zip) 下載範例CSV檔案。 在這裡瞭解您可以在 CSV 檔案 [ ](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html) 中設定的所有值。
+[以 ZIP 格式](../assets/sendInBulkSample.zip)下載範例CSV檔案。 在這裡瞭解您可以在 CSV 檔案[](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html)中設定的所有值。
 
 >[!TIP]
 >
-此影片是「適用于使用者 ](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 的 [ 進階工作」和 [ 「開始使用Acrobat適用于管理員的 ](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Sign」課程的一部分，這些課程可在 Experience League 上免費取得！
+此影片是「適用於使用者](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)的[進階工作」和[「開始使用Acrobat適用於管理員的](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Sign」課程的一部分，這些課程可在 Experience League 上免費取得！

@@ -1,6 +1,6 @@
 ---
-title: 設定資料對應
-description: 瞭解如何為Acrobat登入設定資料對應 [!DNL Salesforce]
+title: 設定數據對應
+description: 瞭解如何為Acrobat登入設定數據對應 [!DNL Salesforce]
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 設定資料對應 [!DNL Salesforce]
+# 設定數據對應 [!DNL Salesforce]
 
-瞭解如何為Acrobat登入設定資料對應 [!DNL Salesforce] 。 「資料對應」可讓您在合約簽署完成後將資料 _取回_ [!DNL Salesforce] 。
+瞭解如何為Acrobat登入設定數據對應 [!DNL Salesforce]。 「數據對應」可讓您在合約簽署完成後將數據&#x200B;_取回_[!DNL Salesforce]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

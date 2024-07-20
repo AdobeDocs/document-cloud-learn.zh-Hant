@@ -1,12 +1,13 @@
 ---
 title: 建立進階工作流程與 [!DNL Power Automate]
-description: 瞭解如何使用  [!DNL Power Automate]  連接器建立進階工作流程
+description: 瞭解如何使用 [!DNL Power Automate] 連接器建立進階工作流程
 feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13925
-source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
+exl-id: d4d10319-c230-4bdd-9510-4fcdbf793e90
+source-git-commit: 40215bac6760f1a3640f82e43cee3f2f02fafcd8
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

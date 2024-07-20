@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 5%
 
 ## 新增功能
 
-* [開始使用 Acrobat Sign ](new-sender.md)
+* [開始使用 Acrobat Sign](new-sender.md)
 您第一次使用 Acrobat Sign 嗎？ 這個教學課程是一個不錯的開始。
-* [設定截止日期和提醒 ](set-deadlines-reminders.md)
+* [設定截止日期和提醒](set-deadlines-reminders.md)
 瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔
 
 ## 傳送
@@ -34,7 +34,7 @@ ht-degree: 5%
       <img alt="工作區基本介紹" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>工作區基本介紹</strong></a>
+    <a href="quick-tour.md"><strong>Workspace基本知識</strong></a>
     </div>
     <em>快速流覽 Acrobat Sign 工作區，以開始使用</em>
     <br>
@@ -56,7 +56,7 @@ ht-degree: 5%
     <div>
     <a href="send-to-single-recipient.md"><strong>傳送給單一收件者</strong></a>
     </div>
-    <em>跳入並瞭解傳送檔以索取簽名有多麼簡單</em>
+    <em>跳入並了解傳送檔以索取簽名有多麼簡單</em>
     <br>
   </td>
   <td>
@@ -64,7 +64,7 @@ ht-degree: 5%
       <img alt="傳送給多個收件者" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>傳送給多個收件者</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>傳送給多位收件者</strong></a>
     </div>
     <em>依照您想要的順序，傳送檔給多個人員以索取電子簽名</em>
     <br>
@@ -108,7 +108,7 @@ ht-degree: 5%
     <div>
     <a href="replace-signer.md"><strong>取代簽署者</strong></a>
     </div>
-    <em>瞭解如何變更進行中檔的簽署者</em>
+    <em>瞭解如何變更進行中文件的簽署者</em>
      <br>
   </td>
 </tr>
@@ -152,7 +152,7 @@ ht-degree: 5%
     <div>
     <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔</strong></a>
     </div>
-    <em>瞭解使用 Acrobat Sign 傳送給您的檔簽署有多麼簡單</em>
+    <em>瞭解使用 Acrobat Sign 傳送給您的文件簽署有多麼簡單</em>
     <br>
   </td>
   <td>
@@ -182,19 +182,19 @@ ht-degree: 5%
     <div>
     <a href="delegate-signing.md"><strong>委派簽署給其他人</strong></a>
     </div>
-    <em>瞭解如何將檔簽署作業委派給其他人</em>
+    <em>瞭解如何將文件簽署作業委派給其他人</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="什麼是數位簽章" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="什麼是數字簽名" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>什麼是數位簽章</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>什麼是數字簽名</strong></a>
     </div>
-    <em>瞭解憑證式數位簽章</em>
+    <em>了解憑證式數字簽名</em>
     <br>
   </td>
   <td>
@@ -236,12 +236,12 @@ ht-degree: 5%
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="建立檔範本" src="../assets/Template.png" />
+      <img alt="建立文件範本" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>建立檔範本</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>建立文件範本</strong></a>
     </div>
-    <em>建立可重複使用的檔範本，為您的組織提供速度和一致性</em>
+    <em>建立可重複使用的文件範本，為您的組織提供速度和一致性</em>
     <br>
   </td>
   <td>

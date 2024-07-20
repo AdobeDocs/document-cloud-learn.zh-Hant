@@ -1,6 +1,6 @@
 ---
 title: 設定外部封存
-description: 瞭解如何為已簽署的合約備份建立外部封存檔
+description: 瞭解如何為已簽署的合約備份建立外部封存盤
 feature: Administration
 role: Admin
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 設定外部封存
 
-瞭解如何為已簽署的合約備份建立外部封存檔。 您可以將副本封存至任何電子郵件地址，或封存至 [!DNL Box] Evernote。 已簽署並完成的電子郵件副本會傳送至您指定的電子郵件地址或雲端服務。
+瞭解如何為已簽署的合約備份建立外部封存盤。 您可以將副本封存至任何電子郵件位址，或封存至 [!DNL Box] Evernote。 已簽署並完成的電子郵件副本會傳送至您指定的電子郵件地址或雲端服務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

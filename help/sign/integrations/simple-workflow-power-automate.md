@@ -1,12 +1,13 @@
 ---
 title: 建立簡易工作流程與 [!DNL Power Automate]
-description: 瞭解如何使用  [!DNL Power Automate]  連接器建立簡單的工作流程
+description: 瞭解如何使用 [!DNL Power Automate] 連接器建立簡單的工作流程
 feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13924
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+exl-id: f26af655-8ffc-44c9-9b88-9b0df4ee2bbd
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

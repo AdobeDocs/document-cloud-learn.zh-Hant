@@ -1,5 +1,5 @@
 ---
-title: 適用于政府機關的Acrobat
+title: 適用於政府機關的Acrobat
 description: 探索專為聯邦政府、州政府和地方政府設計的Acrobat教學課程
 feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
@@ -9,12 +9,12 @@ thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
-# 適用于政府機關的Acrobat
+# 適用於政府機關的Acrobat
 
 探索專為聯邦政府、州政府和地方政府設計的Acrobat教學課程。
 
@@ -49,15 +49,15 @@ ht-degree: 0%
     <div>
     <a href="collaborate-on-documents.md"><strong>秘訣 2：共同處理檔</strong></a>
     </div>
-    <em>建立可在檔上進行協作的簡單輕鬆工作流程</em>
+    <em>建立可在文件上進行協作的簡單輕鬆工作流程</em>
     <br>
   </td>
   <td>
     <a href="protect-digital-documents.md">
-      <img alt="提示：3Protect 數位檔" src="../../assets/Tip3.png" />
+      <img alt="提示：3Protect 數字檔" src="../../assets/Tip3.png" />
     </a>
     <div>
-    <a href="protect-digital-documents.md"><strong>秘訣 3：保護數位檔</strong></a>
+    <a href="protect-digital-documents.md"><strong>秘訣 3：保護數字檔</strong></a>
     </div>
     <em>為 PDF 新增密碼以避免複製、編輯或列印</em>
     <br>
@@ -102,40 +102,40 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
-      <img alt="使 PDF 具備協助工具 （完成 14：11）" src="../../assets/Accessiblecomplete.png" />
+      <img alt="使 PDF 具備輔助功能 （完成 14：11）" src="../../assets/Accessiblecomplete.png" />
     </a>
     <div>
-    <a href="making-pdfs-accessible.md"><strong>使 PDF 具備協助工具 （完成 14：11）</strong></a>
+    <a href="making-pdfs-accessible.md"><strong>使 PDF 具備輔助功能 （完成 14：11）</strong></a>
     </div>
-    <em>瞭解建立具備協助工具的 PDF 檔案的最佳工作流程</em>
+    <em>瞭解建立具備輔助功能的 PDF 檔案的最佳工作流程</em>
     <br>
   </td>
   <td>
     <a href="understanding-accessibility.md">
-      <img alt="使 PDF 具備協助工具：瞭解協助工具" src="../../assets/Accessibiityunderstanding.png" />
+      <img alt="使 PDF 具備輔助功能：瞭解輔助功能" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>使 PDF 具備協助工具：瞭解協助工具</strong></a>
+    <a href="understanding-accessibility.md"><strong>使 PDF 具備輔助功能：瞭解輔助功能</strong></a>
     </div>
     <em>瞭解讓行動障礙人士可以存取 PDF 有何意義</em>
     <br>
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="使 PDF 具備協助工具：在 Word 中編寫" src="../../assets/Accessibilityword.png" />
+      <img alt="使 PDF 具備輔助功能：在 Word 中編寫" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>使 PDF 具備協助工具：在 Word 中編寫</strong></a>
+    <a href="collaborate-on-documents.md"><strong>使 PDF 具備輔助功能：在 Word 中編寫</strong></a>
     </div>
     <em>瞭解建立所撰寫 PDF 檔案的最佳作法 [!DNL Microsoft Word]</em>
     <br>
   </td>
    <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="使 PDF 具備協助工具：在Acrobat中完成作業" src="../../assets/Accessibilityacrobat.png" />
+      <img alt="使 PDF 具備輔助功能：在Acrobat中完成作業" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>使 PDF 具備協助工具：在Acrobat中完成作業</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>使 PDF 具備輔助功能：在Acrobat中完成作業</strong></a>
     </div>
     <em>瞭解如何使用 Acrobat Pro 中的工具，完成 PDF 檔案的存取作業</em>
     <br>
@@ -149,7 +149,7 @@ ht-degree: 0%
     <div>
     <a href="making-pdf-ballots-accessible.md"><strong>使 PDF 票數更易於存取</strong></a>
     </div>
-    <em>本次網路研討會涵蓋必要的 PDF 協助工具重要領域，讓螢幕閱讀程式等輔助技術使用者閱讀和完成票證</em>
+    <em>本次網路研討會涵蓋必要的 PDF 輔助功能重要領域，讓螢幕閱讀程式等輔助技術使用者閱讀和完成票證</em>
     <br>
   </td>  
   <td>

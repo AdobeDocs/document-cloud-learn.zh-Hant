@@ -1,6 +1,6 @@
 ---
 title: 即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]
-description: 瞭解如何建立類似于會議中  [!DNL Microsoft Teams]  當面簽署的線上簽署體驗
+description: 瞭解如何建立類似於會議中 [!DNL Microsoft Teams] 當面簽署的在線簽署體驗
 feature: Integrations
 role: User
 topic: Integrations
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]
 
-瞭解如何建立類似于在Microsoft Teams會議中當面簽署的線上簽署體驗。 Live Sign 可讓您從任何裝置代管個人化、快速且安全的簽署體驗。
+瞭解如何建立類似於在Microsoft Teams會議中當面簽署的在線簽署體驗。 Live Sign 可讓您從任何裝置代管個人化、快速且安全的簽署體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)

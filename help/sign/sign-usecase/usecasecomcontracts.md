@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 商業合約和征約表單
 
-使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解 [ Acrobat Sign 工作流程Designer ](../admin/building-a-custom-workflow.md) 工具，協助簡化整個流程。
+使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解 [Acrobat Sign 工作流程Designer](../admin/building-a-custom-workflow.md) 工具，協助簡化整個流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

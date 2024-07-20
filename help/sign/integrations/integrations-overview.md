@@ -12,28 +12,28 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
 # 整合概觀
 
-您可以在貴組織已在其他已使用的應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Acrobat Sign 來命名一些名稱。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
+您可以在貴組織已經在使用的其他應用程式 （例如 Microsoft、Salesforce、Workday 和 Marketo） 中使用 Acrobat Sign 來命名一些應用程式。 透過這些整合指南和教學課程，瞭解如何簡化電子簽名工作流程。
 
 >[!NOTE]
 > 如果您在存取任何功能時發生問題，請向貴組織的管理員確認整合已啟用。
 
 ## 新增功能
 
-* [檔索引標籤整合  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-瞭解如何直接從「檔」索引標籤中傳送檔以索取簽名 [!DNL Microsoft Teams]
-* [即時登入 Adobe Acrobat Sign for  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-瞭解如何建立類似于會議中 [!DNL Microsoft Teams] 當面簽署的線上簽署體驗
-* [建立進階工作流程與  [!DNL Power Automate]](advanced-workflow-power-automate.md)
+* [檔索引標籤整合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+瞭解如何直接從「檔」索引卷標中傳送檔以索取簽名 [!DNL Microsoft Teams]
+* [即時登入 Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+瞭解如何建立類似於會議中 [!DNL Microsoft Teams] 當面簽署的在線簽署體驗
+* [建立進階工作流程與 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 瞭解如何使用 [!DNL Power Automate] 連接器建立進一步工作流程
 
-## Microsoft 整合教學課程
+## Microsoft整合教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -44,7 +44,7 @@ ht-degree: 0%
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>在 Microsoft Outlook 中填寫和簽署</strong></a>
     </div>
-    <em>直接在 Microsoft Outlook 中填寫和簽署表格</em>
+    <em>直接在 Microsoft Outlook 內填寫和簽署表格</em>
     <br>
   </td>
   <td>
@@ -86,17 +86,17 @@ ht-degree: 0%
     <div>
     <a href="integrate-web-form-sharepoint-online.md"><strong>整合網頁表單 [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>瞭解如何將從網頁表單收集的資料對應到清單中 [!DNL SharePoint]</em>
+    <em>瞭解如何將從網頁窗體收集的數據對應到清單中[!DNL SharePoint]</em>
     <br>
   </td>
   <td>
     <a href="auto-archive-sharepoint-power-automate.md">
-      <img alt="使用下列方式 [!DNL SharePoint] 自動存檔檔案 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
+      <img alt="使用下列方式 [!DNL SharePoint] 自動存盤檔案 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>使用下列方式 [!DNL SharePoint] 自動存檔檔案 [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>使用下列方式 [!DNL SharePoint] 自動存盤檔案 [!DNL Power Automate]</strong></a>
     </div>
-    <em>瞭解如何使用 [!DNL SharePoint][!DNL Power Automate]</em>
+    <em>瞭解如何使用[!DNL SharePoint][!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ ht-degree: 0%
     <div>
     <a href="documentautomation.md"><strong>檔自動化與 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>瞭解如何啟用和使用應用程式的 [!DNL Acrobat Sign] [!DNL Adobe PDF Tools] 連接器 [!DNL Microsoft Power]</em>
+    <em>瞭解如何啟用和使用應用程式的[!DNL Acrobat Sign][!DNL Adobe PDF Tools]連接器[!DNL Microsoft Power]</em>
     <br>
   </td>
    <td>
@@ -128,7 +128,7 @@ ht-degree: 0%
     <div>
     <a href="live-sign-microsoft-teams.md"><strong>即時登入 Adobe Acrobat Sign [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>瞭解如何建立類似于會議中 [!DNL Microsoft Teams] 當面簽署的線上簽署體驗</em>
+    <em>瞭解如何建立類似於會議中 [!DNL Microsoft Teams] 當面簽署的在線簽署體驗</em>
     <br>
   </td>
    <td>
@@ -138,12 +138,12 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign-teams-documents-tab.md"><strong>檔索引標籤整合 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>瞭解如何直接從「檔」索引標籤中傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
+    <em>瞭解如何直接從「檔」索引卷標中傳送檔以索取簽名 [!DNL Microsoft Teams]</em>
     <br>
   </td>
  <td>
     <a href="simple-workflow-power-automate.md">
-      <img alt="使用 Power Automate 建立簡單的工作流程" src="../assets/simple-workflow.png" />
+      <img alt="使用Power Automate 建立簡單的工作流程" src="../assets/simple-workflow.png" />
     </a>
     <div>
     <a href="simple-workflow-power-automate.md"><strong>使用 [!DNL Power Automate]</strong></a>
@@ -153,10 +153,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="advanced-workflow-power-automate.md">
-      <img alt="使用 Power Automate 建立進階工作流程" src="../assets/advanced-workflow.png" />
+      <img alt="使用Power Automate 建立進階工作流程" src="../assets/advanced-workflow.png" />
     </a>
     <div>
-    <a href="advanced-workflow-power-automate.md"><strong>使用 Power Automate 建立進階工作流程</strong></a>
+    <a href="advanced-workflow-power-automate.md"><strong>使用Power Automate 建立進階工作流程</strong></a>
     </div>
     <em>瞭解如何使用 [!DNL Power Automate] 連接器建立進階工作流程</em>
     <br>
@@ -179,7 +179,7 @@ ht-degree: 0%
     <div>
     <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
     </div>
-    <em>瞭解如何使用 Acrobat Sign [!DNL Power Automate] 和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動</em>
+    <em>瞭解如何使用 Acrobat Sign [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動</em>
     <br>
   </td>
   <td>
@@ -243,17 +243,17 @@ ht-degree: 0%
     <div>
     <a href="create-an-agreement-template.md"><strong>Document Builder for [!DNL Salesforce]</strong></a>
     </div>
-    <em>瞭解如何使用 Document Builder 建立可重複使用的檔範本 [!DNL Salesforce]</em>
+    <em>瞭解如何使用 Document Builder 建立可重複使用的文件範本 [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
     <a href="set-up-data-mapping.md">
-      <img alt="設定資料對應" src="../assets/SF-DataMapping.png" />
+      <img alt="設定數據對應" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>設定資料對應</strong></a>
+    <a href="set-up-data-mapping.md"><strong>設定數據對應</strong></a>
     </div>
-    <em>合約簽署完成後將資料拉回 Salesforce</em>
+    <em>合約簽署完成後將數據拉回 Salesforce</em>
     <br>
   </td>
   <td>
@@ -263,17 +263,17 @@ ht-degree: 0%
     <div>
     <a href="set-up-merging-map.md"><strong>在 Salesforce 中設定合併對應</strong></a>
     </div>
-    <em>瞭解如何將 Salesforce 的資料直接合並到 Acrobat Sign 檔</em>
+    <em>瞭解如何將 Salesforce 的數據直接合併到 Acrobat Sign 檔</em>
     <br>
   </td>
   <td>
     <a href="create-a-custom-button.md">
-      <img alt="建立自訂按鈕" src="../assets/SF-Button.png" />
+      <img alt="建立自定義按鈕" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>建立自訂按鈕</strong></a>
+    <a href="create-a-custom-button.md"><strong>建立自定義按鈕</strong></a>
     </div>
-    <em>建立自訂按鈕以啟動傳送程式並自動填入 Salesforce 中的合約</em>
+    <em>建立自定義按鈕以啟動傳送程式並自動填入 Salesforce 中的合約</em>
     <br>
   </td>
 </tr>
@@ -317,10 +317,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="使用適用於 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>使用適用于 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>使用適用於 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
     </div>
     <em>瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出</em>
     <br>
@@ -332,7 +332,7 @@ ht-degree: 0%
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>使用 Adobe Sign for Salesforce 和 Marketo 視訊教學課程傳送提醒</strong></a>
     </div>
-    <em>瞭解如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
+    <em>瞭解如何在合約一段時間后仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
   </td>
   <td>
@@ -342,27 +342,27 @@ ht-degree: 0%
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒</strong></a>
     </div>
-    <em>閱讀如何在合約一段時間後仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
+    <em>閱讀如何在合約一段時間后仍未簽署時，向 Marketo 傳送電子郵件提醒</em>
     <br>
   </td>
    <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="使用適用於 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>使用適用於 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送提醒</strong></a>
     </div>
-    <em>瞭解如何在合約一段時間後仍未簽署時傳送電子郵件提醒</em>
+    <em>瞭解如何在合約一段時間后仍未簽署時傳送電子郵件提醒</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="使用適用於 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>使用適用于 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>使用適用於 Microsoft Dynamics 和 Marketo 的 Acrobat Sign 傳送通知</strong></a>
     </div>
     <em>瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出</em>
     <br>
