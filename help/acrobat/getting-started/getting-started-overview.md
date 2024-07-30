@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
+source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 4%
+source-wordcount: '582'
+ht-degree: 1%
 
 ---
 
@@ -35,36 +35,66 @@ ht-degree: 4%
     <a href="new-workspace.md">
       <img alt="新的工作區體驗" src="../assets/new-workspace.png" />
     </a>
+    <div>
+    <a href="new-workspace.md"><strong>新的工作區體驗</strong></a>
+    </div>
+    瞭解 Acrobat 中的新工作區    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="工作區基本介紹" src="../assets/workspace-basics.png" />
     </a>
+    <div>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace基本知識</strong></a>
+    </div>
+    瞭解如何跨桌面計算機、網頁和行動裝置存取檔案和工具    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="使用 AI Assistant 探索 PDF 見解" src="../assets/ai-assistant.png" />
     </a>
+    <div>
+    <a href="ai-assistant.md"><strong>使用 AI Assistant 探索 PDF 見解</strong></a>
+    </div>
+    瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
       <img alt="使用網頁Acrobat隨處工作" src="../assets/acrobat-web.png" />
     </a>
+    <div>
+    <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
+    </div>
+    瞭解如何處理來自任何位置的業務檔要求    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
       <img alt="行動生產力" src="../assets/productivity.png" />
+    </a>
+    <div>
+    <a href="productivity.md"><strong>行動生產力</strong></a>
+    </div>
+    瞭解如何直接從平板電腦或行動電話中執行更多操作    <br>
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="使用 Microsoft 365" src="../assets/microsoft-365.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
+      </div>
+      瞭解如何直接在 Microsoft 365 中順暢地使用 PDF 檔案      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="PDF 從何而來？" src="../assets/where-pdfs.png" />
       </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
+      </div>
+      瞭解 PDF 來自何處，以及如何在數位工作流程中使用      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -82,20 +112,37 @@ ht-degree: 4%
       <a href="create-pdf.md">
         <img alt="建立 PDF 檔案" src="../assets/create.png" />
       </a>
+      <div>
+      <a href="create-pdf.md"><strong>建立 PDF 檔案</strong></a>
+      </div>
+      瞭解如何從所有不同文件類型建立 PDF      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="將檔案合併為 PDF" src="../assets/combine.png" />
+        <img alt="將檔案合併為單一 PDF" src="../assets/combine.png" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>將檔案合併為單一 PDF</strong></a>
+      </div>
+      瞭解如何將許多不同類型的檔案無縫合併為單一 PDF      <br>
     </td>
     <td>
       <a href="organize.md">
         <img alt="組織頁面" src="../assets/organize-pages.png" />
       </a>
+      <div>
+      <a href="organize.md"><strong>組織頁面</strong></a>
+      </div>
+      瞭解如何按您喜歡的方式重新排列頁面      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
         <img alt="新增自訂頁面" src="../assets/custom.png" />
       </a>
+      <div>
+      <a href="add-custom-page.md"><strong>新增自訂頁面</strong></a>
+      </div>
+      瞭解如何將自定義頁面新增至 PDF      <br>
     </td>
   </tr>
   </table>
@@ -108,27 +155,47 @@ ht-degree: 4%
       <a href="edit-pdf.md">
         <img alt="編輯 PDF 中的文字" src="../assets/edit-text.png" />
       </a>
+      <div>
+      <a href="edit-pdf.md"><strong>編輯 PDF 中的文字</strong></a>
+      </div>
+      瞭解如何在 PDF 中編輯文字、片語，甚至整頁      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
         <img alt="在 PDF 中編輯圖形" src="../assets/edit-graphics.png" />
       </a>
+      <div>
+      <a href="edit-graphics.md"><strong>在 PDF 中編輯圖形</strong></a>
+      </div>
+      瞭解如何在 PDF 中建立、編輯和增強圖形      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
         <img alt="將此 PDF 風格化" src="../assets/stylize-pdf.png" />
       </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>將此 PDF 風格化</strong></a>
+      </div>
+      瞭解如何建立具有專業外觀的 PDF      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
         <img alt="自動調整版面" src="../assets/auto-adjust.png" />
       </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>自動調整版面</strong></a>
+      </div>
+      瞭解重排內容的新編輯模式      <br>
     </td>
   </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="將 PDF 轉換為不同檔案格式" src="../assets/convert.png" />
       </a>
+      <div>
+      <a href="export-pdf.md"><strong>將 PDF 轉換為不同檔案格式</strong></a>
+      </div>
+      瞭解如何將 PDF 檔案轉換為不同檔案格式      <br>
     </td>
     <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -156,11 +223,19 @@ ht-degree: 4%
       <a href="collaborate.md">
         <img alt="即時共同作業" src="../assets/collaborate.png" />
       </a>
+      <div>
+      <a href="collaborate.md"><strong>即時共同作業</strong></a>
+      </div>
+      實時協作以推動項目進展
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
         <img alt="在 PDF 上加上註釋" src="../assets/comment.png" />
       </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上註釋</strong></a>
+      </div>
+      瞭解如何新增註釋至 PDF 檔案，然後與其他人共用檔案      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
@@ -183,21 +258,37 @@ ht-degree: 4%
     <a href="create-fillable-forms.md">
       <img alt="建立可填寫的表格" src="../assets/fillable-forms.png" />
     </a>
+    <div>
+      <a href="create-fillable-forms.md"><strong>建立可填寫的表格</strong></a>
+      </div>
+      將掃描的紙張轉換成可填寫的表格      <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填寫和簽署 PDF 表格" src="../assets/fill-sign.png" />
     </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>填寫和簽署 PDF 表格</strong></a>
+    </div>
+    瞭解如何快速輕鬆地填寫和簽署 PDF 表格    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="掃描與 OCR" src="../assets/scan.png" />
     </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
+    </div>
+    將文件的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案    <br>
   </td>
   <td>
     <a href="password-protect.md">
       <img alt="使用密碼保護 PDF 檔案" src="../assets/protect.png" />
     </a>
+    <div>
+    <a href="password-protect.md"><strong>使用密碼保護 PDF 檔案</strong></a>
+    </div>
+    瞭解如何為 PDF 新增密碼    <br>
   </td>
 </tr>
 <tr>
@@ -205,11 +296,19 @@ ht-degree: 4%
     <a href="signatures.md">
       <img alt="取得簽名" src="../assets/signatures.png" />
     </a>
+    <div>
+    <a href="signatures.md"><strong>取得簽名</strong></a>
+    </div>
+    透過收集具有法律約束力的電子簽名，持續推展業務    <br>
   </td>
   <td>
     <a href="track.md">
       <img alt="追蹤您的檔案" src="../assets/track.png" />
     </a>
+    <div>
+    <a href="track.md"><strong>追蹤您的檔案</strong></a>
+    </div>
+    瞭解如何追蹤和管理電子簽名檔    <br>
   </td>
   <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
