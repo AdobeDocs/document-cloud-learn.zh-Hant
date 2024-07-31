@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 1%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Workspace基本知識</strong></a>
     </div>
-    瞭解如何跨桌面計算機、網頁和行動裝置存取檔案和工具    <br>
+    瞭解 Acrobat 工作區的基本知識    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
@@ -56,7 +56,7 @@ ht-degree: 1%
     <div>
     <a href="ai-assistant.md"><strong>使用 AI Assistant 探索 PDF 見解</strong></a>
     </div>
-    瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解    <br>
+    使用 AI Assistant 從 PDF 檔案中獲取見解    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
@@ -65,7 +65,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatweb.md"><strong>使用網頁Acrobat隨處工作</strong></a>
     </div>
-    瞭解如何處理來自任何位置的業務檔要求    <br>
+    瞭解如何隨處工作    <br>
   </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ ht-degree: 1%
     <div>
     <a href="productivity.md"><strong>行動生產力</strong></a>
     </div>
-    瞭解如何直接從平板電腦或行動電話中執行更多操作    <br>
+    瞭解如何使用平板電腦或行動電話完成更多任務作    <br>
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
@@ -85,7 +85,7 @@ ht-degree: 1%
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>使用 Microsoft 365</strong></a>
       </div>
-      瞭解如何直接在 Microsoft 365 中順暢地使用 PDF 檔案      <br> 
+      直接在 Microsoft 365 中順暢地使用 PDF 檔案      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
@@ -94,7 +94,7 @@ ht-degree: 1%
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>PDF 從何而來？</strong></a>
       </div>
-      瞭解 PDF 來自何處，以及如何在數位工作流程中使用      <br>
+      瞭解 PDF 來自何處，以及如何使用      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -115,7 +115,7 @@ ht-degree: 1%
       <div>
       <a href="create-pdf.md"><strong>建立 PDF 檔案</strong></a>
       </div>
-      瞭解如何從所有不同文件類型建立 PDF      <br>
+      從所有不同文件類型建立 PDF      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
@@ -124,7 +124,7 @@ ht-degree: 1%
       <div>
       <a href="combine-to-pdf.md"><strong>將檔案合併為單一 PDF</strong></a>
       </div>
-      瞭解如何將許多不同類型的檔案無縫合併為單一 PDF      <br>
+      將許多不同類型的檔案無縫合併為單一 PDF      <br>
     </td>
     <td>
       <a href="organize.md">
@@ -158,7 +158,7 @@ ht-degree: 1%
       <div>
       <a href="edit-pdf.md"><strong>編輯 PDF 中的文字</strong></a>
       </div>
-      瞭解如何在 PDF 中編輯文字、片語，甚至整頁      <br>
+      在 PDF 中編輯單字、片語甚至整頁      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
@@ -195,7 +195,7 @@ ht-degree: 1%
       <div>
       <a href="export-pdf.md"><strong>將 PDF 轉換為不同檔案格式</strong></a>
       </div>
-      瞭解如何將 PDF 檔案轉換為不同檔案格式      <br>
+      將 PDF 檔案轉換為不同的檔案格式      <br>
     </td>
     <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -235,7 +235,7 @@ ht-degree: 1%
       <div>
       <a href="comment-on-pdf-files.md"><strong>在 PDF 上加上註釋</strong></a>
       </div>
-      瞭解如何新增註釋至 PDF 檔案，然後與其他人共用檔案      <br>
+      新增註釋，然後與他人共用 PDF      <br>
     </td>
     <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
@@ -279,7 +279,7 @@ ht-degree: 1%
     <div>
     <a href="scan-and-ocr.md"><strong>掃描與 OCR</strong></a>
     </div>
-    將文件的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案    <br>
+    將掃描或影像轉換成可搜尋、可編輯的 PDF 檔案    <br>
   </td>
   <td>
     <a href="password-protect.md">
@@ -299,7 +299,7 @@ ht-degree: 1%
     <div>
     <a href="signatures.md"><strong>取得簽名</strong></a>
     </div>
-    透過收集具有法律約束力的電子簽名，持續推展業務    <br>
+    瞭解如何收集具有法律效力的電子簽名    <br>
   </td>
   <td>
     <a href="track.md">
@@ -308,7 +308,7 @@ ht-degree: 1%
     <div>
     <a href="track.md"><strong>追蹤您的檔案</strong></a>
     </div>
-    瞭解如何追蹤和管理電子簽名檔    <br>
+    追蹤和管理電子簽名檔    <br>
   </td>
   <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
