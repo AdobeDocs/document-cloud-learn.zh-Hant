@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [稽核報告](audit-reports.md)
+瞭解如何存取、使用和設定稽核報告，以滿足組織的需求
 * [「大量傳送」](../sign-advanced-users/megasign.md)
 瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
 * [報告選項](report-options.md)
 瞭解如何為用戶設定報告選項
-* [新增使用者](add-users-to-your-account.md)
-瞭解如何新增和管理使用者的 Acrobat Sign
 
 ## 快速入門
 
@@ -169,8 +169,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="稽核報告" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>稽核報告</strong></a>
+    </div>
+    <em>瞭解如何存取、使用和設定稽核報告</em>
     <br>
   </td>
   <td>
