@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # 編輯相片概觀
 
 Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊、合作夥伴和客戶建立自訂應用程式。
+
+## 新增功能
+
+* [如何設定 Webhook](webhooks.md)
+瞭解如何建立 Webhook 來自動化通常需要手動操作的程式
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,6 +64,33 @@ Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊
     <a href="embeddedesignature.md"><strong>建立嵌入式電子簽名和文件體驗</strong></a>
     </div>
     <em>瞭解如何使用 Acrobat Sign API 將電子簽名和文件體驗內嵌到您的網頁平臺和內容及檔管理系統</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="如何設定 Webhook" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>如何設定 Webhook</strong></a>
+    </div>
+    <em>瞭解如何建立 Webhook 來自動化通常需要手動操作的程式</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
