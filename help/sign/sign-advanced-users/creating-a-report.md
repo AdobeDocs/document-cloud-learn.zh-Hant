@@ -1,22 +1,22 @@
 ---
-title: 建立報告
-description: 瞭解如何建立您自己的報告，以了解文件簽署流程
+title: 報告和交易使用方式
+description: 瞭解如何產生報告並追蹤交易使用量
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# 建立報告
+# 報告和交易使用方式
 
-瞭解如何建立自己的報告，以深入瞭解文件簽署程式，或了解個別群組或用戶的狀況。
+瞭解如何產生報告及追蹤交易使用方式。 這些報告可以包含一些資訊，例如已簽署合約的百分比或簽署時間的平均時間。 產生報告和追蹤使用方式可讓您洞察檔簽署程式。
 
 >[!NOTE]
 >

@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat簽署文字標記](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文字標記登入 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
-      + [建立報告](sign-advanced-users/creating-a-report.md)
+      + [報告和交易使用方式](sign-advanced-users/creating-a-report.md)
       + [管理文件範本](sign-advanced-users/edit-a-template.md)
       + [修改現有的網頁表單](sign-advanced-users/modify-webform.md)
       + [管理網頁表單數據](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [建立和管理群組](admin/create-and-manage-groups.md)
       + [設定外部封存](admin/set-up-your-external-archive.md)
       + [建立範本](sign-advanced-users/create-a-template.md)
-      + [建立報告圖表](admin/create-a-report.md)
+      + [報告和交易使用方式](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用戶的報告選項](admin/report-options.md)
       + [建立網頁表單](sign-advanced-users/webform.md)
       + [修改現有的網頁表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [全域設定](admin/learn-about-global-settings.md)
       + [共用帳戶存取權](admin/share-account-access.md)
       + [進階帳戶共用](admin/advanced-account-sharing.md)
-      + [使用生技識別設定](admin/use-bio-pharma-settings.md)
+      + [大量下載工具](admin/bulk-download-tool.md)
       + [Acrobat簽署文字標記](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [使用生技識別設定](admin/use-bio-pharma-settings.md)
+      + [如何設定隱私權管理員](admin/privacy.md)
 + 數位ID {#digital-id}
    + [概觀](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -123,6 +125,8 @@ ht-degree: 7%
       + [設定數據對應](integrations/set-up-data-mapping.md)
       + [設定合併對應](integrations/set-up-merging-map.md)
       + [建立自定義按鈕](integrations/create-a-custom-button.md)
+      + [設定自動更新](integrations/salesforce-automatic-updates.md)
+      + [設定大型檔案和推送對應](integrations/salesforce-large-files.md)
    + 工作日 {#workday}
       + [設定 Acrobat 使用 [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday 新進員工到職工作](integrations/acrobat-sign-workday-onboarding.md)
@@ -158,9 +162,10 @@ ht-degree: 7%
       + [展示](sign-usecase/use-case-showcase.md)
 + 發展 {#develop}
    + [概觀](develop/develop-overview.md)
-   + 自定義 API {#custom}
+   + API 和 Webhook {#custom}
       + [使用 GigaSign 收集大量檔](develop/gigasign.md)
       + [建立嵌入式電子簽名和文件體驗](develop/embeddedesignature.md)
+      + [如何設定 Webhook](develop/webhooks.md)
 + 部署 {#deploy}
    + [概觀](deploy-overview.md)
 + 移動 {#mobile}

@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [如何設定隱私權](privacy.md)管理員
+瞭解如何設定和使用隱私權管理員
+* [大量下載工具](bulk-download-tool.md)
+瞭解如何使用「大量下載」工具，快速下載所有已簽署的合約
 * [稽核報告](audit-reports.md)
 瞭解如何存取、使用和設定稽核報告，以滿足組織的需求
-* [「大量傳送」](../sign-advanced-users/megasign.md)
-瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
-* [報告選項](report-options.md)
-瞭解如何為用戶設定報告選項
+
 
 ## 快速入門
 
@@ -105,13 +106,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="建立報告圖表" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="報告和交易使用方式" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>建立報告圖表</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>報告和交易使用方式</strong></a>
     </div>
-    <em>瞭解如何建立、儲存和管理您自己的自定義報告和數據匯出</em>
+    <em>瞭解如何產生報告並追蹤交易使用量</em>
     <br>
   </td>
 </tr>
@@ -225,13 +226,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="使用生技識別設定" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="大量下載工具" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>使用生技識別設定</strong></a>
+    <a href="bulk-download-tool.md"><strong>大量下載工具</strong></a>
     </div>
-    <em>設定可讓您符合 FDA 21 CFR Part 11 需求的生技識別設定</em>
+    <em>瞭解如何使用「大量下載」工具，快速下載所有已簽署的合約</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="使用生技識別設定" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>使用生技識別設定</strong></a>
+    </div>
+    <em>設定可讓您符合 FDA 21 CFR Part 11 需求的生技識別設定</em>
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="如何設定隱私權管理員" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>如何設定隱私權管理員</strong></a>
+    </div>
+    <em>瞭解如何設定和使用隱私權管理員</em>
     <br>
   </td>
   <td>

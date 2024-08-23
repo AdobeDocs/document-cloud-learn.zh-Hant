@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '424'
 ht-degree: 2%
 
 ---
@@ -152,12 +152,12 @@ ht-degree: 2%
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="建立報告" src="../assets/Report.png" />
+      <img alt="報告和交易使用方式" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>建立報告</strong></a>
+    <a href="creating-a-report.md"><strong>報告和交易使用方式</strong></a>
     </div>
-    <em>瞭解如何建立您自己的報告，以了解文件簽署流程</em>
+    <em>瞭解如何產生報告並追蹤交易使用量</em>
     <br>
   </td>
   <td>

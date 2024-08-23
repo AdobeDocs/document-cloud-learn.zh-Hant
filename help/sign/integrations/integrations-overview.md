@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [設定大型檔案和推送對應](salesforce-large-files.md)
+瞭解如何在 Salesforce 中設定大型檔和推送合約服務
+* [設定自動更新](salesforce-automatic-updates.md)
+瞭解如何輕鬆將您的帳戶連結至 Salesforce 以取得自動更新
 * [檔索引標籤整合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 瞭解如何直接從「檔」索引卷標中傳送檔以索取簽名 [!DNL Microsoft Teams]
-* [即時登入 Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-瞭解如何建立類似於會議中 [!DNL Microsoft Teams] 當面簽署的在線簽署體驗
-* [建立進階工作流程與 [!DNL Power Automate]](advanced-workflow-power-automate.md)
-瞭解如何使用 [!DNL Power Automate] 連接器建立進一步工作流程
 
 ## Microsoft整合教學課程
 
@@ -164,30 +164,30 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="dynamics-customer-service.md">
-      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+      <img alt="客戶服務Microsoft Dynamics 365" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
-    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    <a href="dynamics-customer-service.md"><strong>客戶服務Microsoft Dynamics 365</strong></a>
     </div>
     <em>瞭解如何使用 Acrobat Sign 和 [!DNL Microsoft Dynamics 365] 客戶服務來提高自助服務客戶網路入口網站的客戶滿意度</em>
     <br>
   </td>
   <td>
     <a href="dynamics-field-service.md">
-      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+      <img alt="適用於 Field Service 的 Microsoft Dynamics 365" src="../assets/Dynamics-field-service.png" />
     </a>
     <div>
-    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    <a href="dynamics-field-service.md"><strong>適用於 Field Service 的 Microsoft Dynamics 365</strong></a>
     </div>
     <em>瞭解如何使用 Acrobat Sign [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] Field Service 來簡化客戶的現場互動</em>
     <br>
   </td>
   <td>
     <a href="dynamics-sales.md">
-      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+      <img alt="適用於銷售Microsoft Dynamics 365" src="../assets/Dynamics-sales.png" />
     </a>
     <div>
-    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    <a href="dynamics-sales.md"><strong>適用於銷售Microsoft Dynamics 365</strong></a>
     </div>
     <em>瞭解如何使用「Acrobat Sign」和 [!DNL Microsoft Dynamics 365] 「供銷售」將銷售報價簽署程式自動化</em>
     <br>
@@ -275,6 +275,38 @@ ht-degree: 0%
     </div>
     <em>建立自定義按鈕以啟動傳送程式並自動填入 Salesforce 中的合約</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="設定自動更新" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>設定自動更新</strong></a>
+    </div>
+    <em>瞭解如何輕鬆將您的帳戶連結至 Salesforce 以取得自動更新</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="設定大型檔案和推送對應" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>設定大型檔案和推送對應</strong></a>
+    </div>
+    <em>瞭解如何在 Salesforce 中設定大型檔和推送合約服務</em>
+    <br>
+  </td>
+  <td>
+      <img alt="間隔" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="間隔" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>
