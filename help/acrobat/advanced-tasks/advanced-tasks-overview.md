@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 使用這些進階工具Acrobat超越基本知識。 瞭解如何建立動作來重複瑣事、移除敏感性資訊、縮減和優化大型檔案、快速收集表格數據，以及建立具備通用輔助功能的 PDF 檔案。
 
 ## 新增功能
+
+* [引導式動作](action.md)
+瞭解如何使用引導動作提高效率
 
 * [為SEO優化 PDF （Search引擎優化）](optimizeseo.md)
 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
@@ -105,12 +108,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="action.md">
-      <img alt="動作精靈" src="../assets/action.png" />
+      <img alt="引導式動作" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>動作精靈</strong></a>
+      <a href="action.md"><strong>引導式動作</strong></a>
       </div>
-      瞭解如何使用「動作」提高效率
+      瞭解如何使用引導動作提高效率
   </td>
   <td>
     <a href="redact.md">
