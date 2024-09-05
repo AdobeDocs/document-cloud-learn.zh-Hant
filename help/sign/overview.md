@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,8 +36,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>快速入門</strong></a>
       </div>
-      <em>快速瞭解如何傳送、簽署和追蹤檔</em>
-      <br>
+      快速瞭解如何傳送、簽署和追蹤檔      <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
@@ -46,8 +45,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>進階工作</strong></a>
       </div>
-      <em>超越特定任務和自動化的基本知識</em>
-      <br>
+      超越特定任務和自動化的基本知識      <br>
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
@@ -56,8 +54,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="admin/intro-admin-overview.md"><strong>管理</strong></a>
       </div>
-      <em>組織進階設定秘訣的基本資訊</em>
-      <br>
+      組織進階設定秘訣的基本資訊      <br>
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
@@ -66,8 +63,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>數位ID</strong></a>
       </div>
-      <em>瞭解如何在 Acrobat Sign 中使用數位 ID</em>
-      <br>
+      瞭解如何在 Acrobat Sign 中使用數位 ID      <br>
   </td>
 </tr>
 <tr>
@@ -78,8 +74,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="integrations/integrations-overview.md"><strong>集成</strong></a>
       </div>
-      <em>新增Acrobat直接在貴組織已在使用的其他應用程式中簽署</em>
-      <br>
+      新增Acrobat直接在貴組織已在使用的其他應用程式中簽署      <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
@@ -88,8 +83,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>產業和部門</strong></a>
       </div>
-      <em>探索真實世界的產業和部門使用案例</em>
-      <br>
+      探索真實世界的產業和部門使用案例      <br>
   </td>
   <td>
     <a href="develop/develop-overview.md">
@@ -98,8 +92,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="develop/develop-overview.md"><strong>發展</strong></a>
       </div>
-      <em>取得 Acrobat Sign I/O 上的開發資源</em>
-      <br>
+      取得 Acrobat Sign I/O 上的開發資源      <br>
   </td>
    <td>
     <a href="deploy-overview.md">
@@ -108,8 +101,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="deploy-overview.md"><strong>部署</strong></a>
       </div>
-      <em>在組織中部署 Acrobat Sign 的見解和最佳實用性</em>
-      <br>
+      在組織中部署 Acrobat Sign 的見解和最佳實用性      <br>
   </td>
 </tr>
 <tr>
@@ -120,8 +112,7 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
     <div>
       <a href="mobile/mobile-overview.md"><strong>行動裝置</strong></a>
       </div>
-      <em>在行動裝置上傳送、簽署和取得實時更新</em>
-      <br>
+      在行動裝置上傳送、簽署和取得實時更新      <br>
   </td>  
 </tr>
 </table>
