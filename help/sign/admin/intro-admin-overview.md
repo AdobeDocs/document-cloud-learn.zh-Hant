@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '584'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,12 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [如何使用多個描述檔](multiple-profiles.md)
+瞭解如何使用配置文件選擇器來使用多個 Acrobat Sign 帳戶
 * [如何設定隱私權](privacy.md)管理員
 瞭解如何設定和使用隱私權管理員
 * [大量下載工具](bulk-download-tool.md)
 瞭解如何使用「大量下載」工具，快速下載所有已簽署的合約
-* [稽核報告](audit-reports.md)
-瞭解如何存取、使用和設定稽核報告，以滿足組織的需求
-
 
 ## 快速入門
 
@@ -180,8 +179,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <a href="multiple-profiles.md">
+      <img alt="如何使用多個描述檔" src="../assets/multiple-profiles.png" />
+    </a>
     <div>
+    <a href="multiple-profiles.md"><strong>如何使用多個描述檔</strong></a>
+    </div>
+    <em>瞭解如何使用配置文件選擇器來使用多個 Acrobat Sign 帳戶</em>
     <br>
   </td>
   <td>
