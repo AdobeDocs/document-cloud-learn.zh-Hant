@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -137,12 +137,12 @@ ht-degree: 1%
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="新增自訂頁面" src="../assets/custom.png" />
+        <img alt="設計新頁面" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>新增自訂頁面</strong></a>
+      <a href="add-custom-page.md"><strong>設計新頁面</strong></a>
       </div>
-      瞭解如何將自定義頁面新增至 PDF      <br>
+     瞭解如何在 PDF 中建立新的專業頁面      <br>
     </td>
   </tr>
   </table>

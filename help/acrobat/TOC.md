@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
    + [建立 PDF](getting-started/create-pdf.md)
    + [將檔案合併為單一 PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
-   + [新增自訂頁面](getting-started/add-custom-page.md)
+   + [設計新頁面](getting-started/add-custom-page.md)
    + [編輯 PDF 中的文字](getting-started/edit-pdf.md)
    + [在 PDF 中編輯圖形](getting-started/edit-graphics.md)
    + [將此 PDF 風格化](getting-started/stylize-this-PDF.md)
