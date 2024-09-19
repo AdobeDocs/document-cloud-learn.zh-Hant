@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 30fa0d2120860b78e5ea674d50512bede5b6346d
+source-git-commit: 4e1094da7f10020a6410a9b88d25b3ece8554945
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 >[!TAB 發表具影響力的簡報]
 
-使用語音提示，隨時隨地從產業和客戶報告中尋找見解。 觀看 [影片](https://video.tv.adobe.com/v/3428811?quality=5&learn=on&hidetitle=true)。
+使用語音提示，隨時隨地從產業和客戶報告中尋找見解。 觀看 [影片](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true){target="_blank"}。
 
 >[!TAB 更快速地分享研究結果]
 
-為您的團隊快速摘要產業報告、獲取更深入的見解，並草稿回顧。 觀看 [影片](https://video.tv.adobe.com/v/3427286?quality=5&learn=on&hidetitle=true)。
+為您的團隊快速摘要產業報告、獲取更深入的見解，並草稿回顧。 觀看 [影片](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true){target="_blank"}。
 
 >[!TAB 快速建立提案]
 
-擷取關鍵檔資訊並減少耗時的審核，加速 RFP 回應。 觀看 [影片](https://video.tv.adobe.com/v/3428639?quality=5&learn=on&hidetitle=true)。
+擷取關鍵檔資訊並減少耗時的審核，加速 RFP 回應。 觀看 [影片](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true){target="_blank"}。
 
 >[!TAB 傳送快速會議回顧]
 
-檢閱會議成績單，並提供重要要點的電子郵件摘要，並協助草稿。 觀看 [影片](https://video.tv.adobe.com/v/3427292?quality=5&learn=on&hidetitle=true)。
+檢閱會議成績單，並提供重要要點的電子郵件摘要，並協助草稿。 觀看 [影片](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true){target="_blank"}。
 
 >[!ENDTABS]
 
