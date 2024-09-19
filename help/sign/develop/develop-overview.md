@@ -8,7 +8,7 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -21,8 +21,13 @@ Acrobat Sign 中 40% 的合約是使用 API 建立。 使用 API 為您的團隊
 
 ## 新增功能
 
-* [如何設定 Webhook](webhooks.md)
-瞭解如何建立 Webhook 來自動化通常需要手動操作的程式
+>[!BEGINTABS]
+
+>[!TAB 如何設定 Webhook]
+
+瞭解如何建立 [Webhook](webhooks.md) 來自動化通常需要手動操作的程式。
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>

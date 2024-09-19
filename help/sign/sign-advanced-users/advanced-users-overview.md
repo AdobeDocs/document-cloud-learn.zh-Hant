@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ ht-degree: 2%
 
 ## 新增功能
 
-* [「大量傳送」](megasign.md)
-瞭解如何透過幾個簡短步驟，一次為任何檔收集數千個簽名
-* [Acrobat Sign](authentication-methods.md) 中的Authentication方法
-瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法範圍
+>[!BEGINTABS]
+
+>[!TAB 「大量傳送」]
+
+瞭解如何 [只需幾個簡短步驟，即可針對任何檔一次收集數千](megasign.md) 個簽名。
+
+>[!TAB Authentication簽署Acrobat方法]
+
+瞭解 Acrobat Sign [中用來驗證](authentication-methods.md) 簽署檔之人的身分的方法。
+
+>[!ENDTABS]
 
 ## 傳送
 

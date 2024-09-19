@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [教育版 IEP 程式的自定義工作流程](usecase-edu-iep.md)
-瞭解「自定義工作流程Designer如何用於數位化個人化教育計劃 （IEP） 程式
-* [教育版網頁窗體實習申請](usecase-edu-intern.md)
-瞭解如何使用網頁窗體來改善學生對所需表單的存取權
-* [建立教育版網頁窗體實習申請](usecase-edu-intern-create.md)
-瞭解如何建立實習網頁窗體
-* [政府貸款申請與多名不明簽署者](webform-multiple-signers.md)
-瞭解網頁窗體如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
+>[!BEGINTABS]
+
+>[!TAB 教育版 IEP 程式的自定義工作流程]
+
+瞭解「自定義工作流程Designer](usecase-edu-iep.md)如何[用於數位化個人化教育計劃 （IEP） 程式。
+
+>[!TAB 教育版網頁窗體實習申請]
+
+瞭解如何 [使用網頁窗體](usecase-edu-intern.md) 來改善學生對所需表單的存取。
+
+>[!TAB 建立教育版網頁窗體實習申請]
+
+瞭解如何建立實習 [網頁窗體](usecase-edu-intern-create.md)。
+
+>[!TAB 政府貸款申請與多名不明簽署者]
+
+瞭解網頁窗體](webform-multiple-signers.md)如何[用於涉及多名不明參與者的複雜政府貸款申請工作流程。
+
+>[!ENDTABS]
 
 ## 政府使用案例
 

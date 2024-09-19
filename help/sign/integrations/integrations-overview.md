@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [設定大型檔案和推送對應](salesforce-large-files.md)
-瞭解如何在 Salesforce 中設定大型檔和推送合約服務
-* [設定自動更新](salesforce-automatic-updates.md)
-瞭解如何輕鬆將您的帳戶連結至 Salesforce 以取得自動更新
-* [檔索引標籤整合 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-瞭解如何直接從「檔」索引卷標中傳送檔以索取簽名 [!DNL Microsoft Teams]
+>[!BEGINTABS]
+
+>[!TAB 設定大型檔案和推送對應]
+
+瞭解如何在 Salesforce 中 [設定大型檔和推送合約服務](salesforce-large-files.md) 。
+
+>[!TAB 設定自動更新]
+
+瞭解如何輕鬆將您的帳戶連結至 Salesforce 以取得 [自動更新](salesforce-automatic-updates.md)。
+
+>[!TAB 適用於 Microsoft Teams 的文件索引標籤整合]
+
+瞭解如何直接從 [「檔」索引卷標](acrobat-sign-teams-documents-tab.md) 中 [!DNL Microsoft Teams]傳送檔以索取簽名。
+
+>[!ENDTABS]
 
 ## Microsoft整合教學課程
 

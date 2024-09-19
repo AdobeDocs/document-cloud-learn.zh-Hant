@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ ht-degree: 1%
 
 ## 新增功能
 
-* [如何將使用者提升為管理員角色](promote-admin.md)
-瞭解如何使用Admin Console將使用者提升為Acrobat Sign 管理員角色
-* [如何使用多個描述檔](multiple-profiles.md)
-瞭解如何使用配置文件選擇器來使用多個 Acrobat Sign 帳戶
-* [如何設定隱私權](privacy.md)管理員
-瞭解如何設定和使用隱私權管理員
-* [大量下載工具](bulk-download-tool.md)
-瞭解如何使用「大量下載」工具，快速下載所有已簽署的合約
+>[!BEGINTABS]
+
+>[!TAB 如何將使用者提升為管理員角色]
+
+瞭解 [如何使用Admin Console將使用者](promote-admin.md) 提升為Acrobat Sign 管理員角色。
+
+>[!TAB 如何使用多個描述檔]
+
+瞭解如何使用 [基本數據選擇器](multiple-profiles.md) 來使用多個 Acrobat Sign 帳戶。
+
+>[!TAB 如何設定隱私權管理員]
+
+瞭解如何設定和使用 [隱私權](privacy.md)管理員。
+
+>[!TAB 大量下載工具]
+
+瞭解如何使用「 [大量下載」工具](bulk-download-tool.md) ，快速下載所有已簽署的合約。
+
+>[!ENDTABS]
 
 ## 快速入門
 
