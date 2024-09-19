@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
-source-git-commit: f96a3ef8c480e307885eef5dc72f6cbe8f2ee1cc
+exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
+source-git-commit: 0e3211081b328901ae0949b95fc557d9725060fa
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -16,5 +17,26 @@ ht-degree: 0%
 
 瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解，以快速建立具有影響力的內容。 AI Assistant 是安全的工作引擎，可改善檔工作流程和分析複雜的文件數據。 此影片教學課程使用 [新的工作區體驗](new-workspace.md)。
 
+## 使用案例
+
+>[!BEGINTABS]
+
+>[!TAB 發表具影響力的簡報]
+
+使用語音提示，隨時隨地從產業和客戶報告中尋找見解。 觀看 [影片](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true)。
+
+>[!TAB 更快速地分享研究結果]
+
+為您的團隊快速摘要產業報告、獲取更深入的見解，並草稿回顧。 觀看 [影片](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true)。
+
+>[!TAB 快速建立提案]
+
+擷取關鍵檔資訊並減少耗時的審核，加速 RFP 回應。 觀看 [影片](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true)。
+
+>[!TAB 傳送快速會議回顧]
+
+檢閱會議成績單，並提供重要要點的電子郵件摘要，並協助草稿。 觀看 [影片](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true)。
+
+>[!ENDTABS]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430512?quality=12&learn=on&hidetitle=true)
