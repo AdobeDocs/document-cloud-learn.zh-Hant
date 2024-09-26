@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,8 +43,7 @@ ht-degree: 3%
     <div>
     <a href="quick-tour.md"><strong>Workspace基本知識</strong></a>
     </div>
-    <em>快速流覽 Acrobat Sign 工作區，以開始使用</em>
-    <br>
+    快速流覽 Acrobat Sign 工作區，以開始使用    <br>
   </td>
   <td>
     <a href="new-sender.md">
@@ -53,8 +52,7 @@ ht-degree: 3%
     <div>
     <a href="new-sender.md"><strong>開始使用 Acrobat Sign</strong></a>
     </div>
-    <em>這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方</em>
-    <br>
+    這個完整的教學課程是Acrobat Sign 新傳送者絕佳入門的地方    <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
@@ -63,8 +61,7 @@ ht-degree: 3%
     <div>
     <a href="send-to-single-recipient.md"><strong>傳送給單一收件者</strong></a>
     </div>
-    <em>跳入並了解傳送檔以索取簽名有多麼簡單</em>
-    <br>
+    跳入並了解傳送檔以索取簽名有多麼簡單    <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
@@ -73,8 +70,7 @@ ht-degree: 3%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>傳送給多位收件者</strong></a>
     </div>
-    <em>依照您想要的順序，傳送檔給多個人員以索取電子簽名</em>
-    <br>
+    依照您想要的順序，傳送檔給多個人員以索取電子簽名    <br>
   </td>
 </tr>
 <tr>
@@ -85,8 +81,7 @@ ht-degree: 3%
     <div>
     <a href="sending-options.md"><strong>設定傳送選項</strong></a>
     </div>
-    <em>瞭解如何在傳送檔以供簽署時設定各種選項</em>
-    <br>
+    瞭解如何在傳送檔以供簽署時設定各種選項    <br>
   </td>
   <td>
     <a href="adding-fields.md">
@@ -95,8 +90,7 @@ ht-degree: 3%
     <div>
     <a href="adding-fields.md"><strong>將欄位新增至檔</strong></a>
     </div>
-    <em>瞭解如何在檔中新增不同類型的欄位</em>
-    <br>
+    瞭解如何在檔中新增不同類型的欄位    <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
@@ -105,8 +99,7 @@ ht-degree: 3%
     <div>
     <a href="modify-in-flight.md"><strong>傳送後修改檔</strong></a>
     </div>
-    <em>修改進行中的檔</em>
-    <br>
+    修改進行中的檔    <br>
   </td>
   <td>
     <a href="replace-signer.md">
@@ -115,8 +108,7 @@ ht-degree: 3%
     <div>
     <a href="replace-signer.md"><strong>取代簽署者</strong></a>
     </div>
-    <em>瞭解如何變更進行中文件的簽署者</em>
-     <br>
+    瞭解如何變更進行中文件的簽署者     <br>
   </td>
 </tr>
 <tr>
@@ -127,8 +119,7 @@ ht-degree: 3%
       <div>
       <a href="set-deadlines-reminders.md"><strong>設定截止日期和提醒</strong></a>
       </div>
-      <em>瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔</em>
-      <br>
+      瞭解如何定期傳送電子郵件提醒和截止日期，以協助快速簽署檔      <br>
     </td> 
   <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />
@@ -159,8 +150,7 @@ ht-degree: 3%
     <div>
     <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔</strong></a>
     </div>
-    <em>瞭解使用 Acrobat Sign 傳送給您的文件簽署有多麼簡單</em>
-    <br>
+    瞭解使用 Acrobat Sign 傳送給您的文件簽署有多麼簡單    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
@@ -169,8 +159,7 @@ ht-degree: 3%
     <div>
     <a href="fill-and-sign.md"><strong>填寫和簽署檔</strong></a>
     </div>
-    <em>填寫表格並將電子簽名新增至檔</em>
-    <br>
+    填寫表格並將電子簽名新增至檔    <br>
   </td>
   <td>
     <a href="sign-in-person.md">
@@ -179,8 +168,7 @@ ht-degree: 3%
     <div>
     <a href="sign-in-person.md"><strong>取得親筆簽名</strong></a>
     </div>
-    <em>使用 Acrobat Sign 行動應用程式取得其他人的親筆簽名</em>
-    <br>
+    使用 Acrobat Sign 行動應用程式取得其他人的親筆簽名    <br>
   </td>
   <td>
     <a href="delegate-signing.md">
@@ -189,8 +177,7 @@ ht-degree: 3%
     <div>
     <a href="delegate-signing.md"><strong>委派簽署給其他人</strong></a>
     </div>
-    <em>瞭解如何將文件簽署作業委派給其他人</em>
-    <br>
+    瞭解如何將文件簽署作業委派給其他人    <br>
   </td>
 </tr>
 <tr>
@@ -201,8 +188,7 @@ ht-degree: 3%
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>什麼是數字簽名</strong></a>
     </div>
-    <em>了解憑證式數字簽名</em>
-    <br>
+    了解憑證式數字簽名    <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
@@ -211,8 +197,7 @@ ht-degree: 3%
     <div>
     <a href="sign-with-a-stamp.md"><strong>使用印章簽署</strong></a>
     </div>
-    <em>使用印章標示已核准或完成的檔</em>
-     <br>
+    使用印章標示已核准或完成的檔     <br>
   </td> 
  <td>
     <img alt="間隔" src="../assets/Grayspacer.png" />
@@ -238,8 +223,7 @@ ht-degree: 3%
     <div>
     <a href="manage-and-track.md"><strong>管理與追蹤您的合約</strong></a>
     </div>
-    <em>瞭解如何管理和追蹤傳送以供簽署的合約</em>
-    <br>
+    瞭解如何管理和追蹤傳送以供簽署的合約    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -248,8 +232,7 @@ ht-degree: 3%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>建立文件範本</strong></a>
     </div>
-    <em>建立可重複使用的文件範本，為您的組織提供速度和一致性</em>
-    <br>
+    建立可重複使用的文件範本，為您的組織提供速度和一致性    <br>
   </td>
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
