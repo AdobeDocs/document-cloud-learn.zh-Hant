@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,3 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
    ![呼叫 Webhook](assets/callWebhook.png)
 
 1. 現在已為新增至合約的潛在客戶設定SMS通知營銷活動。
-
->[!TIP]
->
->本教學課程 [包含 Acrobat Sign for Salesforce 和 Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) ，Experience League免費提供，可加速銷售週期！

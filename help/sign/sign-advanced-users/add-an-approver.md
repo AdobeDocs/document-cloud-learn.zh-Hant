@@ -8,7 +8,7 @@ level: Intermediate
 jira: KT-5324
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 23%
@@ -23,6 +23,6 @@ ht-degree: 23%
 
 >[!TIP]
 >
->本影片為「使用者進階工作」](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)課程[的一部分，於 Experience League 時免費提供！
+>此影片是播放清單 [的一部分，適用於使用者](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) 的進階工作可在Experience League上免費使用！
 
 

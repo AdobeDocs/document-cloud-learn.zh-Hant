@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片為管理員進階工作](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)課程[的一部分，可在Experience League上免費取得！
+>此影片是適用於管理員](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)的進階工作播放清單[的一部分，管理員可在Experience League上免費使用！

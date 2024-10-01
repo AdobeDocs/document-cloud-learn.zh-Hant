@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -152,6 +152,3 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
    ![呼叫 Webhook](assets/callWebhook.png)
 
 1. 現在已為新增至合約的潛在客戶設定SMS通知營銷活動。
->[!TIP]
->
->本教學課程包含 Acrobat適用於 Microsoft Dynamics 和 Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 的 Acrobat Sign Experience League上免費提供，是本課程[的一部分，可加速銷售週期！

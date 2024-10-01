@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-8494
 thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本影片是本課程 [的一部分，提供 Acrobat DC 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) Experience League版，讓您更聰明地工作！
+>此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) 的一部分，可在 Experience League 上免費取得！
