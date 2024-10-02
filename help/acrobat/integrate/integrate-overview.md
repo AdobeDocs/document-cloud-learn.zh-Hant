@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandteams.md"><strong>PDF 共同作業 [!DNL Microsoft Teams]</strong></a>
     </div>
-    無需離開即可進行 PDF 共同作業和審核 [!DNL Microsoft Teams]
+    無需離開即可進行共同作業和審核 PDF [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -82,7 +82,7 @@ ht-degree: 1%
     <div>
     <a href="edge.md"><strong>使用 [!DNL Microsoft Edge]</strong></a>
     </div>
-    瞭解如何使用 Adobe Acrobat 擴充功能，即時將網頁轉換為 PDF [!DNL Microsoft Edge]
+    瞭解如何使用 Adobe Acrobat 擴展名將網頁轉換為 PDF [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
