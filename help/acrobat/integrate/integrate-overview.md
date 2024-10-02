@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 1%
     <div>
     <a href="createofficeweb.md"><strong>在網頁版中 [!DNL Office] 建立 PDF</strong></a>
     </div>
-    瞭解如何直接從 Microsoft Word 建立功能豐富的 PDF 檔案    <br>
+    瞭解如何在不離開網頁 [!DNL Microsoft Office] 應用程式的情況下建立 PDF 檔案    <br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
@@ -60,7 +60,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandteams.md"><strong>PDF 共同作業 [!DNL Microsoft Teams]</strong></a>
     </div>
-    無需離開即可透過檢視、批注和審核 PDF 與同事協作及協作 [!DNL Microsoft Teams]
+    無需離開即可進行 PDF 共同作業和審核 [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ ht-degree: 1%
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>使用 [!DNL Microsoft Purview Information] 靈敏度標籤保護 PDF</strong></a>
     </div>
-    瞭解如何直接在「總覽資訊」敏感性標籤中新增、編輯、自定義和刪除Microsoft「許可權資訊」敏感度標籤來保護 PDF Acrobat    <br>
+    瞭解如何直接在「Acrobat」中使用「Microsoft檢視資訊」敏感度標籤保護 PDF    <br>
   </td>
   <td>
    <img alt="間隔" src="../assets/Grayspacer.png" />
