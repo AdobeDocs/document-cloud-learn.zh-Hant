@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ ht-degree: 1%
 >[!TAB 如何將使用者提升為管理員角色]
 
 瞭解 [如何使用Admin Console將使用者](promote-admin.md) 提升為Acrobat Sign 管理員角色。
-
->[!TAB 如何使用多個描述檔]
-
-瞭解如何使用 [基本數據選擇器](multiple-profiles.md) 來使用多個 Acrobat Sign 帳戶。
 
 >[!TAB 如何設定隱私權管理員]
 
@@ -192,16 +188,6 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="如何使用多個描述檔" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>如何使用多個描述檔</strong></a>
-    </div>
-    <em>瞭解如何使用配置文件選擇器來使用多個 Acrobat Sign 帳戶</em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="如何將使用者提升為管理員角色" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ ht-degree: 1%
     <a href="promote-admin.md"><strong>如何將使用者提升為管理員角色</strong></a>
     </div>
     <em>瞭解如何使用Admin Console將使用者提升為Acrobat Sign 管理員角色</em>
+    <br>
+  </td>
+   <td>
+    <img alt="間隔" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
