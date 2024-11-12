@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何使用 Adobe Express 中整合易於使用的整合式設計工具 [，建立具有專業外觀的 PDF](https://express.adobe.com)。 此影片教學課程使用 [新的工作區體驗](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
