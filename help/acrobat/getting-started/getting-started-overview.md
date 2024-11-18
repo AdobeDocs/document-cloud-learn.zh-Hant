@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 即時共同作業]
+
+瞭解如何建立文件 [審核程序](collaborate.md) ，不僅能提高效率，還能提高內容品質。
+
 >[!TAB 設計新頁面]
 
 瞭解 [如何使用 Adobe Express 在 PDF 中設計新的專業頁面](add-custom-page.md) 。
@@ -33,10 +37,6 @@ ht-degree: 1%
 >[!TAB 新的工作區體驗]
 
 瞭解 [Acrobat 中的新工作區](new-workspace.md) ，可協助您快速發現工具並有效率地完成 PDF 工作。
-
->[!TAB 使用 AI Assistant 探索 PDF 見解]
-
-瞭解如何使用 AI Assistant](ai-assistant.md) 從 PDF 檔案中[獲取見解。
 
 >[!ENDTABS]
 
