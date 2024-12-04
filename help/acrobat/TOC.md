@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [使用網頁Acrobat隨處工作](getting-started/acrobatweb.md)
    + [行動生產力](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
    + [建立 PDF](getting-started/create-pdf.md)
    + [將檔案合併為單一 PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [使用密碼保護 PDF 檔案](getting-started/password-protect.md)
    + [取得簽名](getting-started/signatures.md)
    + [追蹤您的檔案](getting-started/track.md)
+   + [PDF 從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 進階工作 {#advanced-tasks}
    + [概觀](advanced-tasks/advanced-tasks-overview.md)
    + [新增書籤和超連結](advanced-tasks/bookmarks.md)
