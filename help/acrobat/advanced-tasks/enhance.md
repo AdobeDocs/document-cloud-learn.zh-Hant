@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -69,3 +69,4 @@ ht-degree: 0%
 1. 在「邊界」區段的「 **底部** 」方塊中輸入 0.7。
 1. 選取「 **儲存設定」**。在方塊中輸入 *「Revision 3.0* 」，然後選取「 **確定」**。
 1. 選 **取「確定」** ，將新頁尾套用至 PDF。
+
