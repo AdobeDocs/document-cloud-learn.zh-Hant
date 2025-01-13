@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="使 PDF 具備輔助功能 （完成 14：11）" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>使 PDF 具備輔助功能 （完成 14：11）</strong></a>
-    </div>
-    <em>瞭解建立具備輔助功能的 PDF 檔案的最佳工作流程</em>
-    <br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="使 PDF 具備輔助功能：瞭解輔助功能" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>使 PDF 具備輔助功能：瞭解輔助功能</strong></a>
-    </div>
-    <em>瞭解讓行動障礙人士可以存取 PDF 有何意義</em>
-    <br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="使 PDF 具備輔助功能：在 Word 中編寫" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>使 PDF 具備輔助功能：在 Word 中編寫</strong></a>
-    </div>
-    <em>瞭解建立所撰寫 PDF 檔案的最佳作法 [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="使 PDF 具備輔助功能：在Acrobat中完成作業" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>使 PDF 具備輔助功能：在Acrobat中完成作業</strong></a>
-    </div>
-    <em>瞭解如何使用 Acrobat Pro 中的工具，完成 PDF 檔案的存取作業</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="使 PDF 票數更易於存取" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>使 PDF 票數更易於存取</strong></a>
-    </div>
-    <em>本次網路研討會涵蓋必要的 PDF 輔助功能重要領域，讓螢幕閱讀程式等輔助技術使用者閱讀和完成票證</em>
-    <br>
-  </td>  
-  <td>
-   <img alt="間隔" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="間隔" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
