@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
+source-git-commit: 637a8159281bbb496db45059d47b0ae6cbad225d
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 4%
+source-wordcount: '257'
+ht-degree: 8%
 
 ---
 
@@ -27,92 +27,274 @@ Acrobat Sign 是Adobe Document Cloud解決方案，透過整合、API、進階�
 
 ## 學習路徑
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="快速入門" src="assets/getting-started.png" />
-    </a>
-    <div>
-      <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>快速入門</strong></a>
-      </div>
-      快速瞭解如何傳送、簽署和追蹤檔      <br>
-  </td>
-  <td>
-    <a href="sign-advanced-users/advanced-users-overview.md">
-      <img alt="進階工作" src="assets/advanced-tasks.png" />
-    </a>
-    <div>
-      <a href="sign-advanced-users/advanced-users-overview.md"><strong>進階工作</strong></a>
-      </div>
-      超越特定任務和自動化的基本知識      <br>
-  </td>  
-  <td>
-    <a href="admin/intro-admin-overview.md">
-      <img alt="管理" src="assets/administer.png" />
-    </a>
-    <div>
-      <a href="admin/intro-admin-overview.md"><strong>管理</strong></a>
-      </div>
-      組織進階設定秘訣的基本資訊      <br>
-  </td>
-  <td>
-    <a href="digitalid/digitalid-overview.md">
-      <img alt="數位ID" src="assets/identity.png" />
-    </a>
-     <div>
-      <a href="digitalid/digitalid-overview.md"><strong>數位ID</strong></a>
-      </div>
-      瞭解如何在 Acrobat Sign 中使用數位 ID      <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="integrations/integrations-overview.md">
-      <img alt="整合" src="assets/integrations.png" />
-    </a>
-    <div>
-      <a href="integrations/integrations-overview.md"><strong>集成</strong></a>
-      </div>
-      新增Acrobat直接在貴組織已在使用的其他應用程式中簽署      <br>
-  </td>
-  <td>
-    <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="產業和部門" src="assets/industries.png" />
-    </a>
-    <div>
-      <a href="sign-usecase/expand-inspire-overview.md"><strong>產業和部門</strong></a>
-      </div>
-      探索真實世界的產業和部門使用案例      <br>
-  </td>
-  <td>
-    <a href="develop/develop-overview.md">
-      <img alt="發展" src="assets/develop.png" />
-    </a>
-    <div>
-      <a href="develop/develop-overview.md"><strong>發展</strong></a>
-      </div>
-      取得 Acrobat Sign I/O 上的開發資源      <br>
-  </td>
-   <td>
-    <a href="deploy-overview.md">
-      <img alt="部署" src="assets/deploy.png" />
-    </a>
-    <div>
-      <a href="deploy-overview.md"><strong>部署</strong></a>
-      </div>
-      在組織中部署 Acrobat Sign 的見解和最佳實用性      <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="mobile/mobile-overview.md">
-      <img alt="行動裝置版本" src="assets/mobile.png" />
-    </a>
-    <div>
-      <a href="mobile/mobile-overview.md"><strong>行動裝置</strong></a>
-      </div>
-      在行動裝置上傳送、簽署和取得實時更新      <br>
-  </td>  
-</tr>
-</table>
+<!-- Comment -->
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview
+  {target = _self}
+  {title = Getting started}
+  {description = Get up-to-speed on how to send, sign, and track documents}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_18ba3ceee7595f1e28a75a6592e8a4bb37cb71fab.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview
+  {target = _self}
+  {title = Advanced tasks}
+  {description = Go beyond the basics with specific tasks and automation}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_146ddb86d3ad9a5f6209f6a4b6d0d64cb49468b9e.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview
+  {target = _self}
+  {title = Administrators}
+  {description = Basic to advanced set-up tips for your organization}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_111971e7e23b65f50e06f84ac9790847f3a22a072.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview
+  {target = _self}
+  {title = Digital ID}
+  {description = Learn how to use digital IDs from around the word in Acrobat Sign}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1824487d546924662b61ff3b7775ddede42f53294.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview
+  {target = _self}
+  {title = Integrations}
+  {description = Add Acrobat Sign directly inside other applications}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1e9daa7a15754eb2f98528bb142c7f8d35c8ea37f.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview
+  {target = _self}
+  {title = Industries and departments}
+  {description = Explore real-world industry and department use cases}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1429cec59ff57c920dcb7ee25284cfab92ac132de.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview
+  {target = _self}
+  {title = Develop}
+  {description = Get development resources on Acrobat Sign I/O}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1ea321c07076da85df029aea9cb40a57d3bb5b980.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview
+  {target = _self}
+  {title = Deploy}
+  {description = Insight and best practicies for deploying Acrobat Sign within your organization}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1eeb82a8f9e7b30fbc2eff133888ccaf827fe9cd6.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview
+  {target = _self}
+  {title = Mobile}
+  {description = Send, sign, and get real-time updates on your mobile device}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_12404baf4a5b172beb0dfce0073e8970c2c59d669.png?width=400&format=webply&optimize=medium}
+  {cta = Browse tutorials}
+  
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" title="快速入門" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_18ba3ceee7595f1e28a75a6592e8a4bb37cb71fab.png?width=400&format=webply&optimize=medium" alt="快速入門"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" target="_self" rel="referrer" title="快速入門">快速入門</a>
+                    </p>
+                    <p class="is-size-6">快速瞭解如何傳送、簽署和追蹤檔</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced tasks">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" title="進階工作" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_146ddb86d3ad9a5f6209f6a4b6d0d64cb49468b9e.png?width=400&format=webply&optimize=medium" alt="進階工作"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" target="_self" rel="referrer" title="進階工作">進階工作</a>
+                    </p>
+                    <p class="is-size-6">超越特定任務和自動化的基本知識</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Administrators">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" title="管理員" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_111971e7e23b65f50e06f84ac9790847f3a22a072.png?width=400&format=webply&optimize=medium" alt="管理員"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" target="_self" rel="referrer" title="管理員">管理員</a>
+                    </p>
+                    <p class="is-size-6">組織進階設定秘訣的基本資訊</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital ID">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" title="數位ID" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1824487d546924662b61ff3b7775ddede42f53294.png?width=400&format=webply&optimize=medium" alt="數位ID"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" target="_self" rel="referrer" title="數位ID">數位ID</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何在 Acrobat Sign 中使用數位 ID</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Integrations">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" title="整合" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1e9daa7a15754eb2f98528bb142c7f8d35c8ea37f.png?width=400&format=webply&optimize=medium" alt="整合"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" target="_self" rel="referrer" title="整合">集成</a>
+                    </p>
+                    <p class="is-size-6">直接在其他應用程式中新增Acrobat簽署</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Industries and departments">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" title="產業和部門" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1429cec59ff57c920dcb7ee25284cfab92ac132de.png?width=400&format=webply&optimize=medium" alt="產業和部門"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" target="_self" rel="referrer" title="產業和部門">產業和部門</a>
+                    </p>
+                    <p class="is-size-6">探索真實世界的產業和部門使用案例</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Develop">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" title="發展" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1ea321c07076da85df029aea9cb40a57d3bb5b980.png?width=400&format=webply&optimize=medium" alt="發展"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" target="_self" rel="referrer" title="發展">發展</a>
+                    </p>
+                    <p class="is-size-6">取得 Acrobat Sign I/O 上的開發資源</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deploy">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" title="部署" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_1eeb82a8f9e7b30fbc2eff133888ccaf827fe9cd6.png?width=400&format=webply&optimize=medium" alt="部署"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" target="_self" rel="referrer" title="部署">部署</a>
+                    </p>
+                    <p class="is-size-6">在組織中部署 Acrobat Sign 的見解和最佳實用性</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mobile">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" title="行動裝置版本" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/media_12404baf4a5b172beb0dfce0073e8970c2c59d669.png?width=400&format=webply&optimize=medium" alt="行動裝置版本"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" target="_self" rel="referrer" title="行動裝置版本">行動裝置</a>
+                    </p>
+                    <p class="is-size-6">在行動裝置上傳送、簽署和取得實時更新</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+<!-- End Comment -->
