@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # 使用 AI Assistant 探索 PDF 見解
 
-瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解，以快速建立具有影響力的內容。 AI Assistant 是安全的工作引擎，可改善檔工作流程和分析複雜的文件數據。 此影片教學課程使用 [新的工作區體驗](new-workspace.md)。
+瞭解如何使用 AI Assistant 從 PDF 檔案中獲取見解，以快速建立有影響力的內容。 AI Assistant 是安全的工作引擎，可改善檔工作流程和分析複雜的文件數據。 此影片教學課程使用 [新的工作區體驗](new-workspace.md)。
 
 ## 使用案例
 
