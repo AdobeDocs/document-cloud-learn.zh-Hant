@@ -1,19 +1,20 @@
 ---
-title: 如何將使用者提升為管理員角色
-description: 瞭解如何使用Admin Console將使用者提升為Acrobat Sign 管理員角色
+title: 指派產品管理員和支援管理員角色
+description: 瞭解如何使用 Admin Console 將使用者提升為 Acrobat Sign 管理員或支援角色
 feature: Administration
 role: Admin
 level: Intermediate
-jira: KT-15914
-source-git-commit: 5bec453b8902dffc63929adcb28dfe873b2267b5
+jira: KT-17583
+exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# 如何將使用者提升為管理員角色
+# 指派產品管理員和支援管理員角色
 
-瞭解如何使用Adobe Admin Console將使用者提升為Acrobat Sign 管理員角色。
+瞭解如何使用 [](https://adminconsole.adobe.com/tw)Admin Console 將使用者提升為 Acrobat Sign 管理員或支援角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
