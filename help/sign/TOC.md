@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '550'
 ht-degree: 6%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 6%
       + [為管理員啟動和執行](admin/up-and-running-admin.md)
       + [設定事件和警告的通知](admin/set-up-shared-events-and-alert.md)
       + [新增使用者](admin/add-users-to-your-account.md)
+      + [新增帳戶管理員](admin/add-admin.md)
       + [建立和管理群組](admin/create-and-manage-groups.md)
       + [設定外部封存](admin/set-up-your-external-archive.md)
       + [建立範本](sign-advanced-users/create-a-template.md)
