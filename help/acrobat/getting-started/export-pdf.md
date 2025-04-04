@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 將 PDF 轉換為不同檔案格式
 
-瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 [Microsoft Word](https://www.adobe.com/tw/acrobat/online/pdf-to-word.html)、 [PowerPoint](https://www.adobe.com/tw/acrobat/online/pdf-to-ppt.html) 和 [Excel](https://www.adobe.com/tw/acrobat/online/pdf-to-excel.html)。 我們也提供將 PDF 轉換為 [Adobe Express](https://express.adobe.com) 以新增品牌化設計元素的內容。 當您將 PDF 轉換為其他檔案格式 （例如 Microsoft Word） 時，便可提升檔工作流程效率，並大幅節省大量變更冗長文件的時間。 此影片教學課程使用新的工作區體驗。
+瞭解如何將 PDF 檔案轉換為不同的文件格式，例如 [Microsoft Word](https://www.adobe.com/tw/acrobat/online/pdf-to-word.html)、 [PowerPoint](https://www.adobe.com/tw/acrobat/online/pdf-to-ppt.html) 和 [Excel](https://www.adobe.com/tw/acrobat/online/pdf-to-excel.html)。 我們也提供將 PDF 轉換為 [Adobe Express](https://express.adobe.com) 以新增品牌化設計元素的內容。 當您將 PDF 轉換為其他檔案格式 （例如 Microsoft Word） 時，便可提升檔工作流程效率，並大幅節省大量變更冗長文件的時間。 此影片教學課程使用全新Acrobat體驗。
 
 >[!TIP]
 >
