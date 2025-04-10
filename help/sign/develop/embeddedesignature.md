@@ -9,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
 source-wordcount: '832'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++檢視如何取得API認證的詳細資訊
 
-* [Acrobat Sign 開發人員帳戶](https://acrobat.adobe.com/tw/zh-Hant/acrobat/contact.html)
+* [Acrobat Sign 開發人員帳戶](https://www.adobe.com/acrobat/business/developer-form.html)
 * [入門代碼](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS Code （或您選擇的編輯器）](https://code.visualstudio.com)
 * Python 3.x
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 ![基本 URI 邏輯的螢幕擷圖](assets/embeddedesignature/embed_10.png)
 
-了解暫時性檔在 Sign 生態系統的宏大配置中所處的位置。暫時性 -> 合約
+了解暫時性檔在 Sign 生態系統的巨集大配置中所處的位置。暫時性 -> 合約
 暫時性 -> 範本 ->合約
 暫時性 -> Widget ->合約
 
