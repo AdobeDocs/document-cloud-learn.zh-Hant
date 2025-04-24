@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 在 PDF 上加上註釋]
+
+瞭解 [如何僅使用網頁瀏覽器在共用的 PDF](comment-on-pdf-files.md) 上加上註釋。
+
 >[!TAB 即時共同作業]
 
 瞭解如何建立文件 [審核程序](collaborate.md) ，不僅能提高效率，還能提高內容品質。
@@ -33,10 +37,6 @@ ht-degree: 1%
 >[!TAB 在 PDF 中編輯圖形]
 
 瞭解如何在 [PDF 中建立、編輯和增強圖形](edit-graphics.md) 。
-
->[!TAB 全新Acrobat體驗]
-
-瞭解 [全新Acrobat體驗](new-workspace.md) ，協助您快速發現工具並有效率地完成 PDF 工作。
 
 >[!ENDTABS]
 
