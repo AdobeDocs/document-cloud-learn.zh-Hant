@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
@@ -448,7 +448,7 @@ ht-degree: 1%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="在 PDF 上加上註釋">在 PDF 上加上註釋</a>
                     </p>
-                    <p class="is-size-6">新增註釋，然後與他人共用 PDF</p>
+                    <p class="is-size-6">瞭解如何使用網頁瀏覽器在共用的 PDF 上新增註釋</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
