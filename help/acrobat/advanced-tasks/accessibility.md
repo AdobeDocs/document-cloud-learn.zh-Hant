@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![輔助功能步驟 4](../assets/Accessibility_4.png)
 
-您也可以在「動作精靈[&#128279;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)」工具中使用[!UICONTROL 「新增輔助]功能」動作，該工具會逐步執行一組基本步驟，以建立具備輔助功能的 PDF。
+您也可以在「動作精靈[&#128279;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=zh-Hant)」工具中使用[!UICONTROL 「新增輔助]功能」動作，該工具會逐步執行一組基本步驟，以建立具備輔助功能的 PDF。
 
 ## 修正輔助功能問題
 

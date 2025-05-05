@@ -258,7 +258,7 @@ ht-degree: 0%
 
    ![選取 + 元件的螢幕擷圖](assets/documentautomation/automation_27.png)
 
-1. 在新索引標籤中流覽至「https://www.adobe.com/go/powerautomate_getstarted」。
+1. 在新索引標籤中流覽至「https://www.adobe.com/go/powerautomate_getstarted_tw」。
 1. 按一下&#x200B;**「開始使用」**。
 
    ![開始使用按鈕屏幕擷圖](assets/documentautomation/automation_28.png)

@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安裝 Marketo Microsoft Dynamics Sync。
 
-   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hant)
 
 1. 安裝 Microsoft Dynamics Acrobat Sign。
 

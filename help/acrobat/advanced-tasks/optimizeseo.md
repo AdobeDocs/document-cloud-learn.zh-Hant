@@ -31,7 +31,7 @@ PDF 內容應為唯一且結構化，如下所示：
 * 使用包含關鍵詞和清單的簡短段落
 * 新增內部和外部 （您的網站或其他網站上的內容） 超連結
 * 為超過 25 頁的檔新增超連結的內容表格
-* 在所有掃描的檔上執行[文字辨識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)
+* 在所有掃描的檔上執行[文字辨識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=zh-Hant)
 * 建立適合行動裝置的 PDF
 若要查看 PDF 的行動檢視體驗，請在 Acrobat Reader 行動應用程式[&#128279;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟 Liquid Mode。必要時加入其他子標題，以改善導覽方式。
 
@@ -63,7 +63,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 
 ## 3. 標記您的 PDF
 
-標記 PDF 中的內容不僅使您的檔案 [可供殘障人士存取](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) ，還可以改善SEO。
+標記 PDF 中的內容不僅使您的檔案 [可供殘障人士存取](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=zh-Hant) ，還可以改善SEO。
 
 ++檢視如何標記 PDF 的詳細資訊
 

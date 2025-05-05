@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) 的一部分，可在 Experience League 上免費取得！
+>此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365) 的一部分，可在 Experience League 上免費取得！

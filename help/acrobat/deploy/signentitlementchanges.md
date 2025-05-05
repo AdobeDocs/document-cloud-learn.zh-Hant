@@ -69,8 +69,8 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 
 ## 如需詳細資訊，請造訪下列頁面：
 
-* [登入 Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [管理檔案 （我的檔案在哪裡？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [登入 Adobe Document Cloud](https://helpx.adobe.com/tw/document-cloud/help/sign-in.html)
+* [管理檔案 （我的檔案在哪裡？）](https://helpx.adobe.com/tw/document-cloud/help/manage-files.html)
 * [使用 [!UICONTROL Acrobat Customization Wizard] 進行設定](https://www.adobe.com/tw/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Admin Console概覽](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
 * [在Admin Console上 [!UICONTROL 管理Adobe Sign]](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)

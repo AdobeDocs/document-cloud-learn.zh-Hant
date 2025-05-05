@@ -18,7 +18,7 @@ ht-degree: 0%
 
 部署和最佳實務文章，以及與我們的客戶合作所得到的珍貴見解和知識。
 
-* 瞭解如果您是針對 [團隊或企業使用Adobe](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} Creative Cloud®，請瞭解如何部署Adobe Acrobat™。
+* 瞭解如果您是針對 [團隊或企業使用Adobe](https://helpx.adobe.com/tw/enterprise/using/deploying-acrobat.html){target="_blank"} Creative Cloud®，請瞭解如何部署Adobe Acrobat™。
 
 * 瞭解適用於 [Acrobat產品的](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} Enterprise Toolkit，以便在組織內部署自定義產品、設定虛擬化安裝，以及建立企業 PDF 工作流程。
 

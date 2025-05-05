@@ -23,6 +23,6 @@ ht-degree: 23%
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，適用於使用者](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) 的進階工作可在Experience League上免費使用！
+>此影片是播放清單 [的一部分，適用於使用者](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-business-users) 的進階工作可在Experience League上免費使用！
 
 

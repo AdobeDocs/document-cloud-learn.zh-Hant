@@ -26,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，您可以開始Acrobat適用於管理員](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 的Experience League！
+>此影片是播放清單 [的一部分，您可以開始Acrobat適用於管理員](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-administrators) 的Experience League！

@@ -28,5 +28,5 @@ ht-degree: 1%
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分 開始使用 Adobe Acrobat，Experience League](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) 時可免費使用！
+>此影片是播放清單 [的一部分 開始使用 Adobe Acrobat，Experience League](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-get-started-business-users) 時可免費使用！
 

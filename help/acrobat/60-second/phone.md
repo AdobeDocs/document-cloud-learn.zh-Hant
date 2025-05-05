@@ -22,4 +22,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 的一部分，可在 Experience League 上免費取得！
+>此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Acrobat-U-1-2021.microsoft365) 的一部分，可在 Experience League 上免費取得！

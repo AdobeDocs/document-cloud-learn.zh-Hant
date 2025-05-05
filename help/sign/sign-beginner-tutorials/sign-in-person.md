@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 取得親筆簽名
 
-瞭解如何使用 [Acrobat Sign 行動應用程式](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html)取得其他人的親筆簽名。
+瞭解如何使用 [Acrobat Sign 行動應用程式](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=zh-Hant)取得其他人的親筆簽名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill 並安排 30 分鐘的會議，設計可讓您的電子簽名發揮效用，而無需在一天中進行任何額外的工作。 每月都會著重一個新主題。
 
-在這裡查看所有隨選網路研討會[&#128279;](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)。
+在這裡查看所有隨選網路研討會[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-sign-webinars/overview)。

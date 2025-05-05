@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，Acrobat「在Microsoft](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps) 內使用應用程式」，Experience League時可免費使用！
+>此影片是播放清單 [的一部分，Acrobat「在Microsoft](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-integrate-microsoft-apps) 內使用應用程式」，Experience League時可免費使用！

@@ -20,17 +20,17 @@ ht-degree: 0%
 
 [!BADGE 使用案例]
 
-* [教育版網頁窗體實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [教育版網頁窗體實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=zh-Hant)
 瞭解如何使用網頁窗體來改善學生對所需表單的存取權
-* [建立教育版網頁窗體實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [建立教育版網頁窗體實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=zh-Hant)
 瞭解如何建立實習網頁窗體
-* [政府貸款申請與多名不明簽署者](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [政府貸款申請與多名不明簽署者](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=zh-Hant)
 瞭解網頁窗體如何用於涉及多名不明參與者的複雜政府貸款申請工作流程
-* [企業助學金和貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [重新部署協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [企業助學金和貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=zh-Hant)
+* [重新部署協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=zh-Hant)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！
+>此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-perform-advanced-tasks-business-users)的進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！

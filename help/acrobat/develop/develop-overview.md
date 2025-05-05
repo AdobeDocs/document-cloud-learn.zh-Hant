@@ -28,4 +28,4 @@ Acrobat [SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){targ
 
 
 
-&rbrack;(https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+&rbrack;(https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
