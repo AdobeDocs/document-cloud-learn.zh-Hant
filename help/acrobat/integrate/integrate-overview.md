@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Microsoft
 
-瞭解您團隊中的每個人如何直接在 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html) Microsoft中[順暢地使用 PDF 檔案。查看此專家精心策劃的 [Acrobat 和 365 整合Microsoft播放清單](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) 。
+瞭解您團隊中的每個人如何直接在 365[&#128279;](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html) Microsoft中順暢地使用 PDF 檔案。查看此專家精心策劃的 [Acrobat 和 365 整合Microsoft播放清單](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) 。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->

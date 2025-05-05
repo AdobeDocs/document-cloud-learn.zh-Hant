@@ -117,7 +117,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 1. 選 **取「POST** 」做為您的「要求」類型。
 
-1. 輸入下列&#x200B;**範本**，並務必將 MY_TWILIO_NUMBER ]**替換**[&#x200B;為 Twilio 電話號碼，YOUR_MESSAGE **[]**&#x200B;您選擇的訊息。
+1. 輸入下列&#x200B;**範本**，並務必將 MY_TWILIO_NUMBER &rbrack;**替換**&lbrack;&#x200B;為 Twilio 電話號碼，YOUR_MESSAGE **[]**&#x200B;您選擇的訊息。
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]

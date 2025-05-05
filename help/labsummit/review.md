@@ -30,7 +30,7 @@ ht-degree: 8%
 
 ![步驟 1 影像](assets/Step1.png)
 
-**步驟 2：**&#x200B;單擊&#x200B;**[!UICONTROL 右側面板**[!UICONTROL &#x200B;中的「傳送以供註釋&#x200B;]**」或右上角的「與其他人]**![共用此檔案」註釋](assets/sendforcommentsicon.png)圖示。
+**步驟 2：**&#x200B;單擊&#x200B;**[!UICONTROL 右側面板**&#x200B;[!UICONTROL &#x200B;中的「傳送以供註釋&#x200B;]&#x200B;**」或右上角的「與其他人]**![共用此檔案」註釋](assets/sendforcommentsicon.png)圖示。
 
 **步驟 3：** 輸入收件者的電子郵件位址。 您可以輸入訊息給收件者或新增審核截止日期。
 
@@ -48,7 +48,7 @@ ht-degree: 8%
 
 **步驟 1：** 在 `localFoodTruckmenu_start.pdf` Adobe Acrobat中開啟檔案。
 
-**步驟 2：**&#x200B;按兩下&#x200B;**[!UICONTROL 「共用連結]**![連結」圖示](assets/sendlinkicon.png)。共用連結會立即產生;您不需要等待檔案上傳到雲端。 「允許註釋」]開關預設為[!UICONTROL 開啟。
+**步驟 2：**&#x200B;按兩下&#x200B;**[!UICONTROL 「共用連結]**![連結」圖示](assets/sendlinkicon.png)。共用連結會立即產生;您不需要等待檔案上傳到雲端。 「允許註釋」開關預設為開啟。
 
 ![步驟 2L 影像](assets/Step2L.png)
 

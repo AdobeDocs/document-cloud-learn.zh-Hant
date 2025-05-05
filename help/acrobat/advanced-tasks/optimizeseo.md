@@ -33,7 +33,7 @@ PDF 內容應為唯一且結構化，如下所示：
 * 為超過 25 頁的檔新增超連結的內容表格
 * 在所有掃描的檔上執行[文字辨識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)
 * 建立適合行動裝置的 PDF
-若要查看 PDF 的行動檢視體驗，請在 Acrobat Reader 行動應用程式](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中[開啟檔案，然後開啟 Liquid Mode。必要時加入其他子標題，以改善導覽方式。
+若要查看 PDF 的行動檢視體驗，請在 Acrobat Reader 行動應用程式[&#128279;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟 Liquid Mode。必要時加入其他子標題，以改善導覽方式。
 
   ![Acrobat Reader行動應用程式中 Liquid Mode 的螢幕擷圖](../assets/optimizeseo1.png)
 
@@ -50,9 +50,9 @@ PDF 檔案的標題和元描述就像網頁一樣。
 新增主要 **[!UICONTROL 文件內容]** ，如下所示：
 
 1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快捷方式 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引卷標。
-1. 在「標題：]**」欄位中**[!UICONTROL &#x200B;輸入關鍵字優化標題。
+1. 在「標題：**」欄位中**&#x200B;輸入關鍵字優化標題。
 1. 請確定「 **[!UICONTROL 作者：」欄]** 位無法識別組織中的特定個人。
-1. 在「主旨：]**」欄位中**[!UICONTROL &#x200B;輸入檔的關鍵詞優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
+1. 在「主旨：**」欄位中**&#x200B;輸入檔的關鍵詞優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
 1. 選 **[!UICONTROL 取「其他元數據]** 」以新增版權或公共域資訊 （如果適用）。
 
    ![文檔屬性的螢幕擷圖](../assets/optimizeseo2.png)
@@ -73,7 +73,7 @@ PDF 檔案的標題和元描述就像網頁一樣。
 1. 在右側窗格中選 **[!UICONTROL 取「自動標籤檔]** 」。
 1. 按照左側窗格 **[!UICONTROL 「識別報告]**」中的修復提示操作。
 1. 必要時執行 **[!UICONTROL 「設定替換文字]** 」。
-1. 使用關鍵詞來描述「替換文字&#x200B;]**」中的**[!UICONTROL &#x200B;影像。
+1. 使用關鍵詞來描述「替換文字&#x200B;**」中的**&#x200B;影像。
 
    ![在 PDF 中設定替換文字的螢幕擷圖](../assets/optimizeseo3.png)
 

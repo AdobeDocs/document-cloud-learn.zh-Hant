@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 使用密碼保護 PDF 檔案
 
-瞭解如何在 [PDF{target="_blank"}](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html) 中新增密碼，以保護其他人無法開啟或[編輯 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}。
+瞭解如何在 [PDF](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html){target="_blank"} 中新增密碼，以保護其他人無法開啟或[編輯 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
-此影片是播放列表 [開始使用的一部分，Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) 可在 Experience League 上免費取得！
+>此影片是播放列表 [開始使用的一部分，Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) 可在 Experience League 上免費取得！

@@ -22,4 +22,4 @@ Acrobat Sign 最常見的工作流程是傳送檔以供簽署。 瞭解如何上
 
 >[!TIP]
 >
->此影片是Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) 快速入門播放清單[的一部分，Experience League免費提供！
+>此影片是Acrobat Sign[&#128279;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) 快速入門播放清單的一部分，Experience League免費提供！

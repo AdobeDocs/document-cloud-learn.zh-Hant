@@ -47,7 +47,7 @@ ht-degree: 2%
 * 自定義和優化
    * 增強式電子簽名驗證、進階ID式簽署者身分驗證、工作流程設計工具、進階語言支援等。
 
-Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名。 Adobe Sign 是專為滿足您組織的任何電子簽名需求而建置的，具備 IT 管理員友好型工具，可確保您和您的使用者使用的電子簽名完全符合電子簽名的各個區域和產業法規。 如需有關透過Adobe Admin Console管理 Sign [的詳細資訊，請造訪[此](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)處](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)。
+Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名。 Adobe Sign 是專為滿足您組織的任何電子簽名需求而建置的，具備 IT 管理員友好型工具，可確保您和您的使用者使用的電子簽名完全符合電子簽名的各個區域和產業法規。 如需有關透過Adobe Admin Console管理 Sign [&#128279;](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)的詳細資訊，請造訪[此](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)處。
 
 請聯絡您的Adobe聯絡人，討論如何繼續透過我們包括Acrobat DC和 Adobe Sign Enterprise 的數位文件平臺提供組織電子簽名功能。
 
@@ -75,4 +75,4 @@ Adobe Sign是業界公認的解決方案，可擷取符合法律規範的簽名�
 * [Admin Console概覽](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
 * [在Admin Console上 [!UICONTROL 管理Adobe Sign]](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)
 
-**** 2020 年 5 月 20 日修訂;原始貼文 – 2019 年 8 月
+**&#x200B;**&#x200B;2020 年 5 月 20 日修訂;原始貼文 – 2019 年 8 月

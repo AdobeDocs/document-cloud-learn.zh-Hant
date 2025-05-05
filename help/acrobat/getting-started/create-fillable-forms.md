@@ -18,7 +18,7 @@ ht-degree: 0%
 
 將在 InDesign 中建立的掃描紙本表格或檔，Microsoft Word、Excel 或其他應用程式轉換為 [可填寫的 PDF 表格](https://www.adobe.com/tw/acrobat/online/sign-pdf.html)。
 
-1. 從「工具]」中心或右側窗格中，[!UICONTROL 選&#x200B;**[!UICONTROL 取「準備表格]**」。
+1. 從「工具」中心或右側窗格中，選&#x200B;**[!UICONTROL 取「準備表格]**」。
 
    ![窗體步驟 1](../assets/Form_1.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![窗體步驟 3](../assets/Form_3.png)
 
-1. 選取&#x200B;**[!UICONTROL 「編輯]**」以繼續工作，或選取&#x200B;**[!UICONTROL 「檔案]****>****[!UICONTROL 另存新]**&#x200B;檔」以儲存 PDF 表格。
+1. 選取&#x200B;**[!UICONTROL 「編輯]**」以繼續工作，或選取&#x200B;**[!UICONTROL 「檔案]**&#x200B;**>**&#x200B;**[!UICONTROL 另存新]**&#x200B;檔」以儲存 PDF 表格。
 
    ![表格步驟 4](../assets/Form_4.png)
 

@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![表單數據步驟 2](../assets/FormData_2.png)
 
-1. 選&#x200B;**[!UICONTROL 取「更多]****>****[!UICONTROL 在右側窗格中將數據檔合併為電子表格]**。
+1. 選&#x200B;**[!UICONTROL 取「更多]**&#x200B;**>**&#x200B;**[!UICONTROL 在右側窗格中將數據檔合併為電子表格]**。
 
    ![表單數據步驟 3](../assets/FormData_3.png)
 

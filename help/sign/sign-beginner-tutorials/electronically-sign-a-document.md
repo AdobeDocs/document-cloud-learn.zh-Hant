@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # 以電子方式簽署檔
 
-瞭解使用 Acrobat Sign 傳送給您的文件簽署有多麼簡單。 觀看本[教學課程](../mobile/sign-mobile.md)，瞭解如何使用iOS](https://apps.apple.com/us/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=zh_TW) Acrobat Sign行動應用程式[簽署檔。
+瞭解使用 Acrobat Sign 傳送給您的文件簽署有多麼簡單。 觀看本[教學課程](../mobile/sign-mobile.md)，瞭解如何使用iOS[&#128279;](https://apps.apple.com/us/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=zh_TW) Acrobat Sign行動應用程式簽署檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)

@@ -16,6 +16,6 @@ ht-degree: 2%
 
 # 將多個檔案合併為一個 PDF
 
-在這 60 秒的教學課程影片中，瞭解如何將多種不同類型的檔案合併為單一 PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}，快速建立檔[。
+在這 60 秒的教學課程影片中，瞭解如何將多種不同類型的檔案合併為單一 PDF[&#128279;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}，快速建立檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 使用 [！DNL D-Trust]
-description: 瞭解如何使用 [！DNL D-Trust]，然後使用 [！在 Acrobat Sign 中的檔上使用 DNL D-Trust] 數位簽名
+title: 使用 [!DNL D-Trust]
+description: 瞭解如何使用 [!DNL D-Trust]，然後使用 [!DNL 在 Acrobat Sign 中的檔上使用 D-Trust] 數位簽名
 feature: Digital ID
 role: User
 solution: Acrobat Sign

@@ -25,8 +25,8 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[以 ZIP 格式](../assets/sendInBulkSample.zip)下載範例CSV檔案。 在這裡瞭解您可以在 CSV 檔案[](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html)中設定的所有值。
+[以 ZIP 格式](../assets/sendInBulkSample.zip)下載範例CSV檔案。 在這裡瞭解您可以在 CSV 檔案[&#128279;](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html)中設定的所有值。
 
 >[!TIP]
 >
-此影片是「適用於使用者](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的[進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！
+>此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！

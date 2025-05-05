@@ -61,7 +61,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 **如果您想要在帳戶尚未在 Salesforce 中簽署合約時傳送提醒，請為「帳戶」底下的物件啟用同步** 。
 
-1. **為所需父級 （商機、連絡人或帳戶） 下方顯示的合約物件啟用同步******&#x200B;功能。針對其他想要同步的自定義物件執行此動作。
+1. **為所需父級 （商機、連絡人或帳戶） 下方顯示的合約物件啟用同步**&#x200B;**&#x200B;**&#x200B;功能。針對其他想要同步的自定義物件執行此動作。
 
    ![合約物件](assets/agreementObject.png)
 
@@ -197,7 +197,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
    ![「排程」索引標籤](assets/scheduleTab.png)
 
-1. 將時程表&#x200B;****&#x200B;設定為每日，視需要選擇活動開始日和時間，以及營銷活動的結束日期。
+1. 將時程表&#x200B;**&#x200B;**&#x200B;設定為每日，視需要選擇活動開始日和時間，以及營銷活動的結束日期。
 
    ![排程設定](assets/scheduleSettings.png)
 

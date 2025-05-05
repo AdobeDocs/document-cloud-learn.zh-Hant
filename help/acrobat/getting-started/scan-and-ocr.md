@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 掃描與 OCR
 
-將文件掃描或影像轉換為可搜尋、可編輯的 PDF 檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，[持續推動業務發展。
+將文件掃描或影像轉換為可搜尋、可編輯的 PDF 檔案[&#128279;](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，持續推動業務發展。
 
 >[!TIP]
 >

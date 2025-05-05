@@ -71,7 +71,7 @@ ht-degree: 0%
 
 **練習 3 和 4**
 
-在此下載材料[](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
+在此下載材料[&#128279;](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
 ## 第 1 部分：使用 Acrobat Sign 將已簽署的合約儲存在 SharePoint 中 {#part1}
 
@@ -202,7 +202,7 @@ ht-degree: 0%
    ![搜尋建立的螢幕擷圖](assets/documentautomation/automation_19.png)
 
 1. 設定所需資訊：
-從「合約名稱」**的動態變數助理中**&#x200B;選擇&#x200B;**「名稱」**。從「檔案ID」的動態變數助理中&#x200B;**選擇**「檔案ID **」**。從「參與者電子郵件&#x200B;**」的動態變數助理中**&#x200B;選擇&#x200B;**「簽署者電子郵件」**。依參與者順序輸入「1」****。從「參與者角色」下拉式清單中&#x200B;**選擇**「簽署者&#x200B;**」**。
+從「合約名稱」**的動態變數助理中**&#x200B;選擇&#x200B;**「名稱」**。從「檔案ID」的動態變數助理中&#x200B;**選擇**「檔案ID **」**。從「參與者電子郵件&#x200B;**」的動態變數助理中**&#x200B;選擇&#x200B;**「簽署者電子郵件」**。依參與者順序輸入「1」**&#x200B;**。從「參與者角色」下拉式清單中&#x200B;**選擇**「簽署者&#x200B;**」**。
 
    ![所需信息的螢幕擷圖](assets/documentautomation/automation_20.png)
 

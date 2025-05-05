@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->瞭解自動調整內容](auto-adjust-layout.md)的新編輯模式[。
+>瞭解自動調整內容[&#128279;](auto-adjust-layout.md)的新編輯模式。
 
 <br>
 

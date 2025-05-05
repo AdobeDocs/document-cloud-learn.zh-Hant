@@ -15,6 +15,6 @@ ht-degree: 2%
 
 # 指派產品和支援管理員角色
 
-瞭解如何在Admin Console中[](https://adminconsole.adobe.com/tw)指派 Acrobat Sign 用戶產品管理員和支援管理員角色。
+瞭解如何在Admin Console中[&#128279;](https://adminconsole.adobe.com/tw)指派 Acrobat Sign 用戶產品管理員和支援管理員角色。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)

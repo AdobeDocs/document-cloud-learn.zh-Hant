@@ -97,7 +97,7 @@ ht-degree: 6%
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-信任 {#dtrust}
-      + [使用 [！DNL D-Trust]](digitalid/d-trust.md)
+      + [使用 [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi 群組 {#intesi}
       + [從 Intesi Group （進階） 取得數位 ID](digitalid/intesi-advanced.md)
       + [從 Intesi Group （合格） 取得數位 ID](digitalid/intesi-qualified.md)

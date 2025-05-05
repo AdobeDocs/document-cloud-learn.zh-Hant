@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # 使用密碼保護 PDF 檔案
 
-在這 60 秒的教學課程影片中，瞭解如何[保護 PDF{target="_blank"}](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html)，以便開啟或[編輯 PDF](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"} 時需要密碼。
+在這 60 秒的教學課程影片中，瞭解如何[保護 PDF](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html){target="_blank"}，以便開啟或[編輯 PDF](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"} 時需要密碼。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)

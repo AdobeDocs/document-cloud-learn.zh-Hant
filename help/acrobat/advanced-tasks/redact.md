@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![標記密文步驟 1](../assets/Redact_1.png)
 
-1. 選取&#x200B;**[!UICONTROL 「將文字和影]****像標記>****[!UICONTROL 內容]**」來自定義密文的外觀，包括密文方塊或文字覆蓋的顏色。
+1. 選取&#x200B;**[!UICONTROL 「將文字和影]**&#x200B;**像標記>**&#x200B;**[!UICONTROL 內容]**」來自定義密文的外觀，包括密文方塊或文字覆蓋的顏色。
 
    ![標記密文步驟 2](../assets/Redact_2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![將步驟 5a 標記為密文](../assets/Redact_4.png)
 
-1. 選取「**[!UICONTROL 將文字和影]****像標記為密文>****[!UICONTROL 尋找要標記]**&#x200B;密文的特定內容。
+1. 選取「**[!UICONTROL 將文字和影]**&#x200B;**像標記為密文>**&#x200B;**[!UICONTROL 尋找要標記]**&#x200B;密文的特定內容。
 
 使用搜尋方塊搜尋特定的字彙或片語。
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 
    ![將步驟 5b 標記為密文](../assets/Redact_5.png)
 
-1. ]**在「標記密文頂端」選單中[!UICONTROL 選**[!UICONTROL &#x200B;取「套用]」，以套用標記的密文並儲存已標記密文的檔案。
+1. **在「標記密文頂端」選單中選**&#x200B;[!UICONTROL &#x200B;取「套用]」，以套用標記的密文並儲存已標記密文的檔案。
 
    ![標記密文步驟 6](../assets/Redact_6.png)
 
 ## 淨化檔
 
-1. 在「標記密]文」頂端選單中[!UICONTROL 選&#x200B;**[!UICONTROL 取「淨化檔]**」。
+1. 在「標記密文」頂端選單中選&#x200B;**[!UICONTROL 取「淨化檔]**」。
 
 1. 選取 **[!UICONTROL 「確定」]** 以確認移除隱藏資訊。 或者，選擇「 **[!UICONTROL 按下這裡]** 」以選擇性移除隱藏資訊。
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
-若要加快密文程式，請查看「 [動作精靈」](../advanced-tasks/action.md)。
+>若要加快密文程式，請查看「 [動作精靈」](../advanced-tasks/action.md)。
 
 >[!TIP]
 >
-此影片是播放清單 [的一部分，可Adobe Acrobat執行進](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) 階工作Experience League！
+>此影片是播放清單 [的一部分，可Adobe Acrobat執行進](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) 階工作Experience League！

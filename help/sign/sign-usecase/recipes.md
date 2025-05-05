@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!TAB 教育版 IEP 程式的自定義工作流程]
 
-瞭解「自定義工作流程Designer](usecase-edu-iep.md)如何[用於數位化個人化教育計劃 （IEP） 程式。
+瞭解「自定義工作流程Designer[&#128279;](usecase-edu-iep.md)如何用於數位化個人化教育計劃 （IEP） 程式。
 
 >[!TAB 教育版網頁窗體實習申請]
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!TAB 政府貸款申請與多名不明簽署者]
 
-瞭解網頁窗體](webform-multiple-signers.md)如何[用於涉及多名不明參與者的複雜政府貸款申請工作流程。
+瞭解網頁窗體[&#128279;](webform-multiple-signers.md)如何用於涉及多名不明參與者的複雜政府貸款申請工作流程。
 
 >[!ENDTABS]
 

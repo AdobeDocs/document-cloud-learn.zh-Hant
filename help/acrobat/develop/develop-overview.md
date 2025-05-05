@@ -24,8 +24,8 @@ Acrobat [SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){targ
 
 ## Adobe Acrobat服務 API
 
-[Adobe PDF服務」API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}[Adobe PDF「擷取API Adobe](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}[文件產生API](https://developer.adobe.com/document-services/apis/doc-generation/)[{target="_blank"}Adobe PDF嵌入API Adobe Acrobat](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}[服務」教學課程
+[Adobe PDF服務」API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}[Adobe PDF「擷取API Adobe](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}[文件產生API](https://developer.adobe.com/document-services/apis/doc-generation/) [Adobe PDF嵌入API Adobe Acrobat](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}{target="_blank"}&lbrack;服務」教學課程
 
 
 
-](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+&rbrack;(https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}

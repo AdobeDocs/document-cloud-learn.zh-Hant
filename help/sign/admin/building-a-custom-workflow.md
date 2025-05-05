@@ -27,10 +27,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-群組管理員可以將工作流程指派給其所管理的任何群組 （不僅是其主要群組）。 群組管理員也可以編輯指派給其管理的任何群組的工作流程。
+>群組管理員可以將工作流程指派給其所管理的任何群組 （不僅是其主要群組）。 群組管理員也可以編輯指派給其管理的任何群組的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-此影片是播放清單 [的一部分，您可以開始Acrobat適用於管理員](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 的Experience League！
+>此影片是播放清單 [的一部分，您可以開始Acrobat適用於管理員](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) 的Experience League！

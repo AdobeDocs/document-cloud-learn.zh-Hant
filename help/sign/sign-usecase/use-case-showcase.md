@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 2021 年座談會
 
-* **[AbbVie 數字轉型](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**之路
+* **[AbbVie 數字轉型](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**&#x200B;之路
 日期：2021 年 8 月 4 日
 AbbVie 的策略是提供創新藥，並顯著影響人們的生活。 為了提高靈活度並讓員工自由專注於更複雜的工作，公司正在努力將部分業務流程自動化，而擺脫紙筆和紙張的轉變是至關重要的第一步。 加入我們，與 AbbVie 對話，聆聽他們實現數字轉型成功的目標、策略和流程。
 
@@ -32,7 +32,7 @@ AbbVie 的策略是提供創新藥，並顯著影響人們的生活。 為了提
 
 加入我們，與併入一個在後方與大汽車對話，討論他們如何推動重大構想並將其轉變為現實，以及其他公司如何從轉型體驗中學習。
 
-* **[2021年政府機關隨選錄製](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**的 5 種轉型方式
+* **[2021年政府機關隨選錄製](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**&#x200B;的 5 種轉型方式
 Acrobat Sign 如何協助政府機構更好地為選民服務？ 民眾和雇員現在都希望有更具吸引力的在線體驗。 為了實現數位化，政府流程必須滿足嚴格的安全性、隱私性和合規性要求。 疫情爆發時，政府機構必須加快數字轉型，以繼續滿足選民的需求並維持營運持續性。
 
 加入我們的Acrobat Sign 使用案例展示」，聆聽政府專家討論有關聯邦、州立和地方機構面臨的挑戰，以及他們如何繼續創新以維持政府運作。

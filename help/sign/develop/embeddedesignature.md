@@ -69,7 +69,7 @@ ht-degree: 0%
 
 首先，您需要建立存取權。 使用 Acrobat Sign，您可以透過兩種方式透過 API 進行連線。 OAuth 令牌與整合密鑰。 除非您有在應用程式中使用 OAuth 的明確原因，否則您應該先探索整合密鑰。
 
-1. 在「帳戶」索引標籤下方的&#x200B;**「API資訊**」選單&#x200B;****&#x200B;中，選&#x200B;**取「Acrobat Sign」中的「整合密鑰**」。
+1. 在「帳戶」索引標籤下方的&#x200B;**「API資訊**」選單&#x200B;**&#x200B;**&#x200B;中，選&#x200B;**取「Acrobat Sign」中的「整合密鑰**」。
 
    ![哪裡可以找到整合密鑰的螢幕擷圖](assets/embeddedesignature/embed_4.png)
 
@@ -160,4 +160,4 @@ ht-degree: 0%
 
      ![導覽至 Power Automate 的螢幕擷圖](assets/embeddedesignature/embed_16.png)
 
-   * 或在飛行中新增一個[](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * 或在飛行中新增一個[&#128279;](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

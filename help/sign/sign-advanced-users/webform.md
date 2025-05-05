@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 建立網頁表單
 
-瞭解如何建立可直接在您的網站上以電子方式簽署的檔。 您可以建立表單](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*)的[託管超連結，或使用連結以 html 或JavaScript嵌入您的網站。
+瞭解如何建立可直接在您的網站上以電子方式簽署的檔。 您可以建立表單[&#128279;](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*)的託管超連結，或使用連結以 html 或JavaScript嵌入您的網站。
 
 [!BADGE 使用案例]
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
-此影片是「適用於使用者](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的[進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！
+>此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的進階工作」和[「開始使用管理員適用的 Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)」播放清單的一部分，Experience League！
