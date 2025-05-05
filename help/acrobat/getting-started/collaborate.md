@@ -18,7 +18,7 @@ ht-degree: 0%
 
 無所不在的遠端工作，無縫協作對於快速、大規模地提供內容至關重要。 隨時隨地即時收集註釋、協作回應，以及追蹤文件進度，讓您的專案向前邁進。 瞭解如何建立文件審核程序，不僅能提高效率，還能提高內容品質。 此影片教學課程使用新 [Acrobat體驗](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439239?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解如何使用 Acrobat Sign 的工作流程Designer工具協助簡化整個流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448062?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 選取以下載或開啟合約和申請表格的逐步 PDF 配方。
 

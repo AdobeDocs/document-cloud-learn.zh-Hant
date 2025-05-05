@@ -18,7 +18,7 @@ ht-degree: 0%
 
 快速導覽 Acrobat Sign 工作區，以開始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425262?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

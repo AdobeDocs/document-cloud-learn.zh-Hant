@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何在資料庫中編輯或刪除範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426911?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

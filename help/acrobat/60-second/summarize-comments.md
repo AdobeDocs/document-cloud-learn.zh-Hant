@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在此 60 秒的教學課程影片中，瞭解如何建立 PDF 檔案中所有註釋和標記的摘要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436978?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >報告僅適用於商業和企業層級計劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437155?quality=12&learn=on&hidetitle=true&captions=chi_hant)

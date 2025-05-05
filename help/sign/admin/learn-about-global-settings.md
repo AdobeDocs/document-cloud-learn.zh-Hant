@@ -19,7 +19,7 @@ ht-degree: 2%
 
 「帳戶」索引標籤的「全域設定」區段是功能較豐富的區段之一，而且所有設定都是專屬的使用案例。 瞭解如何全域編輯整個組織或特定群組的設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452113?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

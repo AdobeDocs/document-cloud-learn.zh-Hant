@@ -17,4 +17,4 @@ ht-degree: 3%
 
 在此 60 秒的教學課程影片中，瞭解如何 [從 Microsoft Word](https://www.adobe.com/acrobat/online/word-to-pdf.html){target="_blank"} 建立 PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437089?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在此 60 秒的教學課程影片中，瞭解如何在 Microsoft Teams 中即時共同處理 PDF 檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437491?quality=12&learn=on&hidetitle=true&captions=chi_hant)

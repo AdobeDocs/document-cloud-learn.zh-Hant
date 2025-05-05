@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此 60 秒的教學課程影片中，瞭解如何根據 PDF/X、PDF/A 或 PDF/E 等 PDF 標準驗證 PDF 內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437315?quality=12&learn=on&hidetitle=true&captions=chi_hant)

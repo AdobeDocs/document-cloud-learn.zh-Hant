@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何直接從「檔」索引卷標中 [!DNL Microsoft Teams]傳送檔以索取簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439659?quality=12&learn=on&hidetitle=true&captions=chi_hant)

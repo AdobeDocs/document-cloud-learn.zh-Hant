@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解如何從 [!DNL Microsoft Teams]內部傳送合約以索取簽名、檢查合約狀態，以及傳送提醒。 此範例會直接在 Teams 中逐步解說一位貸款代理商送出申請貸款以索取簽名。 這種緊密整合加速了房屋貸款的申請流程—即使與遠端工作環境中的貸款申請者合作也一同工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446204?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

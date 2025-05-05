@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何整合來自文件的表格數據，以便在報告或 Excel 電子表格中檢視和管理數據。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443529?quality=12&learn=on&hidetitle=true&captions=chi_hant)

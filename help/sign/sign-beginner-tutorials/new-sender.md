@@ -28,88 +28,88 @@ ht-degree: 0%
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>登入</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant"><strong>登入</strong></a>
          <br>
         <em>從 0：00 開始</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=56&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>首頁</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=56&captions=chi_hant"><strong>首頁</strong></a>
          <br>
         <em>從 0：56 開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=153&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>設定您的設定檔</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394/?quality=12&learn=on&hidetitle=true&t=153&captions=chi_hant"><strong>設定您的設定檔</strong></a>
         <br>
         <em>從 2：33 開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=272&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>傳送設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=272&captions=chi_hant"><strong>傳送設定</strong></a>
         <br>
         <em>從 4：32 開始</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=551&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>新增可填寫欄位</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=551&captions=chi_hant"><strong>新增可填寫欄位</strong></a>
          <br>
         <em>從 9：11 開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=719&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>簽署體驗</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=719&captions=chi_hant"><strong>簽署體驗</strong></a>
         <br>
         <em>從 11：59 開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=774&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>管理和追蹤檔</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=774&captions=chi_hant"><strong>管理和追蹤檔</strong></a>
         <br>
         <em>從 12：54 開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
+    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=898&captions=chi_hant">
       <img alt="快轉影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>支援和資源</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454394/?quality=12&learn=on&hidetitle=true&t=898&captions=chi_hant"><strong>支援和資源</strong></a>
         <br>
         <em>從 14：58 開始</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant)

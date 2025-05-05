@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >「取代收件者」的預設設定是以新收件者完全取代目前的收件者。 商業版和企業級計劃有其他可用選項。
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425310?quality=12&learn=on&hidetitle=true&captions=chi_hant)

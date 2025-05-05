@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在此 60 秒的教學課程影片中，瞭解如何將 PDF 檔案轉換為完全可編輯的 Microsoft PowerPoint 檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437343?quality=12&learn=on&hidetitle=true&captions=chi_hant)

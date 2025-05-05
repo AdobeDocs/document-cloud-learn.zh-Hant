@@ -19,4 +19,4 @@ ht-degree: 0%
 
 請參閱 [建立教育版網頁窗體實習申請](usecase-edu-intern-create.md) ，瞭解如何建立這個網頁窗體。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430543?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Workday 中的「簽署」功能可讓您透過 100% 數位化流程，輕鬆簡化登入工作流程，以收集簽名。 讓您的團隊減少管理簽署流程的時間，並有更多時間來完成有價值的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446644?quality=12&learn=on&hidetitle=true&captions=chi_hant)

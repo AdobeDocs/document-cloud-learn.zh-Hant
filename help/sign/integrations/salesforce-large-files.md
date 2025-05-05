@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何在 Acrobat Sign 中設定大型檔及推送合約服務。[!DNL Salesforce]推送合約可讓您傳送檔、建立網頁窗體，並推送合約，就如同建立文件一 [!DNL Salesforce]樣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455788?quality=12&learn=on&hidetitle=true&captions=chi_hant)

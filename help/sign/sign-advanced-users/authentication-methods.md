@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解 Acrobat Sign 中用來驗證簽署檔之人的身分的方法。 身分驗證有助於減少詐欺，並新增額外安全層至已簽署的檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447593?quality=12&learn=on&hidetitle=true&captions=chi_hant)

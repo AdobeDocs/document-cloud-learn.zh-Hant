@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign 最常見的工作流程是傳送檔以供簽署。 瞭解如何上傳檔、新增表格字段，以及傳送給其他人以索取簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425277?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

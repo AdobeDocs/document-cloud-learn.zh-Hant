@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在這 60 秒的教學課程影片中，瞭解如何共用 PDF，以在單一檔案中快速收集多位用戶的意見回饋。
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437199?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -23,4 +23,4 @@ ht-degree: 0%
 >
 >Acrobat網頁表單和 [!DNL SharePoint] 清單之間的欄位對應僅適用於在線安裝，而不適用於 On-Premises 安裝。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423559?quality=12&learn=on&hidetitle=true&captions=chi_hant)

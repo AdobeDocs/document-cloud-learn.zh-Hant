@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何直接在 Acrobat 中新增、編輯、自定義和刪除 [Microsoft「許可權資訊](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) 」敏感性標籤來保護 PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444309?quality=12&learn=on&hidetitle=true&captions=chi_hant)

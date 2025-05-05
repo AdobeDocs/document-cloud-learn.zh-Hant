@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >群組管理員可以將工作流程指派給其所管理的任何群組 （不僅是其主要群組）。 群組管理員也可以編輯指派給其管理的任何群組的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426912?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

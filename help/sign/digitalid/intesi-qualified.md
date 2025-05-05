@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何從 [!DNL Intesi Group]中取得合格的數字簽署憑證。 註冊並驗證您的身分后， [!DNL Intesi Group] 您會因為使用數位 ID 來套用 Acrobat Sign 雲端簽名而發生問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449039?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 <br>
 

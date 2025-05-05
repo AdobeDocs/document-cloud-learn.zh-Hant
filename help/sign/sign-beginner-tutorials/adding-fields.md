@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何自動將欄位放置在檔上，或使用 Acrobat Sign 內的拖放編寫環境。
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425299?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -18,7 +18,7 @@ ht-degree: 10%
 
 您有多個必須與文件互動的人員嗎？ 瞭解如何按照您想要的順序，傳送檔以索取電子簽名給一個以上人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425288?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >

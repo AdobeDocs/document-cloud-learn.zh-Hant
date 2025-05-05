@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何在 Admin Console 中為 Acrobat Sign 工作流程設定和使用隱私權管理員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448227?quality=12&learn=on&hidetitle=true&captions=chi_hant)

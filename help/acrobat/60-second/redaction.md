@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在這 60 秒的教學課程影片中，瞭解移除 PDF 敏感性資訊的正確方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436923?quality=12&learn=on&hidetitle=true&captions=chi_hant)

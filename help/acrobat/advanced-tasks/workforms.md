@@ -37,7 +37,7 @@ ht-degree: 0%
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448522?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 <br>
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439903?hidetitle=true&captions=chi_hant)
 
 <br>
 

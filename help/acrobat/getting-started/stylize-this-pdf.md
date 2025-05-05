@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何使用 Adobe Express 中整合易於使用的整合式設計工具 [，建立具有專業外觀的 PDF](https://express.adobe.com)。 此影片教學課程使用新 [Acrobat體驗](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445552?enablevpops&quality=12&learn=on&hidetitle=true&captions=chi_hant)

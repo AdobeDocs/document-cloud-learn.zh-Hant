@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何使用您的 [!DNL Intesi Group] 數位 ID 來驗證您的身分，並授權檔上的遠端數位簽名 （雲端簽名）。
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443672?quality=12&learn=on&hidetitle=true&captions=chi_hant)

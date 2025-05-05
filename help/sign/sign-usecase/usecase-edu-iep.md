@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解「自定義工作流程」Designer如何用於數位化 K-12 學校的個人化教育計劃 （IEP） 程式。 IEP 是專為符合學生需求而設計的書面教育計劃，需要多位IEP團隊成員簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423328?quality=12&learn=on&hidetitle=true&captions=chi_hant)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何建立實習網頁窗體，讓學生能夠存取可從任何裝置和任何地點提交的必填表格。 此範例中，每個學生的工作流程都是依其學習課程而異，因為每位學生都需要新增自己的教職員總監和系主任來進行核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423373?quality=12&learn=on&hidetitle=true&captions=chi_hant)
