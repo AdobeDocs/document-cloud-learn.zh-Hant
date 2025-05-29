@@ -59,7 +59,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 1. 在新視窗中，選取您在「合約」下想要的屬性。
 
-   啟用「限制&#x200B;]**」和**[!UICONTROL 「觸發器&#x200B;]**」下方**[!UICONTROL &#x200B;的方塊，即可將其顯示在您的營銷活動中。
+   啟用「限制&#x200B;**」和**&#x200B;[!UICONTROL 「觸發器&#x200B;]&#x200B;**」下方**&#x200B;的方塊，即可將其顯示在您的營銷活動中。
 
    ![自訂同步 1](assets/entitySync1.png)
 
@@ -75,7 +75,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 ## 建立程式
 
-1. 在[!UICONTROL 「行銷活動」]中，在左列的「營銷活動&#x200B;]**」上按下滑鼠右鍵**[!UICONTROL ，選&#x200B;**[!UICONTROL 取「新增Campaign資料夾]**」，然後將其命名。
+1. 在[!UICONTROL 「行銷活動」]中，在左列的「營銷活動&#x200B;**」上按下滑鼠右鍵**，選&#x200B;**[!UICONTROL 取「新增Campaign資料夾]**」，然後將其命名。
 
    ![新檔案夾](assets/newFolder.png)
 
@@ -145,7 +145,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 ## 設定智慧型手機Campaign流程
 
-1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]**」索引標籤]。**[!UICONTROL 
+1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]&#x200B;**」索引標籤。**
 
    Search，將「呼叫 Webhook **」流程拖**&#x200B;曳到畫布上，然後選取您在上一個區段中建立的 Webhook。
 
