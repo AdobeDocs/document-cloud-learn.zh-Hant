@@ -3,14 +3,14 @@ title: 使用適用於 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳�
 description: 瞭解如何在合約一段時間后仍未簽署時傳送電子郵件提醒
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安裝 Marketo Microsoft Dynamics Sync。
 
-   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hant)
+   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. 安裝 [適用於 Microsoft Dynamics](https://appsource.microsoft.com/zh-tw/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86) 的 Acrobat Sign。
 
@@ -47,13 +47,13 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 1. 在右側找到 [!UICONTROL 「商機]」、 [!UICONTROL 「聯繫人]」和 [!UICONTROL 「帳戶]」自定義物件。
 
-   * **如果您想要在商機未在 Dynamics 中簽署合約時傳送提醒，請為「商機」底下**&#x200B;**的物件啟用同步**。
+   * **如果您想要在商]機未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「商機」底下****的物件啟用同步**。
 
-   * **如果您想要在聯繫人尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「連絡]**&#x200B;人」底下&#x200B;**的物件啟用同步**。
+   * **如果您想要在聯繫人尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「連絡]]**&#x200B;人」底下&#x200B;**[!UICONTROL 的物件啟用同步**。
 
-   * **如果您想要在帳戶尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「帳戶]」底下**&#x200B;**的物件啟用同步**。
+   * **如果您想要在帳戶尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「帳戶]」底下****的物件啟用同步**。
 
-   * **在所需的父級 （[!UICONTROL 商機]、[!UICONTROL 連絡人]或[!UICONTROL 帳戶） 下方，啟用合約物件的同步**&#x200B;功能]。**&#x200B;**
+   * **在所需的父級 （[!UICONTROL 商機]、[!UICONTROL 連絡人]或[!UICONTROL 帳戶） 下方，啟用合約物件的同步**&#x200B;功能]。]****[!UICONTROL 
 
    ![自訂物件](assets/enableSyncDynamics.png)
 
@@ -141,7 +141,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 1. 按一下&#x200B;**[!UICONTROL 「建立」]**。
 
-1. 設定「來自名稱&#x200B;**」和**「**[!UICONTROL 寄件者位址」]**。
+1. 設定「來自名稱&#x200B;]**」和**[!UICONTROL 「**[!UICONTROL 寄件者位址」]**。
 
    ![提醒電子郵件](assets/reminderEmail.png)
 
@@ -167,15 +167,15 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
    ![智慧型Campaign 2](assets/smartCampaign2.png)
 
-1. Search，然後按兩下「合約已&#x200B;**存取智慧型手機清單」，然後按下並拖**&#x200B;曳至「智慧型清單」。
+1. Search，然後按兩下「合約已&#x200B;]**存取智慧型手機清單」，然後按下並拖**[!UICONTROL &#x200B;曳至「智慧型清單」。
 
    ![有合約](assets/hasAgreementDynamics1.png)
 
-   您向觸發程序顯示的欄位應該可在「新增限制&#x200B;**」中**&#x200B;使用。
+   您向觸發程序顯示的欄位應該可在「新增限制&#x200B;]**」中**[!UICONTROL &#x200B;使用。
 
 1. 選取 **[!UICONTROL 「合約狀態」]** 以及您要篩選的其他任何欄位。
 
-   對於新增的每個欄位，定義要篩選的值。 在此情況下，它只會在合約狀態為「已傳出進行簽署&#x200B;***[!UICONTROL 」時觸發，且「傳送至」*]**&#x200B;會在超過 1 周&#x200B;*之前觸發。**&#x200B;***
+   對於新增的每個欄位，定義要篩選的值。 在此情況下，它只會在合約狀態為「已傳出進行簽署&#x200B;***[!UICONTROL 」時觸發，且「傳送至」*]**&#x200B;會在超過 1 周&#x200B;*之前觸發。*]****[!UICONTROL 
 
    ![合約狀態](assets/hasAgreementDynaSentOn.png)
 
@@ -191,7 +191,7 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 由於使用了行銷活動篩選 **器「到期前** 天數」，您可以針對營銷活動使用排程的重複性。
 
-1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]&#x200B;**」索引標籤。**
+1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]**」索引標籤]。**[!UICONTROL 
 
    Search，將「傳送電子郵件&#x200B;**」流程拖**&#x200B;曳到畫布上，然後選取您在上一個區段中建立的提醒電子郵件。
 

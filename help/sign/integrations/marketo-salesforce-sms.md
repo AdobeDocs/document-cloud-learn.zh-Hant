@@ -3,14 +3,14 @@ title: 使用適用於 Salesforce 和 Marketo 的 Acrobat Sign 傳送通知
 description: 瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 jira: KT-7247
 topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安裝 Marketo Salesforce 同步。
 
-   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hant)
+   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. 安裝 Acrobat Sign for Salesforce。
 
@@ -117,7 +117,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 1. 選 **取「POST** 」做為您的「要求」類型。
 
-1. 輸入下列&#x200B;**範本**，並務必將 MY_TWILIO_NUMBER &rbrack;**替換**&lbrack;&#x200B;為 Twilio 電話號碼，YOUR_MESSAGE **[]**&#x200B;您選擇的訊息。
+1. 輸入下列&#x200B;**範本**，並務必將 MY_TWILIO_NUMBER ]**替換**[&#x200B;為 Twilio 電話號碼，YOUR_MESSAGE **[]**&#x200B;您選擇的訊息。
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]

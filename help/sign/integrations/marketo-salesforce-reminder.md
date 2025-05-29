@@ -3,14 +3,14 @@ title: 使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒
 description: 瞭解如何在合約一段時間后仍未簽署時，向 Marketo 傳送電子郵件提醒
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '921'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安裝 Marketo Salesforce 同步。
 
-   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hant)
+   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. 安裝 Acrobat Sign for Salesforce。
 
@@ -61,7 +61,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 **如果您想要在帳戶尚未在 Salesforce 中簽署合約時傳送提醒，請為「帳戶」底下的物件啟用同步** 。
 
-1. **為所需父級 （商機、連絡人或帳戶） 下方顯示的合約物件啟用同步**&#x200B;**&#x200B;**&#x200B;功能。針對其他想要同步的自定義物件執行此動作。
+1. **為所需父級 （商機、連絡人或帳戶） 下方顯示的合約物件啟用同步******&#x200B;功能。針對其他想要同步的自定義物件執行此動作。
 
    ![合約物件](assets/agreementObject.png)
 
@@ -197,7 +197,7 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
    ![「排程」索引標籤](assets/scheduleTab.png)
 
-1. 將時程表&#x200B;**&#x200B;**&#x200B;設定為每日，視需要選擇活動開始日和時間，以及營銷活動的結束日期。
+1. 將時程表&#x200B;****&#x200B;設定為每日，視需要選擇活動開始日和時間，以及營銷活動的結束日期。
 
    ![排程設定](assets/scheduleSettings.png)
 
