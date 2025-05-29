@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Acrobat技術小將」是 30 分鐘的會議，旨在讓您的 PDF 工作流程更上層樓。 每月都會著重一個新主題。
 
-在此查看所有網路研討會[](https://www.adobe.com/acrobat/business/webinars.html)。
+在此查看所有網路研討會[&#128279;](https://www.adobe.com/acrobat/business/webinars.html)。
