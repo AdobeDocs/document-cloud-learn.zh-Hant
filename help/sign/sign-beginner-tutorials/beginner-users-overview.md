@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -56,7 +56,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="傳送給單一收件者" src="../assets/Send-to-single-recipient.png" />
+      <img alt="傳送給單一收件者" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>傳送給單一收件者</strong></a>
@@ -65,7 +65,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="傳送給多個收件者" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="傳送給多個收件者" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>傳送給多位收件者</strong></a>
@@ -76,7 +76,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="設定傳送選項" src="../assets/Sendingoptions.png" />
+      <img alt="設定傳送選項" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>設定傳送選項</strong></a>
@@ -85,7 +85,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="將欄位新增至檔" src="../assets/AddingFields.png" />
+      <img alt="將欄位新增至檔" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>將欄位新增至檔</strong></a>
@@ -94,7 +94,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="傳送後修改檔" src="../assets/Modifying-sending.png" />
+      <img alt="傳送後修改檔" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>傳送後修改檔</strong></a>
@@ -103,7 +103,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="取代簽署者" src="../assets/replace-signer.png" />
+      <img alt="取代簽署者" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>取代簽署者</strong></a>
@@ -114,7 +114,7 @@ ht-degree: 3%
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="設定截止日期和提醒" src="../assets/Reminders.png" />
+        <img alt="設定截止日期和提醒" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>設定截止日期和提醒</strong></a>
@@ -145,7 +145,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="以電子方式簽署檔" src="../assets/Electronically-sign.png" />
+      <img alt="以電子方式簽署檔" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔</strong></a>
@@ -154,7 +154,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填寫和簽署檔" src="../assets/FillandSign.png" />
+      <img alt="填寫和簽署檔" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>填寫和簽署檔</strong></a>
@@ -163,7 +163,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="取得親筆簽名" src="../assets/In-person.png" />
+      <img alt="取得親筆簽名" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>取得親筆簽名</strong></a>
@@ -172,7 +172,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="委派簽署給其他人" src="../assets/Delegatesigning.png" />
+      <img alt="委派簽署給其他人" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>委派簽署給其他人</strong></a>
@@ -183,7 +183,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="什麼是數字簽名" src="../assets/whatisdigsig.png" />
+      <img alt="什麼是數字簽名" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>什麼是數字簽名</strong></a>
@@ -192,7 +192,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="使用印章簽署" src="../assets/Stamp.png" />
+      <img alt="使用印章簽署" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>使用印章簽署</strong></a>
@@ -218,7 +218,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="管理與追蹤您的合約" src="../assets/Manage.png" />
+      <img alt="管理與追蹤您的合約" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>管理與追蹤您的合約</strong></a>
@@ -227,7 +227,7 @@ ht-degree: 3%
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="建立文件範本" src="../assets/Template.png" />
+      <img alt="建立文件範本" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>建立文件範本</strong></a>
