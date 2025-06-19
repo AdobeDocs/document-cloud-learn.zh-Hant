@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)的進階工作」和[「管理員的進階工作](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)」播放清單的一部分，Experience League！
+>此影片是「適用於使用者[&#128279;](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-business-users)的進階工作」和[「管理員的進階工作](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-perform-advanced-tasks-administrators)」播放清單的一部分，Experience League！
