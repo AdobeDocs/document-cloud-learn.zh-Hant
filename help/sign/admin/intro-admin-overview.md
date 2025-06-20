@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="新管理員快速入門" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="新管理員快速入門" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>新管理員快速入門</strong></a>
@@ -53,7 +53,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="管理員已啟動並執行" src="../assets/Up-Running.png" />
+      <img alt="管理員已啟動並執行" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>已啟動並執行管理員</strong></a>
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="設定共用的事件和警告" src="../assets/Notifications_1280.png" />
+      <img alt="設定共用的事件和警告" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>設定事件和警告的通知</strong></a>
@@ -73,7 +73,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="新增使用者" src="../assets/Add-a-new-user.jpg" />
+      <img alt="新增使用者" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>新增使用者</strong></a>
@@ -85,7 +85,7 @@ ht-degree: 1%
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="新增帳戶管理員" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="新增帳戶管理員" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>新增帳戶管理員</strong></a>
@@ -95,7 +95,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="建立和管理群組" src="../assets/Creating-Groups.png" />
+      <img alt="建立和管理群組" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>建立和管理群組</strong></a>
@@ -105,7 +105,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="設定外部封存" src="../assets/ExternalArchive.png" />
+      <img alt="設定外部封存" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>設定外部封存</strong></a>
@@ -179,7 +179,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="設定工作流程" src="../assets/BuildingWorkflow.png" />
+      <img alt="設定工作流程" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>設定工作流程</strong></a>
@@ -189,7 +189,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="稽核報告" src="../assets/audit-reports-configure.png" />
+      <img alt="稽核報告" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>稽核報告</strong></a>
@@ -199,7 +199,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="指派產品和支援管理員角色" src="../assets/admin-roles.jpg" />
+      <img alt="指派產品和支援管理員角色" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>指派產品和支援管理員角色</strong></a>
@@ -216,7 +216,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="全域設定" src="../assets/GlobalSettings_1280.png">
+      <img alt="全域設定" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>全域設定</strong></a>
@@ -226,7 +226,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="共用帳戶存取權" src="../assets/SharingAccess.png" />
+      <img alt="共用帳戶存取權" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>共用帳戶存取權</strong></a>
@@ -236,7 +236,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="進階帳戶共用" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="進階帳戶共用" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>進階帳戶共用</strong></a>
@@ -246,7 +246,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="大量下載工具" src="../assets/bulk-download-tool.png" />
+      <img alt="大量下載工具" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>大量下載工具</strong></a>
@@ -268,7 +268,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="使用生技識別設定" src="../assets/Bio_1280.png" />
+      <img alt="使用生技識別設定" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>使用生技識別設定</strong></a>
@@ -278,7 +278,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="如何設定隱私權管理員" src="../assets/privacy.png" />
+      <img alt="如何設定隱私權管理員" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>如何設定隱私權管理員</strong></a>
