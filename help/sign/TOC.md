@@ -98,7 +98,7 @@ ht-degree: 10%
    + Digidentity {#digidentity}
       + [註冊並簽署 [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
-      + [使用 [！DNL D-信任]](digitalid/d-trust.md)
+      + [使用 [!DNL D-信任]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [從 Intesi Group 取得數位身分證（進階）](digitalid/intesi-advanced.md)
       + [從 Intesi Group 取得數位身分證件（合格）](digitalid/intesi-qualified.md)
