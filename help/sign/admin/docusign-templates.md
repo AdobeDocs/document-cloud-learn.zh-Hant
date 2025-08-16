@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何透過三個簡單的步驟，將 Docusign 範本和工作流程無縫移轉至 Acrobat Sign。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465285?quality=12&learn=on&hidetitle=true&captions=chi_hant)
