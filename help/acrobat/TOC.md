@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
    + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
    + [移動中的生產力](getting-started/productivity.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
@@ -66,7 +66,7 @@ ht-degree: 5%
       + [掃描的文檔和複雜清單](advanced-tasks/accessibilitysession4.md)
       + [將表單域添加到標籤PDF](advanced-tasks/accessibilitysession5.md)
       + [將表單域添加到未標籤PDF](advanced-tasks/accessibilitysession6.md)
-+ 可訪問性系列 {#accessibility-tutorials}
++ 輔助功能系列 {#accessibility-tutorials}
    + [概觀](accessibility-series/accessibility-overview.md)
    + [可訪問的PDF檔案的內容和原因](accessibility-series/what-why-accessible-pdf.md)
    + [設定工作區](accessibility-series/set-up-workspace.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)
