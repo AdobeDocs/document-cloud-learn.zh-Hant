@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,15 +21,15 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 可訪問PDF檔案的方式和原因]
+>[!TAB 可訪問的PDF檔案的內容和原因]
 
-瞭解[使PDF檔案可訪問的方式和重要原因](how-why-accessible-pdf.md)。
+瞭解[可訪問的PDF檔案是什麼以及它為什麼重要](what-why-accessible-pdf.md)。
 
 >[!TAB 設定工作區]
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word建立可訪問的PDF]
+>[!TAB 從Word]建立可訪問的PDF
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
@@ -43,13 +44,13 @@ ht-degree: 1%
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="可訪問的PDF檔案的方式和原因" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="可訪問的PDF檔案的內容和原因" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>可訪問PDF檔案的方式和原因</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>可訪問的PDF檔案的內容和原因</strong></a>
     </div>
-    <em>瞭解使PDF檔案可訪問的方式和重要原因。</em>
+    <em>瞭解可訪問的PDF檔案是什麼以及它為什麼重要</em>
     <br>
   </td>
   <td>
