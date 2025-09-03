@@ -1,115 +1,33 @@
 ---
-title: 開始使用 Acrobat Sign
-description: 這個一應俱全的教學課程是Adobe Sign新發件者絕佳入門Adobe Sign
+title: Acrobat Sign入門
+description: 本綜合教程是Adobe Sign新發件人的絕佳開端
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
-thumbnail: KT-8989.jpg
-kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
+source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# 開始使用 Acrobat Sign
+# Acrobat Sign入門
 
-您第一次使用 Acrobat Sign 嗎？ 這個全面的教學課程是一個不錯的開始，因為它著重在所有基本知識上，可讓您使用 Acrobat Sign 快速上手。
+你是新來的Acrobat Sign嗎？ 本教程是開始快速啟動並運行Acrobat Sign的絕佳場所。
 
 >[!NOTE]
 >
->本教學課程是專為企業級和企業級計劃所設計。
+>本教程專門針對業務和企業級計畫。
 
-本詳細的教學課程涵蓋下列主題：
+本教程介紹以下主題：
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant"><strong>登入</strong></a>
-         <br>
-        <em>從 0：00 開始</em>
-    </td>
-     <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=56&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=56&captions=chi_hant"><strong>首頁</strong></a>
-         <br>
-        <em>從 0：56 開始</em>
-    </td>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=153&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394/?quality=12&learn=on&hidetitle=true&t=153&captions=chi_hant"><strong>設定您的設定檔</strong></a>
-        <br>
-        <em>從 2：33 開始</em>
-    </td>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=272&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=272&captions=chi_hant"><strong>傳送設定</strong></a>
-        <br>
-        <em>從 4：32 開始</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=551&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=551&captions=chi_hant"><strong>新增可填寫欄位</strong></a>
-         <br>
-        <em>從 9：11 開始</em>
-    </td>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=719&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=719&captions=chi_hant"><strong>簽署體驗</strong></a>
-        <br>
-        <em>從 11：59 開始</em>
-    </td>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=774&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=774&captions=chi_hant"><strong>管理和追蹤檔</strong></a>
-        <br>
-        <em>從 12：54 開始</em>
-    </td>
-    <td>
-    <a href="https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&t=898&captions=chi_hant">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
-    </a>
-  </td>
-  <td>
-     <a href="https://video.tv.adobe.com/v/3454394/?quality=12&learn=on&hidetitle=true&t=898&captions=chi_hant"><strong>支援和資源</strong></a>
-        <br>
-        <em>從 14：58 開始</em>
-    </td>
-  </tr>
-  </table>
+* 登錄並導航首頁
+* 設定您的個人資料和簽名
+* 發送文檔以進行簽名
+* 收件人的簽名體驗
+* 管理和跟蹤協定
+* 訪問支援和資源
 
->[!VIDEO](https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
