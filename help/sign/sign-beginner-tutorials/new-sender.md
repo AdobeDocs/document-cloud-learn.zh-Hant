@@ -30,4 +30,4 @@ ht-degree: 0%
 * 管理和跟蹤協定
 * 訪問支援和資源
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454394?quality=12&learn=on&hidetitle=true&captions=chi_hant)
