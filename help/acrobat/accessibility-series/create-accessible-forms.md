@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何在Acrobat訪問表單。 遵循這七個步驟有助於加快處理使互動式表單域可訪問的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471673?quality=12&learn=on&hidetitle=true&captions=chi_hant)
