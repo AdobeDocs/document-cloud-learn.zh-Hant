@@ -2,19 +2,19 @@
 user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/tw/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/tw/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/tw/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '555'
 ht-degree: 10%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 10%
    + 傳送 {#getting-started-sending}
       + [工作區基本介紹](sign-beginner-tutorials/quick-tour.md)
       + [開始Acrobat Sign](sign-beginner-tutorials/new-sender.md)
-      + [發送到單個收件人](sign-beginner-tutorials/send-to-single-recipient.md)
+      + [將文檔發送給單個簽名人](sign-beginner-tutorials/send-to-single-recipient.md)
       + [傳送給多個收件者](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [將欄位添加到文檔](sign-beginner-tutorials/adding-fields.md)
       + [配置發送選項](sign-beginner-tutorials/sending-options.md)
@@ -44,7 +44,7 @@ ht-degree: 10%
       + [用戳簽名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
       + [管理和跟蹤您的協定](sign-beginner-tutorials/manage-and-track.md)
-      + [建立文檔模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hant)
+      + [建立文檔模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高級任務 {#advanced-tasks}
    + [概觀](sign-advanced-users/advanced-users-overview.md)
    + 傳送 {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Acrobat Sign的認證方法](sign-advanced-users/authentication-methods.md)
       + [管理表單資料](sign-advanced-users/manage-form-data.md)
       + [設定線上付款](sign-advanced-users/set-up-online-payments.md)
-      + [批量發送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hant)
-      + [建立Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=zh-Hant)
-      + [Acrobat Sign文本標籤](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=zh-Hant)
+      + [批量發送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [建立Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Sign文本標籤](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [在 [!DNL Microsoft Word]中使用文本標籤](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [報告和交易記錄使用](sign-advanced-users/creating-a-report.md)
@@ -75,10 +75,10 @@ ht-degree: 10%
       + [建立和管理組](admin/create-and-manage-groups.md)
       + [設定外部存檔](admin/set-up-your-external-archive.md)
       + [建立模板](sign-advanced-users/create-a-template.md)
-      + [報告和事務使用率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [報告和事務使用率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用戶的報告選項](admin/report-options.md)
       + [建立Web窗體](sign-advanced-users/webform.md)
-      + [修改現有Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=zh-Hant)
+      + [修改現有Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [大量傳送](sign-advanced-users/megasign.md)
       + [構建自定義工作流](admin/building-a-custom-workflow.md)
       + [審計報告](admin/audit-reports.md)

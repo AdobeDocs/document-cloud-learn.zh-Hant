@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ ht-degree: 3%
 
 >[!BEGINTABS]
 
+>[!TAB 向單個簽名者發送文檔]
+
+跳入並瞭解[發送簽名文檔有多容易](send-to-single-recipient.md)
+
 >[!TAB 開始使用Acrobat Sign]
 
 你是新來的Acrobat Sign嗎？ 此[教程](new-sender.md)是一個很好的開始。
-
->[!TAB 設定截止時間和提醒]
-
-瞭解如何發送常規電子郵件[提醒和截止時間](set-deadlines-reminders.md)，以幫助您快速簽署文檔。
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="開始Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>開始使用Acrobat Sign</strong></a>
+    </div>
+    本教程是新用戶在Acrobat Sign的絕佳開端
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="工作區基本介紹" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="開始Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>開始使用Acrobat Sign</strong></a>
-    </div>
-    本教程是新用戶在Acrobat Sign的絕佳開端
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="正在發送到單個收件人" src="../assets/send-single-recipient.png" />
+      <img alt="將文檔發送給單個簽名人" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>正在向單個收件人發送</strong></a>
+    <a href="send-to-single-recipient.md"><strong>向單個簽名者發送文檔</strong></a>
     </div>
     跳入並瞭解將文檔發送出去進行簽名是多麼容易
     <br>
