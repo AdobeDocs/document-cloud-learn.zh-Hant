@@ -18,7 +18,7 @@ ht-degree: 0%
 
 在Acrobat Sign，為單一簽名發送文檔是最常見的操作。 在本教程中，學習準備和發送文檔以進行簽名的最簡單方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425277?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >
