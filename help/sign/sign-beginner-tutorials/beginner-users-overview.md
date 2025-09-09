@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TAB 向單個簽名者發送文檔]
 
-跳入並瞭解[發送簽名文檔有多容易](send-to-single-recipient.md)
+請跳入並瞭解[發送文檔以進行簽名](send-to-single-recipient.md)是多麼容易。
 
 >[!TAB 開始使用Acrobat Sign]
 
