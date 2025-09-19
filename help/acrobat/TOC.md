@@ -24,7 +24,7 @@ ht-degree: 5%
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
    + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
    + [什麼是Acrobat工作室？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
@@ -139,5 +139,5 @@ ht-degree: 5%
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)
