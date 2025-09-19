@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
    + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
-   + [移動中的生產力](getting-started/productivity.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+   + [什麼是Acrobat工作室？](getting-started/acrobat-studio.md)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect帶密碼的PDF檔案](getting-started/password-protect.md)
    + [獲取簽名](getting-started/signatures.md)
    + [跟蹤文檔](getting-started/track.md)
+   + [移動中的生產力](getting-started/productivity.md)
    + [PDF從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 高級任務 {#advanced-tasks}
    + [概觀](advanced-tasks/advanced-tasks-overview.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)
