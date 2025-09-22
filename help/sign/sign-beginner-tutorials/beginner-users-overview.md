@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 3%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 發送到多個簽名者]
+
+瞭解如何按您想要的順序將電子簽名文檔發送給[多個人](send-to-multiple-recipients.md)。
 
 >[!TAB 向單個簽名者發送文檔]
 
@@ -68,10 +72,10 @@ ht-degree: 3%
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="傳送給多個收件者" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="發送到多個簽名者" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>正在向多個收件人發送</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>發送到多個簽名者</strong></a>
     </div>
     以您想要的準確順序將電子簽名文檔發送給多個人
     <br>

@@ -1,25 +1,25 @@
 ---
-title: 傳送給多個收件者
-description: 瞭解如何依所要的順序，將檔傳送給多位人士以索取電子簽名
+title: 發送到多個簽名者
+description: 瞭解如何按您想要的順序將電子簽名文檔發送給多個人
 feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '79'
+ht-degree: 0%
 
 ---
 
-# 傳送給多個收件者
+# 發送到多個簽名者
 
-您有多個必須與文件互動的人員嗎？ 瞭解如何按照您想要的順序，傳送檔以索取電子簽名給一個以上人員。
+您是否有不止一個人必須簽署您的文檔？ 瞭解如何按您想要的順序將電子簽名文檔發送給多個人。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425288?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是Acrobat Sign[&#128279;](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-business-users) 快速入門播放清單的一部分，Experience League免費提供！
+>此視頻是播放清單[Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)的一部分，該播放清單在Experience League中可免費使用！
