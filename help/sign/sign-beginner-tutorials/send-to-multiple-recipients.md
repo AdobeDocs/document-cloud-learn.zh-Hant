@@ -18,7 +18,7 @@ ht-degree: 0%
 
 您是否有不止一個人必須簽署您的文檔？ 瞭解如何按您想要的順序將電子簽名文檔發送給多個人。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425288?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >
