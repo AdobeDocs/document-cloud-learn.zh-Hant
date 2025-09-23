@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+source-git-commit: 5f890cce38215bd0e3a507d1bbb313058246ebd9
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 4%
@@ -21,11 +21,11 @@ ht-degree: 4%
    + [概觀](getting-started/getting-started-overview.md)
    + [新Acrobat經驗](getting-started/new-workspace.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [利用PDF空間提高團隊效率](getting-started/pdf-spaces-legal.md)
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
-   + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
+   + [利用PDF空間提高團隊效率](getting-started/pdf-spaces-legal.md)
    + [什麼是Acrobat工作室？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
    + [組織頁面](getting-started/organize.md)
@@ -140,5 +140,5 @@ ht-degree: 4%
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)
