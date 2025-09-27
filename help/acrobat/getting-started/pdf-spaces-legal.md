@@ -18,4 +18,4 @@ ht-degree: 0%
 
 PDF空間可供購買AcrobatStudio或AI Assistant附加模組的用戶使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475143?quality=12&learn=on&hidetitle=true&captions=chi_hant)
