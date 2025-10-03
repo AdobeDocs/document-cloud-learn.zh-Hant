@@ -18,7 +18,7 @@ ht-degree: 5%
 
 瞭解如何建立可重用的文檔模板並將其添加到您的Acrobat Sign庫以供將來使用。 文檔模板可提供簽名事務處理的速度和一致性，以及管理文檔修訂和更改的能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425336?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 >[!TIP]
 >
