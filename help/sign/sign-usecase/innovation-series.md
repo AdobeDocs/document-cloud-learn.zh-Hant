@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign技能培訓師是30分鐘的課程，旨在讓您的電子簽名工作起來，而不會為您增加任何額外工作。 每月都會突出顯示一個新主題。
 
-查看所有按需網路研討會[此處](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)。
+查看所有按需網路研討會[此處](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-sign-webinars/overview)。
