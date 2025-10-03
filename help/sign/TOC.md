@@ -2,19 +2,19 @@
 user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/tw/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/tw/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/tw/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '557'
 ht-degree: 9%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 9%
 
 # Acrobat SignTutorials {#sign-learning-hub}
 
-+ [概觀](overview.md)
++ [概述](overview.md)
 + 快速入門 {#getting-started}
-   + [概觀](sign-beginner-tutorials/beginner-users-overview.md)
+   + [概述](sign-beginner-tutorials/beginner-users-overview.md)
    + 傳送 {#getting-started-sending}
       + [工作區基本介紹](sign-beginner-tutorials/quick-tour.md)
       + [開始Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -35,6 +35,7 @@ ht-degree: 9%
       + [發送後修改文檔](sign-beginner-tutorials/modify-in-flight.md)
       + [替換簽名人](sign-beginner-tutorials/replace-signer.md)
       + [設定截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
+      + [建立可重用模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
    + 簽署 {#getting-started-signing}
       + [以電子方式簽名文檔](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填充和簽名文檔](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,9 +45,8 @@ ht-degree: 9%
       + [用戳簽名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
       + [管理和跟蹤您的協定](sign-beginner-tutorials/manage-and-track.md)
-      + [建立文檔模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hant)
 + 高級任務 {#advanced-tasks}
-   + [概觀](sign-advanced-users/advanced-users-overview.md)
+   + [概述](sign-advanced-users/advanced-users-overview.md)
    + 傳送 {#advanced-tasks-sending}
       + [設定簽名順序](sign-advanced-users/setting-up-routing.md)
       + [使用委派者角色](sign-advanced-users/delegate-signature.md)
@@ -54,9 +54,9 @@ ht-degree: 9%
       + [Acrobat Sign的認證方法](sign-advanced-users/authentication-methods.md)
       + [管理表單資料](sign-advanced-users/manage-form-data.md)
       + [設定線上付款](sign-advanced-users/set-up-online-payments.md)
-      + [批量發送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hant)
-      + [建立Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=zh-Hant)
-      + [Acrobat Sign文本標籤](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=zh-Hant)
+      + [批量發送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [建立Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Sign文本標籤](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [在 [!DNL Microsoft Word]中使用文本標籤](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [報告和交易記錄使用](sign-advanced-users/creating-a-report.md)
@@ -64,7 +64,7 @@ ht-degree: 9%
       + [修改現有Web表單](sign-advanced-users/modify-webform.md)
       + [管理Web表單資料](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
-   + [概觀](admin/intro-admin-overview.md)
+   + [概述](admin/intro-admin-overview.md)
    + 快速入門 {#getting-started-admin}
       + [新管理員入門](admin/get-started-admin.md)
       + [為管理員啟動並運行](admin/up-and-running-admin.md)
@@ -75,11 +75,11 @@ ht-degree: 9%
       + [分配產品和支援管理員角色](admin/promote-admin.md)
       + [建立和管理組](admin/create-and-manage-groups.md)
       + [設定外部存檔](admin/set-up-your-external-archive.md)
-      + [建立模板](sign-advanced-users/create-a-template.md)
-      + [報告和事務使用率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [建立可恢復模板](sign-advanced-users/create-a-template.md)
+      + [報告和事務使用率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用戶的報告選項](admin/report-options.md)
       + [建立Web窗體](sign-advanced-users/webform.md)
-      + [修改現有Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=zh-Hant)
+      + [修改現有Web表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [大量傳送](sign-advanced-users/megasign.md)
       + [構建自定義工作流](admin/building-a-custom-workflow.md)
       + [審計報告](admin/audit-reports.md)
@@ -93,7 +93,7 @@ ht-degree: 9%
       + [使用Bio-Pharma設定](admin/use-bio-pharma-settings.md)
       + [如何設定隱私管理員](admin/privacy.md)
 + 數字身份證 {#digital-id}
-   + [概觀](digitalid/digitalid-overview.md)
+   + [概述](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [使用Aadhaar簽名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -105,7 +105,7 @@ ht-degree: 9%
       + [從Intesi組獲取數字ID（限定）](digitalid/intesi-qualified.md)
       + [使用Intesi組簽名](digitalid/intesi-sign.md)
 + 整合 {#integrations}
-   + [概觀](integrations/integrations-overview.md)
+   + [概述](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [填充和登錄 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [在 [!DNL Outlook]中發送簽名](integrations/send-for-signature-with-outlook.md)
@@ -113,10 +113,10 @@ ht-degree: 9%
       + [在 [!DNL SharePoint Online]中跟蹤](integrations/track-an-agreement-with-sharepoint-online.md)
       + [將Web表單與 [!DNL SharePoint Online]整合](integrations/integrate-web-form-sharepoint-online.md)
       + [自動存檔 [!DNL SharePoint] 中的檔案（帶 [!DNL Power Automate]）](integrations/auto-archive-sharepoint-power-automate.md)
-      + [&#x200B; [!DNL Microsoft Power Platform]的Acrobat Sign文檔自動化](integrations/documentautomation.md)
+      + [ [!DNL Microsoft Power Platform]的Acrobat Sign文檔自動化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中發送簽名](integrations/adobe-sign-teams-mortgage.md)
       + [即時登錄Adobe Acrobat Sign [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [&#x200B; [!DNL Microsoft Teams]的文檔頁籤整合](integrations/acrobat-sign-teams-documents-tab.md)
+      + [ [!DNL Microsoft Teams]的文檔頁籤整合](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中建立簡單工作流](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中建立高級工作流](integrations/advanced-workflow-power-automate.md)
       + [客戶服務的[!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
@@ -125,7 +125,7 @@ ht-degree: 9%
    + 公證 {#notarize}
       + [發送公證檔案](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [&#x200B; [!DNL Salesforce]的文檔生成器](integrations/create-an-agreement-template.md)
+      + [ [!DNL Salesforce]的文檔生成器](integrations/create-an-agreement-template.md)
       + [設定資料映射](integrations/set-up-data-mapping.md)
       + [設定合併映射](integrations/set-up-merging-map.md)
       + [建立自定義按鈕](integrations/create-a-custom-button.md)
@@ -141,11 +141,11 @@ ht-degree: 9%
       + [使用Acrobat Sign [!DNL Microsoft Dynamics] 和Marketo發送通知](integrations/marketo-dynamics-sms.md)
       + [使用Acrobat Sign [!DNL Microsoft Dynamics 365] 和Marketo發送提醒](integrations/marketo-dynamics-reminder.md)
 + 行業和部門 {#expand}
-   + [概觀](sign-usecase/expand-inspire-overview.md)
+   + [概述](sign-usecase/expand-inspire-overview.md)
    + 技能生成器 {#innovation}
       + [網路講座](sign-usecase/innovation-series.md)
    + 使用案例 {#recipes}
-      + [概觀](sign-usecase/recipes.md)
+      + [概述](sign-usecase/recipes.md)
       + 政府 {#gov}
          + [具有多個未知簽名者的政府貸款申請](sign-usecase/webform-multiple-signers.md)
          + [業務補助及貸款](sign-usecase/usecasegovgrants.md)
@@ -162,18 +162,16 @@ ht-degree: 9%
          + [教育網表單實習應用](sign-usecase/usecase-edu-intern.md)
          + [建立教育Web表單實習應用程式](sign-usecase/usecase-edu-intern-create.md)
          + [教育IEP流程的自定義工作流](sign-usecase/usecase-edu-iep.md)
-   + 用例展示 {#use-case}
-      + [展示](sign-usecase/use-case-showcase.md)
 + 開發 {#develop}
-   + [概觀](develop/develop-overview.md)
+   + [概述](develop/develop-overview.md)
    + API和Webhooks {#custom}
       + [使用GigaSign收集高容量文檔](develop/gigasign.md)
       + [建立嵌入式電子簽名和文檔體驗](develop/embeddedesignature.md)
       + [如何設定Webhooks](develop/webhooks.md)
 + 部署 {#deploy}
-   + [概觀](deploy-overview.md)
+   + [概述](deploy-overview.md)
 + 行動裝置版本 {#mobile}
-   + [概觀](mobile/mobile-overview.md)
+   + [概述](mobile/mobile-overview.md)
    + 移動教程 {#mobile-tutorials}
       + [在移動中籤署文檔](mobile/sign-mobile.md)
       + [液體模式在Acrobat Sign](mobile/liquidmode.md)
