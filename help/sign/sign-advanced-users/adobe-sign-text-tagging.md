@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ ht-degree: 2%
 
 ## 開始使用
 
-文本標籤是文檔中任何位置的唯一格式化文本
-上載到Acrobat Sign時自動被識別為欄位。
+文本標籤是文檔內任何位置的唯一格式文本，在上載到Acrobat Sign時自動被識別為欄位。
 
-    ![文本標籤的語法](../assets/syntax.png)
+![文本標籤的語法](../assets/syntax.png)
 
-文本標籤可直接添加到創作工具(如MicrosoftWord、Adobe InDesign)，或
-你有PDF,Acrobat。 文本標籤顯著減少了準備工作的工作量
-在Acrobat Sign使用的檔案。
+文本標籤可以直接添加到創作工具中，如Microsoft·Word、Adobe InDesign，或者如果您有PDF—Acrobat。 文本標籤大大減少了編寫在Acrobat Sign使用的檔案所涉及的工作量。
 
-## 在MicrosoftWord中添加標籤
+### 在MicrosoftWord中添加標籤
 
 若要向MicrosoftWord文檔添加文本標籤，請查看此[視頻教程](text-tagging-word.md)。
 
-## 在Acrobat添加標籤
+### 在Acrobat添加標籤
 
 Adobe Acrobat擁有強大的拖放式創作環境。 在Acrobat應用文本標籤，您可以利用Acrobat Sign提供的其他功能。
 
@@ -69,7 +66,7 @@ Adobe Acrobat擁有強大的拖放式創作環境。 在Acrobat應用文本標�
 
 1. 在Acrobat Sign上載檔案並建立可重用模板（如下一節所述）。
 
-## 建立可重複使用的範本
+### 建立可重複使用的範本
 
 建立標籤文檔後，將其設定為可重用的模板 — 無需任何人將欄位添加到其文檔。
 
