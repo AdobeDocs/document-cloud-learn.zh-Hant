@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ## Adobe開啟Source行為準則
 
-本專案採用 [ Adobe開放Source行為準則」 ](code-of-conduct.md) 或 [ .NET Foundation 行為準則 ](https://dotnetfoundation.org/code-of-conduct) 。 如需詳細資訊，請參閱 [ 貢獻 ](contributing.md) 文章。
+本專案採用 [&#x200B; Adobe開放Source行為準則」 &#x200B;](code-of-conduct.md) 或 [&#x200B; .NET Foundation 行為準則 &#x200B;](https://dotnetfoundation.org/code-of-conduct) 。 如需詳細資訊，請參閱 [&#x200B; 貢獻 &#x200B;](contributing.md) 文章。
 
 ## 關於您對Adobe內容的貢獻
 
-請參閱 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 」。
+請參閱 [&#x200B; Adobe檔貢獻者指南 &#x200B;](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 」。
 
 您的貢獻方式取決於您是誰以及您想要貢獻的變更類型：
 
 ### 微幅變更
 
-如果您為了善意提供微幅更新，請造訪文章並按一下 **文章的「編輯」** 連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 。
+如果您為了善意提供微幅更新，請造訪文章並按一下 **文章的「編輯」** 連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI進行更新。 如需詳細資訊，請參閱一般 [&#x200B; Adobe檔貢獻者指南 &#x200B;](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 。
 
 您在此存放庫中微幅修正或說明文件及範例程式碼，均受Adobe使用條款所規範。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 社群貢獻者可以使用 GitHub UI 進行基本編輯，或分叉存放庫進行重大貢獻。
 
-如需詳細資訊，請參閱 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 」。
+如需詳細資訊，請參閱 [&#x200B; Adobe檔貢獻者指南 &#x200B;](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html) 」。
 
 ## 如何使用標記格式化您的主題
 
