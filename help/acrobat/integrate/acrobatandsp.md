@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Acrobat，[!DNL SharePoint][!DNL OneDrive]並且[!DNL Office 365]包含可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。某些功能 （例如建立和合併 PDF） 需要適用於團隊的付費Acrobat，或是企業訂閱Acrobat。
+>Adobe Acrobat，[!DNL SharePoint]&#x200B;[!DNL OneDrive]並且[!DNL Office 365]包含可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。某些功能 （例如建立和合併 PDF） 需要適用於團隊的付費Acrobat，或是企業訂閱Acrobat。
 
 <br>
 

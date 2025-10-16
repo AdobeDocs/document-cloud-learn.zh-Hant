@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [以下是本練習的示範檔案](assets/03_FillSignScan.zip)。
 
-**步驟 1：**&#x200B;從商店下載[!DNL Adobe Fill & Sign]應用程式，或[!DNL Google Play][!DNL Apple App]下載 。
+**步驟 1：**&#x200B;從商店下載[!DNL Adobe Fill & Sign]應用程式，或[!DNL Google Play]&#x200B;[!DNL Apple App]下載 。
 
 **步驟 2：** 開啟應用程式，點選 **[!UICONTROL 「選取要填寫的表格」]**。
 

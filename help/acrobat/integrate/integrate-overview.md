@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 整合概觀
 
-將Acrobat與[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、和[!DNL Microsoft][!DNL OneDrive]應用程式整合。
+將Acrobat與[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、和[!DNL Microsoft]&#x200B;[!DNL OneDrive]應用程式整合。
 
 ## Microsoft
 

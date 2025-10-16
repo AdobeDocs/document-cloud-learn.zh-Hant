@@ -105,7 +105,7 @@ ht-degree: 0%
     <div>
     <a href="auto-archive-sharepoint-power-automate.md"><strong>使用下列方式 [!DNL SharePoint] 自動存盤檔案 [!DNL Power Automate]</strong></a>
     </div>
-    <em>瞭解如何使用[!DNL SharePoint][!DNL Power Automate]</em>
+    <em>瞭解如何使用[!DNL SharePoint]&#x200B;[!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ ht-degree: 0%
     <div>
     <a href="documentautomation.md"><strong>檔自動化與 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>瞭解如何啟用和使用應用程式的[!DNL Acrobat Sign][!DNL Adobe PDF Tools]連接器[!DNL Microsoft Power]</em>
+    <em>瞭解如何啟用和使用應用程式的[!DNL Acrobat Sign]&#x200B;[!DNL Adobe PDF Tools]連接器[!DNL Microsoft Power]</em>
     <br>
   </td>
    <td>
