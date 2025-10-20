@@ -1,74 +1,71 @@
 ---
-title: 標記密文和凈化
-description: 瞭解如何從 PDF 中永久移除私人或敏感性資訊
+title: 刪除敏感資訊
+description: 瞭解如何從您的PDF中永久刪除私人或敏感資訊
 feature: Security
 role: User
 level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# 標記密文和凈化
+# 刪除敏感資訊
 
-瞭解如何使用「標記密文」工具，從 PDF 中永久移除私人或敏感性資訊。 使用「淨化」工具移除檔案中看不見的資訊，例如註釋、元數據或隱藏圖層。
+瞭解如何使用密文工具從PDF中永久刪除私有或敏感資訊，然後對文檔進行清理以刪除檔案中不可見的資訊，如注釋、元資料或隱藏層。 永久刪除敏感內容和隱藏資料非常重要，因此在發佈PDF時不會傳遞資訊。 本教程使用[新Acrobat體驗](../getting-started/new-workspace.md)。
 
 >[!NOTE]
 >
->僅適用於 Acrobat Pro。
+>僅在Acrobat Pro提供。
 
 [!BADGE 組織影響]
-客戶數據保護、風險管理
+客戶資料保護，風險管理
 
-## 將文字和影像標記為密文
+## 如何在Acrobat案頭中編輯資訊
 
-1. 從「**[!UICONTROL 工具]」中心或右側窗格選[!UICONTROL 取「標記]**&#x200B;密文」。
+1. 開啟檔案，從工具欄中選擇&#x200B;**[!UICONTROL 所有工具]**，然後選擇&#x200B;**[!UICONTROL 密文]**。
+   ![密文步驟1](../assets/Redact_1.png)
 
-   ![標記密文步驟 1](../assets/Redact_1.png)
+1. 選擇&#x200B;**[!UICONTROL 設定屬性]**&#x200B;以自定義密文的外觀，包括密文框或文本覆蓋的顏色。
 
-1. 選取&#x200B;**[!UICONTROL 「將文字和影]**&#x200B;**像標記>**&#x200B;**[!UICONTROL 內容]**」來自定義密文的外觀，包括密文方塊或文字覆蓋的顏色。
+   ![密文步驟2](../assets/Redact_2.png)
 
-   ![標記密文步驟 2](../assets/Redact_2.png)
+   要編輯資訊，請首先標籤要刪除的項，然後應用密文。 您可以編輯整個頁面或選定內容。
 
-若要將資訊標記為密文，請先標記要移除的項目，然後套用密文。 您可以將整個頁面或選取的內容標記為密文。
+1. 選擇&#x200B;**[!UICONTROL 密文文本和影像]**，然後使用游標選擇要密文的內容。
 
-1. 選取「 **[!UICONTROL 將頁面]**&#x200B;標記為密文」，然後選擇要標記密文的頁面或頁面範圍，然後選取「 **[!UICONTROL 確定」]**。
+   ![密文步驟4](../assets/Redact_3.png)
 
-   ![標記密文步驟 4](../assets/Redact_3.png)
+   通過懸停在所選內容上，可以看到密文的預覽。
 
-或者，使用游標選取要標記密文的內容。 您可以將滑鼠游標停留在所選內容上，以預覽密文。
+   ![密文步驟5a](../assets/Redact_4.png)
 
-   ![將步驟 5a 標記為密文](../assets/Redact_4.png)
+1. 選擇&#x200B;**[!UICONTROL 查找文本和密文]**&#x200B;以搜索特定字詞或短語，或搜索模式以查找特定類型的資訊。 設定搜索並選擇搜索和刪除文本。
 
-1. 選取「**[!UICONTROL 將文字和影]**&#x200B;**像標記為密文>**&#x200B;**[!UICONTROL 尋找要標記]**&#x200B;密文的特定內容。
+1. 在搜索結果對話框中，選中項目旁邊的框並選擇&#x200B;**[!UICONTROL 標籤已檢查的密文結果]**。
 
-使用搜尋方塊搜尋特定的字彙或片語。
+   ![密文步驟5b](../assets/Redact_5.png)
 
-1. 選取 **[!UICONTROL 「圖樣]** 」以尋找特定類型 of 信息，然後勾選方塊，然後選取 **[!UICONTROL 「Search &amp; 移除文字」]**。
+1. 選擇&#x200B;**[!UICONTROL 密文頁]**&#x200B;以標籤整頁密文。
 
-   ![將步驟 5b 標記為密文](../assets/Redact_5.png)
+   ![密文步驟6](../assets/Redact_6.png)
 
-1. **在「標記密文頂端」選單中選**&#x200B;[!UICONTROL &#x200B;取「套用]」，以套用標記的密文並儲存已標記密文的檔案。
+1. 選擇您的頁面，然後選擇&#x200B;**[!UICONTROL 確定]**。
 
-   ![標記密文步驟 6](../assets/Redact_6.png)
+1. 在「密文」PDF面板中選擇&#x200B;**[!UICONTROL 應用]**&#x200B;以應用標籤的密文。
 
-## 淨化檔
+   ![密文步驟6](../assets/Redact_7.png)
 
-1. 在「標記密文」頂端選單中選&#x200B;**[!UICONTROL 取「淨化檔]**」。
+1. 選擇&#x200B;**[!UICONTROL 繼續]**&#x200B;以清理和刪除隱藏資訊。
 
-1. 選取 **[!UICONTROL 「確定」]** 以確認移除隱藏資訊。 或者，選擇「 **[!UICONTROL 按下這裡]** 」以選擇性移除隱藏資訊。
+   ![密文步驟6](../assets/Redact_8.png)
 
-   ![淨化步驟 2](../assets/Redact_7.png)
-
->[!TIP]
->
->若要加快密文程式，請查看「 [動作精靈」](../advanced-tasks/action.md)。
+確認後，密文和隱藏資訊將被永久刪除並保存到新檔案中。
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，可Adobe Acrobat執行進](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-peform-advanced-tasks) 階工作Experience League！
+>若要加快密文處理，請簽出[Action Wizard](../advanced-tasks/action.md)。
