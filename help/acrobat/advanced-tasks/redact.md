@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 1. 選擇&#x200B;**[!UICONTROL 查找文本和密文]**&#x200B;以搜索特定字詞或短語，或搜索模式以查找特定類型的資訊。 設定搜索並選擇搜索和刪除文本。
 
-![密文步驟4](../assets/Redact_4.png)
+   ![密文步驟4](../assets/Redact_4.png)
 
 1. 在搜索結果對話框中，選中項目旁邊的框並選擇&#x200B;**[!UICONTROL 標籤已檢查的密文結果]**。
 
