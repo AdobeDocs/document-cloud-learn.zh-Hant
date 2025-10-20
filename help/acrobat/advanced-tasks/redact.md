@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ ht-degree: 0%
 
 1. 選擇&#x200B;**[!UICONTROL 密文文本和影像]**，然後使用游標選擇要密文的內容。
 
-   ![密文步驟4](../assets/Redact_3.png)
+   ![密文步驟3](../assets/Redact_3.png)
 
    通過懸停在所選內容上，可以看到密文的預覽。
 
-   ![密文步驟5a](../assets/Redact_4.png)
-
 1. 選擇&#x200B;**[!UICONTROL 查找文本和密文]**&#x200B;以搜索特定字詞或短語，或搜索模式以查找特定類型的資訊。 設定搜索並選擇搜索和刪除文本。
+
+![密文步驟4](../assets/Redact_4.png)
 
 1. 在搜索結果對話框中，選中項目旁邊的框並選擇&#x200B;**[!UICONTROL 標籤已檢查的密文結果]**。
 
-   ![密文步驟5b](../assets/Redact_5.png)
+   ![密文步驟5](../assets/Redact_5.png)
 
 1. 選擇&#x200B;**[!UICONTROL 密文頁]**&#x200B;以標籤整頁密文。
 
@@ -56,13 +56,15 @@ ht-degree: 0%
 
 1. 選擇您的頁面，然後選擇&#x200B;**[!UICONTROL 確定]**。
 
+   ![密文步驟7](../assets/Redact_7.png)
+
 1. 在「密文」PDF面板中選擇&#x200B;**[!UICONTROL 應用]**&#x200B;以應用標籤的密文。
 
-   ![密文步驟6](../assets/Redact_7.png)
+   ![密文步驟8](../assets/Redact_8.png)
 
 1. 選擇&#x200B;**[!UICONTROL 繼續]**&#x200B;以清理和刪除隱藏資訊。
 
-   ![密文步驟6](../assets/Redact_8.png)
+   ![密文步驟9](../assets/Redact_9.png)
 
 確認後，密文和隱藏資訊將被永久刪除並保存到新檔案中。
 
