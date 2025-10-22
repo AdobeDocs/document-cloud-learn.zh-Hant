@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f16755624a532246818d05d28fb76c6607790460
+source-git-commit: 3f0b7909cd5a096a9db0b0d380f47688221ea3ca
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '553'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 4%
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
    + [利用PDF空間提高團隊效率](getting-started/pdf-spaces-legal.md)
    + [什麼是Acrobat工作室？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
@@ -63,7 +63,7 @@ ht-degree: 4%
    + [檢測兩個PDF之間的差異](advanced-tasks/compare.md)
    + [指導操作](advanced-tasks/action.md)
    + [刪除敏感資訊](advanced-tasks/redact.md)
-   + [減小檔案大小並優化](advanced-tasks/reduce.md)
+   + [壓縮和優化](advanced-tasks/reduce.md)
    + [使用表單資料](advanced-tasks/formdata.md)
    + [檢查PDF輔助功能](advanced-tasks/accessibility.md)
    + Acrobat輔助性網路研討會 {#accessibility-series}
@@ -76,11 +76,11 @@ ht-degree: 4%
       + [將表單域添加到未標籤PDF](advanced-tasks/accessibilitysession6.md)
 + AI驅動 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
-   + [使用AI Assistant發現PDF洞察](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [使用PDF空間提高團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [什麼是AcrobatStudio?](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [設計此PDF](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [使用AI Assistant發現PDF洞察](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [使用PDF空間提高團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [什麼是AcrobatStudio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [設計此PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60秒Acrobat {#60-second}
    + [概述](60-second/60-second-overview.md)
    + [編輯與Acrobat網站的PDF](60-second/edit.md)
@@ -147,5 +147,5 @@ ht-degree: 4%
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)
