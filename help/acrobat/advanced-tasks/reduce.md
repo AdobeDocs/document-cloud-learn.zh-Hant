@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
+source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,32 +78,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >要優化多個PDF檔案，請嘗試使用[Action Wizard](../advanced-tasks/action.md)。
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="壓縮和優化PDF" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>壓縮和優化PDF</strong></a>
-    </div>
-    <em>減少大檔案並優化PDF，而不影響共用、發佈或存檔的質量</em>
-    <br>
-  </td>
-  <td>
-        <img alt="間隔物" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="間隔物" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="間隔物" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
