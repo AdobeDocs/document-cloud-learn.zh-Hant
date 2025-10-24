@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
+source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word建立可訪問的PDF]
+>[!TAB 從Word]建立可訪問的PDF
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
@@ -60,7 +60,7 @@ ht-degree: 0%
     <div>
     <a href="set-up-workspace.md"><strong>設定工作區</strong></a>
     </div>
-    <em>瞭解如何將所有輔助工具放在指尖，以幫助簡化可訪問的PDF檔案</em>
+    <em>瞭解如何將所有輔助工具放在您的指尖上</em>
     <br>
   </td>
   <td>
