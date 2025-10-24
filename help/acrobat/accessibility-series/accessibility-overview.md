@@ -29,7 +29,7 @@ ht-degree: 0%
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word]建立可訪問的PDF
+>[!TAB 從Word建立可訪問的PDF]
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
