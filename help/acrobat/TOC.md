@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '557'
 ht-degree: 4%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 4%
 
 # AcrobatTutorials {#acrobat-learning}
 
-+ [概述](overview.md)
++ [概觀](overview.md)
 + 快速入門 {#getting-started}
-   + [概述](getting-started/getting-started-overview.md)
+   + [概觀](getting-started/getting-started-overview.md)
    + [新Acrobat經驗](getting-started/new-workspace.md)
    + [工作區基本介紹](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [使用AI Assistant發現PDF洞察力](getting-started/ai-assistant.md)
    + [利用PDF空間提高團隊效率](getting-started/pdf-spaces-legal.md)
    + [什麼是Acrobat工作室？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [隨處使用AcrobatWeb](getting-started/acrobatweb.md)
    + [建立PDF](getting-started/create-pdf.md)
    + [將檔案合併到單個PDF](getting-started/combine-to-pdf.md)
@@ -46,13 +46,14 @@ ht-degree: 4%
    + [移動中的生產力](getting-started/productivity.md)
    + [PDF從何而來？](getting-started/where-do-pdfs-come-from.md)
 + 輔助功能系列 {#accessibility-tutorials}
-   + [概述](accessibility-series/accessibility-overview.md)
+   + [概觀](accessibility-series/accessibility-overview.md)
    + [可訪問的PDF檔案的內容和原因](accessibility-series/what-why-accessible-pdf.md)
    + [設定工作區](accessibility-series/set-up-workspace.md)
    + [從Word建立可訪問的PDF](accessibility-series/create-accessible-from-word.md)
+   + [掃描的文檔](accessibility-series/scanned-documents.md)
    + [建立可訪問的表單](accessibility-series/create-accessible-forms.md)
 + 高級任務 {#advanced-tasks}
-   + [概述](advanced-tasks/advanced-tasks-overview.md)
+   + [概觀](advanced-tasks/advanced-tasks-overview.md)
    + [添加書籤和超連結](advanced-tasks/bookmarks.md)
    + [優化掃描的文檔](advanced-tasks/optimizescan.md)
    + [自定義命令和工具](advanced-tasks/custom.md)
@@ -67,7 +68,7 @@ ht-degree: 4%
    + [使用表單資料](advanced-tasks/formdata.md)
    + [檢查PDF輔助功能](advanced-tasks/accessibility.md)
    + Acrobat輔助性網路研討會 {#accessibility-series}
-      + [概述](advanced-tasks/accessibility-series.md)
+      + [概觀](advanced-tasks/accessibility-series.md)
       + [PDF輔助功能簡介](advanced-tasks/accessibilitysession1.md)
       + [修正無法訪問的PDF](advanced-tasks/accessibilitysession2.md)
       + [複雜表](advanced-tasks/accessibilitysession3.md)
@@ -75,14 +76,14 @@ ht-degree: 4%
       + [將表單域添加到標籤PDF](advanced-tasks/accessibilitysession5.md)
       + [將表單域添加到未標籤PDF](advanced-tasks/accessibilitysession6.md)
 + AI驅動 {#ai-powered}
-   + [概述](ai-powered/ai-overview.md)
-   + [使用AI Assistant發現PDF洞察](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [使用PDF空間提高團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [什麼是AcrobatStudio?](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [設計此PDF](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [概觀](ai-powered/ai-overview.md)
+   + [使用AI Assistant發現PDF洞察](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [使用PDF空間提高團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [什麼是AcrobatStudio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [設計此PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60秒Acrobat {#60-second}
-   + [概述](60-second/60-second-overview.md)
+   + [概觀](60-second/60-second-overview.md)
    + [編輯與Acrobat網站的PDF](60-second/edit.md)
    + [識別掃描的PDF檔案中的文本](60-second/textrecognition.md)
    + [將檔案合併到一個PDF](60-second/combine-to-one-pdf.md)
@@ -113,7 +114,7 @@ ht-degree: 4%
 + 技能構建者 {#skill-builders}
    + [網路講座](skill-builder/skill-builder-webinars.md)
 + 整合 {#integrations}
-   + [概述](integrate/integrate-overview.md)
+   + [概觀](integrate/integrate-overview.md)
    + [從 [!DNL Microsoft Word]建立PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中為Web建立PDF](integrate/createofficeweb.md)
    + [PDF [!DNL Microsoft Teams]中的協作](integrate/acrobatandteams.md)
@@ -124,9 +125,9 @@ ht-degree: 4%
    + [ADOBE ACROBAT [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [使用 [!DNL Dropbox]中的檔案](integrate/acrobat-dropbox.md)
 + 行業和部門 {#by-industry}
-   + [概述](industry/industry-overview.md)
+   + [概觀](industry/industry-overview.md)
    + 政府 {#gov}
-      + [概述](industry/gov/gov-overview.md)
+      + [概觀](industry/gov/gov-overview.md)
       + 與Acrobat在任何地方工作的5個小貼士 {#tips}
          + [5個與Acrobat協作的提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 獲取工具](industry/gov/get-your-tools.md)
@@ -141,11 +142,11 @@ ht-degree: 4%
          + [#3 — 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
          + [讓PDF選票更易獲得](industry/gov/making-pdf-ballots-accessible.md)
 + 開發 {#develop}
-   + [概述](develop/develop-overview.md)
+   + [概觀](develop/develop-overview.md)
 + 部署 {#deploy}
-   + [概述](deploy/deploy-overview.md)
+   + [概觀](deploy/deploy-overview.md)
    + [重要的Acrobat DC產品更新，適用於ETLA客戶](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
-   + [概述](mobile/mobile-overview.md)
-   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hant)
+   + [概觀](mobile/mobile-overview.md)
+   + [移動中的工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [掃描任何內容以PDF](mobile/scan-mobile-app.md)

@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 可訪問的PDF檔案的內容和原因]
+>[!TAB 掃描的文檔]
 
-瞭解[可訪問的PDF檔案是什麼以及它為什麼重要](what-why-accessible-pdf.md)。
+瞭解如何使[掃描的文檔](scanned-documents.md)可訪問。
 
 >[!TAB 設定工作區]
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word建立可訪問的PDF]
+>[!TAB 從Word]建立可訪問的PDF
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
@@ -74,14 +74,41 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="掃描的文檔" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>掃描的文檔</strong></a>
+    </div>
+    <em>瞭解如何使掃描的文檔在Acrobat Pro可訪問</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="建立可訪問的表單" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>建立可訪問的表單</strong></a>
     </div>
-    <em>瞭解如何在Acrobat訪問表單</em>
+    <em>瞭解如何在Acrobat Pro訪問表單</em>
     <br>
+  </td>
+  <td>
+        <img alt="間隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="間隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="間隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
