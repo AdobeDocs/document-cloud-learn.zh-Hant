@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
    在保持文檔質量的同時將檔案縮小到盡可能小的大小。
 
 
-## 如何在Web上壓縮Acrobat的PDF
+## 如何壓縮Acrobat網中的PDF
 
 1. 在瀏覽器中登錄到[acrobat.adobe.com](https://acrobat.adobe.com/tw/zh/)。
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要優化多個PDF檔案，請嘗試使用[Action Wizard](../advanced-tasks/action.md)。
+>若要優化多個PDF檔案，請嘗試在案頭上使用Acrobat Pro的[Action Wizard](../advanced-tasks/action.md)。

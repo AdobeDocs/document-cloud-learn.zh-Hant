@@ -1,51 +1,108 @@
 ---
-title: 掃描與 OCR
-description: 將文件的掃描或影像轉換成可搜尋、可編輯的 PDF 檔案，並調整所產生檔案的品質
+title: 紙到PDF
+description: 瞭解如何將紙面文檔轉換為智慧、可搜索、可編輯的PDF檔案
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# 掃描與 OCR
+# 紙到PDF
 
-將文件掃描或影像轉換為可搜尋、可編輯的 PDF 檔案[&#128279;](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}，持續推動業務發展。
+瞭解如何掃描（或拍攝圖片）紙面文檔，並將其轉換為可搜索的智慧PDF檔案[可編輯的掃描檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}。 將紙面文檔轉換為PDF可提高您快速查找資訊並讓殘疾人能夠訪問資訊的能力。 此外，通過將紙面轉換為PDF，您可以輕鬆地與其他人共用和協作。
+
+## 如何在案頭上將紙張變成Acrobat的PDF
+
+1. 開啟文檔的照片或掃描影像。 或者，使用連接的掃描程式建立新檔案，或使用免費[Adobe Scan移動應用](https://adobescan.app.link/GpBqG8Bkoeb)。
+
+1. 從工具欄中選擇&#x200B;**[!UICONTROL 所有工具]**，然後在左窗格中選擇&#x200B;**[!UICONTROL 掃描和OCR]**。
+
+   ![掃描步驟1](../assets/Scan_1.png)
+
+1. 根據檔案類型選擇&#x200B;**[!UICONTROL 增強掃描的影像]**&#x200B;或&#x200B;**[!UICONTROL 增強相機影像]**。
+
+   ![掃描步驟2](../assets/Scan_2.png)
+
+1. 拖動手柄以調整頁面邊框並選擇&#x200B;**[!UICONTROL 增強]**。
+
+   ![掃描步驟3](../assets/Scan_3.png)
+
+   Acrobat會自動清理和校直影像。
+
+1. 選擇&#x200B;**[!UICONTROL 在此檔案]**&#x200B;中，然後選擇&#x200B;**[!UICONTROL 識別文本]**，使文本可搜索且可編輯。
+
+   ![掃描步驟4](../assets/Scan_4.png)
+
+該檔案現在是可搜索的可編輯的PDF檔案。
+
+## 如何在Acrobat網上將紙面化成PDF
+
+1. 在瀏覽器中登錄到[acrobat.adobe.com](https://acrobat.adobe.com/tw/zh/)。
+
+1. 從頂部菜單中選擇「轉換」>「識別帶OCR的文本」**[!UICONTROL 。]**
+
+   ![掃描步驟5](../assets/Scan_5.png)
+
+1. 選擇&#x200B;**[!UICONTROL 選擇檔案]**，選擇檔案，然後選擇&#x200B;**[!UICONTROL 開啟]**。
+
+   ![掃描步驟6](../assets/Scan_6.png)
+
+1. 選擇&#x200B;**[!UICONTROL 識別文本]**。
+
+   ![掃描步驟7](../assets/Scan_7.png)
+
+   檔案中的文本現在可搜索和編輯。
+
+1. 要刪除背景，請選擇影像，然後選擇&#x200B;**[!UICONTROL 編輯影像]**。
+
+   ![掃描步驟8](../assets/Scan_8.png)
+
+1. 從Adobe Express編輯器中選擇&#x200B;**[!UICONTROL 刪除背景]**。
+
+   ![掃描步驟9](../assets/Scan_9.png)
+
+1. 拖動手柄以調整頁面邊框並選擇&#x200B;**[!UICONTROL 應用]**。
+
+   ![掃描步驟10](../assets/Scan_10.png)
+
 
 >[!TIP]
 >
->若要 OCR 處理多個 PDF 檔案，請嘗試使用「 [動作精靈」](../advanced-tasks/action.md)。
+>若要OCR多個PDF檔案，請嘗試在案頭上使用Acrobat Pro的[Action Wizard](../advanced-tasks/action.md)。
 
-1. 從「**[!UICONTROL 工具]」中心或右側窗格選[!UICONTROL 取「掃描與 OCR]**」。
-
-   ![掃描步驟 1](../assets/Scan_1.png)
-
-1. 選取檔案。
-
-   此檔案可能是檔的相片，或是使用掃描器或 Adobe Scan 行動應用程式建立的已掃描檔案。 或者，您可以掃描檔，使用連接的掃描器建立新檔案。
-
-   ![掃描步驟 2](../assets/Scan_2.png)
-
-1. 選擇 **[!UICONTROL 「掃描的檔]** 」或 **[!UICONTROL 「相機影像]** 」來增強檔。
-
-1. 選取 **[!UICONTROL 「增強]** 」以清理影像。
-
-   ![掃描步驟 3](../assets/Scan_3.png)
-
-   Acrobat自動辨識掃描檔中的文字。
-
-1. 選取 **[!UICONTROL 「識別文字]** 」以手動辨識圖像檔案中的文字。
-
-   ![掃描步驟 4](../assets/Scan_4.png)
-
-該檔案現在是可搜尋和編輯的 PDF 檔案。
-
->[!TIP]
->
->此影片是播放列表 [開始使用的一部分，Adobe Acrobat](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-get-started-business-users) 可在 Experience League 上免費取得！
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-and-ocr.md">
+      <img alt="紙到PDF" src="../assets/scan.png" />
+    </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>紙張到PDF</strong></a>
+    </div>
+    <em>瞭解如何將紙面文檔轉換為智慧、可搜索、可編輯的PDF檔案功能</em>
+    <br>
+  </td>
+  <td>
+      <img alt="間隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="間隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="間隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+</tr>
+</table>
