@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # 紙到PDF
 
-瞭解如何掃描（或拍攝圖片）紙面文檔，並將其轉換為可搜索的智慧PDF檔案[可編輯的掃描檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}。 將紙面文檔轉換為PDF可提高您快速查找資訊並讓殘疾人能夠訪問資訊的能力。 此外，通過將紙面轉換為PDF，您可以輕鬆地與其他人共用和協作。
+瞭解如何掃描（或拍攝圖片）紙面文檔，並將其轉換為可搜索的[可編輯的PDF檔案](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}。 將紙張轉換為PDF可提高您快速查找資訊並讓殘疾人能夠訪問資訊的能力。
 
 ## 如何在案頭上將紙張變成Acrobat的PDF
 
