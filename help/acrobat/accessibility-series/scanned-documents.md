@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >本教程的某些功能僅在Acrobat Pro提供。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476245?captions=chi_hant&quality=12&learn=on&hidetitle=true)
