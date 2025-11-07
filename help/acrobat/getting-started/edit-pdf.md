@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此視頻是播放清單[Adobe Acrobat入門](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)的一部分，該播放清單在Experience League中可免費使用！
+>此視頻是播放清單[Adobe Acrobat入門](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-get-started-business-users)的一部分，該播放清單在Experience League中可免費使用！
