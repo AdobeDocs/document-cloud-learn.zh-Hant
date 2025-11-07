@@ -1,26 +1,26 @@
 ---
-title: 在 PDF 中編輯文字
-description: 瞭解如何在 PDF 中編輯文字、片語，甚至整頁
+title: 編輯PDF中的文本
+description: 瞭解如何編輯PDF中的單詞、短語，甚至整頁
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# 編輯 PDF 中的文字
+# 編輯PDF中的文本
 
-瞭解如何在 PDF 中編輯文字、片語，甚至整頁。 直接在Acrobat中編輯文字，可讓您精確專業地更新內容，不必在應用程式之間來回切換。 此影片教學課程使用 [Mew Acrobat體驗](new-workspace.md)。
+瞭解如何編輯PDF中的單詞、短語，甚至整個頁面。 直接在Acrobat編輯文本使您能夠準確而專業地更新內容，而無需在應用之間來回切換。 此視頻教程使用[新Acrobat體驗](new-workspace.md)。
 
 >[!TIP]
 >
->瞭解自動調整內容[&#128279;](auto-adjust-layout.md)的新編輯模式。
+>瞭解[自動調整內容的新編輯模式](auto-adjust-layout.md)。
 
 <br>
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是播放列表 [開始使用的一部分，Adobe Acrobat](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-get-started-business-users) 可在 Experience League 上免費取得！
+>此視頻是播放清單[Adobe Acrobat入門](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)的一部分，該播放清單在Experience League中可免費使用！
