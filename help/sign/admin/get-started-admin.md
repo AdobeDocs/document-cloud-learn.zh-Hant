@@ -1,162 +1,162 @@
 ---
-title: 新管理員快速入門
-description: 在這個全面的影片指南中，瞭解讓您的組織開始執行 Acrobat Sign 所需的所有工具
+title: 以新管理員身分開始使用
+description: 在此完整影片指南中，了解所有必要工具，讓您的組織能以 Acrobat Sign 運作
 feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 新管理員快速入門
+# 以新管理員身分開始使用
 
-本完整影片指南是專為新的 Acrobat Sign 管理員所設計。 瞭解讓組織開始執行 Acrobat Sign 所需的所有工具。 本詳細指南涵蓋以下主題：
+本綜合視頻指南專門為新的Acrobat Sign管理員設計。 瞭解使您的組織與Acrobat Sign一起運行所需的所有工具。 本詳細指南涵蓋以下主題：
 
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60"><strong>存取Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60"><strong>訪問Admin Console</strong></a>
          <br>
-        <em>從 1：00 開始</em>
+        <em>從1:00</em>開始
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105"><strong>將Acrobat簽署給用戶</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105"><strong>使Acrobat Sign有權訪問用戶</strong></a>
         <br>
-        <em>的許可權從 1：45 開始</em>
+        <em>從1:45開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191"><strong>Acrobat Sign 網頁入口網站概觀</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191"><strong>Acrobat Sign網站概述</strong></a>
         <br>
-        <em>從 3：11 開始</em>
+        <em>從3:11開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>全域設定和設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358"><strong>全局設定和配置</strong></a>
         <br>
-        <em>從 5：58 開始</em>
+        <em>從5:58開始</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>帳戶品牌和設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460"><strong>帳戶品牌推廣和設定</strong></a>
          <br>
-        <em>從 7：40 開始</em>
+        <em>從7:40開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502"><strong>簽名偏好設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502"><strong>簽名首選項</strong></a>
         <br>
-        <em>從 8：22 開始</em>
+        <em>從8:22開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543"><strong>安全性</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543"><strong>安全設定</strong></a>
         <br>
-        <em>設定從 9：03 開始</em>
+        <em>從9:03開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595"><strong>傳送設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595"><strong>發送設定</strong></a>
         <br>
-        <em>從 9：55 開始</em>
+        <em>從9:55開始</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=720">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=720"><strong>訊息範本</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720"><strong>消息模板</strong></a>
          <br>
-        <em>從 12：00 開始</em>
+        <em>從12:00開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755"><strong>電子郵件設定</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755"><strong>電子郵件設定</strong></a>
         <br>
-        <em>從 12：35 開始</em>
+        <em>從12:35開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783"><strong>使用者和群組管理</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783"><strong>用戶和組管理</strong></a>
         <br>
-        <em>從 13：03 開始</em>
+        <em>從13:03開始</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>建立和啟用工作流程</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917"><strong>建立和激活工作流</strong></a>
         <br>
-        <em>從 15：17 開始</em>
+        <em>從15:17開始</em>
   </td>
 </tr>
 <tr>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145">
-      <img alt="快轉影像" src="../assets/Stepforward_18.png" />
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145">
+      <img alt="快速前向影像" src="../assets/Stepforward_18.png" />
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>存取支援和其他資源</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145"><strong>正在訪問支援和其他資源</strong></a>
         <br>
-        <em>從 19：05 開始</em>
+        <em>從19:05開始</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true)
