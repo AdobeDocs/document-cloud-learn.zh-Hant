@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在本60秒視頻教程中，學習從PDF中刪除敏感資訊的正確方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436923?captions=chi_hant&quality=12&learn=on&hidetitle=true)

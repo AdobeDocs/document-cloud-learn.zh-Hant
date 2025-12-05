@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >僅在Acrobat Pro、高級或Studio中提供。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444886?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
