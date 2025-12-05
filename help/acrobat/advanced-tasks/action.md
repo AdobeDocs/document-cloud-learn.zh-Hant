@@ -26,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此視頻是播放清單[在Adobe Acrobat執行高級任務](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分，該播放清單在Experience League中可免費使用！
+>此視頻是播放清單[在Adobe Acrobat執行高級任務](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-peform-advanced-tasks)的一部分，該播放清單在Experience League中可免費使用！

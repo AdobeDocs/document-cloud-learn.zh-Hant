@@ -31,7 +31,7 @@ PDF內容應具有唯一性和結構性，如下所示：
 * 使用包含關鍵字和清單的短段落
 * 添加內部和外部（網站或其他網站上的內容）超連結
 * 為超過25頁的文檔添加超連結目錄
-* 對所有掃描的文檔運行[文本識別](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)
+* 對所有掃描的文檔運行[文本識別](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=zh-Hant)
 * 構建移動友好型PDF
 若要檢查PDF的移動查看體驗，請在[Acrobat Reader移動應用](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟液體模式。 如有必要，請包括附加的小標題以改進導航。
 
@@ -64,7 +64,7 @@ PDF檔案的標題和元描述與網頁一樣。
 
 ## 3.標籤PDF
 
-在PDF中標籤內容不僅使您的檔案[對有殘疾的人可訪問](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)，還改進了SEO。
+在PDF中標籤內容不僅使您的檔案[對有殘疾的人可訪問](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=zh-Hant)，還改進了SEO。
 
 +++查看有關如何標籤PDF的詳細資訊
 
