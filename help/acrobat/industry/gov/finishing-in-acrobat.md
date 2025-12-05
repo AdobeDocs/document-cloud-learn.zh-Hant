@@ -1,27 +1,27 @@
 ---
-title: 讓 PDF 具備輔助功能--在Acrobat中進行完稿作業
-description: 完成在Acrobat中建立具備輔助功能的檔
+title: 讓PDF易於訪問 — 在Acrobat完成
+description: 在Acrobat完成可訪問文檔的製作
 feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# 使 PDF 具備輔助功能：在Acrobat中完成作業
+# 讓PDF進入：在Acrobat完成
 
-在「使 PDF 具備輔助功能」系列的第三個教學課程影片中，瞭解如何使用「Acrobat Pro」中的工具，完成 PDF 檔案的存取。
+在「使PDF可訪問」系列的第三個視頻教程中，瞭解如何使用Acrobat Pro的工具完成使PDF檔案可訪問的操作。
 
 >[!NOTE]
 >
->僅適用於 Acrobat Pro。
+>僅在Acrobat Pro、高級或Studio中提供。
 
-## 第 3 部分 - 於 Acrobat 中完成 （4：37）
+## 第3部分 — 在Acrobat完成(4:37)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34514?quality=12&learn=on&hidetitle=true)

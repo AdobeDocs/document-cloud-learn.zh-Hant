@@ -1,143 +1,144 @@
 ---
-title: 為SEO優化 PDF （Search引擎優化）
-description: 瞭解如何優化 PDF 以改善可探索性和搜尋引擎在網頁上的排名
+title: Optimize PDFSEO（搜索引擎優化）
+description: 瞭解如何優化PDF，以改進Web上的可發現性和搜索引擎排名
 feature: Edit PDF
 role: User
 level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
 
-# 為SEO優化 PDF （Search引擎優化）
+# Optimize PDFSEO（搜索引擎優化）
 
-瞭解如何將 PDF 優化，以提升在網路上的可探索性和搜尋引擎排名。
+瞭解如何優化PDF，以改進Web上的可發現性和搜索引擎排名。
 
-## 1. 建立獨一無二的內容
+## 1.建立唯一內容
 
-建立與網頁資訊不同的 PDF 內容。
+建立與網頁資訊不同的PDF內容。
 
-+++檢視有關如何建立獨特內容的詳細資訊
++++查看有關如何建立唯一內容的詳細資訊
 
-PDF 內容應為唯一且結構化，如下所示：
+PDF內容應具有唯一性和結構性，如下所示：
 
-* 使用以關鍵詞開頭的單一主要標題/標題
-* 使用分層式結構中組織的關鍵詞子標題
-* 使用包含關鍵詞和清單的簡短段落
-* 新增內部和外部 （您的網站或其他網站上的內容） 超連結
-* 為超過 25 頁的檔新增超連結的內容表格
-* 在所有掃描的檔上執行[文字辨識](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=zh-Hant)
-* 建立適合行動裝置的 PDF
-若要查看 PDF 的行動檢視體驗，請在 Acrobat Reader 行動應用程式[&#128279;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟 Liquid Mode。必要時加入其他子標題，以改善導覽方式。
+* 使用以關鍵字開頭的單個主標題/標題
+* 使用按層次結構組織的關鍵字子標題
+* 使用包含關鍵字和清單的短段落
+* 添加內部和外部（網站或其他網站上的內容）超連結
+* 為超過25頁的文檔添加超連結目錄
+* 對所有掃描的文檔運行[文本識別](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)
+* 構建移動友好型PDF
+若要檢查PDF的移動查看體驗，請在[Acrobat Reader移動應用](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟液體模式。 如有必要，請包括附加的小標題以改進導航。
 
-  ![Acrobat Reader行動應用程式中 Liquid Mode 的螢幕擷圖](../assets/optimizeseo1.png)
-
-+++
-
-<br>
-
-## 2. 新增文件屬性
-
-PDF 檔案的標題和元描述就像網頁一樣。
-
-+++檢視如何新增文檔屬性的詳細資訊
-
-新增主要 **[!UICONTROL 文件內容]** ，如下所示：
-
-1. 選 **[!UICONTROL 取「檔案>內容」]** ，或在 Windows 上使用鍵盤快捷方式 *Ctrl +D* ， *或在 Mac 上使用 Cmd+D* ，然後選 **[!UICONTROL 取「描述]** 」索引卷標。
-1. 在「標題：**」欄位中**&#x200B;輸入關鍵字優化標題。
-1. 請確定「 **[!UICONTROL 作者：」欄]** 位無法識別組織中的特定個人。
-1. 在「主旨：**」欄位中**&#x200B;輸入檔的關鍵詞優化摘要。嘗試使用「學習」、「探索」、「探索」等動作動詞開始摘要。
-1. 選 **[!UICONTROL 取「其他元數據]** 」以新增版權或公共域資訊 （如果適用）。
-
-   ![文檔屬性的螢幕擷圖](../assets/optimizeseo2.png)
+  ![Acrobat Reader移動應用中液體模式的螢幕快照](../assets/optimizeseo1.png)
 
 +++
 
 <br>
 
-## 3. 標記您的 PDF
+## 2.添加文檔屬性
 
-標記 PDF 中的內容不僅使您的檔案 [可供殘障人士存取](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=zh-Hant) ，還可以改善SEO。
+PDF檔案的標題和元描述與網頁一樣。
 
-++檢視如何標記 PDF 的詳細資訊
++++查看有關如何添加文檔屬性的詳細資訊
 
-標記 PDF，如下所示：
+按如下方式添加密鑰&#x200B;**[!UICONTROL 文檔屬性]**:
 
-1. 在「工具」中心選&#x200B;**[!UICONTROL **[!UICONTROL &#x200B;取「輔助功能&#x200B;]**」]**。
-1. 在右側窗格中選 **[!UICONTROL 取「自動標籤檔]** 」。
-1. 按照左側窗格 **[!UICONTROL 「識別報告]**」中的修復提示操作。
-1. 必要時執行 **[!UICONTROL 「設定替換文字]** 」。
-1. 使用關鍵詞來描述「替換文字&#x200B;**」中的**&#x200B;影像。
+1. 選擇&#x200B;**[!UICONTROL 檔案>屬性]**，或在Windows上使用鍵盤快捷鍵&#x200B;*Ctrl + D*，或在Mac使用&#x200B;*Cmd + D*，然後選擇&#x200B;**[!UICONTROL 說明]**&#x200B;頁籤。
+1. 在&#x200B;**[!UICONTROL 標題：]**&#x200B;欄位中輸入關鍵字優化的標題。
+1. 請確保&#x200B;**[!UICONTROL 作者：]**&#x200B;欄位未標識您組織內的特定個人。
+1. 在&#x200B;**[!UICONTROL 主題：]**欄位中輸入文檔的關鍵字優化摘要。
+嘗試使用「學習」、「發現」、「瀏覽」等動作動詞開始摘要。
+1. 選擇&#x200B;**[!UICONTROL 其他元資料]**&#x200B;以添加版權或公共域資訊（如果適用）。
 
-   ![在 PDF 中設定替換文字的螢幕擷圖](../assets/optimizeseo3.png)
+   ![文檔屬性螢幕快照](../assets/optimizeseo2.png)
+
++++
+
+<br>
+
+## 3.標籤PDF
+
+在PDF中標籤內容不僅使您的檔案[對有殘疾的人可訪問](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)，還改進了SEO。
+
++++查看有關如何標籤PDF的詳細資訊
+
+按如下方式標籤PDF:
+
+1. 在&#x200B;**[!UICONTROL 工具]**&#x200B;中心選擇&#x200B;**[!UICONTROL 輔助功能]**。
+1. 在右窗格中選擇&#x200B;**[!UICONTROL 自動標籤文檔]**。
+1. 在左側窗格&#x200B;**[!UICONTROL 識別報告]**&#x200B;中按照提示進行修復。
+1. 如有必要，請運行&#x200B;**[!UICONTROL 設定備用文本]**。
+1. 使用關鍵字在&#x200B;**[!UICONTROL 備用文本]**&#x200B;中描述影像。
+
+   ![PDF中設定備用文本的螢幕快照](../assets/optimizeseo3.png)
 
 +++
 
 >[!NOTE]
 >
->僅適用於 Acrobat Pro。
+>僅在Acrobat Pro、高級或Studio中提供。
 
 <br>
 
-## 4. 準備使用網頁版
+## 4.準備Web
 
-為 PDF 的網頁檢視 [和縮減 PDF 檔案大小做好準備，優化與 PDF 互動的體驗](https://www.adobe.com/tw/acrobat/online/compress-pdf.html){target="_blank"}。
+通過為Web查看和[減小PDF檔案大小](https://www.adobe.com/tw/acrobat/online/compress-pdf.html){target="_blank"}來優化與PDF交互的體驗。
 
-+++檢視如何準備 PDF 網頁版的詳細資訊
++++查看有關如何準備WebPDF的詳細資訊
 
-請依照下列方法準備 PDF 網頁版：
+按如下方式為Web準備PDF:
 
-若要為網頁版的 PDF 做好準備，請選 **[!UICONTROL 取「檔案>儲存為其他>大小縮減的 PDF」]**。
+要為Web準備PDF，請選擇&#x200B;**[!UICONTROL 檔案>另存為其他>縮減大小PDF]**。
 
-![文檔屬性的螢幕擷圖](../assets/optimizeseo4.png)
+![文檔屬性螢幕快照](../assets/optimizeseo4.png)
 
-此步驟可縮小檔案大小，並啟用 **PDF 中的「快速 Web 檢視** 」。 **「快速 Web 檢視** 」可讓您在串流或下載整個檔案之前立即開啟、檢視和搜尋檔案，進而創造最佳的一般用戶體驗。 開啟 **[!UICONTROL 文件內容]** （*Windows 上的 Ctrl + D* 或 *Mac 上的 Cmd + D* ） 以判斷是否 **啟用「快速 Web 檢視** 」。
+此步驟可減小檔案大小，並在PDF中啟用&#x200B;**快速Web視圖**。 **快速Web視圖**&#x200B;允許在流式傳輸或下載整個檔案之前立即開啟、查看和搜索檔案，從而建立最佳最終用戶體驗。 開啟&#x200B;**[!UICONTROL 文檔屬性]**(在Windows上&#x200B;*Ctrl + D*，或在Mac上&#x200B;*Cmd + D*)以確定是否啟用&#x200B;**快速Web視圖**。
 
-![文檔屬性的螢幕擷圖](../assets/optimizeseo5.png)
+![文檔屬性螢幕快照](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
->如果您已Acrobat Pro，請在「動作精靈」工具中執行「優化網頁版和行動版」。 此動作會將顏色轉換為 sRGB，並嵌入字體，以便在瀏覽器和行動裝置上一致地顯示 PDF。
+>如果您有Acrobat Pro（高級版或Studio），請在Action Wizard工具中運行Optimize for Web and Mobile。 此操作將顏色轉換為sRGB並嵌入字型，以便在瀏覽器和移動設備之間一致地顯示PDF。
 
 +++
 
 <br>
 
-## 5. 建立關鍵詞檔名
+## 5.建立關鍵字檔案名
 
-+++檢視如何建立關鍵詞檔名的詳細資訊
++++查看有關如何建立關鍵字檔案名的詳細資訊
 
-建立關鍵詞檔名，如下所示：
+按如下方式建立關鍵字檔案名：
 
-當 PDF 張貼到網路上時，檔名會成為URL的一部分。 一個好的做法是讓您的關鍵詞優化標題與檔名相符。 若要搜尋友好型 - 使用小寫，不使用標點符號或哈希，並且避免停用單字 （a、an、the、和、it、for，或，但是，在我的、您的、我們的以及其等）。 如果您使用單獨的單字，請在字詞之間新增連字元或底線。
+在Web上發佈PDF時，檔案名將成為URL的一部分。 最好的做法是將關鍵字優化的標題與檔案名匹配。 要便於搜索 — 使用小寫、無標點或散列，並避免停止單詞（a、an、th和it、for或，但在中、my、your、our和thers等）。 如果使用單獨的單詞，請在單詞之間添加連字元或下划線。
 
 +++
 
 <br>
 
-## 6. 保護您的 PDF
+## 6.保護您的PDF
 
-最後一個步驟是 [保護您的 PDF](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html){target="_blank"} ，以防止未經授權的變更。
+最後一步是[保護您的PDF](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html){target="_blank"}，以防止未經授權的更改。
 
-++檢視如何保護 PDF 的詳細資訊
++++查看有關如何保護您的PDF的詳細資訊
 
-按照下列方法保護 PDF：
+確保PDF，如下所示：
 
-1. 開啟 **[!UICONTROL 「文檔內容]** 」（*Windows 上的 Ctrl+D* 或 *Mac 上的 Cmd+D* ），然後選取「安全性 **[!UICONTROL 」]** 索引標籤。
-1. 檢查 **[!UICONTROL 檔的列印編輯和列印。 您需要密碼才能變更這些設定。]**
-1. 在「允許的變更」下 **[!UICONTROL ：]** 選取「 **[!UICONTROL 無」]**。
-1. 勾選 **[!UICONTROL 「為視力障礙者啟用螢幕閱讀器裝置的文字存取權」。]**
+1. 開啟&#x200B;**[!UICONTROL 文檔屬性]**(在Windows上&#x200B;*Ctrl + D*&#x200B;或在Mac上&#x200B;*Cmd + D*)，然後選擇&#x200B;**[!UICONTROL 安全]**&#x200B;頁籤。
+1. 選中&#x200B;**[!UICONTROL 打印文檔的編輯和打印。 更改這些設定需要密碼。]**
+1. 在&#x200B;**[!UICONTROL 允許更改：]**&#x200B;下，選擇&#x200B;**[!UICONTROL 無]**。
+1. 選中&#x200B;**[!UICONTROL 為視覺障礙的螢幕閱讀器設備啟用文本訪問。]**
 1. 輸入並確認強密碼。
-1. 選取 **[!UICONTROL 「確定」]** 並儲存盤案。
+1. 選擇&#x200B;**[!UICONTROL 確定]**&#x200B;並保存檔案。
 
-   ![文檔屬性的螢幕擷圖](../assets/optimizeseo6.png)
+   ![文檔屬性螢幕快照](../assets/optimizeseo6.png)
 
 +++
 
-現在您的 PDF 已經可供在網路上發佈，具有最佳的關鍵詞排名潛力和用戶互動。
+現在，您的PDF已準備好發佈到Web上 — 具有最佳關鍵字排名潛力和最終用戶交互。

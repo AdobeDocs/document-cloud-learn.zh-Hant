@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word建立可訪問的PDF]
+>[!TAB 從Word]建立可訪問的PDF
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
@@ -80,7 +80,7 @@ ht-degree: 0%
     <div>
     <a href="scanned-documents.md"><strong>掃描的文檔</strong></a>
     </div>
-    <em>瞭解如何使掃描的文檔在Acrobat Pro可訪問</em>
+    <em>瞭解如何使掃描的文檔在Acrobat可訪問</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ ht-degree: 0%
     <div>
     <a href="create-accessible-forms.md"><strong>建立可訪問的表單</strong></a>
     </div>
-    <em>瞭解如何在Acrobat Pro訪問表單</em>
+    <em>瞭解如何在Acrobat訪問表單</em>
     <br>
   </td>
   <td>

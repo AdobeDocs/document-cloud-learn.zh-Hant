@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->僅在Acrobat Pro提供。
+>僅在Acrobat Pro、高級或Studio中提供。
 
 [!BADGE 組織影響]
 客戶資料保護，風險管理
@@ -70,4 +70,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若要加快密文處理，請檢查案頭上Acrobat Pro的[Action Wizard](../advanced-tasks/action.md)。
+>若要加快密文處理，請查看案頭上的Acrobat Pro、高級或Studio中的[Action Wizard](../advanced-tasks/action.md)。

@@ -1,25 +1,25 @@
 ---
-title: PDF 輔助功能簡介
-description: 在本講座中，您會學到讓 PDF 具備輔助功能的意義、如何設定Acrobat Pro處理 PDF 輔助功能，以及從源文件轉換為 PDF 的程式
+title: PDF輔助功能簡介
+description: 在本次會議中，瞭解使PDF可訪問意味著什麼，如何設定Acrobat Pro以處理PDF以便訪問可訪問性，以及從源文檔到PDF的轉換過程
 feature: Accessibility
 role: User
 level: Experienced
 jira: KT-8606
 thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# PDF 輔助功能簡介
+# PDF輔助功能簡介
 
-在本講座中，您會學到讓 PDF 具備輔助功能的意義、如何設定Acrobat Pro處理 PDF 輔助功能，以及從源文件轉換為 PDF 的流程。
+在此會話中，瞭解使PDF可訪問意味著什麼，如何設定Acrobat Pro（高級或工作室）以處理PDF以實現可訪問性，以及從源文檔到PDF的轉換過程。
 
-按兩下 [這裡](../assets/accessibilitysession1.zip) 以下載實作會話檔案的 zip 檔案夾。
+按一下[此處](../assets/accessibilitysession1.zip)下載操作會話檔案的zip資料夾。
 
-選取影像以在另一個瀏覽器索引標籤中檢視影片。
+選擇影像以在單獨的瀏覽器頁籤中查看視頻。
 
-[![會話 1 影片](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![會話1視頻](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

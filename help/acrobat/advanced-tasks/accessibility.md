@@ -1,6 +1,6 @@
 ---
-title: 檢查 PDF 輔助功能
-description: 瞭解如何檢查您的 PDF 是否可供身障人士普遍存取
+title: 檢查PDF輔助功能
+description: 瞭解如何檢查殘疾人是否可以普遍訪問您的PDF
 feature: Accessibility
 role: User
 level: Intermediate
@@ -8,49 +8,49 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# 檢查 PDF 輔助功能
+# 檢查PDF輔助功能
 
-瞭解如何檢查您的 PDF 是否普遍可供行動不便人士存取，包括行動不便、失明、視力低落、耳障、聽力困難或有認知障礙者。
+瞭解如何檢查殘疾人（包括行動障礙者、盲人者、低視力者、聾人者、聽力障礙者或認知障礙者）是否能普遍獲得PDF。
 
 >[!NOTE]
 >
->僅適用於 Acrobat Pro。
+>僅在Acrobat Pro、高級或Studio中提供。
 
 ## 輔助功能檢查
 
-1. 從「 **[!UICONTROL 工具」中心或右側窗格選取「輔助功能]** 」。
+1. 從「工具」中心或右窗格中選擇&#x200B;**[!UICONTROL 輔助功能]**。
 
-   ![輔助功能步驟 1](../assets/Accessibility_1.png)
+   ![輔助功能步驟1](../assets/Accessibility_1.png)
 
-1. 在右側窗格中選 **[!UICONTROL 取「輔助功能檢查]** 」。
+1. 在右窗格中選擇&#x200B;**[!UICONTROL 輔助功能檢查]**。
 
-   ![輔助功能步驟 2](../assets/Accessibility_2.png)
+   ![輔助功能步驟2](../assets/Accessibility_2.png)
 
-1. 從下拉式清單中選取類別和檢查清單中的專案。
+1. 從下拉清單中選擇類別，從核對清單中選擇項目。
 
-   勾選每個方塊以取得完整報告。
+   保留選中的每個框以獲取完整報告。
 
-1. 選取 **[!UICONTROL 「開始檢查]** 」以開始報告。
+1. 選擇&#x200B;**[!UICONTROL 開始檢查]**&#x200B;以開始報告。
 
-   ![輔助功能步驟 3](../assets/Accessibility_3.png)
+   ![輔助功能步驟3](../assets/Accessibility_3.png)
 
-   左側導覽窗格隨即開啟，顯示報告結果。 展開區段以查看詳細資訊。
+   將開啟左導航窗格以顯示報告結果。 展開一節以查看詳細資訊。
 
-   ![輔助功能步驟 4](../assets/Accessibility_4.png)
+   ![輔助功能步驟4](../assets/Accessibility_4.png)
 
-您也可以在「動作精靈[&#128279;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=zh-Hant)」工具中使用[!UICONTROL 「新增輔助]功能」動作，該工具會逐步執行一組基本步驟，以建立具備輔助功能的 PDF。
+您還可以使用[!UICONTROL Action Wizard]工具中的[可訪問](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)操作，該工具將通過基本步驟集建立可訪問的PDF。
 
-## 修正輔助功能問題
+## 解決輔助功能問題
 
-在輔助功能報告視窗中，以滑鼠右鍵按兩下專案以開啟內容選單。 任何失敗的輔助功能檢查專案的快顯選單提供您解決問題的選項。
+在輔助功能報告窗口中，按一下右鍵項目以開啟上下文菜單。 任何未通過輔助功能檢查的項目的上下文菜單為您提供瞭解決問題的選項。
 
 >[!NOTE]
 >
->部分問題無法自動修正，需要手動操作才能修正問題。 在這些情況下，>Acrobat會顯示對話框，告訴您要修正什麼。
+>某些問題無法自動解決，需要您手動干預來糾正問題。 在這些情況下，>Acrobat會顯示一個對話框，告訴您要更正什麼。

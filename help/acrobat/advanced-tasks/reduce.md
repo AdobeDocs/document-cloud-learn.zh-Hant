@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->優化PDF僅在台式機上的Acrobat Pro提供。
+>優化PDF僅在案頭上的Acrobat Pro、高級或Studio中可用。
 
 1. 開啟檔案，從工具欄中選擇&#x200B;**[!UICONTROL 所有工具]**，然後選擇&#x200B;**[!UICONTROL 壓縮PDF]**。
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若要優化多個PDF檔案，請嘗試在案頭上使用Acrobat Pro的[Action Wizard](../advanced-tasks/action.md)。
+>若要優化多個PDF檔案，請嘗試在案頭上的Acrobat Pro、高級或Studio中使用[Action Wizard](../advanced-tasks/action.md)。

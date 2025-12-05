@@ -1,87 +1,87 @@
 ---
-title: Acrobat輔助功能系列
-description: 六場隨選輔助功能系列
+title: Acrobat輔助工具系列
+description: 六屆會議按需無障礙系列
 feature: Accessibility
 role: User
 level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# Acrobat輔助功能系列
+# Acrobat無障礙系列
 
-![Acrobat輔助功能系列影像](../assets/Hero_Accessibility.png)
+![Acrobat輔助工具系列映像](../assets/Hero_Accessibility.png)
 
-在這場由六部分部分與隨選的網路研討會系列中，從「輔助功能」的基本知識，到深入探討如何標記 PDF 檔案。 每個會話都包含後續的實務檔案。
+在這個由六部分組成的按需網路研討會系列中，從「輔助功能」的基本知識到深入地標籤您的PDF檔案。 每個會話都包括要跟進的練習檔案。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="accessibilitysession1.md">
-      <img alt="PDF 輔助功能簡介" src="../assets/Accessibilitysession1_1280.png" />
+      <img alt="PDF輔助功能簡介" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>PDF 輔助功能簡介</strong></a>
+    <a href="accessibilitysession1.md"><strong>PDF輔助功能簡介</strong></a>
     </div>
-    <em>在此隨選會議中，瞭解讓 PDF 具備輔助功能的意義、如何設定Acrobat Pro以處理 PDF 輔助功能，以及將源文檔轉換為 PDF 的程式</em>
+    <em>在此按需會話中，瞭解使PDF可訪問意味著什麼，如何設定Acrobat Pro（高級或Studio）以處理PDF以獲得輔助功能，以及從源文檔到PDF的轉換過程</em>
     <br>
   </td>
   <td>
     <a href="accessibilitysession2.md">
-      <img alt="補救無法存取的 PDF" src="../assets/Accessibilitysession2_1280.png" />
+      <img alt="修正無法訪問的PDF" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>補救無法存取的 PDF</strong></a>
+    <a href="accessibilitysession2.md"><strong>修正無法訪問的PDF</strong></a>
     </div>
-    <em>在本次隨選講座中，瞭解如何使用簡介網路研討會所顯示的Acrobat Pro工具，來轉換 Word 檔並修正一些基本標記問題</em>
+    <em>在此按需會話中，學習工作流以轉換Word文檔，並使用介紹網路研討會中顯示的Acrobat Pro（高級或Studio）工具解決一些基本標籤問題</em>
     <br>
   </td>  
   <td>
     <a href="accessibilitysession3.md">
-      <img alt="複雜表格" src="../assets/Accessibilitysession3_1280.png" />
+      <img alt="複雜表" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>複雜表格</strong></a>
+    <a href="accessibilitysession3.md"><strong>複雜表</strong></a>
     </div>
-    <em>此隨選會議解決了針對輔助功能 （複雜表格） 補救 PDF 時，比較常見且更具挑戰性的問題之一</em>
+    <em>此按需會話解決了修正輔助功能PDF時較為常見且具有挑戰性的問題之一 — 複雜表</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibilitysession4.md">
-      <img alt="掃描的檔 &amp; 複雜的成員" src="../assets/Accessibilitysession4_1280.png" />
+      <img alt="掃描的文檔和複雜清單" src="../assets/Accessibilitysession4_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession4.md"><strong>掃描的檔和複雜的清單</strong></a>
+    <a href="accessibilitysession4.md"><strong>掃描的文檔和複雜清單</strong></a>
     </div>
-    <em>此隨選會話解決人們經常遇到的較複雜的問題，例如掃描的檔和複雜的清單</em>
+    <em>此按需會話解決了人們經常遇到的更複雜的問題，如掃描的文檔和複雜清單</em>
     <br>
   </td>
   <td>
     <a href="accessibilitysession5.md">
-      <img alt="將表格欄位新增至標籤的 PDF" src="../assets/Accessibilitysession5_1280.png" />
+      <img alt="將表單域添加到標籤PDF" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>將表格欄位新增至標籤的 PDF</strong></a>
+    <a href="accessibilitysession5.md"><strong>將表單域添加到已標籤PDF</strong></a>
     </div>
-    <em>此隨選會話著重於將表單域新增至先前標記的 PDF</em>
+    <em>此按需會話側重於將表單域添加到以前標籤的PDF</em>
     <br>
   </td>  
   <td>
     <a href="accessibilitysession6.md">
-      <img alt="將表格欄位新增至未標記的 PDF" src="../assets/Accessibilitysession6_1280.png" />
+      <img alt="將表單域添加到未標籤PDF" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>將表單域新增至未標記的 PDF</strong></a>
+    <a href="accessibilitysession6.md"><strong>將表單域添加到未標籤PDF</strong></a>
     </div>
-    <em>此隨選會話更深入地建立手錶單域和其他表單域內容</em>
+    <em>此按需會話更深入地建立手動表單域和其他表單域屬性</em>
     <br>
   </td> 
 </tr>
