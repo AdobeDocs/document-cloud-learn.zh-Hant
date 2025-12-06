@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >混合路由僅適用於企業級計劃。 您的 Acrobat Sign 管理員可能需要在帳戶設定的「傳送設定」區段中啟用這些功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477313?captions=chi_hant&quality=12&learn=on&hidetitle=true)

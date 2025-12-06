@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何管理和追蹤在Acrobat Sign 中傳送以供簽署的檔。針對您簽署或傳送以供簽署的每份檔，取得實時狀態更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477316?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

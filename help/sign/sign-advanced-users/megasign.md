@@ -23,7 +23,7 @@ ht-degree: 3%
 * [遠端工作協定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=zh-Hant)
 * [政策協定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=zh-Hant)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477309?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 [以 ZIP 格式](../assets/sendInBulkSample.zip)下載範例CSV檔案。 在這裡瞭解您可以在 CSV 檔案[&#128279;](https://helpx.adobe.com/tw/sign/adv-user/send-in-bulk/send-with-csv.html)中設定的所有值。
 

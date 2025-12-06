@@ -18,4 +18,4 @@ ht-degree: 30%
 
 瞭解與Acrobat Sign簽署發送給您的文檔是多麼容易。 查看此[教程](../mobile/sign-mobile.md)，瞭解如何使用Acrobat Sign移動應用為[iOS](https://apps.apple.com/us/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=zh_TW)對文檔進行簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477287?captions=chi_hant&quality=12&learn=on&hidetitle=true)

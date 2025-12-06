@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >您的管理員可能已自定義了發送選項，因此您看到的選項可能與本教程中顯示的選項不同。
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475410?captions=chi_hant&quality=12&learn=on&hidetitle=true)
