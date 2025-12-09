@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 6%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 管理和跟蹤協定]
+
+瞭解如何[管理和跟蹤已發送以供簽名的協定](../sign-beginner-tutorials/manage-and-track.md)。
 
 >[!TAB 以電子方式簽名文檔]
 
@@ -33,10 +37,6 @@ ht-degree: 6%
 >[!TAB 配置發送選項]
 
 瞭解如何[在將文檔發送出去進行簽名時配置各種選項](sending-options.md)。
-
->[!TAB 發送到多個簽名者]
-
-瞭解如何按您想要的順序將電子簽名文檔發送給[多個人](send-to-multiple-recipients.md)。
 
 >[!ENDTABS]
 

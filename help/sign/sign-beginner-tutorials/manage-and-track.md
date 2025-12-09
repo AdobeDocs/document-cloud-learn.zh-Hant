@@ -1,25 +1,25 @@
 ---
-title: 管理與追蹤您的合約
-description: 瞭解如何管理和追蹤在 Acrobat Sign 中傳送以供簽署的合約
+title: 管理和跟蹤您的協定
+description: 瞭解如何管理和跟蹤發送到Acrobat Sign供簽署的協定
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a060df1f8cf17d4b7639153ec80393cf9395916c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# 管理與追蹤您的合約
+# 管理和跟蹤您的協定
 
-瞭解如何管理和追蹤在Acrobat Sign 中傳送以供簽署的檔。針對您簽署或傳送以供簽署的每份檔，取得實時狀態更新和通知。
+瞭解如何管理和跟蹤在Acrobat Sign發送供簽名的文檔。 獲取簽名或發送的每個文檔的即時狀態更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477316?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是Acrobat Sign[&#128279;](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-business-users) 快速入門播放清單的一部分，Experience League免費提供！
+>此視頻是播放清單[Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)的一部分，該播放清單在Experience League中可免費使用！
