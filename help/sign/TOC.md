@@ -113,10 +113,10 @@ ht-degree: 14%
       + [在 [!DNL SharePoint Online]中跟蹤](integrations/track-an-agreement-with-sharepoint-online.md)
       + [將Web表單與 [!DNL SharePoint Online]整合](integrations/integrate-web-form-sharepoint-online.md)
       + [自動存檔 [!DNL SharePoint] 中的檔案（帶 [!DNL Power Automate]）](integrations/auto-archive-sharepoint-power-automate.md)
-      + [ [!DNL Microsoft Power Platform]的Acrobat Sign文檔自動化](integrations/documentautomation.md)
+      + [&#x200B; [!DNL Microsoft Power Platform]的Acrobat Sign文檔自動化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中發送簽名](integrations/adobe-sign-teams-mortgage.md)
       + [即時登錄Adobe Acrobat Sign [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [ [!DNL Microsoft Teams]的文檔頁籤整合](integrations/acrobat-sign-teams-documents-tab.md)
+      + [&#x200B; [!DNL Microsoft Teams]的文檔頁籤整合](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中建立簡單工作流](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中建立高級工作流](integrations/advanced-workflow-power-automate.md)
       + [客戶服務的[!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
@@ -125,7 +125,7 @@ ht-degree: 14%
    + 公證 {#notarize}
       + [發送公證檔案](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [ [!DNL Salesforce]的文檔生成器](integrations/create-an-agreement-template.md)
+      + [&#x200B; [!DNL Salesforce]的文檔生成器](integrations/create-an-agreement-template.md)
       + [設定資料映射](integrations/set-up-data-mapping.md)
       + [設定合併映射](integrations/set-up-merging-map.md)
       + [建立自定義按鈕](integrations/create-a-custom-button.md)
