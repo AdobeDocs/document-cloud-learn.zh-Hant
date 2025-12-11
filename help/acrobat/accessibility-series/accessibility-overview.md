@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 複雜清單]
+
+瞭解如何在Acrobat為[複雜清單](complex-lists.md)標籤輔助功能。
+
 >[!TAB 掃描的文檔]
 
 瞭解如何使[掃描的文檔](scanned-documents.md)可訪問。
@@ -29,13 +33,9 @@ ht-degree: 1%
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
 
->[!TAB 從Word建立可訪問的PDF]
+>[!TAB 從Word]建立可訪問的PDF
 
 瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
-
->[!TAB 建立可訪問的表單]
-
-瞭解如何在Acrobat訪問[表單](create-accessible-forms.md)。
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-        <img alt="間隔物" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="複雜清單" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>複雜清單</strong></a>
+    </div>
+    <em>瞭解如何在Acrobat為輔助功能標籤複雜清單</em>
+    <br>
   </td>
   <td>
         <img alt="間隔物" src="../assets/Grayspacer.png" />
