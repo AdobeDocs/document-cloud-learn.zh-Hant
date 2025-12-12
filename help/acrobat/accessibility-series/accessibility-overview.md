@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB 標籤的基礎知識]
+
+瞭解如何[標籤PDF](basics-tagging.md)檔案以使其可訪問的基礎知識。
+
 >[!TAB 複雜清單]
 
 瞭解如何在Acrobat為[複雜清單](complex-lists.md)標籤輔助功能。
@@ -32,10 +36,6 @@ ht-degree: 0%
 >[!TAB 設定工作區]
 
 瞭解如何[設定工作區](set-up-workspace.md)以幫助簡化可訪問的PDF檔案。
-
->[!TAB 從Word建立可訪問的PDF]
-
-瞭解如何[從MicrosoftWord](create-accessible-from-word.md)建立可訪問的PDF檔案。
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="標籤的基礎知識" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>標籤的基本知識</strong></a>
+    </div>
+    <em>瞭解如何標籤PDF檔案以使其可訪問的基礎知識</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="掃描的文檔" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ ht-degree: 0%
     <em>瞭解如何使掃描的文檔在Acrobat可訪問</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="建立可訪問的表單" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ ht-degree: 0%
     <em>瞭解如何在Acrobat訪問表單</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="複雜清單" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ ht-degree: 0%
     </div>
     <em>瞭解如何在Acrobat為輔助功能標籤複雜清單</em>
     <br>
-  </td>
-  <td>
-        <img alt="間隔物" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="間隔物" src="../assets/Grayspacer.png" />

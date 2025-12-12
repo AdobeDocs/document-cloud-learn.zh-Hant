@@ -1,14 +1,14 @@
 ---
 title: 掃描的文檔
-description: 瞭解如何在Acrobat Pro訪問掃描文檔
+description: 瞭解如何在Acrobat訪問掃描文檔
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >本教程的某些功能僅在Acrobat Pro、高級版和Studio中提供。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476245?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
