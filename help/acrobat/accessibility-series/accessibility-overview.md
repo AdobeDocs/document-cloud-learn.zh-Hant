@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -78,7 +78,7 @@ ht-degree: 0%
       <img alt="標籤的基礎知識" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>標籤的基本知識</strong></a>
+    <a href="basics-tagging.md"><strong>標籤的基礎知識</strong></a>
     </div>
     <em>瞭解如何標籤PDF檔案以使其可訪問的基礎知識</em>
     <br>

@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
 # 標籤的基礎知識
 
-瞭解如何標籤PDF檔案以使其可訪問的基本知識。 所涵蓋的主題包括：固定清單、圖片製作、影像的替代文本和簡單的表格。
+瞭解如何標籤PDF檔案以使其可訪問的基本知識。 所涵蓋的主題包括：修復清單、編輯、為影像添加替代文本和簡單表。
 
 >[!NOTE]
 >
