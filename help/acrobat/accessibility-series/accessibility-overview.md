@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB 複雜表]
+
+瞭解如何[標籤表](complex-tables.md)以便在Acrobat訪問。
+
+>[!TAB 使可訪問的指導操作]
+
+瞭解如何使用[使可訪問的指導操作](make-accessible-action.md)。
+
 >[!TAB 在Acrobat建立可訪問的PDF]
 
 瞭解如何從Acrobat[開始建立](accessible-acrobat.md)可訪問的PDF。
@@ -28,14 +36,6 @@ ht-degree: 0%
 >[!TAB 標籤的基礎知識]
 
 瞭解如何[標籤PDF](basics-tagging.md)檔案以使其可訪問的基礎知識。
-
->[!TAB 複雜清單]
-
-瞭解如何在Acrobat為[複雜清單](complex-lists.md)標籤輔助功能。
-
->[!TAB 掃描的文檔]
-
-瞭解如何使[掃描的文檔](scanned-documents.md)可訪問。
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ ht-degree: 0%
     <em>瞭解如何在Acrobat為輔助功能標籤複雜清單</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="複雜表" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>複雜表</strong></a>
+    </div>
+    <em>瞭解如何為Acrobat的輔助功能表添加標籤</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="使「可訪問」指導操作" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>使可訪問的指導操作</strong></a>
+    </div>
+    <em>瞭解如何使用「使用戶可訪問」指導操作</em>
+    <br>
+  </td>
+   <td>
+        <img alt="間隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="間隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
