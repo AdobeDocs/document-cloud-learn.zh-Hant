@@ -20,10 +20,10 @@ ht-degree: 0%
 
 [!BADGE 使用案例]
 
-* [教育IEP進程的自定義工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [教育IEP進程的自定義工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=zh-Hant)
 瞭解如何使用自定義工作流Designer數字化個性化教育計畫(IEP)流程
-* [政府合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [商業合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [政府合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=zh-Hant)
+* [商業合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=zh-Hant)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此視頻是播放清單[管理員Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)的一部分，該播放清單在Experience League時可免費使用！
+>此視頻是播放清單[管理員Acrobat Sign入門](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-administrators)的一部分，該播放清單在Experience League時可免費使用！
