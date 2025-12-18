@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ ht-degree: 2%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 生成自定義工作流]
+
+瞭解如何建立和使用[自定義工作流](building-a-custom-workflow.md)以加快建立和發送協定的過程。
 
 >[!TAB 建立可重用模板]
 
@@ -35,10 +39,6 @@ ht-degree: 2%
 
 瞭解如何以三個簡單步驟無縫遷移[文檔模板](docusign-templates.md)和工作流。
 
->[!TAB 添加新用戶]
-
-瞭解如何[向Acrobat Sign添加新用戶](add-users-to-your-account.md)。
-
 >[!ENDTABS]
 
 ## 快速入門
@@ -47,7 +47,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="新管理員入門" src="../assets/get-started-admin.png" />
+      <img alt="以新管理員身分開始使用" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>新管理員入門</strong></a>
@@ -151,7 +151,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="報告和交易記錄使用" src="../assets/reporting.png" />
+      <img alt="報告並追蹤使用量" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>報告和事務使用率</strong></a>
@@ -203,12 +203,12 @@ ht-degree: 2%
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="設定工作流" src="../assets/workflow.png" />
+      <img alt="構建自定義工作流" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>設定工作流</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>生成自定義工作流</strong></a>
     </div>
-    <em>自動化文檔工作流以快速獲取電子簽名和資料</em>
+    <em>瞭解如何建立和使用自定義工作流以加快建立和發送協定的過程</em>
     <br>
   </td>
 </tr>

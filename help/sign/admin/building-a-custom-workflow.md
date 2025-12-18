@@ -1,36 +1,36 @@
 ---
-title: 建立自定義工作流程
-description: 瞭解如何量身打造和自動化檔工作流程，以快速取得電子簽名及收集表格數據
+title: 生成自定義工作流
+description: 瞭解如何建立和使用自定義工作流以加快建立和發送協定的過程
 feature: Administration, Workflow
 role: User, Admin
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# 建立自定義工作流程
+# 構建自定義工作流
 
-瞭解如何量身打造和自動化檔工作流程，以取得電子簽名、收集表格數據，並確認重要文件的傳遞，以簡化工作流程管理。
+瞭解如何建立和使用自定義工作流以加快建立和發送協定的過程。
 
 [!BADGE 使用案例]
 
-* [教育版 IEP 程式的自定義工作流程](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=zh-Hant)
-瞭解「自定義工作流程Designer如何用於數位化個人化教育計劃 （IEP） 程式
-* [政府合約和徵收表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=zh-Hant)
-* [商業合約和徵收表單](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=zh-Hant)
+* [教育IEP進程的自定義工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+瞭解如何使用自定義工作流Designer數字化個性化教育計畫(IEP)流程
+* [政府合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [商業合同和申請Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
->群組管理員可以將工作流程指派給其所管理的任何群組 （不僅是其主要群組）。 群組管理員也可以編輯指派給其管理的任何群組的工作流程。
+>組管理員可以將工作流分配給他們管理的任何組（不僅是主組）。 組管理員還可以編輯分配給他們管理的任何組的任何工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426912?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，您可以開始Acrobat適用於管理員](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-administrators) 的Experience League！
+>此視頻是播放清單[管理員Acrobat Sign入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)的一部分，該播放清單在Experience League時可免費使用！

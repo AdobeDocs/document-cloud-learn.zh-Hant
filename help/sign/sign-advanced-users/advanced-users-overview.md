@@ -1,34 +1,38 @@
 ---
-title: 進階工作總覽
-description: 瞭解如何一次傳送檔給100位收件者以索取簽名、為您的網站設定簽名檔、管理簽名交易，以及建立及管理文件範本
+title: 高級任務概述
+description: 瞭解如何立即將文檔發送給100多個收件人進行簽名，為您的網站設定可進行簽名的文檔，管理簽名事務，以及建立和管理文檔模板
 feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
-# 進階工作概觀
+# 高級任務概述
 
-瞭解如何一次傳送檔給100位收件者以索取簽名、為您的網站設定可簽名的檔、管理簽名交易，以及建立和管理文件範本。 這些教學課程適合所有已經熟悉傳送和索取簽名基本知識的人，並想要瞭解更多 Sign 可使用Acrobat方式。
+瞭解如何立即向100多個收件人發送文檔以進行簽名，為網站設定可進行簽名的文檔，管理簽名事務，以及建立和管理文檔模板。 這些教程面向已熟悉發送和請求籤名的基本知識並希望瞭解Acrobat Sign可以為他們提供更多方法的人。
 
 ## 新增功能
 
 >[!BEGINTABS]
 
->[!TAB 「大量傳送」]
+>[!TAB 生成自定義工作流]
 
-瞭解如何 [只需幾個簡短步驟，即可針對任何檔一次收集數千](megasign.md) 個簽名。
 
->[!TAB Authentication簽署Acrobat方法]
 
-瞭解 Acrobat Sign [中用來驗證](authentication-methods.md) 簽署檔之人的身分的方法。
+>[!TAB 批量發送]
+
+只需幾個短步驟，即可瞭解如何[立即收集任何文檔的數千個簽名](megasign.md)。
+
+>[!TAB Acrobat Sign中的身份驗證方法]
+
+瞭解Acrobat Sign中可用的方法範圍，以[驗證](authentication-methods.md)簽名文檔的人的身份。
 
 >[!ENDTABS]
 
@@ -41,61 +45,29 @@ ht-degree: 2%
       <img alt="設定簽署順序" src="../assets/signing-order.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>設定簽署順序</strong></a>
+    <a href="setting-up-routing.md"><strong>設定註冊順序</strong></a>
     </div>
-    <em>為多位簽署者設定簽署順序</em>
+    <em>為多個簽名者設定簽名順序</em>
     <br>
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="委派給其他人" src="../assets/delegator-role.png" />
+      <img alt="委託給其他人" src="../assets/delegator-role.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>使用委派者角色</strong></a>
+    <a href="delegate-signature.md"><strong>使用委託者角色</strong></a>
     </div>
-    <em>使用委派者角色傳送檔給仲介人，該仲介接著就可以傳送檔以索取簽名</em>
+    <em>使用委託者角色向中間人發送文檔，中間人隨後可以將文檔路由以進行簽名</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="使用核准者角色" src="../assets/approver-role.png" />
+      <img alt="使用批准者角色" src="../assets/approver-role.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>使用核准者角色</strong></a>
+    <a href="add-an-approver.md"><strong>使用批准者角色</strong></a>
     </div>
-    <em>在合約核准程式中新增核准者角色</em>
-    <br>
-  </td>
-  <td>
-    <a href="authentication-methods.md">
-      <img alt="Authentication簽署Acrobat方法" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Authentication簽署Acrobat方法</strong></a>
-    </div>
-    <em>瞭解 Acrobat Sign 提供的身分驗證方法範圍</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="管理表格數據" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>管理表格數據</strong></a>
-      </div>
-      <em>瞭解如何整合檔中的表格數據</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="設定線上付款" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>設定在線付款</strong></a>
-    </div>
-    <em>瞭解如何在文件中設定和接受在線付款</em>
+    <em>將批准者角色添加到合同批准流程</em>
     <br>
   </td>
   <td>
@@ -103,50 +75,82 @@ ht-degree: 2%
         <img alt="大量傳送" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>「大量傳送」</strong></a>
+      <a href="megasign.md"><strong>批量發送</strong></a>
       </div>
-      <em>只需幾個簡短步驟，即可針對任何檔一次收集數百個簽名</em>
+      <em>只需幾個簡短步驟即可收集任何文檔的數百個簽名</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
-        <img alt="建立網頁表單" src="../assets/web-form.png" />
+        <img alt="建立Web窗體" src="../assets/web-form.png" />
     </a>
       <div>
-      <a href="webform.md"><strong>建立網頁表單</strong></a>
+      <a href="webform.md"><strong>建立Web表單</strong></a>
       </div>
-      <em>瞭解如何建立可直接在您的網站上以電子方式簽署的檔</em>
+      <em>瞭解如何建立可直接在您的網站上以電子方式簽名的文檔</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="構建自定義工作流" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>生成自定義工作流</strong></a>
+      </div>
+      <em>瞭解如何建立和使用自定義工作流以加快建立和發送協定的過程</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="設定線上付款" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>設定線上付款</strong></a>
+      </div>
+      <em>瞭解如何在文檔中設定和接受線上付款</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Acrobat Sign的認證方法" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Acrobat Sign中的身份驗證方法</strong></a>
+      </div>
+      <em>瞭解Acrobat Sign提供的身份驗證方法範圍</em>
       <br>
   </td>
 </tr>
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat簽署文字標記" src="../assets/tagging.png" />
+        <img alt="Acrobat Sign文本標籤" src="../assets/tagging.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat簽署文字標記</strong></a>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本標籤</strong></a>
       </div>
-      <em>使用Adobe Acrobat標記文字來建立Acrobat簽署表單域</em>
+      <em>使用Adobe Acrobat通過文本標籤生成Acrobat Sign表單域</em>
       <br>
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="使用文字標記登入 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
+      <img alt="在中使用文本標籤 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>使用文字標記登入 [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>在[!DNL Microsoft Word]</strong></a>中使用文本標籤
     </div>
-    <em>瞭解如何透過新增「Acrobat簽署文字標籤」來建立可重複使用的文件範本 [!DNL Microsoft Word]</em>
+    <em>通過在[!DNL Microsoft Word]</em>中添加Acrobat Sign文本標籤，瞭解如何建立可重用的文檔模板
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <img alt="間隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <img alt="間隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -159,43 +163,70 @@ ht-degree: 2%
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="報告和交易使用方式" src="../assets/reporting.png" />
+      <img alt="報告並追蹤使用量" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>報告和交易使用方式</strong></a>
+    <a href="creating-a-report.md"><strong>報告和事務使用率</strong></a>
     </div>
-    <em>瞭解如何產生報告並追蹤交易使用量</em>
+    <em>瞭解如何生成報告和跟蹤事務使用情況</em>
     <br>
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="管理文件範本" src="../assets/edit-template.png" />
+      <img alt="管理文檔模板" src="../assets/edit-template.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>管理文件範本</strong></a>
+    <a href="edit-a-template.md"><strong>管理文檔模板</strong></a>
     </div>
-    <em>編輯或刪除資料庫中的範本</em>
+    <em>編輯或刪除庫中的模板</em>
     <br>
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="修改現有的網頁表單" src="../assets/modify-web-form.png" />
+      <img alt="修改現有Web表單" src="../assets/modify-web-form.png" />
     </a>
     <div>
-    <a href="modify-webform.md"><strong>修改現有的網頁表單</strong></a>
+    <a href="modify-webform.md"><strong>修改現有Web表單</strong></a>
     </div>
-    <em>瞭解如何停用、編輯和重新啟用現有的網頁窗體</em>
+    <em>瞭解如何禁用、編輯和重新啟用現有Web表單</em>
     <br>
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="管理網頁表單數據" src="../assets/manage-web-form.png" />
+      <img alt="管理Web表單資料" src="../assets/manage-web-form.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>管理網頁表單數據</strong></a>
+    <a href="manage-webform-data.md"><strong>管理Web表單資料</strong></a>
     </div>
-    <em>瞭解如何從網頁窗體追蹤、管理和導出數據</em>
+    <em>瞭解如何跟蹤、管理和導出Web表單中的資料</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="管理表單資料" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>管理表單資料</strong></a>
+      </div>
+      <em>瞭解如何從文檔合併表單資料</em>
+      <br>
+    </td>
+    <td>
+    <img alt="間隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
