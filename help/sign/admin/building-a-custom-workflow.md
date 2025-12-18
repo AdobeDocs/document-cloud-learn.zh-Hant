@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >組管理員可以將工作流分配給他們管理的任何組（不僅是主組）。 組管理員還可以編輯分配給他們管理的任何組的任何工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426912?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
