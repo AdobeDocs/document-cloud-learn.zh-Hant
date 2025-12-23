@@ -1,20 +1,20 @@
 ---
 title: 建立移動友好視圖
-description: 瞭解如何使用「移動焦點」模式建立對文檔的移動友好視圖
+description: 瞭解如何在不提供任何開發人員支援的情況下無縫生成移動友好文檔
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # 建立移動友好視圖
 
-瞭解如何使用「移動焦點」模式建立文檔的移動友好視圖。 發件人現在可以無縫地生成一種移動友好型格式，而無需任何開發人員支援。
+瞭解如何在不提供任何開發人員支援的情況下無縫生成移動友好文檔。
 
 使用Mobile Focus，發送者可從以下方面獲益：
 

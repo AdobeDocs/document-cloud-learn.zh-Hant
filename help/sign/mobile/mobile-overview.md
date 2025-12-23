@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 1%
 >[!TAB 移動友好視圖]
 
 瞭解如何使用[移動友好視圖](mobile-friendly.md)在移動設備上完成表單。
+
+>[!TAB 建立移動友好視圖]
+
+瞭解如何無縫生成[移動友好](create-mobile-friendly.md)文檔，而不需要任何開發人員支援。
 
 >[!ENDTABS]
 
@@ -58,7 +62,7 @@ ht-degree: 1%
     <div>
     <a href="create-mobile-friendly.md"><strong>建立移動友好視圖</strong></a>
     </div>
-    <em>瞭解如何建立文檔的移動友好視圖</em>
+    <em>瞭解如何無縫生成移動友好文檔，無需任何開發人員支援</em>
     <br>
   </td>
    <td>
@@ -84,11 +88,11 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="下載Acrobat SignAndroid移動應用" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>下載Android版Acrobat Sign移動應用</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>下載Android版Acrobat Sign移動應用</strong></a>
     </div>
     <em>從Google Play下載Acrobat Sign移動應用</em>
     <br>
