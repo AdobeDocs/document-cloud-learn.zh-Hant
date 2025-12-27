@@ -22,4 +22,4 @@ ht-degree: 0%
 * 提高的準確性：減少錯誤並確保捕獲所有必要資訊
 * 連續性：用戶可以隨時開始並返回移動友好形式，而不會丟失進度
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478397?captions=chi_hant&quality=12&learn=on&hidetitle=true)
