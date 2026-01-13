@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何從MicrosoftWord建立可訪問的PDF檔案。 從結構良好的Word檔案開始，在建立可訪問的PDF時，可以讓世界變得與眾不同。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471662?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

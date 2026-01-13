@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何將所有輔助工具放在指尖，以幫助簡化可訪問的PDF檔案的製作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471627?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
