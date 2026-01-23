@@ -19,7 +19,7 @@ ht-degree: 0%
 
 購買PDF或AI Assistant附加元件的使用者可使用Acrobat Studio空間。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475143?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

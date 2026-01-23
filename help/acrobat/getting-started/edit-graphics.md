@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. [&#128279;](new-workspace.md)
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446940?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
 
 
 

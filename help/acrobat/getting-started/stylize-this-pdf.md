@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用風格化此PDF透過使用Adobe Express [Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445552?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 
