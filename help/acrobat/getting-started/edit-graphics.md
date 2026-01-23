@@ -1,22 +1,40 @@
 ---
-title: 在 PDF 中編輯圖形
-description: 瞭解如何在 PDF 中建立、編輯和增強圖形
+title: Edit Graphics in a PDF
+description: Learn how to create, edit, and enhance graphics in your PDF
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# 在 PDF 中編輯圖形
+# Edit graphics in a PDF
 
-瞭解如何在 PDF 中建立、編輯和增強圖形。 直接在Acrobat中編輯圖形，可讓您精確專業地更新內容，不必在應用程式之間來回切換。 此影片教學課程使用新 [Acrobat體驗](new-workspace.md)。
+Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. [](new-workspace.md)
 
-<br>
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!VIDEO](https://video.tv.adobe.com/v/3446940?enablevpops&quality=12&learn=on&hidetitle=true&captions=chi_hant)
+[!BADGE ]
+
+## How Edit mode helps different teams
+
+* ****
+
+  Legal teams use Edit mode to update graphics and visual elements in contracts, policies, and guidance without re‑creating files, helping keep documents accurate and up to date during reviews or regulatory changes.
+
+* ****
+
+  HR teams use Edit mode to revise images and layouts in policy documents, onboarding materials, and training PDFs so updates can be made quickly without returning to source design files.
+
+* ****
+
+  Sales teams use Edit mode to replace images, adjust layouts, and update visuals in proposals and sales materials to tailor documents for specific customers or opportunities.
+
+* ****
+
+  Marketing teams use Edit mode to refine images and visual content in PDFs, ensuring materials stay polished and aligned with brand updates or campaign changes.

@@ -1,21 +1,54 @@
 ---
-title: 利用PDF空間提高團隊效率
-description: 瞭解如何利用個性化AI助理將檔案和網站的集合轉換為可共用的、對話式的知識中心
+title: 使用PDF空間提升團隊效率
+description: 瞭解如何透過個人化的AI助理，將檔案和網站集合轉換為可共用、對話的知識中心
 feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18747
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-# 利用PDF空間提高團隊效率
+# 使用PDF空間提升團隊效率
 
-將檔案和網站的集合變成具有個性化人工智慧助理的可共用、對話的知識中心。 在本示例中，瞭解PDF空間如何幫助內部法律團隊快速安全地更新多個公司範圍的策略以響應新的法規更改。
+瞭解內部法律團隊如何使用PDF空間，將政策檔案、法律備忘錄和法規指引整合在單一工作區中。 它顯示了AI產生的摘要、強調的變更和引述的見解如何幫助團隊更有效地審查更新，同時保持準確性和合規性。
 
-PDF空間可供購買AcrobatStudio或AI Assistant附加模組的用戶使用。
+購買PDF或AI Assistant附加元件的使用者可使用Acrobat Studio空間。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475143?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+
+[!BADGE 按角色]
+
+## PDF空間如何協助不同團隊
+
+* **法律與法規遵循**
+
+  法律團隊使用PDF空間將合約、政策和法規指引整合至單一工作區，讓您更輕鬆地共同檢閱檔案、識別變更並產生引述摘要，以支援準確和可稽核的決策。
+
+* **人力資源**
+
+  HR團隊可使用PDF空間來組織原則檔案、上線材料和訓練資源，並快速產生清晰的摘要或參考附註，以便整個組織一致地分享。
+
+* **銷售**
+
+  銷售團隊使用PDF Spaces將提案、RFP檔案和支援資料集中於一處，讓他們能夠更有效率地檢閱內容、擷取關鍵點，並更快速地準備可供使用者使用的回應。
+
+* **行銷與通訊**
+
+  行銷團隊使用PDF空間一起分析研究報告和來原始檔，協助他們在建立簡報、簡報或行銷活動之前擷取見解並調整訊息。
+
+* **財務**
+
+  財務團隊使用PDF空間來檢閱上下文中的報表、試算表和支援檔案，以便更輕鬆比較資訊、顯示關鍵分析和支援執行報告。
+
+* **作業與方案管理**
+
+  營運團隊使用PDF空間將SOP、專案檔案和更新整理在共用工作區中，以實現更快的對齊和更清晰的團隊溝通。
+
+* **主管與領導者**
+
+  高階主管可使用PDF空間來檢閱多個檔案中的AI產生的摘要，協助他們快速瞭解關鍵資訊，同時於需要時保留原始來源內容的存取權。
