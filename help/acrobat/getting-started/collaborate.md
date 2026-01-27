@@ -18,7 +18,7 @@ ht-degree: 0%
 
 透過隨時隨地遠端工作，緊密的協同合作對於快速且大規模地提供內容至關重要。 隨時隨地即時收集註釋、共同處理回應及追蹤檔案進度，推展您的專案。 瞭解如何建立檔案檢閱程式，不僅提高效率，同時提高內容品質。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439239?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

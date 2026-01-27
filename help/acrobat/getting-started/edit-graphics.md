@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用Acrobat中的編輯模式，以直接在PDF中跨案頭和網頁新增、取代、裁切、調整大小、旋轉和排列影像。 本教學課程也會說明如何使用Adobe Express支援的應用程式內影像產生器，從文字提示產生和調整影像。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446940?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 
