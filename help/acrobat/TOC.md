@@ -84,7 +84,7 @@ ht-degree: 5%
 + 由AI支援 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
    + [使用AI助理探索PDF深入分析](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + 使用PDF空間[提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
    + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
    + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
    + [將此PDF風格化](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
@@ -123,19 +123,19 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [從 [!DNL Microsoft Word]建立PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中為網頁建立PDF](integrate/createofficeweb.md)
-   + [ [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
+   + [&#x200B; [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
    + [使用您的 [!DNL SharePoint] 檔案](integrate/acrobatandsp.md)
    + [在 [!DNL Outlook]中將電子郵件訊息與附件轉換為PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]瀏覽時建立PDF內容](integrate/edge.md)
    + [使用 [!DNL Microsoft Purview Information] 敏感度標籤保護PDF](integrate/microsoftsensitivitylabels.md)
-   + [ [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [&#x200B; [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [處理來自 [!DNL Dropbox]的檔案](integrate/acrobat-dropbox.md)
 + 產業與部門 {#by-industry}
    + [概述](industry/industry-overview.md)
    + 政府 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat時隨處使用的5個秘訣 {#tips}
-         + 使用Acrobat時隨處使用的[5秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [使用Acrobat時隨處使用的5秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣#1 — 取得工具](industry/gov/get-your-tools.md)
          + [秘訣#2 — 共同作業檔案](industry/gov/collaborate-on-documents.md)
          + [秘訣#3 — 保護數位檔案](industry/gov/protect-digital-documents.md)
