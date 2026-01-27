@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # 使用AI Assistant探索PDF深入分析
 
-瞭解如何使用AI Assistant從PDF檔案獲得見解。 AI Assistant會分析PDF以產生摘要、回答問題，並透過對來源內容的明確歸因來擷取深入分析，減少手動閱讀長檔案的需求。 AI產生的回應會透過直接連結回檔案中的確切位置來驗證，以啟用更快速、更可信賴的決策。 此影片教學課程使用[新的Acrobat體驗](new-workspace.md)。
+瞭解如何使用AI Assistant從PDF檔案獲得見解。 AI Assistant會分析PDF以產生摘要、回答問題，並透過對來源內容的明確歸因來擷取深入分析，減少手動閱讀長檔案的需求。 AI產生的回應會透過直接連結回檔案中的確切位置來驗證，以啟用更快速、更可信賴的決策。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
 購買Acrobat Studio或AI助理附加元件的使用者可使用AI助理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445833?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

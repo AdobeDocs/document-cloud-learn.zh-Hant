@@ -1,40 +1,40 @@
 ---
-title: Edit Graphics in a PDF
-description: Learn how to create, edit, and enhance graphics in your PDF
+title: 在PDF中編輯圖形
+description: 瞭解如何在PDF中建立、編輯和增強圖形
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Edit graphics in a PDF
+# 在PDF中編輯圖形
 
-Learn how to use Edit mode in Acrobat to add, replace, crop, resize, rotate, and arrange images directly within a PDF across desktop and web. The tutorial also shows how to generate and refine images from text prompts using in-app image generator powered by Adobe Express. [&#128279;](new-workspace.md)
+瞭解如何使用Acrobat中的編輯模式，以直接在PDF中跨案頭和網頁新增、取代、裁切、調整大小、旋轉和排列影像。 本教學課程也會說明如何使用Adobe Express支援的應用程式內影像產生器，從文字提示產生和調整影像。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446940?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
+[!BADGE 按角色]
 
+## 編輯模式如何協助不同的團隊
 
-## How Edit mode helps different teams
+* **法律與法規遵循**
 
-* **&#x200B;**
+  法律團隊使用「編輯」模式來更新合約、政策及指引中的圖形與視覺元素，而不需重新建立檔案，有助於在審查或法規變更期間保持檔案的正確與最新。
 
-  Legal teams use Edit mode to update graphics and visual elements in contracts, policies, and guidance without re‑creating files, helping keep documents accurate and up to date during reviews or regulatory changes.
+* **人力資源**
 
-* **&#x200B;**
+  HR團隊會使用編輯模式來修訂原則檔案、上線材料和培訓PDF中的影像和版面，以便快速進行更新而不需返回來源設計檔案。
 
-  HR teams use Edit mode to revise images and layouts in policy documents, onboarding materials, and training PDFs so updates can be made quickly without returning to source design files.
+* **銷售**
 
-* **&#x200B;**
+  銷售團隊使用「編輯」模式來取代影像、調整版面配置，以及更新提案和銷售資料中的視覺效果，以針對特定客戶或商機量身打造檔案。
 
-  Sales teams use Edit mode to replace images, adjust layouts, and update visuals in proposals and sales materials to tailor documents for specific customers or opportunities.
+* **行銷與通訊**
 
-* **&#x200B;**
-
-  Marketing teams use Edit mode to refine images and visual content in PDFs, ensuring materials stay polished and aligned with brand updates or campaign changes.
+  行銷團隊會使用編輯模式來調整PDF中的影像和視覺內容，確保資料持續整齊並與品牌更新或行銷活動變更保持一致。

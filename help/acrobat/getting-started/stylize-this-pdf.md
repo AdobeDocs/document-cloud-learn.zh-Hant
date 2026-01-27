@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 將此PDF風格化
 
-瞭解如何使用風格化此PDF透過使用Adobe Express [Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-workspace.md)。
+瞭解如何使用風格化此PDF透過使用Adobe Express [Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445552?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

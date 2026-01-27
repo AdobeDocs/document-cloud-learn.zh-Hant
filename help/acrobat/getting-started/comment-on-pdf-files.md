@@ -1,23 +1,23 @@
 ---
-title: 在 PDF 上加上註釋
-description: 瞭解如何使用網頁瀏覽器在共用的 PDF 上新增註釋
+title: 評論PDF
+description: 瞭解如何使用網頁瀏覽器在共用的PDF上新增註解
 feature: Collaboration
 role: User
 level: Beginner
 jira: KT-5527
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# 在 PDF 上加上註釋
+# 評論PDF
 
-瞭解如何使用網頁瀏覽器在共用的 PDF 上新增註釋。 無論您是要與團隊協作或校對檔，Acrobat的註釋工具都可讓您輕鬆提供清楚且可作的意見回饋。 此影片教學課程使用新 [Acrobat體驗](new-workspace.md)。
+瞭解如何僅使用網頁瀏覽器在共用的PDF上新增註解。 無論您是與團隊合作還是校訂檔案，Acrobat的註解工具都可讓您輕鬆提供清楚可行的意見反應。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
-若要瞭解如何共用 PDF，請參閱 [即時](collaborate.md) 共同作業教學課程。
+若要瞭解如何共用PDF，請檢視[即時共同作業](collaborate.md)教學課程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
