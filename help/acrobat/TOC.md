@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 了解基本功能 {#basics}
       + [工作區基本介紹](getting-started/workspace-basics.md)
       + [全新Acrobat體驗](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [使用Acrobat Web隨時隨地工作](getting-started/acrobatweb.md)
       + [機動生產力](getting-started/productivity.md)
       + [PDF來自何處？](getting-started/where-do-pdfs-come-from.md)
@@ -65,30 +65,26 @@ ht-degree: 5%
    + [讓引導式動作易於存取](accessibility-series/make-accessible-action.md)
 + 進階工作 {#advanced-tasks}
    + [概述](advanced-tasks/advanced-tasks-overview.md)
-   + [新增書籤和超連結](advanced-tasks/bookmarks.md)
-   + [最佳化掃描的檔案](advanced-tasks/optimizescan.md)
-   + [自訂命令和工具](advanced-tasks/custom.md)
-   + [進階表單欄位](advanced-tasks/advancedforms.md)
-   + [針對SEO最佳化PDF](advanced-tasks/optimizeseo.md)
-   + [使用表單欄位](advanced-tasks/workforms.md)
-   + [增強您的PDF](advanced-tasks/enhance.md)
-   + [偵測兩個PDF之間的差異](advanced-tasks/compare.md)
-   + [引導式動作](advanced-tasks/action.md)
-   + [移除敏感資訊](advanced-tasks/redact.md)
-   + [壓縮和最佳化PDF](advanced-tasks/reduce.md)
-   + [使用表單資料](advanced-tasks/formdata.md)
-   + Acrobat協助工具網路研討會 {#accessibility-series}
-      + [概述](advanced-tasks/accessibility-series.md)
-      + [PDF協助工具簡介](advanced-tasks/accessibilitysession1.md)
-      + [修復無法存取的PDF](advanced-tasks/accessibilitysession2.md)
-      + [複雜表格](advanced-tasks/accessibilitysession3.md)
-      + [掃描的檔案和複雜清單](advanced-tasks/accessibilitysession4.md)
-      + [新增表單欄位到有標籤的PDF](advanced-tasks/accessibilitysession5.md)
-      + [新增表單欄位到未標籤的PDF](advanced-tasks/accessibilitysession6.md)
+   + 準備與增強 {#prepare}
+      + [壓縮和最佳化PDF](advanced-tasks/reduce.md)
+      + [最佳化掃描的檔案](advanced-tasks/optimizescan.md)
+      + [針對SEO最佳化PDF](advanced-tasks/optimizeseo.md)
+      + [新增書籤和超連結](advanced-tasks/bookmarks.md)
+      + [偵測兩個PDF之間的差異](advanced-tasks/compare.md)
+      + [增強您的PDF](advanced-tasks/enhance.md)
+   + 建立及管理表單 {#forms}
+      + [使用表單欄位](advanced-tasks/workforms.md)
+      + [進階表單欄位](advanced-tasks/advancedforms.md)
+      + [使用表單資料](advanced-tasks/formdata.md)
+   + 保護 {#protect}
+      + [移除敏感資訊](advanced-tasks/redact.md)
+   + 自動化和擴展工作流程 {#automate}
+      + [引導式動作](advanced-tasks/action.md)
+      + [自訂命令和工具](advanced-tasks/custom.md)
 + 由AI支援 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
    + [使用AI助理探索PDF深入分析](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + 使用PDF空間[提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
    + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
    + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
    + [將此PDF風格化](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
@@ -127,19 +123,19 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [從 [!DNL Microsoft Word]建立PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中為網頁建立PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
    + [使用您的 [!DNL SharePoint] 檔案](integrate/acrobatandsp.md)
    + [在 [!DNL Outlook]中將電子郵件訊息與附件轉換為PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]瀏覽時建立PDF內容](integrate/edge.md)
    + [使用 [!DNL Microsoft Purview Information] 敏感度標籤保護PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [處理來自 [!DNL Dropbox]的檔案](integrate/acrobat-dropbox.md)
 + 產業與部門 {#by-industry}
    + [概述](industry/industry-overview.md)
    + 政府 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat時隨處使用的5個秘訣 {#tips}
-         + [使用Acrobat時隨處使用的5秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat時隨處使用的[5秘訣](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣#1 — 取得工具](industry/gov/get-your-tools.md)
          + [秘訣#2 — 共同作業檔案](industry/gov/collaborate-on-documents.md)
          + [秘訣#3 — 保護數位檔案](industry/gov/protect-digital-documents.md)
