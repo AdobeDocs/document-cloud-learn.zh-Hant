@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: b806cdc83632abc02a401550c77f32513926a3ef
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![表單資料步驟1](../assets/FormData_1.png)
 
-1. 開啟其中一個已完成的表單檔案，然後從[工具]中心或右窗格中選取[準備表單]。**&#x200B;**
+1. 開啟其中一個已完成的表單檔案，然後從[工具]中心或右窗格中選取[準備表單]。****
 
    ![表單資料步驟2](../assets/FormData_2.png)
 

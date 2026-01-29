@@ -6,20 +6,20 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # 使用AI Assistant探索PDF深入分析
 
-瞭解如何使用AI Assistant從PDF檔案獲得見解。 AI Assistant會分析PDF以產生摘要、回答問題，並透過對來源內容的明確歸因來擷取深入分析，減少手動閱讀長檔案的需求。 AI產生的回應會透過直接連結回檔案中的確切位置來驗證，以啟用更快速、更可信賴的決策。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
+瞭解如何使用AI Assistant從PDF檔案獲得見解。 AI Assistant會分析PDF以產生摘要、回答問題，並透過對來源內容的明確歸因來擷取見解，減少手動閱讀長檔案的需求。 AI產生的回應會透過直接連結回檔案中的確切位置來驗證，以啟用更快速、更可信賴的決策。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
 購買Acrobat Studio或AI助理附加元件的使用者可使用AI助理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445833?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * **法律**
 
-  法律團隊使用AI Assistant來摘要長合約、政策和法規檔案，快速識別相關條款或變更，並透過直接引用來源文字來驗證深入分析。 這樣可加快稽核速度，同時還能維持可信度和可追蹤性。
+  法律團隊使用AI Assistant來摘要長合約、政策和法規檔案，快速識別相關條款或變更，並透過直接引用來源文字來驗證深入分析。
 
 * **銷售**
 

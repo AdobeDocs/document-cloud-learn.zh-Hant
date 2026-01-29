@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 將此PDF風格化
 
-瞭解如何使用風格化此PDF透過使用Adobe Express [Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
+瞭解如何使用風格化此PDF透過使用由[Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445552?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **法律**
 
-  法律團隊使用風格化此PDF，將一致的格式、印刷樣式和視覺效果套用至原則和指引檔案，使其看起來專業且易於閱讀，同時保持合規且無任何意義改變。
+  法律團隊使用風格化此PDF來套用一致的格式和視覺效果，讓政策和指引檔案看起來專業並維持清晰準確。
 
 * **銷售**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 * **財務**
 
-  財務團隊可以使用Stylize這個PDF，立即將拋光且一致的視覺樣式套用到報告和簡報上，讓財務檔案更專業，更易於與主管和利害關係人分享。
+  財務團隊使用Stylize這個PDF來拋光並立即將視覺樣式新增到報告和簡報中。
 
 * **採購**
 

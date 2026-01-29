@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # 移除敏感資訊
 
-瞭解如何使用「校訂」工具，從PDF中永久移除私人或敏感資訊，然後整理檔案以移除檔案中不可見的資訊，例如註解、中繼資料或隱藏圖層。 永久移除敏感內容和隱藏資料非常重要，因此在發佈PDF時，不會傳送這些資訊。 此教學課程使用[新的Acrobat體驗](../getting-started/new-experience.md)。
+瞭解如何使用「校訂」工具，從PDF中永久移除私人或敏感資訊。 本教學課程也說明如何以動畫化檔案來移除檔案中看不見的資訊，例如註解、中繼資料或隱藏的圖層。 永久移除敏感內容和隱藏資料非常重要，因此在發佈PDF時，不會傳送這些資訊。 此教學課程使用[新的Acrobat體驗](../getting-started/new-experience.md)。
 
 >[!NOTE]
 >

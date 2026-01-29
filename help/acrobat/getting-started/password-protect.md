@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->若要以密碼保護多個PDF檔案，請嘗試使用[動作精靈](../advanced-tasks/action.md)。
+>使用[動作精靈](../advanced-tasks/action.md)以密碼保護多個PDF檔案。
 
 [!BADGE 特定團隊]
 
@@ -30,11 +30,11 @@ ht-degree: 1%
 
 * **法律**
 
-  保護PDF可確保機密合約、案例檔案和使用者端通訊只能由授權方存取，減少合規性和隱私風險。
+  保護PDF可確保機密合約、案例檔案和使用者端通訊僅由授權方存取，減少合規性和隱私風險。
 
 * **銷售**
 
-  保護提案、定價表和合作夥伴協定，確保競爭者或未經授權的利害關係人無法存取策略資訊。
+  保護提案、定價表和合作夥伴協定，可確保競爭者或未經授權的利害關係人無法存取策略資訊。
 
 * **小時**
 

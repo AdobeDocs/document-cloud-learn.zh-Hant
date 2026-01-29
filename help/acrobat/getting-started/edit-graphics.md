@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用Acrobat中的編輯模式，以直接在PDF中跨案頭和網頁新增、取代、裁切、調整大小、旋轉和排列影像。 本教學課程也會說明如何使用Adobe Express支援的應用程式內影像產生器，從文字提示產生和調整影像。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446940?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 * **財務**
 
-  財務團隊可以使用「編輯」模式快速更新財務PDF中的圖表和視覺效果，保持報表準確和清晰，而不需返回來源檔案。
+  財務團隊可以使用「編輯」模式在財務PDF中快速更新圖表和視覺效果，保持報表準確和清晰，而不需返回來源檔案。
 
 * **採購**
 
-  採購團隊可以使用「編輯」模式來快速更新供應商提案或合約中的供應商圖表、產品影像和視覺細節，讓來原始檔保持精確且易於呈現，而不需要原始檔案。
+  採購團隊可以使用「編輯」模式來快速更新供應商提案或合約中的供應商圖表、產品影像和視覺細節，而不需要原始檔案。

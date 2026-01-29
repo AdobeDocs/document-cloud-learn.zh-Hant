@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # 建立PDF
 
-瞭解如何[從所有不同型別的檔案](https://www.adobe.com/tw/acrobat/online/convert-pdf.html)建立PDF。 從在Microsoft Office或Creative Cloud應用程式中建立的檔案開始，或使用影像、掃描或甚至網站。 將內容轉化為PDF可提供方便可靠的方式來共用、保留及保護檔案，同時保留檔案的原始格式。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
+瞭解如何[從所有不同型別的檔案](https://www.adobe.com/tw/acrobat/online/convert-pdf.html)建立PDF。 從在Microsoft Office或Creative Cloud應用程式中建立的檔案開始，或使用影像、掃描或甚至網站。 將內容轉化為PDF可提供方便可靠的方式來共用、保留及保護檔案，同時保留檔案的原始格式。 此影片教學課程使用[n體驗](new-experience.md)。
 
 >[!TIP]
 >

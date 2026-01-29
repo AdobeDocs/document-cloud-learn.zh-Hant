@@ -1,27 +1,27 @@
 ---
-title: 複雜表
-description: 瞭解如何為Acrobat的輔助功能表添加標籤
+title: 複雜表格
+description: 瞭解如何在Acrobat中為協助工具標籤表格
 role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# 複雜表
+# 複雜表格
 
-瞭解如何在Acrobat為輔助功能標籤表。 所涵蓋的主題包括：設定表編輯器選項、標識單元格類型（TD或TH）、設定標題範圍和範圍、建立表摘要、生成標題單元格ID、將資料單元格與標題單元格ID關聯，以及對重複標題行進行分析。
+瞭解如何在Acrobat中為協助工具標籤表格。 涵蓋的主題包括設定表格編輯器選項、識別儲存格型別（TD或TH）、設定標頭範圍及範圍，以及建立表格摘要。 本教學課程也說明如何產生標題儲存格ID、將資料儲存格與標題儲存格ID建立關聯，以及製作重複的標題列。
 
 >[!NOTE]
 >
->僅在Acrobat Pro、高級和Studio中提供。
+>僅適用於Acrobat Pro、Premium和Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477963?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此視頻是播放清單[PDF輔助功能系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分，該系列在Experience League時可免費使用！
+>此影片是播放清單[PDF協助工具系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分，可在Experience League上免費取得！

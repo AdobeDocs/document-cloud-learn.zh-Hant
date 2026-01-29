@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 >
 >僅適用於Acrobat Pro、Premium或Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444886?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單[在Adobe Acrobat中執行進階工作](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-peform-advanced-tasks)的一部分，可在Experience League上免費取得！
+>此影片是播放清單[在Adobe Acrobat中執行進階工作](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分，可在Experience League上免費取得！
