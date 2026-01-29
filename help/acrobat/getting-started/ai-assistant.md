@@ -19,7 +19,7 @@ ht-degree: 0%
 
 購買Acrobat Studio或AI助理附加元件的使用者可使用AI助理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445833?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 
