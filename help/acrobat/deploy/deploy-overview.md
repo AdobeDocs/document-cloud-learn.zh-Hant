@@ -22,4 +22,4 @@ ht-degree: 0%
 
 * 瞭解[適用於Acrobat產品的Enterprise Toolkit](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}，以便在您的組織內部署自訂產品、設定虛擬安裝，以及建立企業PDF工作流程。
 
-* 瞭解將於2020年8月至2020年11月20日開始的ETLA[ （企業授權合約）優惠方案中包含的](signentitlementchanges.md){target="_blank"}Acrobat DC權益的重要變更。
+* 瞭解將於2020年8月至2020年11月20日開始的ETLA[&#x200B; （企業授權合約）優惠方案中包含的](signentitlementchanges.md){target="_blank"}Acrobat DC權益的重要變更。

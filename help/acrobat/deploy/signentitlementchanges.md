@@ -73,7 +73,7 @@ Acrobat DC體驗的![錯誤訊息](../assets/Deploy_SignEntitle2.png)
 * [登入 Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [管理檔案（我的檔案在哪裡？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [使用[!UICONTROL Acrobat Customization Wizard]進行設定](https://www.adobe.com/tw/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [ [!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)的概觀
+* [&#x200B; [!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)的概觀
 * [在[!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)管理Adobe Sign
 
 **修訂版** 2020年5月20日；原始文章 — 2019年8月

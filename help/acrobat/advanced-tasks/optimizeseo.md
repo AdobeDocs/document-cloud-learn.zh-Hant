@@ -52,7 +52,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 1. 選取「**[!UICONTROL 檔案>內容]**」或使用鍵盤快速鍵&#x200B;*Ctrl + D* （在Windows上）或&#x200B;*Cmd + D* (在Mac上)，並選取「**[!UICONTROL 描述]**」索引標籤。
 1. 在&#x200B;**[!UICONTROL 標題：]**&#x200B;欄位中輸入關鍵字最佳化的標題。
 1. 請確定&#x200B;**[!UICONTROL 作者：]**&#x200B;欄位未識別您組織內的特定個人。
-1. 在&#x200B;**[!UICONTROL 主旨：]**欄位中輸入檔案的關鍵字最佳化摘要。
+1. 在&#x200B;**[!UICONTROL 主旨：]**&#x200B;欄位中輸入檔案的關鍵字最佳化摘要。
 請嘗試使用如學習、探索、探索等動作動詞來開始摘要。
 1. 選取&#x200B;**[!UICONTROL 其他中繼資料]**&#x200B;以新增版權或公開網域資訊（如果適用）。
 
@@ -64,7 +64,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 ## 3.標籤您的PDF
 
-在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
+在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[&#128279;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
 
 +++檢視如何標籤PDF的詳細資訊
 
