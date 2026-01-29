@@ -31,7 +31,7 @@ PDF內容必須是唯一的，且結構如下：
 * 使用包含關鍵字和清單的簡短段落
 * 透過超連結將內部和外部內容新增至您的網站或其他網站
 * 為超過25頁的檔案新增超連結目錄
-* 在所有掃描的檔案上執行[文字辨識](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)
+* 在所有掃描的檔案上執行[文字辨識](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)
 * 建置適合行動裝置使用的PDF
 若要檢視PDF的行動檢視體驗，請在[Acrobat Reader行動應用程式](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中開啟檔案，然後開啟Liquid Mode。 包含其他副標題（如有必要）以改進導覽。
 
@@ -64,7 +64,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 ## 3.標籤您的PDF
 
-在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[&#128279;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
+在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
 
 +++檢視如何標籤PDF的詳細資訊
 

@@ -47,7 +47,7 @@ Acrobat DC![[!DNL Adobe Sign Individual]中的](../assets/Deploy_SignEntitle1.pn
 * 自訂與最佳化
    * 增強的電子簽章驗證、進階以識別碼為基礎的簽名者身分驗證、工作流程設計工具、進階語言支援等。
 
-Adobe Sign是領先業界的全球認可解決方案，可擷取符合法律規範的簽名。 Adobe Sign是全新打造的產品，可符合貴組織的電子簽章需求，並提供適合IT管理員使用的工具，確保您和使用者所使用的電子簽章完全符合各種區域及業界有關電子簽章的法規。 請前往[這裡](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)，以取得有關透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)管理登入的詳細資訊。
+Adobe Sign是領先業界的全球認可解決方案，可擷取符合法律規範的簽名。 Adobe Sign是全新打造的產品，可符合貴組織的電子簽章需求，並提供適合IT管理員使用的工具，確保您和使用者所使用的電子簽章完全符合各種區域及業界有關電子簽章的法規。 請前往[這裡](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)，以取得有關透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)管理登入的詳細資訊。
 
 請洽詢您的Adobe聯絡人，討論如何透過我們更廣泛的數位檔案平台（包括Acrobat DC和Adobe Sign Enterprise）繼續提供貴組織的電子簽章功能。
 
@@ -70,10 +70,10 @@ Acrobat DC體驗的![錯誤訊息](../assets/Deploy_SignEntitle2.png)
 
 ## 如需詳細資訊，請造訪以下頁面：
 
-* [登入 Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [管理檔案（我的檔案在哪裡？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [登入 Adobe Document Cloud](https://helpx.adobe.com/tw/document-cloud/help/sign-in.html)
+* [管理檔案（我的檔案在哪裡？）](https://helpx.adobe.com/tw/document-cloud/help/manage-files.html)
 * [使用[!UICONTROL Acrobat Customization Wizard]進行設定](https://www.adobe.com/tw/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [&#x200B; [!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)的概觀
-* [在[!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)管理Adobe Sign
+* [在[!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)管理Adobe Sign
 
 **修訂版** 2020年5月20日；原始文章 — 2019年8月
