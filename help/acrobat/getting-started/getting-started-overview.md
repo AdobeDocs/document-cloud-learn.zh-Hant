@@ -26,7 +26,7 @@ ht-degree: 1%
 
 瞭解如何將[書面檔案](scan-and-ocr.md)轉換為可搜尋及可編輯的PDF檔案
 
->使用PDF空間[!TAB 提升團隊效率]
+>[!TAB 使用PDF空間 提升團隊效率]
 
 使用個人化的AI助理將檔案和網站的集合轉換為[可共用、對話式的知識中心](pdf-spaces-legal.md)。
 
