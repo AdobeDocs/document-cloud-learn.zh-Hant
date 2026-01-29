@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 4d5faf1c7011e294fee4ad3a9426c02d5efecde4
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 7%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
@@ -24,33 +24,27 @@ ht-degree: 7%
 >
 >若要以密碼保護多個PDF檔案，請嘗試使用[動作精靈](../advanced-tasks/action.md)。
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="password-protect.md">
-      <img alt="以密碼保護 PDF" src="../assets/protect.png" />
-    </a>
-    <div>
-    <a href="password-protect.md"><strong>使用密碼保護PDF</strong></a>
-    </div>
-    <em>瞭解如何新增密碼至您的PDF</em>
-    <br>
-  </td>
-  <td>
-        <img alt="分隔符號" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="分隔符號" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="分隔符號" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-</tr>
-</table>
+[!BADGE 特定團隊]
+
+## 保護PDF如何幫助不同的團隊
+
+* **法律**
+
+  保護PDF可確保機密合約、案例檔案和使用者端通訊只能由授權方存取，減少合規性和隱私風險。
+
+* **銷售**
+
+  保護提案、定價表和合作夥伴協定，確保競爭者或未經授權的利害關係人無法存取策略資訊。
+
+* **小時**
+
+  保護PDF可保護員工記錄、績效審查及僱用檔案，協助維護隱私權並符合法規要求。
+
+* **財務**
+
+  密碼保護可保護敏感財務報告、預測和客戶資料的安全，有助於防止未經授權的存取和潛在的詐騙。
+
+* **採購**
+
+  密碼保護的PDF可保護供應商合約、競標及訂價檔案的安全，確保只有授權的利害關係人可以存取敏感的議價與來源資訊。
+

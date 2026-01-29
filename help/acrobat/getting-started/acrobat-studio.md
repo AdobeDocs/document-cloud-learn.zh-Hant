@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 瞭解如何建立品牌安全內容、擷取見解並簡化與Acrobat Studio的複雜合作，讓您的團隊更快行動。 Acrobat Studio是多合一解決方案，包含Acrobat Pro、AI Assistant、PDF Spaces以及Adobe Express Premium。 這些整合式工具可集中檔案、啟用AI驅動的分析，以及支援在統一工作區中建立端對端內容，進而加快團隊生產力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475067?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE 按角色]
+[!BADGE 特定團隊]
 
 ## Acrobat Studio如何協助不同的團隊
 

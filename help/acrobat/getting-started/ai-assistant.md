@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,37 +19,29 @@ ht-degree: 0%
 
 購買Acrobat Studio或AI助理附加元件的使用者可使用AI助理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445833?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE 按角色]
+[!BADGE 特定團隊]
 
 ## AI Assistant如何協助不同的團隊
 
-* **法律與法規遵循**
+* **法律**
 
   法律團隊使用AI Assistant來摘要長合約、政策和法規檔案，快速識別相關條款或變更，並透過直接引用來源文字來驗證深入分析。 這樣可加快稽核速度，同時還能維持可信度和可追蹤性。
-
-* **人力資源**
-
-  HR團隊使用AI Assistant從政策檔案、訓練教材和員工手冊中擷取要點，讓他們能夠建立清晰的摘要和常見問題集，而不需手動閱讀或重新撰寫冗長的內容。
 
 * **銷售**
 
   銷售團隊使用AI Assistant來掃描提案、RFP和客戶檔案、快速提取相關答案或談話要點，並產生簡短的摘要，以支援更快速的回應和交易準備。
 
-* **行銷與通訊**
+* **小時**
 
-  行銷團隊使用AI Assistant來分析報表和研究檔案、擷取見解並產生結構良好的摘要，這些摘要可用於簡報、簡報和內容規劃。
+  HR團隊使用AI Assistant從政策檔案、訓練教材和員工手冊中擷取要點，讓他們能夠建立清晰的摘要和常見問題集，而不需手動閱讀或重新撰寫冗長的內容。
 
 * **財務**
 
   財務團隊可使用AI助理來檢閱財務報告和支援檔案、摘要趨勢或差異，以及顯示執行層級報告所需的深入分析，而不需手動閱讀整個檔案。
 
-* **作業與方案管理**
+* **採購**
 
-  營運團隊使用AI Assistant來分析SOP、專案檔案和更新，快速瞭解重要內容並產生摘要，讓利害關係人保持一致。
-
-* **主管與領導者**
-
-  高階主管使用AI Assistant從複雜檔案中取得高階摘要和直接回答，並透過引文驗證深入分析，無需檢閱完整的原始資料。
+  採購團隊會分析合約、摘要供應商提案、擷取關鍵辭彙，並從大型PDF檔案產生深入分析，協助加快貨源搜尋決策、減少手動審查時間，以及確保利害關係人擁有準確、可存取的資訊。
 
