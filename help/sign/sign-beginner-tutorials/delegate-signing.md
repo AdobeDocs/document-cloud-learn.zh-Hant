@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何將簽署文件的作業委派給其他人。
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3479528?captions=chi_hant&quality=12&learn=on&hidetitle=true)
