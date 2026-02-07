@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此視頻是播放清單[PDF輔助功能系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分，該系列在Experience League時可免費使用！
+>此視頻是播放清單[PDF輔助功能系列](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-pdf-accessibility)的一部分，該系列在Experience League時可免費使用！
