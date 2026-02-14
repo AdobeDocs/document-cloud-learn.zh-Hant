@@ -16,4 +16,4 @@ ht-degree: 0%
 
 # Adobe Acrobat資源
 
-探索各種[資源](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) （例如網路研討會、部落格、報告、資訊圖表和指南），以進一步瞭解Adobe Acrobat。
+探索各種[資源](https://business.adobe.com/tw/resources/acrobat.html?ch_Content-Type=Webinars) （例如網路研討會、部落格、報告、資訊圖表和指南），以進一步瞭解Adobe Acrobat。
