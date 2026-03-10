@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
+source-git-commit: 3343ab883acf6e350814ccbf3eceb49eb33c6d5e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # 什麼是Acrobat Studio？
 
-瞭解如何建立品牌安全內容、擷取見解並簡化與Acrobat Studio的複雜合作，讓您的團隊更快行動。 Acrobat Studio是多合一解決方案，包含Acrobat Pro、AI Assistant、PDF Spaces以及Adobe Express Premium。 探索下面的&#x200B;*立即試用*&#x200B;互動式選項，瞭解Acrobat Studio如何簡化您團隊的工作。
+瞭解如何建立品牌安全內容、擷取見解並簡化與Acrobat Studio的複雜合作，讓您的團隊更快行動。 Acrobat Studio是多合一解決方案，包含Acrobat Pro、AI Assistant、PDF Spaces以及Adobe Express Premium。 探索下面的&#x200B;**立即試用**&#x200B;互動式選項，瞭解Acrobat Studio如何簡化您團隊的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475067?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 * **財務**
 
-  瞭解財務團隊如何透過財務報告更快速地行動，而不影響準確性、信任或控制力。[立即試用]https://w.adobedemo.com/s/31LpAI。
+  瞭解財務團隊如何透過財務報告更快速地行動，而不影響準確性、信任或控制力。[立即試用](https://w.adobedemo.com/s/31LpAI.)
