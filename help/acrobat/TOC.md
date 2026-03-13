@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3a947947f9eaac8e369a2236b5795fb5a74fb01b
+source-git-commit: a6bfbb75a89221e4ac63e3922f8763326f85bdca
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '646'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
    + 了解基本功能 {#basics}
       + [工作區基本介紹](getting-started/workspace-basics.md)
       + [全新Acrobat體驗](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [使用Acrobat Web隨時隨地工作](getting-started/acrobatweb.md)
       + [機動生產力](getting-started/productivity.md)
       + [PDF來自何處？](getting-started/where-do-pdfs-come-from.md)
@@ -43,33 +43,33 @@ ht-degree: 4%
       + [自動調整版面](getting-started/auto-adjust-layout.md)
       + [將PDF轉換為不同的檔案格式](getting-started/export-pdf.md)
    + 共同作業與檢閱 {#collaborate}
-      + [即時共同作業](getting-started/collaborate.md)
-      + [評論PDF](getting-started/comment-on-pdf-files.md)
-   + Forms、簽名和保護 {#tools}
-      + [建立可填寫的表單](getting-started/create-fillable-forms.md)
-      + [填寫並簽署PDF forms](getting-started/fill-and-sign.md)
-      + [使用密碼保護PDF檔案](getting-started/password-protect.md)
-      + [取得簽章](getting-started/signatures.md)
-      + [追蹤您的檔案](getting-started/track.md)
-+ 協助工具系列 {#accessibility-tutorials}
+      + [即時協作](getting-started/collaborate.md)
+      + [對PDF的評論](getting-started/comment-on-pdf-files.md)
+   + Forms，簽名和保護 {#tools}
+      + [建立可填充表單](getting-started/create-fillable-forms.md)
+      + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
+      + [Protect帶密碼的PDF檔案](getting-started/password-protect.md)
+      + [獲取簽名](getting-started/signatures.md)
+      + [跟蹤文檔](getting-started/track.md)
++ 輔助功能系列 {#accessibility-tutorials}
    + [概觀](accessibility-series/accessibility-overview.md)
-   + [具備存取許可權的PDF檔案的用途及原因](accessibility-series/what-why-accessible-pdf.md)
-   + [設定您的工作區](accessibility-series/set-up-workspace.md)
-   + [從Word建立無障礙的PDF](accessibility-series/create-accessible-from-word.md)
-   + [在Acrobat中建立無障礙的PDF](accessibility-series/accessible-acrobat.md)
-   + [標籤的基本概念](accessibility-series/basics-tagging.md)
-   + [掃描的檔案](accessibility-series/scanned-documents.md)
-   + [建立無障礙表單](accessibility-series/create-accessible-forms.md)
+   + [可訪問的PDF檔案的內容和原因](accessibility-series/what-why-accessible-pdf.md)
+   + [設定工作區](accessibility-series/set-up-workspace.md)
+   + [從Word建立可訪問的PDF](accessibility-series/create-accessible-from-word.md)
+   + [在Acrobat建立可訪問的PDF](accessibility-series/accessible-acrobat.md)
+   + [標籤的基礎知識](accessibility-series/basics-tagging.md)
+   + [掃描的文檔](accessibility-series/scanned-documents.md)
+   + [建立可訪問的表單](accessibility-series/create-accessible-forms.md)
    + [複雜清單](accessibility-series/complex-lists.md)
-   + [複雜表格](accessibility-series/complex-tables.md)
-   + [讓引導式動作易於存取](accessibility-series/make-accessible-action.md)
-+ 進階工作 {#advanced-tasks}
+   + [複雜表](accessibility-series/complex-tables.md)
+   + [使「可訪問」指導操作](accessibility-series/make-accessible-action.md)
++ 高級任務 {#advanced-tasks}
    + [概觀](advanced-tasks/advanced-tasks-overview.md)
-   + 準備與增強 {#prepare}
-      + [壓縮和最佳化PDF](advanced-tasks/reduce.md)
-      + [最佳化掃描的檔案](advanced-tasks/optimizescan.md)
-      + [針對SEO最佳化PDF](advanced-tasks/optimizeseo.md)
-      + [新增書籤和超連結](advanced-tasks/bookmarks.md)
+   + 準備和增強 {#prepare}
+      + [壓縮和優化PDF](advanced-tasks/reduce.md)
+      + [優化掃描的文檔](advanced-tasks/optimizescan.md)
+      + [Optimize PDFSEO](advanced-tasks/optimizeseo.md)
+      + [添加書籤和超連結](advanced-tasks/bookmarks.md)
       + [偵測兩個PDF之間的差異](advanced-tasks/compare.md)
       + [增強您的PDF](advanced-tasks/enhance.md)
    + 建立及管理表單 {#forms}
@@ -83,17 +83,21 @@ ht-degree: 4%
       + [自訂命令和工具](advanced-tasks/custom.md)
 + 由AI支援 {#ai-powered}
    + [概觀](ai-powered/ai-overview.md)
-   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [將此PDF風格化](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 使用案例 {#use-cases}
    + [概觀](use-cases/use-cases-overview.md)
+   + 業務線 {#lob}
+      + [概觀](use-cases/lob/finance/finance-overview.md)
+      + 財務 {#finance}
+         + [將財務報告轉換為執行就緒型深入分析](use-cases/lob/finance/finance-insights.md)
    + 政府 {#gov}
       + [概觀](use-cases/gov/gov-overview.md)
       + 使用Acrobat時隨處使用的5個秘訣 {#tips}
-         + [使用Acrobat時隨處使用的5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat時隨處使用的[5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣#1 — 取得工具](use-cases/gov/get-your-tools.md)
          + [秘訣#2 — 共同作業檔案](use-cases/gov/collaborate-on-documents.md)
          + [秘訣#3 — 保護數位檔案](use-cases/gov/protect-digital-documents.md)
@@ -134,12 +138,12 @@ ht-degree: 4%
    + [概觀](integrate/integrate-overview.md)
    + [從 [!DNL Microsoft Word]建立PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中為網頁建立PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
    + [使用您的 [!DNL SharePoint] 檔案](integrate/acrobatandsp.md)
    + [在 [!DNL Outlook]中將電子郵件訊息與附件轉換為PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]瀏覽時建立PDF內容](integrate/edge.md)
    + [使用 [!DNL Microsoft Purview Information] 敏感度標籤保護PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [處理來自 [!DNL Dropbox]的檔案](integrate/acrobat-dropbox.md)
 + 開發 {#develop}
    + [概觀](develop/develop-overview.md)
@@ -148,5 +152,5 @@ ht-degree: 4%
    + [ETLA客戶重要的Acrobat DC產品更新](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [機動生產力](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [機動生產力](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [將任何內容掃描到PDF](mobile/scan-mobile-app.md)
