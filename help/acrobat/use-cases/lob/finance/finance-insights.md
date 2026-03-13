@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
+source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 瞭解財務團隊如何使用Acrobat管理從insight到傳送的財務檔案。 此使用案例會逐步解說用於分析資訊、與利害關係人合作以及建立執行就緒的財務資料的端對端工作流程。 此使用案例旨在依序完成，每個影片都建立在上一步中。
 
-最適合的客戶：財務主管、FP&amp;A團隊、分析人員，以及任何準備執行或董事會稽核資料的人員。
+**最佳對象：**&#x200B;財務主管、FP&amp;A團隊、分析人員，以及準備執行或董事會稽核資料的任何人。
 
 ## 步驟 1. 瞭解財務績效
 
