@@ -97,7 +97,7 @@ ht-degree: 4%
    + 政府 {#gov}
       + [概觀](use-cases/gov/gov-overview.md)
       + 使用Acrobat時隨處使用的5個秘訣 {#tips}
-         + 使用Acrobat時隨處使用的[5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [使用Acrobat時隨處使用的5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣#1 — 取得工具](use-cases/gov/get-your-tools.md)
          + [秘訣#2 — 共同作業檔案](use-cases/gov/collaborate-on-documents.md)
          + [秘訣#3 — 保護數位檔案](use-cases/gov/protect-digital-documents.md)
