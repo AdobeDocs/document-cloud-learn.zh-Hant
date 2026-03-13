@@ -1,19 +1,37 @@
 ---
-title: Turn Financial Reports into Executive‑Ready Insights
-description: Learn how finance teams can consolidate financial information to quickly surface key performance insights
+title: 從Insight準備執行就緒的財務檔案以進行傳送
+description: 瞭解財務團隊如何使用Acrobat Studio從分析移至傳遞
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# 將財務報告轉換為執行就緒型深入分析
+# 從insight準備執行就緒的財務檔案以進行傳送
 
-Learn how finance teams can consolidate financial reports, spreadsheets, and supporting materials into a single PDF Space to quickly surface key performance insights with Acrobat Studio. Use Acrobat&#39;s AI Assistant to analyze trends, validate findings with traceable citations, and create executive‑ready summaries for leadership and board reporting.
+瞭解財務團隊如何使用Acrobat Studio，透過合併財務檔案、安全地與利害關係人合作，以及建立執行就緒的報表和簡報，從分析轉移到傳遞。 此端對端工作流程說明如何呈現深入分析、管理稽核、套用品牌一致設計，以及提供安全、可稽核的財務資料，用於領導力和董事會報告。 此使用案例的設計目的是要依序完成。 每部影片都是以工作流程的上一步為基礎所建立。
+
+## 瞭解財務績效
+
+從合併財務檔案並呈現關鍵深入分析開始，為高階主管稽核準備資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+
+## 在財務報表上共同作業
+
+將利害關係人聚集在一起，在安全的工作區中檢閱財務資料、分享意見並完善見解。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+
+## 建立適合主管的簡報
+
+將經過驗證的見解轉化為精緻的品牌簡報和安全的財務交付專案，讓領導力更上一層樓。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+

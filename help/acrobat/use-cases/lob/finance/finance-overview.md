@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
@@ -32,12 +33,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="將財務報告轉化為對管理人員的洞察" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="從洞察到交付，準備面向管理層的財務文檔" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>將財務報告轉換為面向執行人員的見解</strong></a>
+    <a href="finance-insights.md"><strong>準備從洞察到交付的面向執行官的財務文檔</strong></a>
     </div>
-    <em>瞭解財務團隊如何整合財務資訊以快速呈現關鍵績效洞察力</em>
+    <em>瞭解財務團隊如何使用Acrobat Studio從分析轉到交付</em>
     <br>
   </td>
   <td>
