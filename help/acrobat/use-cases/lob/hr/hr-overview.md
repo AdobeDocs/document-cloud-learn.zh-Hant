@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 從insight影響：簡化人力資源工作流程]
+>[!TAB 從insight到影響：簡化上線工作流程]
 
 瞭解人力資源團隊如何使用Acrobat Studio簡化員工入門內容，從[insight、共同作業，到品牌上傳遞](hr-insights.md)。
 
@@ -32,10 +33,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="從insight到影響：簡化人力資源工作流程" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="從insight到影響：簡化入門工作流程" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>從insight影響：簡化人力資源工作流程</strong></a>
+    <a href="hr-insights.md"><strong>從insight到影響：簡化上線工作流程</strong></a>
     </div>
     <em>瞭解人力資源團隊如何使用Acrobat Studio來簡化員工上崗流程</em>
     <br>
