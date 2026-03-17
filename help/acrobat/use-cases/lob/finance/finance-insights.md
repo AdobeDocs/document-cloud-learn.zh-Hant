@@ -23,19 +23,19 @@ ht-degree: 3%
 
 從合併財務檔案並呈現關鍵深入分析開始，為高階主管稽核準備資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481434?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 2. 在財務報表上共同作業
 
 深入分析現在已可供團隊檢閱。 將利害關係人聚集在一起，在安全的工作區中檢閱財務資料、分享意見並完善見解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481447?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 3. 建立適合主管的簡報
 
 意見反應已完成，內容已準備好傳送。 將經過驗證的見解轉化為精緻的品牌簡報和安全的財務交付專案，讓領導力更上一層樓。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481460?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 您現在擁有可重複的流程，可使用Acrobat Studio分析、稽核及傳遞執行就緒的財務檔案。
 
