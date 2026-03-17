@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -45,19 +45,24 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+    <a href="lob/legal/legal-overview.md">
+      <img alt="法律使用案例" src="../assets/use-case-legal.png" />
+    </a>
+    <div>
+    <a href="lob/legal/legal-overview.md"><strong>合法使用案例</strong></a>
+    </div>
+    <em>瞭解法律團隊如何快速瞭解複雜的檔案，並呈現關鍵風險與變更</em>
+    <br>
+  </td>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="銷售使用案例" src="../assets/use-case-sales.png" />
     </a>
     <div>
     <a href="lob/sales/sales-overview.md"><strong>銷售使用案例</strong></a>
     </div>
-    <em>瞭解銷售團隊如何從insight更聰明地共同作業，並更快速地建立內容。</em>
+    <em>瞭解銷售團隊如何從insight更聰明地共同作業，並更快速地建立內容</em>
     <br>
-  </td>
-  <td>
-        <img alt="分隔符號" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -70,8 +75,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="適用於政府的Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="適用於政府的Acrobat"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="適用於政府的Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="適用於政府的Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,11 +84,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        政府用<a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="適用於政府的Acrobat">Acrobat</a>
+                        政府用<a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="適用於政府的Acrobat">Acrobat</a>
                     </p>
                     <p class="is-size-6">探索我們專為聯邦、州和地方政府設計的Acrobat教學課程</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">探索教學課程</span>
                 </a>
             </div>
