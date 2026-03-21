@@ -22,19 +22,19 @@ ht-degree: 3%
 
 首先分析複雜的法律檔案，呈現關鍵變更，並使用AI支援的深入分析識別風險。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481645?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 2. 安全地共同作業進行法律審查
 
 深入分析現在已可供團隊檢閱。 瞭解如何減少電子郵件混亂、維持版本控制，以及在複雜的法律審查中安全地共同作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481658?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 3. 將法律見解轉換為業務就緒內容
 
 意見反應已完成，內容已準備好傳送。 瞭解法律團隊如何快速草擬指南、套用核准的品牌，並提供安全、可存取的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481669?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 您現在擁有可重複的流程，能夠理解法律檔案、安全地共同作業，並建立清晰的業務就緒指引。
 

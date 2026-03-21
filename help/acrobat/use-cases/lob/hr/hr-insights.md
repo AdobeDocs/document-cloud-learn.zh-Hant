@@ -23,18 +23,18 @@ ht-degree: 2%
 
 首先，瞭解AI支援的入門深入分析如何強調關鍵資訊、顯示後續步驟，並幫助確保新員工在正確時間獲得正確的資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481495?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 2. 稽核和調整入門材料
 
 深入分析現在已可供團隊檢閱。 瞭解PDF空間如何整理意見反應、評論和更新，讓利害關係人保持一致，並確保上線進展順利，不會造成電子郵件鏈結或版本混淆。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481532?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 3. 為新員工建立引人入勝的入門內容
 
 意見反應已完成，內容已準備好傳送。 瞭解Acrobat Studio如何使用AI和品牌範本，快速建立適用於員工的簡報和材料，以方便分享和更新。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481543?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 您現在擁有可重複的流程，可使用Acrobat Studio分析、稽核及傳遞員工上線準備的檔案。

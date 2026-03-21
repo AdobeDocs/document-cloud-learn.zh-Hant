@@ -22,18 +22,18 @@ ht-degree: 2%
 
 首先瞭解如何收集客戶檔案、分析關鍵資訊，以及使用AI支援的摘要和深入分析來瞭解客戶需求，並為更有效的銷售對話做好準備。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481575?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 2. 透過專注的團隊共同作業，推動交易向前推進
 
 深入分析現在已可供團隊檢閱。 瞭解如何在共用工作區中針對客戶帳戶共同作業、讓利害關係人與角色型存取保持一致，以及檢閱見解、附註和檔案，而不會失去內容或控制權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481599?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 3. 加速銷售內容交易
 
 意見反應已完成，內容已準備好傳送。 瞭解如何將經過驗證的客戶見解轉化為精緻的品牌銷售簡報和提案，而不需從頭開始或依賴設計支援。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481610?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 您現在擁有可重複的程式，可瞭解客戶、與利害關係人合作，以及使用Acrobat Studio提供銷售準備就緒的簡報和提案。
