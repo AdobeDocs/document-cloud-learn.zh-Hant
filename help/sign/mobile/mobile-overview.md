@@ -88,11 +88,11 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
       <img alt="下載適用於Android的Acrobat Sign行動應用程式" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>下載Android的Acrobat Sign行動應用程式</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>下載Android的Acrobat Sign行動應用程式</strong></a>
     </div>
     <em>從Google Play下載Acrobat Sign行動應用程式</em>
     <br>
