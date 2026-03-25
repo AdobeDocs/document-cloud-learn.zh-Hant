@@ -1,40 +1,40 @@
 ---
 cloud: Document Cloud
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/tw/support/document-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/tw/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/tw/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
 index: true
 type: Tutorial
-source-git-commit: 95764e25c3d393b751f52eea5c475add8528ac38
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
-# 供內部使用的中繼資料
+# 內部使用的中繼資料
 
-metadata.md 檔案包含傳遞至使用者指南的存放庫層級中繼資料，TOC.md 存放庫中的檔案。 如果您想要變更任何使用手冊 metadata.md 內容，請在任何 TOC.md 檔案中進行變更。
+metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
 
-| 元資料 | 功能 |
+| 中繼資料 | 作用 |
 |--- |--- |
-| 解決方案標題 | 在文章標題中當做連結使用 |
-| 解決方案 -hub-url | 開啟 helpx 中樞頁面 |
-| 解決方案圖示 | 在解決方案標題旁顯示解決方案圖示。 尚未實作 |
-| 快速入門 -url | helpx 快速入門頁面的連結 |
-| 教學課程 -url | 影片教學課程連結，helpx 教學課程或 KT 教學課程 |
-| mini toc 層級 | 決定顯示在右側欄中的標題層級數。 預設值為 2 |
-| git-repo | 指定供內部使用的主存放庫位置 |
+| solution-title | 在文章標題中作為連結使用 |
+| solution-hub-url | 開啟Helpx中樞頁面 |
+| solution-icon | 在解決方案標題旁邊顯示解決方案圖示。 尚未實作 |
+| getting-started-url | helpx快速入門頁面連結 |
+| tutorials-url | 教學課程影片（helpx或KT教學課程其中之一）的連結 |
+| mini-toc-levels | 決定顯示在右側欄中的標題層數。 預設為2 |
+| git-repo | 指定內部使用的主要存放庫位置 |
 
-在 TOC.md 檔案中
+在TOC.md檔案中
 
-| 元資料 | 功能 |
+| 中繼資料 | 作用 |
 |--- |--- |
-| 使用者指南標題 | 在文章標題中當做連結使用 |
-| 使用者指南 url | 開啟 helpx 中樞頁面 |
+| user-guide-title | 在文章標題中作為連結使用 |
+| 使用手冊 — url | 開啟Helpx中樞頁面 |
