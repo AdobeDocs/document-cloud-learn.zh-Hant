@@ -1,42 +1,42 @@
 ---
-title: 入門概述
-description: 通過這些簡短的逐步教程瞭解如何發送、簽名和跟蹤文檔
+title: 快速入門概述
+description: 透過這些簡短的逐步教學課程，快速掌握如何傳送、簽署及追蹤檔案
 feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
-# 入門概述
+# 快速入門概述
 
-通過這些簡短的逐步教程瞭解如何發送、簽名和跟蹤文檔。 快速瀏覽Acrobat Sign，然後快速將文檔發送給一個或多個人。 此內容旨在簡化您進入電子簽名工作流的過程。
+透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署及追蹤檔案。 快速導覽Acrobat Sign，然後跳到傳送檔案給一或多人。 本內容的設計目的是讓您輕鬆進行電子簽章工作流程。
 
 ## 新增功能
 
 >[!BEGINTABS]
 
->[!TAB 管理和跟蹤協定]
+>[!TAB 在傳送檔案後修改檔案]
 
-瞭解如何[管理和跟蹤已發送以供簽名的協定](../sign-beginner-tutorials/manage-and-track.md)。
+瞭解如何[修改已送出供簽名的檔案](../sign-beginner-tutorials/manage-and-track.md)。
 
->[!TAB 以電子方式簽名文檔]
+>[!TAB 管理和追蹤合約]
 
-瞭解[簽署](../sign-beginner-tutorials/electronically-sign-a-document.md)與Acrobat Sign一起發送給您的文檔有多容易。
+瞭解如何[管理及追蹤傳送以供簽名的合約](../sign-beginner-tutorials/manage-and-track.md)。
 
->[!TAB 建立可重用模板]
+>[!TAB 以電子方式簽署檔案]
 
-瞭解如何建立[可重用的文檔模板](../sign-advanced-users/create-a-template.md)。
+瞭解使用Acrobat Sign[簽署](../sign-beginner-tutorials/electronically-sign-a-document.md)傳送給您的檔案有多容易。
 
->[!TAB 配置發送選項]
+>[!TAB 建立可重複使用的範本]
 
-瞭解如何[在將文檔發送出去進行簽名時配置各種選項](sending-options.md)。
+瞭解如何建立[可重複使用的檔案範本](../sign-advanced-users/create-a-template.md)。
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ ht-degree: 7%
     <div>
     <a href="new-sender.md"><strong>開始使用Acrobat Sign</strong></a>
     </div>
-    本教程是新用戶在Acrobat Sign的絕佳開端
+    本教學課程是最適合 Acrobat Sign 新使用者著手開始之處
     <br>
   </td>
  <td>
@@ -59,9 +59,9 @@ ht-degree: 7%
       <img alt="工作區基本介紹" src="../assets/workspace.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>工作區基礎知識</strong></a>
+    <a href="quick-tour.md"><strong>Workspace基本知識</strong></a>
     </div>
-    快速瀏覽Acrobat Sign工作區以啟動並運行
+    快速導覽Acrobat Sign工作區以啟動並執行
     <br>
   </td>
   <td>
@@ -69,9 +69,9 @@ ht-degree: 7%
       <img alt="傳送文件給單一簽署者" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>向單個簽名者發送文檔</strong></a>
+    <a href="send-to-single-recipient.md"><strong>傳送檔案給單一簽署者</strong></a>
     </div>
-    跳入並瞭解將文檔發送出去進行簽名是多麼容易
+    深入瞭解傳送文件以進行簽署有多麼簡單
     <br>
   </td>
   <td>
@@ -79,51 +79,51 @@ ht-degree: 7%
       <img alt="傳送給多位簽署者" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>發送到多個簽名者</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>傳送給多位簽署者</strong></a>
     </div>
-    以您想要的準確順序將電子簽名文檔發送給多個人
+    傳送文件以供多人進行電子簽名，並以您想要的確切順序進行
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="配置發送選項" src="../assets/configure.png" />
+      <img alt="設定傳送選項" src="../assets/configure.png" />
     </a>
     <div>
-    <a href="sending-options.md"><strong>配置發送選項</strong></a>
+    <a href="sending-options.md"><strong>設定傳送選項</strong></a>
     </div>
-    瞭解如何在將文檔發送出去進行簽名時配置各種選項
+    了解如何在傳送文件以進行簽署時設定不同選項
     <br>
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="將欄位添加到文檔" src="../assets/adding-fields.png" />
+      <img alt="將欄位新增至檔案" src="../assets/adding-fields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>將欄位添加到文檔</strong></a>
+    <a href="adding-fields.md"><strong>正在新增欄位至您的檔案</strong></a>
     </div>
-    瞭解如何向文檔添加不同類型的欄位
+    瞭解如何在檔案中新增不同型別的欄位
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="發送後修改文檔" src="../assets/modify.png" />
+      <img alt="傳送檔案後進行修改" src="../assets/modify.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>在發送後修改文檔</strong></a>
+    <a href="modify-in-flight.md"><strong>在傳送檔案後修改檔案</strong></a>
     </div>
-    修改已在進行中的文檔
+    瞭解如何修改已進行中的檔案
     <br>
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="替換簽名人" src="../assets/replace.png" />
+      <img alt="取代簽署者" src="../assets/replace.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>替換簽名者</strong></a>
+    <a href="replace-signer.md"><strong>取代簽署者</strong></a>
     </div>
-    瞭解如何更改已在進行中的文檔的簽名者
+    瞭解如何變更已進行中檔案的簽署者
      <br>
   </td>
 </tr>
@@ -133,9 +133,9 @@ ht-degree: 7%
         <img alt="設定截止日期和提醒" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
-      <a href="set-deadlines-reminders.md"><strong>設定截止時間和提醒</strong></a>
+      <a href="set-deadlines-reminders.md"><strong>設定截止日期和提醒</strong></a>
       </div>
-      瞭解如何定期發送電子郵件提醒和截止時間，以幫助您快速簽署文檔
+      瞭解如何定期傳送電子郵件提醒和截止日期，以協助您的檔案快速完成簽署
       <br>
     </td> 
   <td>
@@ -143,18 +143,18 @@ ht-degree: 7%
       <img alt="建立可重複使用的範本" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>建立可重用模板</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>建立可重複使用的範本</strong></a>
     </div>
-    建立可重用的文檔模板，為組織提供快速和一致性
+    建立可重複使用的文件範本，為您的組織提供速度與一致性
     <br>
   </td>
     <td>
-      <img alt="間隔物" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-      <img alt="間隔物" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
@@ -167,73 +167,73 @@ ht-degree: 7%
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="以電子方式簽署文檔" src="../assets/sign-electronically.png" />
+      <img alt="以電子方式簽署檔案" src="../assets/sign-electronically.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>以電子方式簽名文檔</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>以電子方式簽署檔案</strong></a>
     </div>
-    瞭解與Acrobat Sign一起簽署發送給您的文檔是多麼容易
+    了解多輕鬆即可使用 Acrobat Sign，為傳送給您的文件進行簽署
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填充和簽名文檔" src="../assets/fill-and-sign.png" />
+      <img alt="填寫和簽署檔案" src="../assets/fill-and-sign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>填寫和簽名文檔</strong></a>
+    <a href="fill-and-sign.md"><strong>正在填寫和簽署檔案</strong></a>
     </div>
-    填寫表單，並將電子簽名添加到文檔
+    填寫表格，並將您的電子簽章新增至檔案
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="親自獲取簽名" src="../assets/inperson.png" />
+      <img alt="取得親筆簽名" src="../assets/inperson.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>正在當面獲取簽名</strong></a>
+    <a href="sign-in-person.md"><strong>取得簽章（親屬）</strong></a>
     </div>
-    使用Acrobat Sign移動應用親自獲取其他人的簽名
+    使用Acrobat Sign行動應用程式取得別人的親筆簽名
     <br>
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="將簽名委託給其他人" src="../assets/delegate-signing.png" />
+      <img alt="將簽署委派給其他人" src="../assets/delegate-signing.png" />
     </a>
     <div>
-    <a href="delegate-signing.md"><strong>將簽名委託給其他人</strong></a>
+    <a href="delegate-signing.md"><strong>將簽署委派給其他人</strong></a>
     </div>
-    瞭解如何將文檔簽名委託給其他人
+    瞭解如何將檔案的簽署委派給其他人
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="什麼是數字簽名" src="../assets/digital-signature.png" />
+      <img alt="什麼是數位簽名" src="../assets/digital-signature.png" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>什麼是數字簽名</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>什麼是數位簽名</strong></a>
     </div>
-    瞭解基於證書的數字簽名
+    瞭解憑證式數位簽名
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="使用戳簽名" src="../assets/sign-stamp.png" />
+      <img alt="使用印章簽名" src="../assets/sign-stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>使用戳簽名</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>使用印章簽名</strong></a>
     </div>
-    使用郵票來標籤已批准或已完成的單據
+    使用印章來標籤檔案已核准或已完成
      <br>
   </td> 
  <td>
-    <img alt="間隔物" src="../assets/Grayspacer.png" />
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Grayspacer.png" />
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -249,23 +249,23 @@ ht-degree: 7%
       <img alt="管理和追蹤您的合約" src="../assets/manage-track.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>管理和跟蹤您的協定</strong></a>
+    <a href="manage-and-track.md"><strong>管理和追蹤您的合約</strong></a>
     </div>
-    瞭解如何管理和跟蹤發送供簽名的協定
+    了解如何管理和追蹤傳送以供簽署的合約
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Whitespacer.png" />
+    <img alt="分隔符號" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Whitespacer.png" />
+    <img alt="分隔符號" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Whitespacer.png" />
+    <img alt="分隔符號" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
