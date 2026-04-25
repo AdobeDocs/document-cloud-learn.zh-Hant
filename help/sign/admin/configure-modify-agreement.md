@@ -23,4 +23,4 @@ ht-degree: 0%
 * 修訂模式如何保護協定完整性
 * 稽核報告會記錄哪些變更
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483702?captions=chi_hant&quality=12&learn=on&hidetitle=true)
