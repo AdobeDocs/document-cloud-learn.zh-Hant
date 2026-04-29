@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 2%
 瞭解人力資源團隊如何使用Acrobat Studio來簡化員工上崗流程。 瞭解如何將複雜的入門檔案轉變為清晰的見解、在共用的PDF空間中與利害關係人合作，以及建立精美的品牌上內容，隨時準備與新員工分享 — 更快、更一致和更自信。 此使用案例旨在依序完成，每個影片都建立在上一步中。
 
 **最適合：**&#x200B;人力資源主管、人力資源營運與業務夥伴、入職與員工經驗團隊，以及任何為員工或領導能力準備人力資源資料的人員。
+
+**試用：**&#x200B;立即探索這個HR上線工作流程[實作](https://w.adobedemo.com/s/NvvfVm){target="_blank"}。
 
 ## 步驟 1. 將上線檔案轉換為清晰的深入分析
 
