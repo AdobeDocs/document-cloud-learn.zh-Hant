@@ -22,4 +22,4 @@ Learn how checkbox groups:
 * Guide signers with clear, inline feedback
 * Improve the accuracy of information collected in forms
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484171?captions=chi_hant&quality=12&learn=on&hidetitle=true)
