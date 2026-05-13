@@ -10,9 +10,12 @@ jira: KT-7190
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 TQID: https://experienceleague.adobe.com/NBCpG3zMEzuHL-BcVRPQutgqqE8Ol1UqsOTxSU34Uyk
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 132
@@ -22,7 +25,7 @@ ht-degree: 4%
 
 # 使用您的[!DNL SharePoint]檔案
 
-使用Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的[Adobe Acrobat簡化與[!DNL SharePoint]和Acrobat的檔案工作流程。 將[!DNL Microsoft 365]個檔案安全地轉換為PDF，[將PDF檔案](https://www.adobe.com/tw/acrobat/online/merge-pdf.html){target="_blank"}合併為一個檔案、加上註解並重新排列頁面 — 直接從[!DNL SharePoint]線上進行。
+使用Microsoft 365[&#128279;](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的Adobe Acrobat簡化與[!DNL SharePoint]和Acrobat的檔案工作流程。 將[!DNL Microsoft 365]個檔案安全地轉換為PDF，[將PDF檔案](https://www.adobe.com/tw/acrobat/online/merge-pdf.html){target="_blank"}合併為一個檔案、加上註解並重新排列頁面 — 直接從[!DNL SharePoint]線上進行。
 
 >[!NOTE]
 >

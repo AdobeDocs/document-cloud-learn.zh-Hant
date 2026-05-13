@@ -9,11 +9,20 @@ thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
-feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 2466
@@ -117,9 +126,9 @@ ht-degree: 0%
 
    ![設定SharePoint設定的熒幕擷圖](assets/documentautomation/automation_6.png)
 
-   **網站位址：**您的SharePoint網站
-   **資料夾路徑：**您要使用的共用檔案路徑
-   **檔案名稱：**接受預設值
+   **網站位址：**&#x200B;您的SharePoint網站
+   **資料夾路徑：**&#x200B;您要使用的共用檔案路徑
+   **檔案名稱：**&#x200B;接受預設值
    **檔案內容：**&#x200B;接受預設值
 
 1. 儲存流程。
@@ -156,7 +165,7 @@ ht-degree: 0%
    此流程有許多預先設定的步驟，包括錯誤檢查和巢狀條件步驟。
 
 1. 為選取的檔案&#x200B;**設定**，如下所示：
-   **網站位址：**您的SharePoint網站
+   **網站位址：**&#x200B;您的SharePoint網站
    **資料庫名稱：**&#x200B;您的檔案存放庫
 1. 新增輸入，如下所示：
    **型別**：電子郵件
@@ -165,7 +174,7 @@ ht-degree: 0%
    ![設定流程的熒幕擷圖](assets/documentautomation/automation_11.png)
 
 1. 設定&#x200B;**取得檔案屬性：**，如下所示：
-   **網站位址：**您的SharePoint網站
+   **網站位址：**&#x200B;您的SharePoint網站
    **資料庫名稱：**&#x200B;您的檔案存放庫
 
 1. 向下捲動並尋找&#x200B;**如果是**。
@@ -184,7 +193,7 @@ ht-degree: 0%
 
    ![取得檔案內容組態的熒幕擷圖](assets/documentautomation/automation_15.png)
 
-   **網站位址：**您的SharePoint網站。
+   **網站位址：**&#x200B;您的SharePoint網站。
    **檔案識別碼：**&#x200B;搜尋「識別碼」，並從&#x200B;**取得檔案內容**&#x200B;步驟中選擇識別碼。
 1. 搜尋「Adobe」並選擇&#x200B;**Acrobat Sign**&#x200B;以新增其他動作。
 
@@ -208,11 +217,11 @@ ht-degree: 0%
    ![搜尋建立的熒幕擷圖](assets/documentautomation/automation_19.png)
 
 1. 設定必要資訊：
-從**合約名稱**&#x200B;的動態變數助理中選擇&#x200B;**名稱**。
-從**檔案識別碼**&#x200B;中的動態變數助理中選擇&#x200B;**檔案識別碼**。
-從**參與者電子郵件**&#x200B;的動態變數助理中選擇&#x200B;**簽署者電子郵件**。
-在**參與者順序**中輸入「1」。
-從**參與者角色**&#x200B;的下拉式清單中選擇&#x200B;**簽署者**。
+從&#x200B;**合約名稱**&#x200B;的動態變數助理中選擇&#x200B;**名稱**。
+從&#x200B;**檔案識別碼**&#x200B;中的動態變數助理中選擇&#x200B;**檔案識別碼**。
+從&#x200B;**參與者電子郵件**&#x200B;的動態變數助理中選擇&#x200B;**簽署者電子郵件**。
+在&#x200B;**參與者順序**&#x200B;中輸入「1」。
+從&#x200B;**參與者角色**&#x200B;的下拉式清單中選擇&#x200B;**簽署者**。
 
    ![必要資訊的熒幕擷圖](assets/documentautomation/automation_20.png)
 
@@ -306,7 +315,7 @@ ht-degree: 0%
 
 1. 編輯流程底部的&#x200B;**建立檔案**&#x200B;動作：
 
-   將&#x200B;**網站位址**變更為您的網站位址。
+   將&#x200B;**網站位址**&#x200B;變更為您的網站位址。
 指定已處理合約資料夾在資料夾路徑中的位置。
 
 1. 按一下右上角的「**儲存**」。
@@ -412,8 +421,8 @@ ht-degree: 0%
 
 1. 展開&#x200B;**選取的檔案**&#x200B;範圍動作。
 
-   在&#x200B;**取得檔案屬性**底下，將[網站位址]和[媒體櫃名稱]分別變更為SharePoint網站和媒體櫃。
-在**取得檔案內容**&#x200B;下將網站位址變更為您的SharePoint網站。
+   在&#x200B;**取得檔案屬性**&#x200B;底下，將[網站位址]和[媒體櫃名稱]分別變更為SharePoint網站和媒體櫃。
+在&#x200B;**取得檔案內容**&#x200B;下將網站位址變更為您的SharePoint網站。
 
    ![展開選取檔案動作的熒幕擷圖](assets/documentautomation/automation_47.png)
 
@@ -424,7 +433,7 @@ ht-degree: 0%
 
    ![展開新增白皮書條件的熒幕擷圖](assets/documentautomation/automation_48.png)
 
-1. 展開&#x200B;**白皮書1：使用路徑**取得檔案內容。
+1. 展開&#x200B;**白皮書1：使用路徑**&#x200B;取得檔案內容。
 編輯您指定SharePoint網站的網站位址。
 
 對&#x200B;**狀況重複相同的步驟：新增白皮書2**。

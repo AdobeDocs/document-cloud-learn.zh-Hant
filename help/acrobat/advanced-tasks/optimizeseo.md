@@ -8,9 +8,15 @@ jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 805
@@ -56,7 +62,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 1. 選取「**[!UICONTROL 檔案>內容]**」或使用鍵盤快速鍵&#x200B;*Ctrl + D* （在Windows上）或&#x200B;*Cmd + D* （在Mac上），並選取「**[!UICONTROL 描述]**」索引標籤。
 1. 在&#x200B;**[!UICONTROL 標題：]**&#x200B;欄位中輸入關鍵字最佳化的標題。
 1. 請確定&#x200B;**[!UICONTROL 作者：]**&#x200B;欄位未識別您組織內的特定個人。
-1. 在&#x200B;**[!UICONTROL 主旨：]**欄位中輸入檔案的關鍵字最佳化摘要。
+1. 在&#x200B;**[!UICONTROL 主旨：]**&#x200B;欄位中輸入檔案的關鍵字最佳化摘要。
 請嘗試使用如學習、探索、探索等動作動詞來開始摘要。
 1. 選取&#x200B;**[!UICONTROL 其他中繼資料]**&#x200B;以新增版權或公開網域資訊（如果適用）。
 
@@ -68,7 +74,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 ## &#x200B;3. 標籤您的PDF
 
-在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
+在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[&#128279;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
 
 +++檢視如何標籤PDF的詳細資訊
 

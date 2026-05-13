@@ -8,8 +8,10 @@ jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
 TQID: https://experienceleague.adobe.com/yYGwXdr3OvfgTZ7ETAMp-Fhfjuwhta9ld4H0qm5EzdY
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 130
@@ -25,7 +27,7 @@ ht-degree: 0%
 
    ![表單資料步驟1](../assets/FormData_1.png)
 
-1. 開啟其中一個已完成的表單檔案，然後從[工具]中心或右窗格中選取[準備表單]。****
+1. 開啟其中一個已完成的表單檔案，然後從[工具]中心或右窗格中選取[準備表單]。**&#x200B;**
 
    ![表單資料步驟2](../assets/FormData_2.png)
 

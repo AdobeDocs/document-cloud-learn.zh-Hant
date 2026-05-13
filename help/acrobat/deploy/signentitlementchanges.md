@@ -8,10 +8,16 @@ jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e9001ce2-5245-4a8e-8601-dd958009072fid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 803
@@ -25,7 +31,7 @@ ht-degree: 7%
 
 透過&#x200B;**Adobe Sign**&#x200B;工具或&#x200B;**填寫並簽署**&#x200B;工具（[要求簽名](https://www.adobe.com/tw/acrobat/online/request-signature.html){target="_blank"}），可在Acrobat中存取[!DNL Adobe Sign Individual]。
 
-Acrobat DC](../assets/Deploy_SignEntitle1.png)中的![[!DNL Adobe Sign Individual]存取權
+Acrobat DC![&#128279;](../assets/Deploy_SignEntitle1.png)中的[!DNL Adobe Sign Individual]存取權
 
 如果您尚未將Acrobat DC更新到最新版本，該工具可能會標籤為「傳送以索取簽名」。
 

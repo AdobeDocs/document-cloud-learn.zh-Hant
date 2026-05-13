@@ -11,12 +11,23 @@ topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 TQID: https://experienceleague.adobe.com/LfZGcDB7-D6cUdqzCbbsUQuJWSk2k-MkBjIt1w--vgU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 949
@@ -98,7 +109,7 @@ Marketo Salesforce同步和適用於Salesforce的Acrobat Sign設定完成後，M
 
    ![新資料夾](assets/newFolder.png)
 
-1. 以滑鼠右鍵按一下建立的資料夾，選取&#x200B;**新程式**，然後為其命名。 保留其他專案為預設值，然後按一下[建立]。****
+1. 以滑鼠右鍵按一下建立的資料夾，選取&#x200B;**新程式**，然後為其命名。 保留其他專案為預設值，然後按一下[建立]。**&#x200B;**
 
    ![新程式1](assets/newProgram1.png)
 
@@ -172,7 +183,7 @@ Marketo Salesforce同步和適用於Salesforce的Acrobat Sign設定完成後，M
 
    ![智慧型行銷活動1](assets/smartCampaign1.png)
 
-1. 為您選擇的名稱命名，然後按一下[建立]。****
+1. 為您選擇的名稱命名，然後按一下[建立]。**&#x200B;**
 
    ![智慧型行銷活動2](assets/smartCampaign2.png)
 

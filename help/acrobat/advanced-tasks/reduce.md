@@ -8,10 +8,14 @@ jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 TQID: https://experienceleague.adobe.com/BGfks8B4QIaVwe9nTTXQjV2r63uFrO6aqodD2WSpytc
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 381
@@ -70,13 +74,13 @@ ht-degree: 1%
 
    ![最佳化步驟1](../assets/Optimize_1.png)
 
-1. 從&#x200B;**「與**&#x200B;相容」下拉式清單中，選擇&#x200B;**保留現有**&#x200B;以保留目前的PDF版本，或選擇Acrobat版本。 選取面板旁的核取方塊（例如「影像」、「字型」、「透明度」），然後選取該面板中的選項，再選擇「確定」****，然後儲存檔案。
+1. 從&#x200B;**「與**&#x200B;相容」下拉式清單中，選擇&#x200B;**保留現有**&#x200B;以保留目前的PDF版本，或選擇Acrobat版本。 選取面板旁的核取方塊（例如「影像」、「字型」、「透明度」），然後選取該面板中的選項，再選擇「確定」**&#x200B;**，然後儲存檔案。
 
    ![最佳化步驟2](../assets/Optimize_2.png)
 
    依預設，**設定**&#x200B;功能表中已選取&#x200B;**標準**。 如果您在PDF Optimizer對話方塊中變更任何設定，**設定**&#x200B;功能表會自動切換為&#x200B;**自訂**。 若要防止在最佳化期間執行面板中的所有選項，請取消選取該面板的核取方塊。
 
-1. （選擇性）若要儲存自訂設定，請選取[儲存]，並命名設定。 ****&#x200B;若要刪除已儲存的設定，請在&#x200B;**設定**&#x200B;下拉式清單中選擇該設定，然後選取&#x200B;**[!UICONTROL 刪除]**。
+1. （選擇性）若要儲存自訂設定，請選取[儲存]，並命名設定。 **&#x200B;**&#x200B;若要刪除已儲存的設定，請在&#x200B;**設定**&#x200B;下拉式清單中選擇該設定，然後選取&#x200B;**[!UICONTROL 刪除]**。
 
    ![最佳化步驟3](../assets/Optimize_3.png)
 
