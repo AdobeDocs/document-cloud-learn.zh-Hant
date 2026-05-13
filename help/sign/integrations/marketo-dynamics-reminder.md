@@ -1,6 +1,6 @@
 ---
-title: 使用適用於 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送提醒
-description: 瞭解如何在合約一段時間后仍未簽署時傳送電子郵件提醒
+title: 使用適用於Microsoft Dynamics 365和Marketo的Acrobat Sign傳送提醒
+description: 瞭解當一段時間後仍未簽署協定時，如何傳送電子郵件提醒
 feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo Engage, Document Cloud
@@ -10,96 +10,103 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
+TQID: https://experienceleague.adobe.com/3F6HF0QuK6IkhjgKTGoEGpo16ZGIaY3rZiWUAOWbwTo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '864'
-ht-degree: 0%
+source-wordcount: 905
+ht-degree: 1%
 
 ---
 
-# 使用適用於 Microsoft Dynamics 365 和 Marketo 的 Acrobat Sign 傳送提醒
+# 使用適用於Microsoft Dynamics 365和Marketo的Acrobat Sign傳送提醒
 
-瞭解如何在合約一段時間后仍未簽署時傳送電子郵件提醒。 此整合使用 Acrobat Sign、Acrobat Sign for Microsoft Dynamics、Marketo 和 Marketo Microsoft Dynamics Sync。
+瞭解當一段時間後仍未簽署協定時，如何傳送電子郵件提醒。 此整合使用Acrobat Sign、適用於Microsoft Dynamics的Acrobat Sign、Marketo以及Marketo Microsoft Dynamics Sync。
 
 ## 必要條件
 
-1. 安裝 Marketo Microsoft Dynamics Sync。
+1. 安裝Marketo Microsoft Dynamics Sync。
 
-   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hant)
+   [此處](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)提供Microsoft Dynamics Sync的資訊和最新外掛程式。
 
-1. 安裝 [適用於 Microsoft Dynamics](https://appsource.microsoft.com/zh-tw/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86) 的 Acrobat Sign。
+1. 安裝適用於Microsoft Dynamics](https://appsource.microsoft.com/zh-tw/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)的[Acrobat Sign。
 
-   有關此增效模組的資訊請參閱 [這裡。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   [此處](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)提供此外掛程式的資訊。
 
-## 尋找自定義物件
+## 尋找自訂物件
 
-Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
+Marketo Microsoft Dynamics同步和Acrobat Sign for Dynamics設定完成後，「Marketo管理終端機」中會出現兩個新選項。
 
-![管理](assets/adminTerminal.png)
+![管理員](assets/adminTerminal.png)
 
-1. 按兩下 **[!UICONTROL 「Dynamics 實體同步」]** 。
+1. 按一下&#x200B;**[!UICONTROL Dynamics Entities Sync]**。
 
-   同步自定義實體之前，必須停用同步。 如果這是您第一次這麼做，請按兩下 **「同步結構** 」。 否則，請按下 **「重新整理結構」**。
+   同步處理自訂實體前，必須先停用同步。 如果您是第一次，請按一下&#x200B;**同步結構描述**。 否則，請按一下&#x200B;**重新整理結構描述**。
 
-   ![刷新](assets/refreshSchema.png)
+   ![重新整理](assets/refreshSchema.png)
 
-## 同步自定義物件
+## 同步處理自訂物件
 
-1. 在右側找到 [!UICONTROL 「商機]」、 [!UICONTROL 「聯繫人]」和 [!UICONTROL 「帳戶]」自定義物件。
+1. 在右側，找到[!UICONTROL 銷售機會]、[!UICONTROL 連絡人]和[!UICONTROL 帳戶]型自訂物件。
 
-   * **如果您想要在商機未在 Dynamics 中簽署合約時傳送提醒，請為「商機」底下**&#x200B;**的物件啟用同步**。
+   * 如果要在[!UICONTROL 銷售機會]尚未在Dynamics中簽署合約時傳送提醒，請為&#x200B;**[!UICONTROL 銷售機會]**&#x200B;下的物件&#x200B;**啟用同步**。
 
-   * **如果您想要在聯繫人尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「連絡]**&#x200B;人」底下&#x200B;**的物件啟用同步**。
+   * 如果要在[!UICONTROL 連絡人]尚未在Dynamics中簽署合約時傳送提醒，請&#x200B;**啟用**[!UICONTROL &#x200B;連絡人&#x200B;]**下物件的同步**。
 
-   * **如果您想要在帳戶尚未在 Dynamics 中簽署合約時[!UICONTROL 傳送提醒，請為「帳戶]」底下**&#x200B;**的物件啟用同步**。
+   * 如果要在[!UICONTROL 帳戶]尚未在Dynamics中簽署合約時傳送提醒，請&#x200B;**啟用**[!UICONTROL &#x200B;帳戶&#x200B;]**下物件的同步**。
 
-   * **在所需的父級 （[!UICONTROL 商機]、[!UICONTROL 連絡人]或[!UICONTROL 帳戶） 下方，啟用合約物件的同步**&#x200B;功能]。**&#x200B;**
+   * **為所需**[!UICONTROL &#x200B;父系&#x200B;]**（[!UICONTROL 潛在客戶]、[!UICONTROL 連絡人]或[!UICONTROL 帳戶]）下的合約物件啟用Sync**。
 
    ![自訂物件](assets/enableSyncDynamics.png)
 
-1. 在新視窗中，根據「合約」選取您需要的屬性，然後啟用「限制&#x200B;**」和**「觸發器&#x200B;**」下方**&#x200B;的方塊，以將其公開至您的營銷活動。
+1. 在新視窗中，在[合約]下選取您想要的屬性，然後啟用[限制] ****&#x200B;和[觸發] ****&#x200B;下的方塊，以公開您的行銷活動。
 
-   ![自訂同步 1](assets/entitySync1.png)
+   ![自訂同步處理1](assets/entitySync1.png)
 
-   ![自訂同步 2](assets/entitySync2.png)
+   ![自訂同步處理2](assets/entitySync2.png)
 
-1. 在自定義物件上啟用同步後，重新啟動同步。
+1. 在自訂物件上啟用同步後，重新啟用同步。
 
-   返回「管理員終端機」，按兩下 **「Microsoft Dynamics」**，然後按兩下 **「啟用同步」**。
+   返回[管理終端機]，按一下&#x200B;**Microsoft Dynamics**，然後按一下&#x200B;**[啟用同步處理]**。
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
    ![啟用全域](assets/enableGlobalDynamics.png)
 
-## 建立程式和令牌
+## 建立程式和Token
 
-1. 在 Marketo 的「行銷活動」區段中，以滑鼠右鍵按兩下 **左列的「行銷活動** 」。
+1. 在Marketo的「行銷活動」區段中，在左側列上的「**行銷活動**」上按一下滑鼠右鍵。
 
-   選 **取「新增Campaign資料夾」，然後命名資料夾**。
+   選取&#x200B;**新行銷活動資料夾**，並指定其名稱。
 
-   ![新檔案夾](assets/newFolder.png)
+   ![新資料夾](assets/newFolder.png)
 
-1. 在建立的檔案夾上按下滑鼠右鍵，選取 **「新增程式**」，然後命名。
+1. 以滑鼠右鍵按一下建立的資料夾，選取&#x200B;**新程式**，然後為其命名。
 
-   將其他一切保留為預設值，然後按兩下「 **建立」**。
+   保留其他專案為預設值，然後按一下[建立]。****
 
-   ![新方案 1](assets/newProgram1.png)
+   ![新程式1](assets/newProgram1.png)
 
-   ![新方案 2](assets/newProgram2.png)
+   ![新程式2](assets/newProgram2.png)
 
-1. 按兩下「**我的令牌**」，然後將「電子郵件腳本」**拖**&#x200B;曳到畫布上。
+1. 按一下&#x200B;**我的Token**，然後將&#x200B;**電子郵件指令碼**&#x200B;拖曳到畫布上。
 
-   ![電子郵件腳本](assets/emailScript.png)
+   ![電子郵件指令碼](assets/emailScript.png)
 
-1. 指定名稱，然後按兩下「按下 **以編輯」** 。
+1. 提供名稱，然後按一下&#x200B;**按一下以編輯**。
 
-   ![命名和編輯](assets/nameAndSave.png)
+   ![名稱和編輯](assets/nameAndSave.png)
 
-1. 展開 **[!UICONTROL 右側的「自定義物件]** 」，然後展開「 **[!UICONTROL 合約]** 」物件。
+1. 展開右側的&#x200B;**[!UICONTROL 自訂物件]**，然後展開&#x200B;**[!UICONTROL 合約]**&#x200B;物件。
 
-   在畫布上尋找並拖 [!UICONTROL 曳「名稱]」、「合約狀態」、「已傳送」和「目前簽署者 URL」。
+   尋找[!UICONTROL 名稱]、合約狀態、傳送日期，以及目前的簽署者URL並拖曳到畫布上。
 
-1. 使用這些令牌撰寫速度腳本，以顯示一周未簽署的合約URL。 以下是將目前日期與「傳送開啟」相比較的範例：
+1. 使用這些權杖撰寫Velocity指令碼，以顯示一週內未簽署的合約URL。 以下是比較目前日期與「傳送日期」的範例：
 
    ```
    #foreach($agreement in $adobe_agreementList)
@@ -129,78 +136,78 @@ Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，
 
 ## 建立提醒並新增個人化
 
-個人化範例包括：簽署者的姓名、合約名稱、合約的連結等等。
+個人化的範例包括：簽署者名稱、協定名稱、協定連結等。
 
-1. 在您建立的程式上按下滑鼠右鍵，然後按下「 **[!UICONTROL 新增本機資產]**」，然後選取 **[!UICONTROL 「電子郵件」]**。
+1. 用滑鼠右鍵按一下您建立的程式，然後按一下&#x200B;**[!UICONTROL 新增本機資產]**，然後選取&#x200B;**[!UICONTROL 電子郵件]**。
 
    ![新電子郵件](assets/createNewEmail.png)
 
-1. 在新索引標籤中，輸入 **[!UICONTROL 電子郵件的「名稱]** 」和 **[!UICONTROL 「說明]** 」，然後從範本選擇器中選取範本。
+1. 在新索引標籤中，輸入電子郵件的&#x200B;**[!UICONTROL 名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**，並從範本選擇器中選取範本。
 
    ![範本選擇器](assets/templatePicker.png)
 
 1. 按一下&#x200B;**[!UICONTROL 「建立」]**。
 
-1. 設定「來自名稱&#x200B;**」和**「**[!UICONTROL 寄件者位址」]**。
+1. 設定&#x200B;**[!UICONTROL 寄件者名稱]**&#x200B;和&#x200B;**[!UICONTROL 寄件者地址]**。
 
    ![提醒電子郵件](assets/reminderEmail.png)
 
-1. 按兩下訊息內文以啟用編輯器。
+1. 按一下訊息本文以啟動編輯器。
 
-   按兩下「 **[!UICONTROL 插入令牌」]** 按鈕，尋找您建立的自訂合約URL令牌，然後按下「 **[!UICONTROL 插入」]**。 完成電子郵件自定義，然後按兩下「儲存 **[!UICONTROL 」]**。
+   按一下&#x200B;**[!UICONTROL 插入權杖]**&#x200B;按鈕，尋找您建立的自訂合約URL權杖，然後按一下&#x200B;**[!UICONTROL 插入]**。 完成自訂您的電子郵件，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
-   ![插入字元](assets/insertToken.png)
+   ![插入Token](assets/insertToken.png)
 
-1. 使用已指派合約的配置檔預覽。
+1. 使用已指派合約的設定檔預覽。
 
-   您應該會看到「合約名稱」為標籤的URL連結。
+   您應該會看到連至URL的連結，其中的「合約名稱」為標籤。
 
    ![電子郵件連結](assets/emailLink.png)
 
-## 設定智慧型Campaign濾鏡
+## 設定智慧行銷活動篩選器
 
-1. 在您建立的程式上按兩下滑鼠右鍵，然後按下 **[!UICONTROL 「新增智慧型手機Campaign]**」。
+1. 以滑鼠右鍵按一下您建立的方案，然後按一下&#x200B;**[!UICONTROL 新增Smart Campaign]**。
 
-   ![智慧型Campaign 1](assets/smartCampaign1.png)
+   ![智慧型行銷活動1](assets/smartCampaign1.png)
 
-1. 指定您選擇的名稱，然後按兩下「 **[!UICONTROL 建立」]**。
+1. 為您選擇的名稱命名，然後按一下[建立]。****
 
-   ![智慧型Campaign 2](assets/smartCampaign2.png)
+   ![智慧型行銷活動2](assets/smartCampaign2.png)
 
-1. Search，然後按兩下「合約已&#x200B;**存取智慧型手機清單」，然後按下並拖**&#x200B;曳至「智慧型清單」。
+1. 搜尋，然後按一下並將&#x200B;**[!UICONTROL 具有合約]**&#x200B;拖曳到智慧列示。
 
    ![有合約](assets/hasAgreementDynamics1.png)
 
-   您向觸發程序顯示的欄位應該可在「新增限制&#x200B;**」中**&#x200B;使用。
+   您公開給觸發器的欄位應該可以在&#x200B;**[!UICONTROL 新增限制]**&#x200B;中使用。
 
-1. 選取 **[!UICONTROL 「合約狀態」]** 以及您要篩選的其他任何欄位。
+1. 選取「**[!UICONTROL 合約狀態]**」以及您想要作為篩選依據的任何其他欄位。
 
-   對於新增的每個欄位，定義要篩選的值。 在此情況下，它只會在合約狀態為「已傳出進行簽署&#x200B;***[!UICONTROL 」時觸發，且「傳送至」*]**&#x200B;會在超過 1 周&#x200B;*之前觸發。**&#x200B;***
+   對於每個新增的欄位，定義要作為篩選依據的值。 在此情況下，只有當&#x200B;**[!UICONTROL 合約狀態]**&#x200B;為&#x200B;*簽章結束*，且&#x200B;**[!UICONTROL 傳送日期]**&#x200B;為&#x200B;*且早於1週*&#x200B;時，才會觸發。
 
    ![合約狀態](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
-   > 如果您希望此行銷活動只針對特定合約執行，可在限制 （例如「名稱&#x200B;**」）**&#x200B;中新增唯一標識符。
+   > 如果您希望此行銷活動只針對特定合約執行，請將唯一識別碼新增至條件約束，例如&#x200B;**Name**。
 
-1. 確認營銷活動受眾，並查看誰符合「排程」卷標的資格。
+1. 確認行銷活動對象，並在「排程」標籤中檢視誰符合資格。
 
-   ![限定 符](assets/qualifiers.png)
+   ![限定詞](assets/qualifiers.png)
 
-## 設定智慧型手機Campaign流程
+## 設定Smart Campaign流程
 
-由於使用了行銷活動篩選 **器「到期前** 天數」，您可以針對營銷活動使用排程的重複性。
+由於已使用行銷活動篩選&#x200B;**到期前的天數**，因此您可以使用已排程的週期進行行銷活動。
 
-1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]&#x200B;**」索引標籤。**
+1. 按一下[!UICONTROL 智慧行銷活動]中的&#x200B;**[!UICONTROL 流量]**&#x200B;索引標籤。
 
-   Search，將「傳送電子郵件&#x200B;**」流程拖**&#x200B;曳到畫布上，然後選取您在上一個區段中建立的提醒電子郵件。
+   搜尋&#x200B;**傳送電子郵件**&#x200B;流程，並將其拖曳至畫布上，並選取您在上一節建立的提醒電子郵件。
 
    ![傳送電子郵件](assets/sendEmail.png)
 
-1. 按兩下智慧型手機 **[!UICONTROL Campaign中的「排]** 程」標籤。 確保營銷活動流程僅限於「智慧型Campaign設定」中 **每人只執行一**&#x200B;次。 然後，按一下「 **排程重複」索引** 標籤。
+1. 按一下Smart Campaign中的&#x200B;**[!UICONTROL 排程]**&#x200B;索引標籤。 請確定&#x200B;**智慧行銷活動設定**&#x200B;中的行銷活動流程限製為每人執行一次。 然後，按一下&#x200B;**排程週期**&#x200B;索引標籤。
 
-   ![「排程」索引標籤](assets/scheduleTab.png)
+   ![排程標籤](assets/scheduleTab.png)
 
-1. 將「 **排程」** 設為「 _每日」_。 必要時選擇營銷活動的開始日期和時間及結束日期。
+1. 將&#x200B;**排程**&#x200B;設定為&#x200B;_每日_。 視需要選擇行銷活動的開始日期、時間與結束日期。
 
    ![排程設定](assets/scheduleSettings.png)

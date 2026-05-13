@@ -1,20 +1,24 @@
 ---
-title: 使用摘要來排列 PDF 註釋
-description: 瞭解如何建立 PDF 檔案中所有註釋和標註的摘要
+title: 使用摘要來排解PDF評論
+description: 瞭解如何在您的PDF檔案中建立所有評論和標籤的摘要
 feature: Collaboration
 role: User
 level: Intermediate
 jira: KT-13298
 exl-id: 320d4094-dc23-4a5a-8975-e5e6b96105e5
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+TQID: https://experienceleague.adobe.com/8f6WtNeRSQt1S6dAeKYh-FgwN-0-g0eIEx-cPzCriXI
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: 50
 ht-degree: 0%
 
 ---
 
-# 使用摘要來排列 PDF 註釋
+# 使用摘要來排解PDF註解
 
-在此 60 秒的教學課程影片中，瞭解如何建立 PDF 檔案中所有註釋和標記的摘要。
+在這段60秒鐘的教學影片中，瞭解如何在您的PDF檔案中建立所有評論和標籤的摘要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436978?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)

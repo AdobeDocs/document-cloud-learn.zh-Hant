@@ -1,25 +1,31 @@
 ---
-title: 管理文件範本
-description: 編輯或刪除資料庫中的範本
+title: 管理檔案範本
+description: 編輯或刪除程式庫中的範本
 feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5328
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/jFb2SIfOMCbZN0DDMrFz5da2DYTJcdW81ZDl7DoD9ec
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: 55
 ht-degree: 0%
 
 ---
 
-# 管理文件範本
+# 管理檔案範本
 
-瞭解如何在資料庫中編輯或刪除範本。
+瞭解如何編輯或刪除資料庫中的範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426911?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，適用於使用者](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-perform-advanced-tasks-business-users) 的進階工作可在Experience League上免費使用！
+>此影片是播放清單[使用者的進階工作](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)的一部分，可在Experience League上免費取得！

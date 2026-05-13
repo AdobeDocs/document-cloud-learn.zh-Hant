@@ -1,6 +1,6 @@
 ---
-title: 在 SharePoint Online 中傳送以供簽署
-description: 直接在 Sharepoint Online 中傳送檔以索取簽名
+title: 在SharePoint Online中傳送以索取簽名
+description: 直接在Sharepoint Online中傳送檔案以索取簽名
 feature: Integrations
 role: User
 topic: Integrations
@@ -9,19 +9,25 @@ jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/dIRoNdGvn2iyzA4i2ntHkKdKb4wym9wXw-GysOBqutw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: 65
 ht-degree: 0%
 
 ---
 
-# 在 SharePoint Online 中傳送以索取簽名
+# 在SharePoint Online中傳送以索取簽名
 
-瞭解如何直接 [!DNL Microsoft Sharepoint Online]傳送檔以供簽署，以簡化檔工作流程。
+瞭解如何透過直接在[!DNL Microsoft Sharepoint Online]中傳送檔案以索取簽名，簡化檔案工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單 [的一部分，Acrobat「在Microsoft](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-integrate-microsoft-apps) 內使用應用程式」，Experience League時可免費使用！
+>此影片是播放清單[在Microsoft應用程式中使用Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)的一部分，可在Experience League上免費取得！

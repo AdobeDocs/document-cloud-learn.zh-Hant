@@ -6,9 +6,13 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/ghF2hPA1znrNeTBohH01rW5-bYhJRM5JMBTBfOTMldQ
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 232
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何使用風格化此PDF透過使用由[Adobe Express](https://express.adobe.com)支援的應用程式內工具套用字型建議、色彩主題、影像和設計元素，以改善PDF的視覺外觀。 本教學課程也說明如何調整版面、新增Adobe Stock或AI產生的影像，以及自訂文字樣式來建立精美、具有專業外觀的檔案。 此影片教學課程使用[新的Acrobat體驗](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445552?captions=chi_hant&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定團隊]
 

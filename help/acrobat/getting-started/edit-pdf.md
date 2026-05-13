@@ -7,9 +7,13 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/DcKX26C9JIfroXbhtoR5nwl7sz5TuhccLwREkJLUeag
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 103
 ht-degree: 0%
 
 ---
@@ -22,10 +26,10 @@ ht-degree: 0%
 >
 >瞭解[自動調整內容](auto-adjust-layout.md)的新編輯模式。
 
-<br>
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單[開始使用Adobe Acrobat](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-get-started-business-users)的一部分，可在Experience League上免費取得！
+>此影片是播放清單[開始使用Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)的一部分，可在Experience League上免費取得！

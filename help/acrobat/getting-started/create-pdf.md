@@ -7,10 +7,14 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/3-yIRIWuI29Obl-P5jio5ajbiEWxcjLOl0OQG3XY-OM
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: 130
+ht-degree: 4%
 
 ---
 
@@ -22,7 +26,7 @@ ht-degree: 0%
 >
 >您經常使用Microsoft Office嗎？ 檢視這些[整合](../integrate/integrate-overview.md#microsoft)，這些整合可讓您直接在您最愛的Office應用程式中建立PDF。
 
-<br>
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
 

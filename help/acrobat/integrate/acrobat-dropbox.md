@@ -1,6 +1,6 @@
 ---
-title: 使用來自 [!DNL Dropbox]
-description: 瞭解如何從檔案內部開啟、建立、編輯、簽署和儲存變更 [!DNL Dropbox] Acrobat
+title: 處理來自 [!DNL Dropbox]的檔案
+description: 瞭解如何從Acrobat內開啟、建立、編輯、簽署及儲存對 [!DNL Dropbox] 檔案的變更
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -9,15 +9,19 @@ topic-revisit: Integrations
 jira: KT-10837
 thumbnail: KT-10837.jpg
 exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/FUCSVMVC7wXy05Q7NkEMRrEHinw9ew--CVuUD6AwVSQ
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: 57
 ht-degree: 0%
 
 ---
 
-# 使用來自 [!DNL Dropbox]
+# 處理來自[!DNL Dropbox]的檔案
 
-瞭解如何從Acrobat內開啟、建立、編輯、簽署檔案及儲存變更 [!DNL Dropbox] 。 將您的Dropbox帳戶連線至Acrobat是真正的省時節約器，可讓您隨手取得所有檔案。
+瞭解如何從Acrobat內開啟、建立、編輯、簽署及儲存對[!DNL Dropbox]檔案的變更。 將您的Dropbox帳戶連線至Acrobat可真正節省時間，讓所有檔案觸手可及。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

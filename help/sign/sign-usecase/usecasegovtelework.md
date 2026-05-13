@@ -1,25 +1,29 @@
 ---
-title: 政府遠端辦公協定
-description: 有效率地收集所有員工針對遠端辦公合約、政策更新等的簽名
+title: 政府遠端工作協定
+description: 有效率地收集所有員工對遠端工作協定、原則更新等的簽章
 feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
+TQID: https://experienceleague.adobe.com/WdQP81MHQJopuQlxVbQw5ucfWIjSZPl-q7xBEM5awCI
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 88
 ht-degree: 0%
 
 ---
 
-# 政府遠端辦公協定
+# 政府遠端工作協定
 
-瞭解如何有效率地向所有員工收集有關遠端辦公合約、政策更新等的簽名。 首先，建立可重複使用的文件範本，以便從文檔庫快速存取。 第二，您使用 Mega Sign 一次傳送新文件範本給數百名員工以索取簽名。
+瞭解如何有效率地收集所有員工對遠端工作協定、原則更新等的簽名。 首先，建立可從檔案庫快速存取的可重複使用檔案範本。 其次，您可以使用Mega Sign將新檔案範本傳送出去供數百位員工簽名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?quality=12&learn=on&hidetitle=true)
 
-選取以下載或開啟遠端辦公合約的逐步 PDF 配方。
+選取以下載或開啟遠端工作合約的逐步PDF配方。
 
-[![下載 PDF 配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![下載PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

@@ -1,25 +1,30 @@
 ---
-title: 在快照中建立更高效的PDF檔案
-description: 使用Optimize PDF工具顯著減小PDF檔案的大小
+title: 快速建立更有效率的PDF檔案
+description: 使用「最佳化PDF」工具，大幅減小PDF檔案的大小
 feature: Optimize PDF
 role: User
 level: Intermediate
 jira: KT-9751
 thumbnail: KT-9751.jpg
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+TQID: https://experienceleague.adobe.com/PAk73M3-qWDOrhst1qlS0jd0ZJuFX9BPYwTHWZgQvB4
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: 61
 ht-degree: 0%
 
 ---
 
-# 在快照中建立更高效的PDF檔案
+# 快速建立更有效率的PDF檔案
 
 >[!NOTE]
 >
->僅在Acrobat Pro、高級和Studio中提供。
+>僅適用於Acrobat Pro、Premium和Studio。
 
-在此60秒視頻教程中，瞭解如何使用Optimize PDF工具顯著減小PDF檔案的大小。
+在這段60秒鐘的教學影片中，瞭解如何使用最佳化PDF工具來大幅減小PDF檔案的大小。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

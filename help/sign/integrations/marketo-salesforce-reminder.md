@@ -1,6 +1,6 @@
 ---
-title: 使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒
-description: 瞭解如何在合約一段時間后仍未簽署時，向 Marketo 傳送電子郵件提醒
+title: 使用適用於Salesforce的Acrobat Sign和Marketo設定指南傳送提醒
+description: 瞭解當一段時間後仍未簽署協定時，如何從Marketo傳送電子郵件提醒
 feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo Engage, Document Cloud
@@ -10,104 +10,111 @@ jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
+TQID: https://experienceleague.adobe.com/LfZGcDB7-D6cUdqzCbbsUQuJWSk2k-MkBjIt1w--vgU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: 949
 ht-degree: 0%
 
 ---
 
-# 使用 Acrobat Sign for Salesforce 和 Marketo 設定指南傳送提醒
+# 使用適用於Salesforce的Acrobat Sign和Marketo設定指南傳送提醒
 
-瞭解如何在合約一段時間后仍未簽署時，向 Marketo 傳送電子郵件提醒。 此整合使用 Acrobat Sign、Acrobat Sign for Salesforce、Marketo 以及 Marketo 和 Salesforce Sync。
+瞭解當一段時間後仍未簽署協定時，如何從Marketo傳送電子郵件提醒。 此整合使用Acrobat Sign、適用於Salesforce的Acrobat Sign、Marketo，以及Marketo和Salesforce Sync。
 
 ## 必要條件
 
-1. 安裝 Marketo Salesforce 同步。
+1. 安裝Marketo Salesforce Sync。
 
-   如需 Salesforce Sync 的資訊和最新增效模組，請參閱此處 [。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hant)
+   [此處](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供Salesforce Sync的資訊和最新外掛程式。
 
-1. 安裝 Acrobat Sign for Salesforce。
+1. 安裝適用於Salesforce的Acrobat Sign。
 
-   有關此增效模組的資訊請參閱 [這裡。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   [此處](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供此外掛程式的資訊。
 
-## 尋找自定義物件
+## 尋找自訂物件
 
-Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marketo Admin Terminal 中會出現幾個新選項。
+Marketo Salesforce同步和適用於Salesforce的Acrobat Sign設定完成後，Marketo管理終端機中會顯示數個新選項。
 
-![管理](assets/adminTab.png)
+![管理員](assets/adminTab.png)
 
 ![物件同步](assets/salesforceAdmin.png)
 
-1. 如果這是您第一次這麼做，請按兩下 **「同步結構** 」。 否則，請按下 **「重新整理結構」**。
+1. 如果您是第一次，請按一下&#x200B;**同步結構描述**。 否則，請按一下&#x200B;**重新整理結構描述**。
 
-   ![刷新](assets/refreshSchema1.png)
+   ![重新整理](assets/refreshSchema1.png)
 
-1. 如果全域同步正在執行，請按兩下「 **停用全域同步」以停用**。
+1. 如果正在執行全域同步處理，請按一下[停用全域同步處理] **來停用。**
 
-   ![禁用](assets/disableGlobal.png)
+   ![停用](assets/disableGlobal.png)
 
-1. 按兩下 **「重新整理結構」** 。
+1. 按一下&#x200B;**重新整理結構描述**。
 
-   ![重新整理 2](assets/refreshSchema2.png)
+   ![重新整理2](assets/refreshSchema2.png)
 
-## 同步自定義物件
+## 同步處理自訂物件
 
-在右側，請參閱「商機」、「聯繫人」和「帳戶型自定義物件」。
+在右側，請參閱Lead、Contact和Account型自訂物件。
 
-**如果您想要在銷售主管尚未在 Salesforce 中簽署合約時傳送提醒，請為「商機」底下的物件啟用同步** 。
+如果您想要在Lead尚未在Salesforce中簽署合約時傳送提醒，請為Lead底下的物件&#x200B;**啟用Sync**。
 
-**如果您想要在聯繫人尚未在 Salesforce 中簽署合約時傳送提醒，請為「聯繫人」底下的物件啟用同步** 。
+**如果您要在連絡人尚未在Salesforce中簽署合約時傳送提醒，請為連絡人底下的物件**&#x200B;啟用同步處理。
 
-**如果您想要在帳戶尚未在 Salesforce 中簽署合約時傳送提醒，請為「帳戶」底下的物件啟用同步** 。
+如果要在帳戶尚未在Salesforce中簽署合約時傳送提醒，請為[帳戶]下的物件&#x200B;**啟用Sync**。
 
-1. **為所需父級 （商機、連絡人或帳戶） 下方顯示的合約物件啟用同步**&#x200B;**&#x200B;**&#x200B;功能。針對其他想要同步的自定義物件執行此動作。
+1. **為顯示在所需父項（潛在客戶、連絡人或帳戶）下的**&#x200B;合約&#x200B;**物件啟用同步**。 針對您想要同步的任何其他自訂物件執行此動作。
 
    ![合約物件](assets/agreementObject.png)
 
-1. 下列資產會顯示如何 **啟用同步**。
+1. 下列資產顯示如何&#x200B;**啟用同步**。
 
-   ![自訂同步 1](assets/customObjectSync1.png)
+   ![自訂同步處理1](assets/customObjectSync1.png)
 
-   ![自訂同步 2](assets/customObjectSync2.png)
+   ![自訂同步處理2](assets/customObjectSync2.png)
 
-## 顯示自訂物件欄位以觸發
+## 向觸發器公開自訂物件欄位
 
-1. 停用全域同步時，選取您為「同步」啟用的合約自定義物件，然後選取「 **編輯可見字段」**。
+1. 停用全域同步時，請選取您啟用同步處理的協定自訂物件，然後&#x200B;**編輯可見欄位**。
 
-1. 檢查觸發欄中的「合約名稱」字段，將其顯示在Campaign動作觸發器」中。 檢查要篩選的其他任何欄位，然後按下「 **儲存」**。
+1. 勾選觸發程式欄位中的「合約名稱」欄位，將其公開給您的Campaign動作觸發程式。 勾選您要依據的其他欄位，然後&#x200B;**儲存**。
 
-   ![編輯可見欄位 1](assets/editVisible1.png)
+   ![編輯可見欄位1](assets/editVisible1.png)
 
-   ![編輯可見欄位 2](assets/editVisible2.png)
+   ![編輯可見欄位2](assets/editVisible2.png)
 
-1. 完成啟用自訂物件上的同步並顯示觸發器值時，請記得重新啟用 ync：
+1. 在自訂物件上啟用同步並公開觸發程式值後，請記得重新啟用ync：
 
    ![啟用全域](assets/enableGlobal.png)
 
-## 建立程式和令牌
+## 建立程式和Token
 
-1. 在 Marketo 的「行銷活動」區段中，以滑鼠右鍵按兩下 **左列的「行銷活動** 」，選 **取「新增Campaign資料夾」，然後命名該檔案夾**。
+1. 在Marketo的「行銷活動」區段中，以滑鼠右鍵按一下左側列上的&#x200B;**行銷活動**，選取&#x200B;**新增行銷活動資料夾**，然後為其命名。
 
-   ![新檔案夾](assets/newFolder.png)
+   ![新資料夾](assets/newFolder.png)
 
-1. 在建立的檔案夾上按下滑鼠右鍵，選取 **「新增程式**」，然後命名。 將其他一切保留為預設值，然後按兩下「 **建立」**。
+1. 以滑鼠右鍵按一下建立的資料夾，選取&#x200B;**新程式**，然後為其命名。 保留其他專案為預設值，然後按一下[建立]。****
 
-   ![新方案 1](assets/newProgram1.png)
+   ![新程式1](assets/newProgram1.png)
 
-   ![新方案 2](assets/newProgram2.png)
+   ![新程式2](assets/newProgram2.png)
 
-1. 按兩下「**我的令牌**」，然後將「電子郵件腳本」**拖**&#x200B;曳到畫布上。
+1. 按一下&#x200B;**我的Token**，然後將&#x200B;**電子郵件指令碼**&#x200B;拖曳到畫布上。
 
-   ![電子郵件腳本](assets/emailScript.png)
+   ![電子郵件指令碼](assets/emailScript.png)
 
-1. 指定名稱，然後按兩下「按下 **以編輯」** 。
+1. 提供名稱，然後按一下&#x200B;**按一下以編輯**。
 
-   ![命名和編輯](assets/nameAndSave.png)
+   ![名稱和編輯](assets/nameAndSave.png)
 
-1. 展開 **右側的「自定義物件** 」，然後展開「 **合約** 」物件。 尋找並拖曳「合約名稱」、「合約狀態」、「已簽署日期」和「簽署」URL到畫布上。
+1. 展開右側的&#x200B;**自訂物件**，然後展開&#x200B;**合約**&#x200B;物件。 尋找並拖曳合約名稱、合約狀態、簽署日期和簽署URL至畫布。
 
-1. 使用這些令牌撰寫速度腳本，以顯示一周未簽署的合約URL。 以下是將目前日期與「已傳送日期」相比較的範例：
+1. 使用這些權杖撰寫Velocity指令碼，以顯示一週內未簽署的合約URL。 以下是比較目前日期與「傳送日期」的範例：
 
    ```
    #foreach($agreement in $echosign_dev1__SIGN_Agreement__cList)
@@ -137,67 +144,67 @@ Marketo Salesforce 同步和 Acrobat Sign for Salesforce 設定完成後，Marke
 
 ## 建立提醒並新增個人化
 
-個人化範例包括：簽署者的姓名、合約名稱、合約的連結等等。
+個人化的範例包括：簽署者名稱、協定名稱、協定連結等。
 
-1. 在您建立的程式上按下滑鼠右鍵，然後按下「 **新增本機資產**」，然後選取 **「電子郵件」**。
+1. 用滑鼠右鍵按一下您建立的程式，然後按一下&#x200B;**新增本機資產**，然後選取&#x200B;**電子郵件**。
 
    ![新電子郵件](assets/createNewEmail.png)
 
-1. 在新索引標籤中，輸入 **電子郵件的「名稱** 」和 **「說明** 」，然後從範本選擇器中選取範本。 按一下&#x200B;**「建立」**。
+1. 在新索引標籤中，輸入電子郵件的&#x200B;**名稱**&#x200B;和&#x200B;**描述**，並從範本選擇器中選取範本。 按一下&#x200B;**「建立」**。
 
    ![範本選擇器](assets/templatePicker.png)
 
-1. 設定「來自名稱&#x200B;**」和**「**寄件者位址」**。
+1. 設定&#x200B;**寄件者名稱**&#x200B;和&#x200B;**寄件者地址**。
 
    ![提醒電子郵件](assets/reminderEmail.png)
 
-1. 按兩下訊息內文以啟用編輯器。 按兩下「 **插入令牌」** 按鈕，尋找您建立的自訂合約URL令牌，然後按下「 **插入」**。 完成電子郵件自定義，然後按兩下「儲存 **」**。
+1. 按一下訊息本文以啟動編輯器。 按一下&#x200B;**插入權杖**&#x200B;按鈕，尋找您建立的自訂合約URL權杖，然後按一下&#x200B;**插入**。 完成自訂您的電子郵件，然後按一下&#x200B;**儲存**。
 
-   ![插入字元](assets/insertToken.png)
+   ![插入Token](assets/insertToken.png)
 
-1. 使用已指派合約的配置檔預覽。 您應該會看到「合約名稱」為標籤的URL連結。
+1. 使用已指派合約的設定檔預覽。 您應該會看到連至URL的連結，其中的「合約名稱」為標籤。
 
    ![電子郵件連結](assets/emailLink.png)
 
-## 設定智慧型Campaign濾鏡
+## 設定智慧行銷活動篩選器
 
-1. 在您建立的程式上按兩下滑鼠右鍵，然後按下 **「新增智慧型手機Campaign**」。
+1. 以滑鼠右鍵按一下您建立的方案，然後按一下&#x200B;**新增Smart Campaign**。
 
-   ![智慧型Campaign 1](assets/smartCampaign1.png)
+   ![智慧型行銷活動1](assets/smartCampaign1.png)
 
-1. 指定您選擇的名稱，然後按兩下「 **建立」**。
+1. 為您選擇的名稱命名，然後按一下[建立]。****
 
-   ![智慧型Campaign 2](assets/smartCampaign2.png)
+   ![智慧型行銷活動2](assets/smartCampaign2.png)
 
-1. Search，然後按兩下「合約已&#x200B;**存取智慧型手機清單」，然後按下並拖**&#x200B;曳至「智慧型清單」。
+1. 搜尋，然後按一下並將&#x200B;**具有合約**&#x200B;拖曳到智慧列示。
 
    ![有合約](assets/hasAgreement.png)
 
-1. 您向觸發程序顯示的欄位現在應可在「新增限制&#x200B;**」中**&#x200B;使用。選取 **「合約狀態」** 以及您要篩選的其他任何欄位。 對於新增的每個欄位，定義要篩選的值。 在此情況下，它只會在合約狀態&#x200B;**為「已傳出進行簽署」，且**「傳送&#x200B;**日期」已超過 7 天時**&#x200B;才會觸發。
+1. 您公開給觸發器的欄位現在應該可以在&#x200B;**新增限制**&#x200B;中使用。 選取「**合約狀態**」以及您想要作為篩選依據的任何其他欄位。 對於每個新增的欄位，定義要作為篩選依據的值。 在此情況下，只有當&#x200B;**合約狀態**&#x200B;為簽名過期，且&#x200B;**傳送日期**&#x200B;在過去7天之前時，才會觸發此事件。
 
    ![合約狀態](assets/agreementStatus.png)
 
    >[!NOTE]
    >
-   > d 如果希望此行銷活動僅針對特定合約執行，則限制的唯一標識碼 （例如 **「合約名稱**」）。
+   > 如果您希望此行銷活動只針對特定合約執行，請為條件約束（例如&#x200B;**合約名稱**）指定唯一的識別碼。
 
-1. 確認營銷活動受眾，並查看誰符合「排程」卷標的資格。
+1. 確認行銷活動對象，並在「排程」標籤中檢視誰符合資格。
 
-   ![限定 符](assets/qualifiers.png)
+   ![限定詞](assets/qualifiers.png)
 
-## 設定智慧型手機Campaign流程
+## 設定Smart Campaign流程
 
-由於使用了行銷活動篩選器 **「未簽署** 天數」，因此您可以針對營銷活動使用排程的重複。
+由於已使用未簽署的行銷活動篩選器&#x200B;**天**，因此您可以在此行銷活動中使用排程的週期。
 
-1. 按兩下智慧型手機Campaign **中的「流程** 」索引標籤。 Search，將「傳送電子郵件&#x200B;**」流程拖**&#x200B;曳到畫布上，然後選取您在上一個區段中建立的提醒電子郵件。
+1. 按一下Smart Campaign中的&#x200B;**流量**&#x200B;標籤。 搜尋&#x200B;**傳送電子郵件**&#x200B;流程，並將其拖曳至畫布上，並選取您在上一節建立的提醒電子郵件。
 
    ![傳送電子郵件](assets/sendEmail.png)
 
-1. 按兩下智慧型手機Campaign **中的「排程** 」標籤。 確保營銷活動流程僅限於「智慧型Campaign設定」中 **每人只執行一**&#x200B;次。 然後，按一下「 **排程重複」索引** 標籤。
+1. 按一下Smart Campaign中的&#x200B;**排程**&#x200B;索引標籤。 請確定&#x200B;**智慧行銷活動設定**&#x200B;中的行銷活動流程限製為每人執行一次。 然後，按一下&#x200B;**排程週期**&#x200B;索引標籤。
 
-   ![「排程」索引標籤](assets/scheduleTab.png)
+   ![排程標籤](assets/scheduleTab.png)
 
-1. 將時程表&#x200B;**&#x200B;**&#x200B;設定為每日，視需要選擇活動開始日和時間，以及營銷活動的結束日期。
+1. 將&#x200B;**排程**&#x200B;設定為「每日」，視需要選擇行銷活動的開始日期與時間，以及結束日期。
 
    ![排程設定](assets/scheduleSettings.png)
 
