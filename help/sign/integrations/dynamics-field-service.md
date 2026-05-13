@@ -29,4 +29,4 @@ ht-degree: 0%
 
 瞭解現場服務排程員和技術人員如何使用Acrobat Sign、[!DNL Power Automate]和[!DNL Dynamics 365]來簡化現場服務工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447309?captions=chi_hant&quality=12&learn=on&hidetitle=true)

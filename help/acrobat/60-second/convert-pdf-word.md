@@ -24,4 +24,4 @@ ht-degree: 14%
 
 在這段60秒鐘的教學影片中，瞭解如何[將PDF檔案轉換為完全可編輯的Microsoft Word檔案](https://www.adobe.com/tw/acrobat/online/pdf-to-word.html){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428844?captions=chi_hant&quality=12&learn=on&hidetitle=true)

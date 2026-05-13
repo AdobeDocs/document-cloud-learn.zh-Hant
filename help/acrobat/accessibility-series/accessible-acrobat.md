@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 >本教學課程的部分功能僅適用於Acrobat Pro、Premium和Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477936?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -33,7 +33,7 @@ ht-degree: 30%
 
 「帳戶」索引標籤的「全局設定」區段中的功能較豐富，且這裡的所有設定都因使用情況而異。 瞭解如何為整個組織或特定群組編輯全域設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452113?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

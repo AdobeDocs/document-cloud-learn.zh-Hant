@@ -45,4 +45,4 @@ ht-degree: 20%
 * 管理和追蹤合約
 * 存取支援和資源
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454394?captions=chi_hant&quality=12&learn=on&hidetitle=true)

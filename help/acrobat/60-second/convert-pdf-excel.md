@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何將PDF檔案轉換為完全可編輯的Microsoft Excel檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409908?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436956?captions=chi_hant&quality=12&learn=on&hidetitle=true)

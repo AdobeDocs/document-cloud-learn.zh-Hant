@@ -31,5 +31,5 @@ ht-degree: 6%
 >
 >企業和業務計畫可在傳送過程中選擇性地公開「提醒」選項，或啟用帳戶/群組範圍的自動化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425321?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 

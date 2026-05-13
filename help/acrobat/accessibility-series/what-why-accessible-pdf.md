@@ -28,7 +28,7 @@ ht-degree: 0%
 
 瞭解什麼是可存取的PDF檔案及其重要原因。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471640?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

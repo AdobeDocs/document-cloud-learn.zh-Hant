@@ -28,4 +28,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何根據PDF標準條件（例如PDF/X、PDF/A或PDF/E）驗證PDF內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437315?captions=chi_hant&quality=12&learn=on&hidetitle=true)

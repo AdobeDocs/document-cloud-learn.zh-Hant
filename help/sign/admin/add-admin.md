@@ -32,4 +32,4 @@ ht-degree: 3%
 
 瞭解如何在[Admin Console](https://adminconsole.adobe.com/tw)中建立新使用者或將現有使用者升級為Acrobat Sign管理員角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453180?captions=chi_hant&quality=12&learn=on&hidetitle=true)

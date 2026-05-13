@@ -33,7 +33,7 @@ ht-degree: 0%
 
 瞭解如何編輯或刪除資料庫中的範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426911?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

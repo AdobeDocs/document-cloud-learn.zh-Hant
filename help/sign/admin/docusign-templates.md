@@ -31,4 +31,4 @@ ht-degree: 0%
 
 瞭解如何透過三個簡單的步驟，將檔案範本和工作流程順暢地移轉至Acrobat Sign。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465285?captions=chi_hant&quality=12&learn=on&hidetitle=true)

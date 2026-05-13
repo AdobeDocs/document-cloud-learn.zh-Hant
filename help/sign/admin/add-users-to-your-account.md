@@ -32,4 +32,4 @@ ht-degree: 6%
 
 瞭解如何在[Admin Console](https://adminconsole.adobe.com/tw)內將新使用者新增至Acrobat Sign。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453158?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453191?captions=chi_hant&quality=12&learn=on&hidetitle=true)

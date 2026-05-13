@@ -30,7 +30,7 @@ ht-degree: 0%
 
 瞭解如何在Acrobat Sign中管理和追蹤為了索取簽名而傳送的檔案。 取得您簽署或傳送以索取簽名的每個檔案的即時狀態更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436629?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

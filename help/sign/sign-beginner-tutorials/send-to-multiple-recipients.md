@@ -30,7 +30,7 @@ ht-degree: 4%
 
 您是否有多個人員必須簽署您的檔案？ 瞭解如何依照您想要的順序，將檔案傳送給多人進行電子簽章。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425288?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

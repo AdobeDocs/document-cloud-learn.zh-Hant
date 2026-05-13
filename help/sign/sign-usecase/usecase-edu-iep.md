@@ -30,4 +30,4 @@ ht-degree: 0%
 
 瞭解如何使用自訂工作流程Designer將幼稚園至12年級的教育計畫(IEP)程式數位化。 IEP是書面教育計畫，旨在滿足學生的需求，並需要多個IEP團隊成員的簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423328?captions=chi_hant&quality=12&learn=on&hidetitle=true)

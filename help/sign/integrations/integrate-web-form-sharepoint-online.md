@@ -34,4 +34,4 @@ ht-degree: 0%
 >
 >Acrobat Sign Web Form與[!DNL SharePoint]清單之間的欄位對應僅適用於線上安裝，不適用於內部部署安裝。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423559?captions=chi_hant&quality=12&learn=on&hidetitle=true)

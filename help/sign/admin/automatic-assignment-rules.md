@@ -32,4 +32,4 @@ ht-degree: 2%
 
 瞭解如何設定自動指派規則，以授予使用者在[Admin Console](https://adminconsole.adobe.com/tw)中Acrobat Sign的存取權 — 簡化布建並減少手動管理工作。 使用者可透過Acrobat Sign產生的產品存取URL，邀請其他使用者前往Admin Console。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475295?captions=chi_hant&quality=12&learn=on&hidetitle=true)

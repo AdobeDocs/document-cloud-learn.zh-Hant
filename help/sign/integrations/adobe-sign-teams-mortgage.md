@@ -31,7 +31,7 @@ ht-degree: 0%
 
 瞭解如何從[!DNL Microsoft Teams]中傳送協定以索取簽名、檢查協定狀態以及傳送提醒。 此範例會逐步說明抵押貸款代理人如何直接在Teams中傳送貸款申請以索取簽名。 如此緊密的整合可加速抵押貸款程式，即使是在遠端工作環境中處理抵押貸款申請者時亦然。
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446204?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -31,4 +31,4 @@ ht-degree: 4%
 
 瞭解如何在[Admin Console](https://adminconsole.adobe.com/tw)中指派Acrobat Sign使用者產品管理員和支援管理員角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453169?captions=chi_hant&quality=12&learn=on&hidetitle=true)

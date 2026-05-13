@@ -32,7 +32,7 @@ ht-degree: 0%
 
 瞭解如何從[!DNL Intesi Group]取得合格的數位簽署憑證。 註冊並驗證您的身分後，[!DNL Intesi Group]會發行一個數位ID給您，用於套用Acrobat Sign雲端簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449039?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 <br> 
 

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 瞭解如何直接從[!DNL Microsoft Teams]中的檔案索引標籤傳送檔案以索取簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439659?captions=chi_hant&quality=12&learn=on&hidetitle=true)

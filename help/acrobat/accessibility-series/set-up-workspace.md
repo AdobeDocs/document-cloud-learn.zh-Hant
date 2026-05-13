@@ -27,7 +27,7 @@ ht-degree: 0%
 
 瞭解如何將所有的協助工具放在觸手可及的位置，以協助簡化製作PDF檔案的程式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471627?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

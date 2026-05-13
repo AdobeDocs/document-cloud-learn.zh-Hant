@@ -31,7 +31,7 @@ ht-degree: 0%
 
 瞭解如何透過直接在[!DNL Microsoft Outlook]中填寫和簽署表格，簡化檔案工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443463?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

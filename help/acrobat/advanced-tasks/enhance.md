@@ -38,7 +38,7 @@ ht-degree: 1%
 
 使用[編輯PDF工具](https://www.adobe.com/tw/acrobat/online/pdf-editor.html){target="_blank"}將背景圖形新增至PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443828?captions=chi_hant&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 使用「編輯」工具，在PDF中新增頁尾。
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437744?captions=chi_hant&hidetitle=true)
 
 <br> 
 

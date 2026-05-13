@@ -34,4 +34,4 @@ ht-degree: 0%
 
 瞭解如何建立類似於Microsoft Teams會議期間親自簽署的線上簽署體驗。 Live Sign可讓您從任何裝置主控個人、快速且安全的簽署體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445951?captions=chi_hant&quality=12&learn=on&hidetitle=true)

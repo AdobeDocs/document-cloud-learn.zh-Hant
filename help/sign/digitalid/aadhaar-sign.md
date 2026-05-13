@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解如何使用您的[!DNL Aadhaar]數位ID驗證您的身分並授權Acrobat Sign中檔案的遠端數位簽名（雲端簽名）。
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444523?captions=chi_hant&quality=12&learn=on&hidetitle=true)

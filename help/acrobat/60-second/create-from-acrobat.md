@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何在Acrobat案頭應用程式中從Microsoft 365檔案建立PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437219?captions=chi_hant&quality=12&learn=on&hidetitle=true)

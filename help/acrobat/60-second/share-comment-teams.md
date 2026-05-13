@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何在Microsoft Teams中的PDF檔案上即時共同作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437491?captions=chi_hant&quality=12&learn=on&hidetitle=true)

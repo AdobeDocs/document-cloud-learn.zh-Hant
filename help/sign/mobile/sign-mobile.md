@@ -26,4 +26,4 @@ ht-degree: 30%
 
 瞭解如何使用Acrobat Sign行動應用程式為[iOS](https://apps.apple.com/us/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=zh_TW)簽署檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423957?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439049?captions=chi_hant&quality=12&learn=on&hidetitle=true)

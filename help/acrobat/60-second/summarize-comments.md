@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何在您的PDF檔案中建立所有評論和標籤的摘要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436978?captions=chi_hant&quality=12&learn=on&hidetitle=true)

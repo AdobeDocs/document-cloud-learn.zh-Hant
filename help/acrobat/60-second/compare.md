@@ -28,4 +28,4 @@ ht-degree: 0%
 
 在這段60秒鐘的教學影片中，瞭解如何使用Acrobat中的比較檔案工具找出兩個PDF檔案之間的差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437488?captions=chi_hant&quality=12&learn=on&hidetitle=true)

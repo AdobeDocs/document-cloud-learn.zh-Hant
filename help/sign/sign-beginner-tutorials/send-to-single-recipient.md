@@ -30,7 +30,7 @@ ht-degree: 7%
 
 在Acrobat Sign中，傳送檔案以索取單一簽名是最常見的動作。 在本教學課程中，瞭解準備和傳送檔案以索取簽名的最簡單方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425277?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

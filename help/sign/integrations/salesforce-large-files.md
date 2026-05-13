@@ -32,4 +32,4 @@ ht-degree: 0%
 
 瞭解如何在Acrobat Sign中為[!DNL Salesforce]設定大型檔案和推播合約服務。 推播合約可讓您傳送檔案、建立網頁表單，並讓合約以在[!DNL Salesforce]中建立的形式推播。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455788?captions=chi_hant&quality=12&learn=on&hidetitle=true)

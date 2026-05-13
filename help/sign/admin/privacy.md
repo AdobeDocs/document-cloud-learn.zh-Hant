@@ -32,4 +32,4 @@ ht-degree: 0%
 
 瞭解如何在Admin Console中為Acrobat Sign工作流程設定和使用隱私權管理員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448227?captions=chi_hant&quality=12&learn=on&hidetitle=true)

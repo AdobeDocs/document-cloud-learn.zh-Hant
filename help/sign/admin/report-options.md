@@ -35,4 +35,4 @@ ht-degree: 0%
 >
 >報表僅適用於商業與企業級計畫。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437155?captions=chi_hant&quality=12&learn=on&hidetitle=true)

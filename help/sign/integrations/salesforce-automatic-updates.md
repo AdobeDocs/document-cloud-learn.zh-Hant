@@ -30,4 +30,4 @@ ht-degree: 0%
 
 瞭解如何輕鬆將您的帳戶連結至[!DNL Salesforce]，以取得自動更新，進而簡化作業和準確性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439603?captions=chi_hant&quality=12&learn=on&hidetitle=true)

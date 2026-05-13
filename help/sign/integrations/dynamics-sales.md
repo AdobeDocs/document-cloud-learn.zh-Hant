@@ -29,4 +29,4 @@ ht-degree: 0%
 
 瞭解如何使用Acrobat Sign和[!DNL Microsoft Dynamics 365] for Sales來自動執行銷售報價簽署程式。 在此範例中，[!DNL Microsoft Dynamics 365] for Sales可協助Contoso的銷售團隊更快完成交易，並透過單一客戶檢視和整合式簽章程式，更好地利用商機。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423404?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447198?captions=chi_hant&quality=12&learn=on&hidetitle=true)

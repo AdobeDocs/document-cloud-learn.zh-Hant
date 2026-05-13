@@ -29,7 +29,7 @@ ht-degree: 0%
 
 瞭解如何從Microsoft Word建立可存取的PDF檔案。 從結構良好的Word檔案開始，可在建立無障礙的PDF時創造與眾不同的世界。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471662?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

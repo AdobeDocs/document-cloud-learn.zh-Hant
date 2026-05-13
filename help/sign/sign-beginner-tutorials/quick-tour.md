@@ -30,7 +30,7 @@ ht-degree: 0%
 
 進行Acrobat Sign工作區的快速影片導覽，以啟動並執行。
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425262?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

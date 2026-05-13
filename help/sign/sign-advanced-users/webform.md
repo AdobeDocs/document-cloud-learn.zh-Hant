@@ -39,7 +39,7 @@ ht-degree: 0%
 * [業務授與與與貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=zh-Hant)
 * [再就業協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=zh-Hant)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425322?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

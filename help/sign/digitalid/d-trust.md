@@ -31,4 +31,4 @@ ht-degree: 0%
 
 瞭解如何使用[!DNL D-Trust]註冊您的身分識別，然後在Acrobat Sign的檔案上使用[!DNL D-Trust]數位簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449155?captions=chi_hant&quality=12&learn=on&hidetitle=true)
