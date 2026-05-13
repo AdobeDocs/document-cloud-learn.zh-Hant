@@ -1,14 +1,16 @@
 ---
 user-guide-title: Acrobat教學課程
 solution: Acrobat
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
 breadcrumb-title: Acrobat教學課程
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: 674
 ht-degree: 5%
 
 ---
