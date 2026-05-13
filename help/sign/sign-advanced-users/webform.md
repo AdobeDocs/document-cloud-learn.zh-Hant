@@ -30,17 +30,17 @@ ht-degree: 0%
 
 [!BADGE 使用案例]
 
-* [教育網路表單實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [教育網路表單實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=zh-Hant)
 瞭解如何使用網路表單來改善學生對所需表單的存取權
-* [建立教育網路表單實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [建立教育網路表單實習申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=zh-Hant)
 瞭解如何建立實習網路表單
-* [具有多個未知簽署者的政府貸款申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [具有多個未知簽署者的政府貸款申請](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=zh-Hant)
 瞭解網路表單如何用於涉及多個未知參與者的複雜政府貸款申請工作流程
-* [業務授與與與貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [再就業協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [業務授與與與貸款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=zh-Hant)
+* [再就業協助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=zh-Hant)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是[使用者進階工作](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)和[管理員專用Acrobat Sign快速入門](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放清單的一部分，可在Experience League上免費取得！
+>此影片是[使用者進階工作](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-perform-advanced-tasks-business-users)和[管理員專用Acrobat Sign快速入門](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-get-started-administrators)播放清單的一部分，可在Experience League上免費取得！

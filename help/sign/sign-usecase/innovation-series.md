@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill Builders是時長30分鐘的研討會，旨在讓您的電子簽章發揮作用，而不會增加您的日常工作負擔。 每個月都會強調一個新主題。
 
-在[這裡](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)檢視所有隨選網路研討會。
+在[這裡](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-sign-webinars/overview)檢視所有隨選網路研討會。

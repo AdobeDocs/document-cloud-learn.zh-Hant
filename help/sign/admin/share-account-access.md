@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此影片是播放清單[管理員進階工作](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)的一部分，可在Experience League上免費取得！
+>此影片是播放清單[管理員進階工作](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-sign-perform-advanced-tasks-administrators)的一部分，可在Experience League上免費取得！

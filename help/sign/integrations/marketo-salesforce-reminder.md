@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. 安裝Marketo Salesforce Sync。
 
-   [此處](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供Salesforce Sync的資訊和最新外掛程式。
+   [此處](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hant)提供Salesforce Sync的資訊和最新外掛程式。
 
 1. 安裝適用於Salesforce的Acrobat Sign。
 

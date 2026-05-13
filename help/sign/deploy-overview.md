@@ -37,11 +37,11 @@ ht-degree: 24%
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
+    <a href="https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
+    <a href="https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
     </div>
     <em>瞭解如何在Adobe的企業平台Adobe Admin Console上管理Acrobat Sign使用者和授權</em>
     <br>
