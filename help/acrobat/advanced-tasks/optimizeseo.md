@@ -7,10 +7,20 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -18,7 +28,7 @@ ht-degree: 0%
 
 瞭解如何最佳化PDF，以提升網路上的可發現性和搜尋引擎排名。
 
-## 1.建立唯一內容
+## &#x200B;1. 建立唯一內容
 
 建立與網頁資訊不同的PDF內容。
 
@@ -39,9 +49,9 @@ PDF內容必須是唯一的，且結構如下：
 
 +++
 
-<br>
+<br> 
 
-## 2.新增檔案屬性
+## &#x200B;2. 新增檔案屬性
 
 PDF檔案的標題和中繼說明就像網頁一樣。
 
@@ -49,7 +59,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 新增索引鍵&#x200B;**[!UICONTROL 檔案屬性]**，如下所示：
 
-1. 選取「**[!UICONTROL 檔案>內容]**」或使用鍵盤快速鍵&#x200B;*Ctrl + D* （在Windows上）或&#x200B;*Cmd + D* (在Mac上)，並選取「**[!UICONTROL 描述]**」索引標籤。
+1. 選取「**[!UICONTROL 檔案>內容]**」或使用鍵盤快速鍵&#x200B;*Ctrl + D* （在Windows上）或&#x200B;*Cmd + D* （在Mac上），並選取「**[!UICONTROL 描述]**」索引標籤。
 1. 在&#x200B;**[!UICONTROL 標題：]**&#x200B;欄位中輸入關鍵字最佳化的標題。
 1. 請確定&#x200B;**[!UICONTROL 作者：]**&#x200B;欄位未識別您組織內的特定個人。
 1. 在&#x200B;**[!UICONTROL 主旨：]**&#x200B;欄位中輸入檔案的關鍵字最佳化摘要。
@@ -60,9 +70,9 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 +++
 
-<br>
+<br> 
 
-## 3.標籤您的PDF
+## &#x200B;3. 標籤您的PDF
 
 在PDF中標籤內容不僅可讓身心障礙人士存取您的檔案[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，也能改善SEO。
 
@@ -84,9 +94,9 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 >
 >僅適用於Acrobat Pro、Premium或Studio。
 
-<br>
+<br> 
 
-## 4.準備網頁
+## &#x200B;4. 準備網頁
 
 最佳化PDF，為網頁檢視做好準備，並[縮小PDF檔案大小](https://www.adobe.com/tw/acrobat/online/compress-pdf.html){target="_blank"}。
 
@@ -98,7 +108,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 ![檔案屬性的熒幕擷圖](../assets/optimizeseo4.png)
 
-此步驟會減少檔案大小，並在PDF中啟用&#x200B;**快速Web檢視**。 **快速Web檢視**&#x200B;可讓檔案在串流或下載整個檔案之前立即開啟、檢視和搜尋 — 建立最佳的一般使用者體驗。 開啟&#x200B;**[!UICONTROL 檔案內容]** (*Ctrl + D*&#x200B;在Windows上，或&#x200B;*Cmd + D*&#x200B;在Mac上)以判斷是否已啟用&#x200B;**快速Web檢視**。
+此步驟會減少檔案大小，並在PDF中啟用&#x200B;**快速Web檢視**。 **快速Web檢視**&#x200B;可讓檔案在串流或下載整個檔案之前立即開啟、檢視和搜尋 — 建立最佳的一般使用者體驗。 開啟&#x200B;**[!UICONTROL 檔案內容]** （*Ctrl + D*&#x200B;在Windows上，或&#x200B;*Cmd + D*&#x200B;在Mac上）以判斷是否已啟用&#x200B;**快速Web檢視**。
 
 ![檔案屬性的熒幕擷圖](../assets/optimizeseo5.png)
 
@@ -108,9 +118,9 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 +++
 
-<br>
+<br> 
 
-## 5.建立關鍵字檔案名稱
+## &#x200B;5. 建立關鍵字檔案名稱
 
 +++檢視有關如何建立關鍵字檔案名稱的詳細資訊
 
@@ -120,9 +130,9 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 +++
 
-<br>
+<br> 
 
-## 6.保護您的PDF
+## &#x200B;6. 保護 PDF
 
 最後一個步驟是[保護您的PDF](https://www.adobe.com/tw/acrobat/online/password-protect-pdf.html){target="_blank"}，以防止未經授權的變更。
 
@@ -130,7 +140,7 @@ PDF檔案的標題和中繼說明就像網頁一樣。
 
 依照下列步驟保護PDF：
 
-1. 開啟&#x200B;**[!UICONTROL 檔案內容]** (*Ctrl + D*&#x200B;在Windows上，或&#x200B;*Cmd + D*&#x200B;在Mac上)，然後選取&#x200B;**[!UICONTROL 安全性]**&#x200B;索引標籤。
+1. 開啟&#x200B;**[!UICONTROL 檔案內容]** （*Ctrl + D*&#x200B;在Windows上，或&#x200B;*Cmd + D*&#x200B;在Mac上），然後選取&#x200B;**[!UICONTROL 安全性]**&#x200B;索引標籤。
 1. 核取&#x200B;**[!UICONTROL 列印檔案的編輯與列印。 需要密碼才能變更這些設定。]**
 1. 在&#x200B;**[!UICONTROL 允許變更下：]**&#x200B;選取&#x200B;**[!UICONTROL 無]**。
 1. 勾選&#x200B;**[!UICONTROL 為視障者啟用熒幕助讀程式裝置的文字存取。]**

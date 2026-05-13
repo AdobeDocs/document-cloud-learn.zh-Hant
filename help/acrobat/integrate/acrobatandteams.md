@@ -1,6 +1,6 @@
 ---
-title: PDF 共同作業在 [!DNL Microsoft Teams]
-description: 適用於團隊的Adobe Acrobat可讓使用者透過檢視、批注和審核 PDF，不必離開 [!DNL Microsoft Teams]
+title: ' [!DNL Microsoft Teams]中的PDF Collaboration'
+description: 適用於團隊的Adobe Acrobat可讓使用者透過檢視、註釋和稽核PDF而不需離開 [!DNL Microsoft Teams]，與同事共同作業和工作
 feature: Integrations, Collaboration
 role: User
 topic: Integrations
@@ -9,31 +9,38 @@ topic-revisit: Integrations
 jira: KT-7119
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/x70gglcbJ7HheqV30ymoIRnSLE9GC5OV-evlUwCietg
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 176
 ht-degree: 0%
 
 ---
 
-# PDF 共同作業 [!DNL Microsoft Teams]
+# [!DNL Microsoft Teams]中的PDF共同作業
 
-適用於團隊的Adobe Acrobat可讓使用者透過檢視、批注和審核 PDF，不必離開 [!DNL Microsoft Teams]。 此整合包含：
+適用於團隊的Adobe Acrobat可讓使用者在不離開[!DNL Microsoft Teams]的情況下檢視、註釋和檢閱PDF，進而與同事共同作業和工作。 此整合包括：
 
-* 高質量檢視 – 這是僅能讓您直接在 [!DNL Microsoft Teams]內部開啟高精確度的 PDF 的 PDF 檢視體驗，提供滿足且流暢的工作體驗
-* 簡化 PDF 審核流程 — 直接在單一 PDF 中收集通道成員的意見回饋， [!DNL Microsoft Teams] 而不必透過多個附件收集和協調回饋意見
-* 隨時收到進度通知 — 當其他人對您的文件採取行動時，團隊會收到通知
-* 隨時通知審核者 — 審核者會在其他人回復其註釋時收到通知
-* 安全協作 – 與受信任的成員安全地共同作業，並保留將檔版本儲存在 [!DNL Microsoft SharePoint] 或 [!DNL OneDrive]
+* 高品質檢視 — 這僅是PDF的檢視體驗，可讓您直接在[!DNL Microsoft Teams]中開啟高傳真的PDF，以獲得令人滿意且順暢的工作體驗
+* 簡化PDF稽核 — 在[!DNL Microsoft Teams]中直接收集單一PDF中管道成員的意見反應，而非透過多個附件收集及協調意見反應
+* 保持進度通知 — 當其他人對您的檔案採取行動時，在Teams中收到通知
+* 讓檢閱者隨時瞭解情況 — 當其他人回覆他們的評論時，會通知檢閱者
+* 安全共同作業 — 與受信任的成員安全共同作業，並保留在[!DNL Microsoft SharePoint]或[!DNL OneDrive]中儲存檔案版本的能力
 
 >[!TIP]
 >
->查看這些其他Microsoft [整合](../integrate/integrate-overview.md#microsoft)。
+>檢視這些其他Microsoft [整合](../integrate/integrate-overview.md#microsoft)。
 
-<br>
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365) 的一部分，可在 Experience League 上免費取得！
+>此影片是播放清單[整合Acrobat和Microsoft 365](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365)的一部分，可在Experience League上免費取得！

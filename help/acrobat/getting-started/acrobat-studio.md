@@ -6,9 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
+TQID: https://experienceleague.adobe.com/YY1KnKoaUlehTZXs8Z3xtzqkD-D4k6BrDTSv4cQ-OtI
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 227
 ht-degree: 0%
 
 ---
@@ -25,15 +34,15 @@ ht-degree: 0%
 
 * **法律與法規遵循**
 
-  將政策、合約和法規指引集中在一個工作區中，然後使用AI Assistant來顯示變更、識別風險，並透過可驗證的引述產生合規性更新。**[立即試用](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
+  將政策、合約和法規指引集中在一個工作區中，然後使用AI Assistant來顯示變更、識別風險，並透過可驗證的引述產生合規性更新。 **[立即試用](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **人力資源**
 
-  將複雜的原則檔案轉換為清楚的摘要、常見問題集和可供員工使用的資料，同時保持傳訊的一致性和合規性。**[立即試用](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
+  將複雜的原則檔案轉換為清楚的摘要、常見問題集和可供員工使用的資料，同時保持傳訊的一致性和合規性。 **[立即試用](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **銷售**
 
-  從現有檔案提取已核准的內容，並將其轉換為精良、使用者端就緒的檔案，以快速彙編提案和RFP回應。**[立即試用](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
+  從現有檔案提取已核准的內容，並將其轉換為精良、使用者端就緒的檔案，以快速彙編提案和RFP回應。 **[立即試用](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **行銷與通訊**
 
@@ -41,4 +50,4 @@ ht-degree: 0%
 
 * **財務**
 
-  瞭解財務團隊如何透過財務報告更快速地行動，而不影響準確性、信任或控制力。**[立即試用](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
+  瞭解財務團隊如何透過財務報告更快速地行動，而不影響準確性、信任或控制力。 **[立即試用](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**

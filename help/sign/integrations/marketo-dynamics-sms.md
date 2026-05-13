@@ -1,6 +1,6 @@
 ---
-title: 使用 Acrobat Sign 針對 Microsoft Dynamics 365 和 Marketo 傳送通知
-description: 瞭解如何傳送簡訊、電子郵件或推送通知，讓簽署者知道合約即將推出
+title: 使用適用於Microsoft Dynamics 365和Marketo的Acrobat Sign傳送通知
+description: 瞭解如何傳送簡訊、電子郵件或推播通知，讓簽署者知道協定即將達成
 feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo Engage, Document Cloud
@@ -10,145 +10,159 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
+TQID: https://experienceleague.adobe.com/J-UO0MiY9BG6zt7UcwxYTupl00NBWNbjamrkoF-nKKE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: 686
 ht-degree: 0%
 
 ---
 
-# 使用 Acrobat Sign 針對 Microsoft Dynamics 365 和 Marketo 傳送通知
+# 使用適用於Microsoft Dynamics 365和Marketo的Acrobat Sign傳送通知
 
-瞭解如何使用 Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo 和 Marketo Microsoft Dynamics Sync，傳送簡訊、電子郵件或推送通知，讓簽署者知道合約進行中。 若要從 Marketo 傳送通知，您必須先購買或設定 Marketo SMS 管理功能。 此逐步解說使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但可以使用其他 Marketo SMS 解決方案。
+瞭解如何使用Acrobat Sign、適用於Microsoft動態的Acrobat Sign、Marketo和Marketo Microsoft Dynamics Sync傳送簡訊、電子郵件或推播通知，讓簽署者知道即將達成協定。 若要從Marketo傳送通知，您必須先購買或設定Marketo簡訊管理功能。 此逐步解說使用[Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但其他Marketo SMS解決方案可供使用。
 
 ## 必要條件
 
-1. 安裝 Marketo Microsoft Dynamics Sync。
+1. 安裝Marketo Microsoft Dynamics Sync。
 
-   有關 Microsoft Dynamics Sync 的資訊和最新外掛程式，請參閱 [這裡。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hant)
+   [此處](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hant)提供Microsoft Dynamics Sync的資訊和最新外掛程式。
 
-1. 安裝 Microsoft Dynamics Acrobat Sign。
+1. 安裝適用於Microsoft Dynamics的Acrobat Sign。
 
-   有關此增效模組的資訊請參閱 [這裡。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   [此處](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)提供此外掛程式的資訊。
 
-## 尋找自定義物件
+## 尋找自訂物件
 
-Marketo Microsoft Dynamics Sync 和 Acrobat Sign for Dynamics 設定完成後，Marketo Admin Terminal 中會出現兩個新選項。
+Marketo Microsoft Dynamics同步和Acrobat Sign for Dynamics設定完成後，「Marketo管理終端機」中會出現兩個新選項。
 
-![管理](assets/adminTerminal.png)
+![管理員](assets/adminTerminal.png)
 
-* 按兩下 **[!UICONTROL 「Dynamics 實體同步」]** 。
+* 按一下&#x200B;**[!UICONTROL Dynamics Entities Sync]**。
 
-  同步自定義實體之前，必須停用同步。 如果這是您第一次這麼做，請按兩下 **[!UICONTROL 「同步結構]** 」。 否則，請按下 **[!UICONTROL 「重新整理結構」]**。
+  同步處理自訂實體前，必須先停用同步。 如果您是第一次，請按一下&#x200B;**[!UICONTROL 同步結構描述]**。 否則，請按一下&#x200B;**[!UICONTROL 重新整理結構描述]**。
 
-  ![刷新](assets/refreshSchema.png)
+  ![重新整理](assets/refreshSchema.png)
 
-## 同步自定義物件
+## 同步處理自訂物件
 
-1. 在右側找到 [!UICONTROL 「商機]」、 [!UICONTROL 「聯繫人]」和 [!UICONTROL 「帳戶]」自定義物件。
+1. 在右側，找到[!UICONTROL 銷售機會]、[!UICONTROL 連絡人]和[!UICONTROL 帳戶]型自訂物件。
 
-   * **[!UICONTROL 如果您想要在 Dynamics 中將銷售機會新增至合約時觸發，請為「商機」底下的物件啟用同步]** 。
+   * 如果要在Dynamics中將潛在客戶新增至合約時觸發，請為Lead底下的物件&#x200B;**[!UICONTROL 啟用同步]**。
 
-   * **[!UICONTROL 如果您想要在 Dynamics 中將聯繫人新增至合約時觸發「連絡人」，請為「聯繫人」底下的物件啟用同步]** 。
+   * 如果要在Dynamics中將連絡人新增至合約時觸發，請為[連絡人]底下的物件&#x200B;**[!UICONTROL 啟用[同步]]**。
 
-   * **[!UICONTROL 如果您想要在 Dynamics 中將帳戶新增至合約時觸發「帳戶」底下的物件「同步]** 」。
+   * 如果要在Dynamics中將帳號新增至合約時觸發，請為[帳號]下的物件&#x200B;**[!UICONTROL 啟用Sync]**。
 
-   * **在所需的父級 （商機、聯繫人或帳戶） 下方，啟用合約物件的同步** 功能。
+   * **為想要的父項（潛在客戶、連絡人或帳戶）下的合約物件啟用同步**。
 
    ![自訂物件](assets/enableSyncDynamics.png)
 
-1. 在新視窗中，選取您在「合約」下想要的屬性。
+1. 在新視窗中，在「協定」下選取您想要的屬性。
 
-   啟用「限制&#x200B;**」和**&#x200B;[!UICONTROL 「觸發器&#x200B;]&#x200B;**」下方**&#x200B;的方塊，即可將其顯示在您的營銷活動中。
+   啟用&#x200B;**[!UICONTROL 條件約束]**&#x200B;和&#x200B;**[!UICONTROL 觸發器]**&#x200B;下的方塊，以公開給您的行銷活動。
 
-   ![自訂同步 1](assets/entitySync1.png)
+   ![自訂同步處理1](assets/entitySync1.png)
 
-   ![自訂同步 2](assets/entitySync2.png)
+   ![自訂同步處理2](assets/entitySync2.png)
 
-1. 在自定義物件上啟用同步後，重新啟動同步。
+1. 在自訂物件上啟用同步後，重新啟用同步。
 
-   返回 [!UICONTROL 「管理員終端機]」，然後按兩下 **[!UICONTROL 「Microsoft Dynamics]**」，然後按兩下 **[!UICONTROL 「啟用同步」]**。
+   返回[!UICONTROL 管理終端機]，按一下&#x200B;**[!UICONTROL Microsoft Dynamics]**，然後按一下&#x200B;**[!UICONTROL 啟用同步]**。
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
    ![啟用全域](assets/enableGlobalDynamics.png)
 
-## 建立程式
+## 建立方案
 
-1. 在[!UICONTROL 「行銷活動」]中，在左列的「營銷活動&#x200B;**」上按下滑鼠右鍵**，選&#x200B;**[!UICONTROL 取「新增Campaign資料夾]**」，然後將其命名。
+1. 在[!UICONTROL 行銷活動]中，用滑鼠右鍵按一下左側列上的&#x200B;**[!UICONTROL 行銷活動]**，選取&#x200B;**[!UICONTROL 新行銷活動資料夾]**，然後將其命名。
 
-   ![新檔案夾](assets/newFolder.png)
+   ![新資料夾](assets/newFolder.png)
 
-1. 在建立的檔案夾上按下滑鼠右鍵，選取 **[!UICONTROL 「新增程式]**」，然後命名。
+1. 以滑鼠右鍵按一下建立的資料夾，選取&#x200B;**[!UICONTROL 新程式]**，然後為其命名。
 
-   將其他一切保留為預設值，然後按兩下「 **[!UICONTROL 建立」]**。
+   保留其他專案為預設值，然後按一下[建立]。**&#x200B;**
 
-   ![新方案 1](assets/newProgram1.png)
+   ![新程式1](assets/newProgram1.png)
 
-   ![新方案 2](assets/newProgram2.png)
+   ![新程式2](assets/newProgram2.png)
 
-## [!DNL Twilio]設定簡訊
+## 設定[!DNL Twilio]簡訊
 
-請先確認您擁有有效 [!DNL Twilio] 帳戶，並購買所需的SMS功能。
+請先確定您擁有有效的[!DNL Twilio]帳戶並購買您所需的SMS功能。
 
-設定 Marketo - [!DNL Twilio] SMS Webhook 需要您的帳戶提供三個 [!DNL Twilio] 參數。
+設定Marketo - [!DNL Twilio]簡訊webhook需要您帳戶中的三個[!DNL Twilio]引數。
 
-* 帳戶 SID
-* 帳戶令牌
-* Twilio 電話號碼
+* 帳戶SID
+* 帳戶權杖
+* Twilio電話號碼
 
-從您的帳戶擷取這些參數，現在請開啟您的 Marketo 實例。
+從您的帳戶擷取這些引數，現在請開啟您的Marketo執行個體。
 
-1. 按下 **[!UICONTROL 右上方的「管理員]** 」。
+1. 按一下右上角的&#x200B;**[!UICONTROL 管理員]**。
 
-   ![管理](assets/adminTab.png)
+   ![管理員](assets/adminTab.png)
 
-1. 按兩下 **[!UICONTROL 「Webhook」]**，然後按一下 **[!UICONTROL 「新增 Webhook」]**。
+1. 按一下&#x200B;**[!UICONTROL Webhook]**，然後按一下&#x200B;**[!UICONTROL 新增Webhook]**。
 
    ![Webhook](assets/webhooks.png)
 
-1. **[!UICONTROL 輸入 Webhook 名稱]**&#x200B;和&#x200B;**[!UICONTROL 說明]**。
+1. 輸入&#x200B;**[!UICONTROL Webhook名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**。
 
-1. 輸入下列URL，並務必更換`ACCOUNT_SID`憑證和`AUTH_TOKEN`[!DNL Twilio]認證。
+1. 輸入下列URL，並確定以您的[!DNL Twilio]認證取代`ACCOUNT_SID`和`AUTH_TOKEN`。
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. 選 **[!UICONTROL 取「POST]** 」做為您的「要求」類型。
+1. 選取&#x200B;**[!UICONTROL POST]**&#x200B;作為您的要求型別。
 
-1. 輸入下列 **範本** ，並務必以 `MY_TWILIO_NUMBER` 電話號碼 [!DNL Twilio] 取代，並 `YOUR_MESSAGE` 顯示您選擇的訊息。
+1. 輸入下列&#x200B;**範本**，並確定要將`MY_TWILIO_NUMBER`取代為[!DNL Twilio]電話號碼，將`YOUR_MESSAGE`取代為您選擇的訊息。
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. 將「 **[!UICONTROL 要求令牌編碼]** 」設為 *「表格/URL」*。
+1. 將&#x200B;**[!UICONTROL 要求權杖編碼]**&#x200B;設定為&#x200B;*表單/URL*。
 
-1. 將回應類型設為 *JSON，* 然後按兩下「儲存 **[!UICONTROL 」]**。
+1. 將回應型別設定為&#x200B;*JSON*，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
-## 設定智慧型手機Campaign觸發程式
+## 設定Smart Campaign觸發器
 
-1. 在「行銷活動」區段中，在您建立的程式上按下滑鼠右鍵，然後選取「 **[!UICONTROL 新增智慧型手機Campaign]**」。
+1. 在行銷活動區段中，以滑鼠右鍵按一下您建立的方案，然後選取&#x200B;**[!UICONTROL 新增Smart Campaign]**。
 
-   ![智慧型Campaign 1](assets/smartCampaign1.png)
+   ![智慧型行銷活動1](assets/smartCampaign1.png)
 
-1. 命名，然後按兩下「 **[!UICONTROL 建立」]**。
+1. 將其命名，然後按一下[建立]。**&#x200B;**
 
-   ![智慧型Campaign 2](assets/smartCampaign3.png)
+   ![智慧型行銷活動2](assets/smartCampaign3.png)
 
-   您應該會在「Microsoft」資料夾下看到幾個可用的觸發器。
+   您應該會在Microsoft資料夾下看到數個可供使用的觸發器。
 
-1. 按兩下並拖 **[!UICONTROL 曳「新增至合約]** 」至 **[!UICONTROL 「智慧型清單]**」，然後在觸發程式中新增任何限制。
+1. 按一下並將&#x200B;**[!UICONTROL 新增至合約]**&#x200B;拖曳至&#x200B;**[!UICONTROL 智慧列示]**，然後新增您想要在觸發程式上擁有的任何限制。
 
-   ![新增至合約](assets/addedToAgreementDynamics.png)
+   ![已新增至合約](assets/addedToAgreementDynamics.png)
 
-## 設定智慧型手機Campaign流程
+## 設定Smart Campaign流程
 
-1. 按兩下「智慧型Campaign中的[!UICONTROL 「流量&#x200B;]&#x200B;**」索引標籤。**
+1. 按一下[!UICONTROL 智慧行銷活動]中的&#x200B;**[!UICONTROL 流量]**&#x200B;索引標籤。
 
-   Search，將「呼叫 Webhook **」流程拖**&#x200B;曳到畫布上，然後選取您在上一個區段中建立的 Webhook。
+   搜尋&#x200B;**呼叫Webhook**&#x200B;流程並拖曳至畫布上，然後選取您在上一節中建立的webhook。
 
-   ![呼叫 Webhook](assets/callWebhook.png)
+   ![呼叫Webhook](assets/callWebhook.png)
 
-1. 現在已為新增至合約的潛在客戶設定SMS通知營銷活動。
+1. 您針對新增至協定的潛在客戶的SMS通知行銷活動現已設定。

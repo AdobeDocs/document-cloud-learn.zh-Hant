@@ -1,20 +1,35 @@
 ---
-title: 啟用自動用戶分配規則
-description: 瞭解如何設定自動分配規則，以授予用戶在Admin Console中訪問Acrobat Sign的權限
+title: 啟用自動使用者指派規則
+description: 瞭解如何設定自動指派規則，以授予使用者在Admin Console中Acrobat Sign的存取權
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
 jira: KT-19302
 topic-revisit: Administration
-source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
+exl-id: 8979f619-4c79-4182-b829-636b19434381
+TQID: https://experienceleague.adobe.com/8ur5ud3fGyloku6YrnAkVpfbW3eZDiQpgVVdiNwuG9g
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+feature_v2:
+  - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: 73
+ht-degree: 2%
 
 ---
 
-# 啟用自動用戶分配規則
+# 啟用自動使用者指派規則
 
-瞭解如何設定自動分配規則，以在[Admin Console](https://adminconsole.adobe.com/tw)中授予用戶訪問Acrobat Sign的權限 — 簡化設定並減少手動管理任務。 用戶可以通過從Admin Console生成的產品訪問URL邀請其他用戶到Acrobat Sign。
+瞭解如何設定自動指派規則，以授予使用者在[Admin Console](https://adminconsole.adobe.com/tw)中Acrobat Sign的存取權 — 簡化布建並減少手動管理工作。 使用者可透過Acrobat Sign產生的產品存取URL，邀請其他使用者前往Admin Console。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475295?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3475295?captions=chi_hant&quality=12&learn=on&hidetitle=true)

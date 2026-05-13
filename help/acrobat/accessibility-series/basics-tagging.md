@@ -1,28 +1,38 @@
 ---
-title: 標籤的基礎
-description: 瞭解如何標籤PDF檔案以使其可訪問的基本知識
+title: 標籤的基本概念
+description: 瞭解如何標籤PDF檔案以方便存取的基礎知識
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+exl-id: bb6203cc-4904-407a-b0e9-60df6de823d2
+TQID: https://experienceleague.adobe.com/c9L5f4R2jRMKXIPESGQqhKMEALIxPEjnTzrcv2o4Fvo
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: 89
 ht-degree: 0%
 
 ---
 
-# 標籤的基礎知識
+# 標籤的基本概念
 
-瞭解如何標籤PDF檔案以使其可訪問的基本知識。 所涵蓋的主題包括：修復清單、編輯、為影像添加替代文本和簡單表。
+瞭解如何標籤PDF檔案以方便存取的基礎知識。 涵蓋的主題包括：修正清單、人工製作、新增影像的替代文字和簡單表格。
 
 >[!NOTE]
 >
->本教程的某些功能僅在Acrobat Pro、高級版和Studio中提供。
+>本教學課程的部分功能僅適用於Acrobat Pro、Premium和Studio。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477893?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此視頻是播放清單[PDF輔助功能系列](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-pdf-accessibility)的一部分，該系列在Experience League時可免費使用！
+>此影片是播放清單[PDF協助工具系列](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-pdf-accessibility)的一部分，可在Experience League上免費取得！

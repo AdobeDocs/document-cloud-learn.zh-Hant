@@ -1,20 +1,27 @@
 ---
-title: 將 PDF 轉換為 Powerpoint
-description: 將 PDF 檔案轉換為完全可編輯的 Microsoft PowerPoint 檔
+title: 將PDF轉換為Powerpoint
+description: 將PDF檔案轉換為完全可編輯的Microsoft PowerPoint檔案
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-13290
 exl-id: ed397b50-9b11-44ba-adeb-e962a078e772
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+TQID: https://experienceleague.adobe.com/0ztYQ7oEl2JHmweaOzvmzg3G-2mVEalux3egsi2Zp-g
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: 41
 ht-degree: 0%
 
 ---
 
-# 將 PDF 轉換為 PowerPoint
+# 將PDF轉換為PowerPoint
 
-在此 60 秒的教學課程影片中，瞭解如何將 PDF 檔案轉換為完全可編輯的 Microsoft PowerPoint 檔。
+在這段60秒鐘的教學影片中，瞭解如何將PDF檔案轉換為完全可編輯的Microsoft PowerPoint檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437343?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3437343?captions=chi_hant&quality=12&learn=on&hidetitle=true)

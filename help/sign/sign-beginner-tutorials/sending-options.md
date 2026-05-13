@@ -1,25 +1,37 @@
 ---
-title: 配置發送選項
-description: 瞭解如何在將文檔發送出去進行簽名時配置各種選項
+title: 設定傳送選項
+description: 了解如何在傳送文件以進行簽署時設定不同選項
 feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
+TQID: https://experienceleague.adobe.com/8INxsuSrOyZfS8LYNZE0s9Owe84aH5wSL1UVV9LGwjs
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: c975b431-530e-4c29-9216-0301b9e204c1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 0%
+source-wordcount: 65
+ht-degree: 20%
 
 ---
 
-# 配置發送選項
+# 設定傳送選項
 
-瞭解如何在發送文檔進行簽名時自定義協定詳細資訊、附加檔案以及配置其他設定，如提醒、過期和收件人語言。
+瞭解如何在傳送檔案以索取簽名時自訂協定詳細資料、附加檔案及設定其他設定，例如提醒、有效期和收件者語言。
 
 >[!NOTE]
 >
->您的管理員可能已自定義了發送選項，因此您看到的選項可能與本教程中顯示的選項不同。
+>您的管理員可能已自訂傳送選項，因此您看到的選項可能與本教學課程中顯示的選項不同。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475410?captions=chi_hant&quality=12&learn=on&hidetitle=true)

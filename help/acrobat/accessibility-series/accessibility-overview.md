@@ -1,118 +1,128 @@
 ---
-title: Acrobat輔助功能系列概述
-description: 瞭解如何使可訪問的PDF檔案
+title: Acrobat協助工具系列概觀
+description: 瞭解如何讓PDF檔案可供存取
 feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+TQID: https://experienceleague.adobe.com/tbtYNqK8p3mnv9HO-zWKMRaXBJwb0FEfY5niTYxAQqA
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: 303
 ht-degree: 0%
 
 ---
 
-# 輔助功能系列概述
+# 協助工具系列概觀
 
-瞭解如何使可訪問的PDF檔案。 該系列的Tutorials從標籤的基本知識到處理表單。 此系列現在以[課程格式](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials)在Experience League上提供。
+瞭解如何讓PDF檔案可供存取。 系列教學課程包含標籤的基本知識及使用表單。 此系列現在可在Experience League上以[課程格式](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials)取得。
 
 ## 新增功能
 
 >[!BEGINTABS]
 
->[!TAB 複雜表]
+>[!TAB 複雜資料表]
 
-瞭解如何[標籤表](complex-tables.md)以便在Acrobat訪問。
+瞭解如何[標籤表格](complex-tables.md)，以在Acrobat中取得協助工具。
 
->[!TAB 使可訪問的指導操作]
+>[!TAB 設定可存取的引導式動作]
 
-瞭解如何使用[使可訪問的指導操作](make-accessible-action.md)。
+瞭解如何使用[讓引導式動作易於存取](make-accessible-action.md)。
 
->[!TAB 在Acrobat建立可訪問的PDF]
+>[!TAB 在Acrobat中建立可存取的PDF]
 
-瞭解如何從Acrobat[開始建立](accessible-acrobat.md)可訪問的PDF。
+瞭解如何從Acrobat[&#128279;](accessible-acrobat.md)開始建立可存取的PDF。
 
->[!TAB 標籤的基礎知識]
+>[!TAB 標籤的基本概念]
 
-瞭解如何[標籤PDF](basics-tagging.md)檔案以使其可訪問的基礎知識。
+瞭解如何[標籤PDF](basics-tagging.md)檔案以使其可存取的基礎知識。
 
 >[!ENDTABS]
 
-## 輔助功能教程
+## 協助工具教學課程
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="what-why-accessible-pdf.md">
-      <img alt="可訪問的PDF檔案的內容和原因" src="../assets/accessibility-series-2025.png" />
+      <img alt="具備存取許可權的PDF檔案的用途及原因" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="what-why-accessible-pdf.md"><strong>可訪問的PDF檔案的內容和原因</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>可存取PDF檔案的內容及原因</strong></a>
     </div>
-    <em>瞭解可訪問的PDF檔案是什麼以及它為什麼重要</em>
+    <em>瞭解什麼是可存取的PDF檔案及其重要原因</em>
     <br>
   </td>
   <td>
     <a href="set-up-workspace.md">
-      <img alt="設定工作區" src="../assets/accessibility-series-2025.png" />
+      <img alt="設定您的工作區" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="set-up-workspace.md"><strong>設定工作區</strong></a>
+    <a href="set-up-workspace.md"><strong>設定您的工作區</strong></a>
     </div>
-    <em>瞭解如何將所有輔助工具放在您的指尖上</em>
+    <em>瞭解如何讓所有協助工具唾手可得</em>
     <br>
   </td>
   <td>
     <a href="create-accessible-from-word.md">
-      <img alt="從Word建立可訪問的PDF" src="../assets/accessibility-series-2025.png" />
+      <img alt="從Word建立無障礙的PDF" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="create-accessible-from-word.md"><strong>從Word</strong></a>建立可訪問的PDF
+    <a href="create-accessible-from-word.md"><strong>從Word建立可存取的PDF</strong></a>
     </div>
-    <em>從MicrosoftWord建立可訪問的PDF</em>
+    <em>從Microsoft Word建立可存取的PDF</em>
     <br>
   </td>
   <td>
     <a href="accessible-acrobat.md">
-      <img alt="在Acrobat建立可訪問的PDF" src="../assets/accessibility-series-2025.png" />
+      <img alt="在Acrobat中建立無障礙的PDF" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="accessible-acrobat.md"><strong>在Acrobat建立可訪問的PDF</strong></a>
+    <a href="accessible-acrobat.md"><strong>在Acrobat中建立可存取的PDF</strong></a>
     </div>
-    <em>瞭解如何從Acrobat開始建立可訪問的PDF</em>
+    <em>瞭解如何從Acrobat開始建立無障礙的PDF</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="basics-tagging.md">
-      <img alt="標籤的基礎知識" src="../assets/accessibility-series-2025.png" />
+      <img alt="標籤的基本概念" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>標籤的基礎知識</strong></a>
+    <a href="basics-tagging.md"><strong>標籤的基本概念</strong></a>
     </div>
-    <em>瞭解如何標籤PDF檔案以使其可訪問的基礎知識</em>
+    <em>瞭解如何標籤PDF檔案以方便存取的基礎知識</em>
     <br>
   </td>
  <td>
     <a href="scanned-documents.md">
-      <img alt="掃描的文檔" src="../assets/accessibility-series-2025.png" />
+      <img alt="掃描的檔案" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="scanned-documents.md"><strong>掃描的文檔</strong></a>
+    <a href="scanned-documents.md"><strong>掃描的檔案</strong></a>
     </div>
-    <em>瞭解如何使掃描的文檔在Acrobat可訪問</em>
+    <em>瞭解如何在Acrobat中存取掃描的檔案</em>
     <br>
   </td>
   <td>
     <a href="create-accessible-forms.md">
-      <img alt="建立可訪問的表單" src="../assets/accessibility-series-2025.png" />
+      <img alt="建立無障礙表單" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="create-accessible-forms.md"><strong>建立可訪問的表單</strong></a>
+    <a href="create-accessible-forms.md"><strong>建立可存取的表單</strong></a>
     </div>
-    <em>瞭解如何在Acrobat訪問表單</em>
+    <em>瞭解如何在Acrobat中讓表單可供存取</em>
     <br>
   </td>
   <td>
@@ -122,38 +132,38 @@ ht-degree: 0%
     <div>
     <a href="complex-lists.md"><strong>複雜清單</strong></a>
     </div>
-    <em>瞭解如何在Acrobat為輔助功能標籤複雜清單</em>
+    <em>瞭解如何在Acrobat中為協助工具標籤複雜清單</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="complex-tables.md">
-      <img alt="複雜表" src="../assets/accessibility-series-2025.png" />
+      <img alt="複雜表格" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="complex-tables.md"><strong>複雜表</strong></a>
+    <a href="complex-tables.md"><strong>複雜資料表</strong></a>
     </div>
-    <em>瞭解如何為Acrobat的輔助功能表添加標籤</em>
+    <em>瞭解如何在Acrobat中為協助工具標籤表格</em>
     <br>
   </td>
   <td>
     <a href="make-accessible-action.md">
-      <img alt="使「可訪問」指導操作" src="../assets/accessibility-series-2025.png" />
+      <img alt="讓引導式動作易於存取" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="make-accessible-action.md"><strong>使可訪問的指導操作</strong></a>
+    <a href="make-accessible-action.md"><strong>設定可存取的引導式動作</strong></a>
     </div>
-    <em>瞭解如何使用「使用戶可訪問」指導操作</em>
+    <em>瞭解如何使用「讓引導式動作易於存取」</em>
     <br>
   </td>
    <td>
-        <img alt="間隔物" src="../assets/Whitespacer.png" />
+        <img alt="分隔符號" src="../assets/Whitespacer.png" />
         <div>
         <br>
       </td>
       <td>
-        <img alt="間隔物" src="../assets/Whitespacer.png" />
+        <img alt="分隔符號" src="../assets/Whitespacer.png" />
         <div>
         <br>
     </td>

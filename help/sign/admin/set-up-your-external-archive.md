@@ -1,21 +1,34 @@
 ---
 title: 設定外部封存
-description: 瞭解如何為已簽署的合約備份建立外部封存盤
+description: 瞭解如何為已簽署的協定備份復本建立外部封存
 feature: Administration
 role: Admin
 level: Beginner
 jira: KT-5506
 thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+TQID: https://experienceleague.adobe.com/d4O6qVKUEUj5-zbMEfqXKAELTM5mEKBkNXTRTWzcItY
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2:
+  - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 75
 ht-degree: 0%
 
 ---
 
 # 設定外部封存
 
-瞭解如何為已簽署的合約備份建立外部封存盤。 您可以將副本封存至任何電子郵件位址，或封存至 [!DNL Box] Evernote。 已簽署並完成的電子郵件副本會傳送至您指定的電子郵件地址或雲端服務。
+瞭解如何為已簽署的協定備份復本建立外部封存。 您可以將復本封存到任何電子郵件地址，或[!DNL Box]和Evernote。 已簽署並完成的電子郵件副本會傳送至您指定的電子郵件地址或雲端服務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

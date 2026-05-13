@@ -7,10 +7,21 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -18,9 +29,9 @@ ht-degree: 2%
 
 [!DNL Adobe Sign Individual] （也稱為Adobe Sign Pro）將僅從2020年8月開始從ETLA （企業授權合約）選件包含的所有Acrobat DC許可權中取消布建，並將持續到2020年11月20日。 [!DNL Adobe Sign Individual]不提供企業級功能，應取代為企業客戶的Adobe Sign Enterprise。 這包括以獨立應用程式授權的Acrobat DC，以及以適用於企業的Creative Cloud — 完整應用程式的一部分授權的Acrobat DC。
 
-透過[!DNL Adobe Sign Individual]Adobe Sign **工具或**&#x200B;填寫並簽署&#x200B;**工具（**&#x200B;要求簽名[），可在Acrobat中存取](https://www.adobe.com/tw/acrobat/online/request-signature.html){target="_blank"}。
+透過&#x200B;**Adobe Sign**&#x200B;工具或&#x200B;**填寫並簽署**&#x200B;工具（[要求簽名](https://www.adobe.com/tw/acrobat/online/request-signature.html){target="_blank"}），可在Acrobat中存取[!DNL Adobe Sign Individual]。
 
-Acrobat DC![[!DNL Adobe Sign Individual]中的](../assets/Deploy_SignEntitle1.png)存取權
+Acrobat DC![&#128279;](../assets/Deploy_SignEntitle1.png)中的[!DNL Adobe Sign Individual]存取權
 
 如果您尚未將Acrobat DC更新到最新版本，該工具可能會標籤為「傳送以索取簽名」。
 
@@ -73,7 +84,7 @@ Acrobat DC體驗的![錯誤訊息](../assets/Deploy_SignEntitle2.png)
 * [登入 Adobe Document Cloud](https://helpx.adobe.com/tw/document-cloud/help/sign-in.html)
 * [管理檔案（我的檔案在哪裡？）](https://helpx.adobe.com/tw/document-cloud/help/manage-files.html)
 * [使用[!UICONTROL Acrobat Customization Wizard]進行設定](https://www.adobe.com/tw/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [&#x200B; [!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)的概觀
-* [在[!UICONTROL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)管理Adobe Sign
+* [[!UICONTROL Admin Console]的概觀](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
+* [管理[!UICONTROL Admin Console]上的Adobe Sign](https://helpx.adobe.com/tw/enterprise/using/adobe-sign-for-enterprise.html)
 
 **修訂版** 2020年5月20日；原始文章 — 2019年8月

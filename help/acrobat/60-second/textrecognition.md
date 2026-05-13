@@ -1,21 +1,28 @@
 ---
-title: 識別掃描的 PDF 檔案中的文字
-description: 轉換掃描的 PDF，以便在 PDF 中搜尋文字
+title: 辨識掃描PDF檔案中的文字
+description: 轉換掃描的PDF，以便在PDF中搜尋文字
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-9750
 thumbnail: KT-9750.jpg
 exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/4FwjZuC1t28StCaeB1pBR3SswsLSXilRpDQUgXiKLcE
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: 51
 ht-degree: 0%
 
 ---
 
-# 識別掃描的 PDF 檔案中的文字
+# 辨識掃描PDF檔案中的文字
 
-在此 60 秒的教學課程影片中，瞭解如何轉換掃描的 PDF，以便在 PDF 中搜尋文字。
+在這段60秒鐘的教學影片中，瞭解如何轉換掃描的PDF，以便在PDF中搜尋文字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)

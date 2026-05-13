@@ -1,21 +1,28 @@
 ---
-title: 立即建立相片 PDF
-description: 瞭解如何僅將一堆 JPG 拖放到Acrobat圖示上，以建立 PDF
+title: 立即建立像片PDF
+description: 瞭解如何將多個JPG拖放到Acrobat圖示上以建立PDF
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-8575
 thumbnail: KT-8575.jpg
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/KF1hj2olzJOpxax-zpTajYu2-29RmJ8mLRyHBIQ92qU
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: 89
+ht-degree: 8%
 
 ---
 
-# 立即建立相片的 PDF
+# 立即建立像片PDF
 
-在這 60 秒的教學課程影片中，瞭解如何將一群 JPG 拖放到Acrobat圖示上。 按兩下「是」以建立多頁 PDF。 然後，您只需將更多 JPG 檔案拖曳到「頁面」面板 [中，即可將其他頁面新增至 PDF](https://www.adobe.com/tw/acrobat/online/add-pages-to-pdf.html)。
+在這段60秒鐘的教學影片中，瞭解如何將多個JPG拖放到Acrobat圖示上。 按一下「是」以建立多頁PDF。 然後，您只需將更多JPG檔案拖曳至「頁面」面板，即可將其他頁面[新增至PDF](https://www.adobe.com/tw/acrobat/online/add-pages-to-pdf.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)

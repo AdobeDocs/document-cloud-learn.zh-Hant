@@ -1,6 +1,6 @@
 ---
-title: 處理您的 [!DNL SharePoint] 檔案
-description: 使用 Adobe Acrobat來簡化檔工作流程 [!DNL SharePoint] ，並Acrobat [!DNL Microsoft 365]
+title: 使用您的 [!DNL SharePoint] 檔案
+description: 使用 [!DNL Microsoft 365]的Adobe Acrobat簡化 [!DNL SharePoint] 和Acrobat的檔案工作流程
 feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
@@ -9,25 +9,32 @@ topic-revisit: Integrations
 jira: KT-7190
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/NBCpG3zMEzuHL-BcVRPQutgqqE8Ol1UqsOTxSU34Uyk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: 132
+ht-degree: 4%
 
 ---
 
-# 處理您的 [!DNL SharePoint] 檔案
+# 使用您的[!DNL SharePoint]檔案
 
-使用適用於 Microsoft 365[&#128279;](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview) 的Adobe Acrobat，簡化檔工作流程[!DNL SharePoint]和Acrobat。直接在[!DNL SharePoint]在線安全地將檔案轉換為 [!DNL Microsoft 365] PDF、[將 PDF 檔](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}合併為一個檔案、加上批注和重新排列頁面。
+使用Microsoft 365[&#128279;](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的Adobe Acrobat簡化與[!DNL SharePoint]和Acrobat的檔案工作流程。 將[!DNL Microsoft 365]個檔案安全地轉換為PDF，[將PDF檔案](https://www.adobe.com/tw/acrobat/online/merge-pdf.html){target="_blank"}合併為一個檔案、加上註解並重新排列頁面 — 直接從[!DNL SharePoint]線上進行。
 
 >[!NOTE]
 >
->Adobe Acrobat，[!DNL SharePoint]&#x200B;[!DNL OneDrive]並且[!DNL Office 365]包含可供所有使用者使用的免費功能 （例如在 PDF 中檢視和搜尋）。某些功能 （例如建立和合併 PDF） 需要適用於團隊的付費Acrobat，或是企業訂閱Acrobat。
+>適用於[!DNL SharePoint]、[!DNL OneDrive]和[!DNL Office 365]的Adobe Acrobat包含所有使用者都可使用的免費功能（例如在PDF中檢視和搜尋）。 部分功能（例如建立和合併PDF）需要適用於團隊的付費Acrobat或適用於企業的Acrobat訂閱。
 
-<br>
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此影片是播放清單 [整合 Acrobat 和 Microsoft 365](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365) 的一部分，可在 Experience League 上免費取得！
+>此影片是播放清單[整合Acrobat和Microsoft 365](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365)的一部分，可在Experience League上免費取得！

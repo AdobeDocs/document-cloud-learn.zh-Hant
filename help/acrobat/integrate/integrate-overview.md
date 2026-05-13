@@ -1,6 +1,6 @@
 ---
-title: Acrobat整合概觀
-description: 將 Acrobat 與 Box、Dropbox、Google 雲端硬碟、OneDrive 和 Microsoft 應用程式整合
+title: Acrobat整合總覽
+description: 將Acrobat與Box、Dropbox、Google Drive、OneDrive和Microsoft應用程式整合
 feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
@@ -9,20 +9,29 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
+TQID: https://experienceleague.adobe.com/Ou8oN-1Pqv6iPqJkAVjQtIlkAQNHW4zGpKPAubYXzMc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: 777
 ht-degree: 0%
 
 ---
 
-# 整合概觀
+# 整合總覽
 
-將Acrobat與[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、和[!DNL Microsoft]&#x200B;[!DNL OneDrive]應用程式整合。
+將Acrobat與[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]和[!DNL Microsoft]應用程式整合。
 
 ## Microsoft
 
-瞭解您團隊中的每個人如何直接在 365[&#128279;](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html) Microsoft中順暢地使用 PDF 檔案。查看此專家精心策劃的 [Acrobat 和 365 整合Microsoft播放清單](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365) 。
+瞭解您團隊中的每個人如何順暢地使用[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)中的PDF檔案。 檢視這份Acrobat和Microsoft 365整合上精通的[播放清單](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365)。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -31,8 +40,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" title="從 Microsoft Word 建立 PDF 檔案" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_160850f4e616bba4cc020274b0bb208219bc5ba9a.png?width=400&format=webply&optimize=medium" alt="從 Microsoft Word 建立 PDF 檔案"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" title="從Microsoft Word建立PDF檔案" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_160850f4e616bba4cc020274b0bb208219bc5ba9a.png?width=400&format=webply&optimize=medium" alt="從Microsoft Word建立PDF檔案"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -40,12 +49,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" title="從 Microsoft Word 建立 PDF 檔案">從 Microsoft Word 建立 PDF 檔案</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" title="從Microsoft Word建立PDF檔案">從Microsoft Word建立PDF檔案</a>
                     </p>
-                    <p class="is-size-6">瞭解如何直接從 Microsoft Word 建立功能豐富的 PDF 檔案</p>
+                    <p class="is-size-6">瞭解如何直接從Microsoft Word建立豐富、強大的PDF檔案</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -54,8 +63,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" title="在 Office 中建立網頁版 PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_18aa95e189db566b04ebc9fbe5b06bf2824641c4d.png?width=400&format=webply&optimize=medium" alt="在 Office 中建立網頁版 PDF"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" title="在Office網頁版中建立PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_18aa95e189db566b04ebc9fbe5b06bf2824641c4d.png?width=400&format=webply&optimize=medium" alt="在Office網頁版中建立PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,12 +72,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" title="在 Office 中建立網頁版 PDF">在 Office 中建立網頁版 PDF</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" title="在Office網頁版中建立PDF">在Office網頁版中建立PDF</a>
                     </p>
-                    <p class="is-size-6">瞭解如何在不離開 Microsoft Office 網頁應用程式的情況下建立 PDF 檔案</p>
+                    <p class="is-size-6">瞭解如何在不離開Microsoft Office的情況下為網頁應用程式建立PDF檔案</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -77,8 +86,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" title="使用 SharePoint 檔案" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_11c43a21e8c6e903139e82e352cdc6a5cea8fc0b0.png?width=400&format=webply&optimize=medium" alt="使用 SharePoint 檔案"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" title="使用您的SharePoint檔案" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_11c43a21e8c6e903139e82e352cdc6a5cea8fc0b0.png?width=400&format=webply&optimize=medium" alt="使用您的SharePoint檔案"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,12 +95,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" title="使用 SharePoint 檔案">使用 SharePoint 檔案</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" title="使用您的SharePoint檔案">使用您的SharePoint檔案</a>
                     </p>
-                    <p class="is-size-6">透過 SharePoint 和 Acrobat 簡化檔工作流程</p>
+                    <p class="is-size-6">使用SharePoint和Acrobat簡化檔案工作流程</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -100,8 +109,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" title="在 Microsoft Teams 中進行 PDF 共同作業" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_188870a15e61bcc699e58800392f30c1122ec61df.png?width=400&format=webply&optimize=medium" alt="在 Microsoft Teams 中進行 PDF 共同作業"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" title="Microsoft Teams中的PDF共同作業" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_188870a15e61bcc699e58800392f30c1122ec61df.png?width=400&format=webply&optimize=medium" alt="Microsoft Teams中的PDF共同作業"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,12 +118,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" title="在 Microsoft Teams 中進行 PDF 共同作業">在 Microsoft Teams 中進行 PDF 共同作業</a>
+                        在Microsoft Teams中<a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" title="Microsoft Teams中的PDF共同作業">PDF共同作業</a>
                     </p>
-                    <p class="is-size-6">進行共同作業和審核 PDF，而無需離開Microsoft Teams</p>
+                    <p class="is-size-6">無需離開Microsoft Teams即可共同作業和檢閱PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -123,8 +132,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/outlook" title="在 Outlook 中將電子郵件訊息和附件轉換為 PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1ec7f9367d8d7b1377ae45b9701b9c5556a07484e.png?width=400&format=webply&optimize=medium" alt="在 Outlook 中將電子郵件訊息和附件轉換為 PDF"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/outlook" title="在Outlook中將電子郵件訊息與附件轉換為PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1ec7f9367d8d7b1377ae45b9701b9c5556a07484e.png?width=400&format=webply&optimize=medium" alt="在Outlook中將電子郵件訊息與附件轉換為PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,12 +141,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" title="在 Outlook 中將電子郵件訊息和附件轉換為 PDF">在 Outlook 中將電子郵件訊息和附件轉換為 PDF</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" title="在Outlook中將電子郵件訊息與附件轉換為PDF">在Outlook中將電子郵件訊息與附件轉換成PDF</a>
                     </p>
-                    <p class="is-size-6">瞭解如何在 Outlook 中以專業且安全的身分提供資訊</p>
+                    <p class="is-size-6">瞭解如何在Outlook內部以專業且安全的方式提供資訊</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -146,8 +155,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/edge" title="使用 Microsoft Edge 瀏覽時建立 PDF 內容" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1c6d030256fba40db1a9b2a9bfd53798abbb5048a.png?width=400&format=webply&optimize=medium" alt="使用 Microsoft Edge 瀏覽時建立 PDF 內容"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/edge" title="使用Microsoft Edge瀏覽時建立PDF內容" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1c6d030256fba40db1a9b2a9bfd53798abbb5048a.png?width=400&format=webply&optimize=medium" alt="使用Microsoft Edge瀏覽時建立PDF內容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,12 +164,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" title="使用 Microsoft Edge 瀏覽時建立 PDF 內容">使用 Microsoft Edge 瀏覽時建立 PDF 內容</a>
+                        使用Microsoft Edge瀏覽時<a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" title="使用Microsoft Edge瀏覽時建立PDF內容">建立PDF內容</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用 Microsoft Edge 的Adobe Acrobat擴展名將網頁轉換為 PDF</p>
+                    <p class="is-size-6">瞭解如何使用Microsoft Edge的Adobe Acrobat擴充功能將網頁轉換為PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -169,8 +178,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" title="使用「Microsoft檢視資訊」敏感性標籤保護 PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1085db4004c8609c978659d2faaaa254392749f9a.png?width=400&format=webply&optimize=medium" alt="使用「Microsoft檢視資訊」敏感性標籤保護 PDF"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" title="使用Microsoft Purview資訊敏感度標籤來保護PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_1085db4004c8609c978659d2faaaa254392749f9a.png?width=400&format=webply&optimize=medium" alt="使用Microsoft Purview資訊敏感度標籤來保護PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,12 +187,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" title="使用「Microsoft檢視資訊」敏感性標籤保護 PDF">使用「Microsoft檢視資訊」敏感性標籤保護 PDF</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" title="使用Microsoft Purview資訊敏感度標籤來保護PDF">使用Microsoft Purview資訊敏感度標籤來保護PDF</a>
                     </p>
-                    <p class="is-size-6">瞭解如何直接在「Acrobat」中使用「Microsoft檢視資訊」敏感度標籤保護 PDF</p>
+                    <p class="is-size-6">瞭解如何直接在Acrobat中使用Microsoft Purview資訊敏感度標籤來保護PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -193,7 +202,7 @@ ht-degree: 0%
 
 ## Google 雲端硬碟
 
-瞭解如何使用必要的 PDF 和電子簽名工具，在更短的時間內 [!DNL Google Drive]完成更多任務作。
+瞭解如何透過[!DNL Google Drive]中的基本PDF和電子簽章工具，在更短的時間內完成更多工作。
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -201,8 +210,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" title="Google 雲端硬碟的Adobe Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_10e63a1100a749da85d52fea9c8632aa92961ea5f.png?width=400&format=webply&optimize=medium" alt="Google 雲端硬碟的Adobe Acrobat"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" title="適用於Google的Adobe Acrobat Drive" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/media_10e63a1100a749da85d52fea9c8632aa92961ea5f.png?width=400&format=webply&optimize=medium" alt="適用於Google的Adobe Acrobat Drive"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,12 +219,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" title="Google 雲端硬碟的Adobe Acrobat">Google 雲端硬碟的Adobe Acrobat</a>
+                        Google磁碟機的<a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" title="適用於Google的Adobe Acrobat Drive">Adobe Acrobat</a>
                     </p>
-                    <p class="is-size-6">直接在Google雲端硬碟應用程式中存取省時的 PDF 工具和電子簽名工作流程</p>
+                    <p class="is-size-6">直接在Google Drive應用程式中存取省時的PDF工具和電子簽章工作流程</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -225,7 +234,7 @@ ht-degree: 0%
 
 ## Dropbox
 
-瞭解存取和使用儲存在 [!DNL Dropbox]其中的檔案有多簡單。
+瞭解存取及使用[!DNL Dropbox]中儲存的檔案是何等容易。
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -244,10 +253,10 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" title="處理來自Dropbox的檔案">處理來自Dropbox的檔案</a>
                     </p>
-                    <p class="is-size-6">從Acrobat中開啟、建立、編輯、簽署Dropbox檔案的變更Acrobat</p>
+                    <p class="is-size-6">從Acrobat內開啟、建立、編輯、簽署及儲存對Dropbox檔案的變更</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
         </div>
@@ -257,4 +266,4 @@ ht-degree: 0%
 
 ## Box
 
-瞭解 Acrobat 和 [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 如何讓組織中的每個人更輕鬆地持續推展業務。
+瞭解Acrobat和[Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}如何讓您組織中的每個人都能更輕鬆地保持業務運作。
