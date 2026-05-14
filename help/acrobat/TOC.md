@@ -1,16 +1,15 @@
 ---
 user-guide-title: Acrobat教學課程
 solution: Acrobat
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
 breadcrumb-title: Acrobat教學課程
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 02a0d02585936fc89b855bf994ad6b6fa803dec0
+source-git-commit: 8137e92fd1731d6b8f3c03176371b397061d227c
 workflow-type: tm+mt
-source-wordcount: 681
+source-wordcount: 682
 ht-degree: 5%
 
 ---
@@ -24,7 +23,7 @@ ht-degree: 5%
    + 了解基本功能 {#basics}
       + [工作區基本介紹](getting-started/workspace-basics.md)
       + [全新Acrobat體驗](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hant#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [使用Acrobat Web隨時隨地工作](getting-started/acrobatweb.md)
       + [機動生產力](getting-started/productivity.md)
       + [PDF來自何處？](getting-started/where-do-pdfs-come-from.md)
@@ -85,11 +84,11 @@ ht-degree: 5%
       + [自訂命令和工具](advanced-tasks/custom.md)
 + 由AI支援 {#ai-powered}
    + [概觀](ai-powered/ai-overview.md)
-   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [在PDF中編輯圖形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [將此PDF風格化](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 使用案例 {#use-cases}
    + [概觀](use-cases/use-cases-overview.md)
    + 業務線 {#lob}
@@ -103,6 +102,7 @@ ht-degree: 5%
          + [概觀](use-cases/lob/legal/legal-overview.md)
          + [將法律見解轉換為可操作的指引](use-cases/lob/legal/legal-insights.md)
       + 行銷 {#marketing}
+         + [概觀](use-cases/lob/marketing/marketing-overview.md)
          + [使用Acrobat Studio加速產品推出](use-cases/lob/marketing/marketing-product-launch.md)
       + 銷售 {#sales}
          + [概觀](use-cases/lob/sales/sales-overview.md)
@@ -110,7 +110,7 @@ ht-degree: 5%
    + 政府 {#gov}
       + [概觀](use-cases/gov/gov-overview.md)
       + 使用Acrobat時隨處使用的5個秘訣 {#tips}
-         + [使用Acrobat時隨處使用的5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat時隨處使用的[5秘訣](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [秘訣#1 — 取得工具](use-cases/gov/get-your-tools.md)
          + [秘訣#2 — 共同作業檔案](use-cases/gov/collaborate-on-documents.md)
          + [秘訣#3 — 保護數位檔案](use-cases/gov/protect-digital-documents.md)
@@ -151,12 +151,12 @@ ht-degree: 5%
    + [概觀](integrate/integrate-overview.md)
    + [從 [!DNL Microsoft Word]建立PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中為網頁建立PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF共同作業](integrate/acrobatandteams.md)
    + [使用您的 [!DNL SharePoint] 檔案](integrate/acrobatandsp.md)
    + [在 [!DNL Outlook]中將電子郵件訊息與附件轉換為PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]瀏覽時建立PDF內容](integrate/edge.md)
    + [使用 [!DNL Microsoft Purview Information] 敏感度標籤保護PDF](integrate/microsoftsensitivitylabels.md)
-   + [&#x200B; [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [ [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [處理來自 [!DNL Dropbox]的檔案](integrate/acrobat-dropbox.md)
 + 開發 {#develop}
    + [概觀](develop/develop-overview.md)
@@ -165,5 +165,5 @@ ht-degree: 5%
    + [ETLA客戶重要的Acrobat DC產品更新](deploy/signentitlementchanges.md)
 + 行動裝置版本 {#mobile}
    + [概觀](mobile/mobile-overview.md)
-   + [機動生產力](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [機動生產力](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [將任何內容掃描到PDF](mobile/scan-mobile-app.md)
