@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,18 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+    <a href="lob/marketing/marketing-overview.md">
+      <img alt="行銷使用案例" src="../assets/use-case-marketing.png" />
+    </a>
+    <div>
+    <a href="lob/marketing/marketing-overview.md"><strong>行銷使用案例</strong></a>
+    </div>
+    <em>瞭解行銷團隊如何簡化共同作業、加速核准，以及更快地將新創意推向市場</em>
+    <br>
+  </td>
+  </tr>
+  <tr>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="銷售使用案例" src="../assets/use-case-sales.png" />
     </a>
@@ -67,7 +79,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 產業
+## 政府
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
