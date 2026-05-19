@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
+source-git-commit: 5201568bc89f87becd045c4f60e6baa34cdb1dc2
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 使用Acrobat Studio  加速產品推出]
+>使用Acrobat Studio [!TAB 加速產品推出]
 
 瞭解行銷團隊如何使用Acrobat Studio來集中處理[產品發佈](marketing-product-launch.md)資產、簡化利害關係人的評論，以及擴展組織整備 — 所有這些都是從單一PDF空間完成的。
 
@@ -37,8 +37,7 @@ ht-degree: 1%
     <div>
     使用Acrobat Studio <a href="marketing-product-launch.md"><strong>加速產品推出</strong></a>
     </div>
-    <em>瞭解行銷團隊如何使用Acrobat Studio來集中產品上市資產、簡化利害關係人稽核及擴展組織整備
-功能： Gen AI</em>
+    <em>瞭解行銷團隊如何使用Acrobat Studio來集中產品上市資產、簡化利害關係人稽核，以及擴展組織整備</em>
     <br>
   </td>
   <td>
