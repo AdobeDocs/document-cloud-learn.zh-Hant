@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->使用Acrobat Studio [!TAB 加速產品推出]
+>[!TAB 使用Acrobat Studio  加速產品推出]
 
 瞭解行銷團隊如何使用Acrobat Studio來集中處理[產品發佈](marketing-product-launch.md)資產、簡化利害關係人的評論，以及擴展組織整備 — 所有這些都是從單一PDF空間完成的。
 
