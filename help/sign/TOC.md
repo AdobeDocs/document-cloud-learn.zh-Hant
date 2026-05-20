@@ -103,7 +103,7 @@ ht-degree: 13%
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]註冊並簽署](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
-      + [使用[！DNL D-Trust]註冊和簽名](digitalid/d-trust.md)
+      + [使用[!DNL D-Trust]註冊和簽名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [從Intesi Group （進階）取得數位識別碼](digitalid/intesi-advanced.md)
       + [從Intesi Group （合格）取得數位ID](digitalid/intesi-qualified.md)
@@ -119,8 +119,8 @@ ht-degree: 13%
       + [使用 [!DNL Power Automate]自動封存 [!DNL SharePoint] 中的檔案](integrations/auto-archive-sharepoint-power-automate.md)
       + [使用Acrobat Sign為 [!DNL Microsoft Power Platform]自動化檔案](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中傳送以索取簽名](integrations/adobe-sign-teams-mortgage.md)
-      + [即時登入 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)的Adobe Acrobat Sign
-      + [ [!DNL Microsoft Teams]的檔案索引標籤整合](integrations/acrobat-sign-teams-documents-tab.md)
+      + [即時登入 [!DNL Microsoft Teams]的Adobe Acrobat Sign](integrations/live-sign-microsoft-teams.md)
+      + [&#x200B; [!DNL Microsoft Teams]的檔案索引標籤整合](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中建立簡單的工作流程](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中建立進階工作流程](integrations/advanced-workflow-power-automate.md)
       + [客戶服務[!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
@@ -129,7 +129,7 @@ ht-degree: 13%
    + 公證化 {#notarize}
       + [傳送檔案以進行公證](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [ [!DNL Salesforce]的Document Builder](integrations/create-an-agreement-template.md)
+      + [&#x200B; [!DNL Salesforce]的Document Builder](integrations/create-an-agreement-template.md)
       + [設定資料對應](integrations/set-up-data-mapping.md)
       + [設定合併對應](integrations/set-up-merging-map.md)
       + [建立自訂按鈕](integrations/create-a-custom-button.md)
