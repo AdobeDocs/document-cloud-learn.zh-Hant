@@ -8,20 +8,14 @@ jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-feature_v2:
-  - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +26,10 @@ ht-degree: 24%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 何時使用建立復本]
+
+瞭解如何使用[建立復本](../sign-beginner-tutorials/create-a-copy.md)以複製任何現有的合約。 您可以調整需要變更的內容，並在數秒後重新傳送。 不從頭重建。
 
 >[!TAB 在傳送檔案後修改檔案]
 
@@ -44,10 +42,6 @@ ht-degree: 24%
 >[!TAB 以電子方式簽署檔案]
 
 瞭解使用Acrobat Sign[簽署](../sign-beginner-tutorials/electronically-sign-a-document.md)傳送給您的檔案有多容易。
-
->[!TAB 建立可重複使用的範本]
-
-瞭解如何建立[可重複使用的檔案範本](../sign-advanced-users/create-a-template.md)。
 
 >[!ENDTABS]
 
@@ -159,7 +153,7 @@ ht-degree: 24%
     建立可重複使用的文件範本，為您的組織提供速度與一致性
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="使用核取方塊群組引導所需的選取專案" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +163,15 @@ ht-degree: 24%
     瞭解如何使用核取方塊群組來控制簽署者可以在表單上選取多少選項
     <br>
     </td>
-    <td>
-      <img alt="分隔符號" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="何時使用建立副本" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>何時使用建立復本</strong></a>
+    </div>
+    瞭解如何使用「建立副本」來複製任何現有的協定
+    <br>
     </td>
 </tr>
 </table>
