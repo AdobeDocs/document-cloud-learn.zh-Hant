@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 >建立復本可供企業級計畫使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491383?captions=chi_hant&quality=12&learn=on&hidetitle=true)

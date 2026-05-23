@@ -19,5 +19,5 @@ ht-degree: 0%
 
 **最適合：**&#x200B;行銷經理和銷售機會、專案/方案經理，以及溝通與啟用團隊
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491118?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
