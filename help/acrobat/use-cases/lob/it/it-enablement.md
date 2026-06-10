@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # IT啟用，不會造成瓶頸
 
-在本教學課程中，請透過三個真實的工作流程，跟隨SecurFinancial的IT團隊成員。 移除PII，並從事件報告中產生執行摘要。 根據您的內部安全性標準分析廠商合約，並製作後續追蹤問卷。 然後，取得靜態原則檔案，並將其轉換為互動式、組織範圍的治理資源，讓員工可在任何裝置上存取和查詢。 每個教學課程都使用Acrobat Studio的AI助理、PDF空間和Adobe Express，將手動工作時數減少至分鐘，同時讓IT人員掌控每個步驟。此使用案例旨在依序完成，每個影片都建立在上一步中。
+在本教學課程中，請透過三個真實的工作流程，跟隨SecurFinancial的IT團隊成員。 移除PII，並從事件報告中產生執行摘要。 根據您的內部安全性標準分析廠商合約，並製作後續追蹤問卷。 然後，取得靜態原則檔案，並將其轉換為互動式、組織範圍的治理資源，讓員工可在任何裝置上存取和查詢。 每個教學課程都使用Acrobat Studio的AI助理、PDF Spaces和Adobe Express，將手動工作時數減少至分鐘，同時讓IT人員掌控每個步驟。此使用案例的設計宗旨是依序完成，每個影片都以先前的步驟為基礎。
 
 **最適合於：** IT主管、安全性與營運團隊
 
