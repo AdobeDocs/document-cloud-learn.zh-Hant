@@ -9,9 +9,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 89b2dc5ef550dff86ca2228997b7d1bda3476cd4
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: 682
+source-wordcount: 689
 ht-degree: 5%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 5%
       + 人力資源 {#hr}
          + [概觀](use-cases/lob/hr/hr-overview.md)
          + [從insight到影響：簡化入門工作流程](use-cases/lob/hr/hr-insights.md)
+      + IT {#it}
+         + [概觀](use-cases/lob/it/it-overview.md)
+         + [IT啟用，不會造成瓶頸](use-cases/lob/it/it-enablement.md)
       + 法律 {#legal}
          + [概觀](use-cases/lob/legal/legal-overview.md)
          + [將法律見解轉換為可操作的指引](use-cases/lob/legal/legal-insights.md)
