@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ee8f99c350ea0931579c2b80d5d2ff26640ff21c
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: 467
 ht-degree: 0%
 
 ---
@@ -166,77 +166,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="../getting-started/ai-assistant.md">
-      <img alt="使用AI Assistant探索PDF深入分析" src="../assets/ai-assistant.png" />
-    </a>
-    <div>
-    <a href="../getting-started/ai-assistant.md"><strong>使用AI助理探索PDF深入分析</strong></a>
-    </div>
-    <em>使用AI助理從您的PDF檔案獲得深入分析</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/pdf-spaces-legal.md">
-      <img alt="使用PDF空間提升團隊效率" src="../assets/pdf-spaces.png" />
-    </a>
-    <div>
-    使用PDF空間<a href="../getting-started/pdf-spaces-legal.md"><strong>提升團隊效率</strong></a>
-    </div>
-    <em>瞭解如何將檔案和網站的集合變成可共用、對話式的知識中心</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/acrobat-studio.md">
-      <img alt="什麼是Acrobat Studio？" src="../assets/acrobat-studio.png" />
-    </a>
-    <div>
-    <a href="../getting-started/acrobat-studio.md"><strong>什麼是Acrobat Studio？</strong></a>
-    </div>
-    <em>瞭解如何使用Acrobat Studio建立品牌安全內容、擷取見解並簡化複雜工作</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/edit-graphics.md">
-      <img alt="在PDF中編輯圖形" src="../assets/edit-graphics.png" />
-    </a>
-    <div>
-    <a href="../getting-started/edit-graphics.md"><strong>在PDF中編輯圖形</strong></a>
-    </div>
-    <em>瞭解如何在PDF中建立、編輯和增強圖形</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-  <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="將此PDF風格化" src="../assets/stylize-pdf.png" />
-    </a>
-    <div>
-    <a href="../getting-started/stylize-this-pdf.md"><strong>將此PDF風格化</strong></a>
-    </div>
-    <em>瞭解如何建立具有專業外觀的PDF</em>
-    <br>
-  </td>
-  <td>
-        <img alt="分隔符號" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="分隔符號" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="分隔符號" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
-<!-- END COMMENT -->
