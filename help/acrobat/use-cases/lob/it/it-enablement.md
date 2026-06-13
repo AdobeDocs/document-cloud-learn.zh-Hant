@@ -22,19 +22,19 @@ ht-degree: 1%
 
 首先，從事件報告中移除敏感資訊、保護並共用檔案，以及產生適合主管的簡報，這一切都不需要離開Acrobat Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492194?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 2. 分析供應商合約並據以執行
 
 以第一部分的安全事件報告為基礎，瞭解如何根據您組織的安全標準分析廠商合約、即時顯示一致性差距並產生後續問卷，所有這些都來自單一PDF空間。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492203?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 步驟 3. 建置和部署AI治理政策
 
 瞭解如何將靜態原則檔案轉換為受控制的互動式工作區，然後將其部署為整個組織可以在任何裝置上存取和查詢的自助資源。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492212?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 您已保護事件報告並加以摘要、根據您的內部安全標準分析廠商合約，並將靜態原則檔案轉換為整個組織的受管理、自助資源 — 三個工作流程、一個平台、無工具切換。
 
