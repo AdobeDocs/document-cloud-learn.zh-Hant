@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >傳送檔案後進行修改僅適用於企業級計畫。 您的Acrobat Sign管理員必須在&#x200B;**帳戶設定**&#x200B;的&#x200B;**傳送設定**&#x200B;區段中，啟用&#x200B;**修改合約**&#x200B;才能使用此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483518?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
