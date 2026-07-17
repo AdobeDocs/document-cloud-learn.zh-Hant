@@ -8,10 +8,15 @@ jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 9cf8103b0aedd4a7f7e3fb017c1ad3503a92f3f2
 workflow-type: tm+mt
 source-wordcount: 2990
@@ -31,7 +36,7 @@ ht-degree: 2%
 
 瞭解如何將[書面檔案](scan-and-ocr.md)轉換為可搜尋及可編輯的PDF檔案
 
->使用PDF空間[!TAB 提升團隊效率]
+>[!TAB 使用PDF空間 提升團隊效率]
 
 使用個人化的AI助理將檔案和網站的集合轉換為[可共用、對話式的知識中心](pdf-spaces-legal.md)。
 
@@ -169,7 +174,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="機動生產力" target="_blank" rel="referrer">
-                        img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_1479b3d5a9bbd94959ebb95a0042a6f6d870fa1f7.webp?width=2000&amp;format=webply&amp;optimize=medium" alt="機動生產力"
+                        img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_1479b3d5a9bbd94959ebb95a0042a6f6d870fa1f7.webp?width=2000&format=webply&optimize=medium" alt="機動生產力"
                              style="width： 100%；aspect-ratio： 16 / 9； object-fit： cover； overflow： hidden； display： block； margin： auto；"&gt;
                     </a>
                 </figure>
