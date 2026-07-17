@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Acrobat教學課程
 
 Adobe Acrobat是一種Adobe Document Cloud解決方案，可轉換、編輯、共用和簽署PDF來保持業務運作。 您可以在這裡找到廣泛的學習體驗，這些體驗的設計目的是讓初學者和進階使用者都能快速掌握Adobe Acrobat。
+
+>[!NOTE]
+>
+>功能存取權取決於您的Acrobat計畫。 使用[Acrobat計畫比較](https://www.adobe.com/tw/acrobat/pricing.html)來識別您可用的功能。 有些功能會分階段推出，可能尚未開放所有人使用。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
