@@ -127,7 +127,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="使用Acrobat Web隨時隨地工作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="使用Acrobat Web隨時隨地工作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443547?captions=chi_hant&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="使用Acrobat Web隨時隨地工作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
