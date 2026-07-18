@@ -17,9 +17,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 9654908e160db3b2209f8436d839fd0e5195a3ce
+source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
 workflow-type: tm+mt
-source-wordcount: 2802
+source-wordcount: 2909
 ht-degree: 1%
 
 ---
@@ -77,23 +77,47 @@ ht-degree: 1%
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="" Workspace basics"">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="" Workspace basics"" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="&quot; Workspace basics&quot;" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="工作區基本介紹" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="工作區基本介紹"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
             </div>
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="" Workspace basics"">「Workspace基本知識」</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="工作區基本介紹">Workspace基本知識</a>
                     </p>
                     <p class="is-size-6">瞭解Acrobat工作區的基本功能</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="全新Acrobat體驗" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_178831fd1a5ee792617ad1bc508c02ffee1efcdb8.webp?width=400&format=webply&optimize=medium" alt="全新Acrobat體驗"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" title="全新Acrobat體驗">新的Acrobat體驗</a>
+                    </p>
+                    <p class="is-size-6">瞭解新的Acrobat體驗</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -104,7 +128,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="使用Microsoft 365" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft./media_1d6fb8502ae79fc181a3db2596fd73cdacb05eb00.webp?width=400&format=webp&optimize=medium" alt="使用Microsoft 365"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_112baad4951218929d9e12f9c296d0aabc290e7c9.webp?width=400&format=webply&optimize=medium" alt="使用Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +151,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="使用Acrobat Web隨時隨地工作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443547?captions=chi_hant&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="使用Acrobat Web隨時隨地工作"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_17cdd93ee17c8052102cd3082b5080cae657adfbd.webp?width=400&format=webply&optimize=medium" alt="使用Acrobat Web隨時隨地工作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +174,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="機動生產力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="機動生產力"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/media_1479b3d5a9bbd94959ebb95a0042a6f6d870fa1f7.webp?width=400&format=webply&optimize=medium" alt="機動生產力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
