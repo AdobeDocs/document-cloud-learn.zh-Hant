@@ -4,10 +4,10 @@ description: 瞭解Acrobat Studio中的Analyzer的所有資訊
 feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
-jira: KT-2255id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+jira: KT-22555
+source-git-commit: 7e88f11d4e543c26bcb4039810f5f0c3b7888778
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     瞭解Acrobat Studio中的Analyzer如何協助您從大量檔案中提取結構化、被引用的資料
     <br>
   </td>
- <td>
+  <td>
     <a href="collections.md">
       <img alt="使用集合" src="../assets/analyzer_collections.png" />
     </a>
@@ -68,6 +68,6 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
       <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
-    </td>
+  </td>
 </tr>
 </table>
