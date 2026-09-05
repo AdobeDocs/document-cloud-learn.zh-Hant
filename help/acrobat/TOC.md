@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '702'
 ht-degree: 5%
 
 ---
@@ -84,6 +84,11 @@ ht-degree: 5%
   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Acrobat Studio中的分析器 {#analyzer}
+  + [概觀](analyzer/analyzer-overview.md)
+  + [開始使用](analyzer/get-started.md)
+  + [使用集合](analyzer/collections.md)
+  + [M&amp;A後續整合合約稽核](analyzer/m-and-a-post-audit.md)
 + 使用案例 {#use-cases}
   + [概觀](use-cases/use-cases-overview.md)
   + 業務線 {#lob}
