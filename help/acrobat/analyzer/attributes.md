@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何使用Acrobat Studio中的Analyzer建立、測試和調整屬性。 屬性會定義您要從檔案中擷取的資訊，協助您一致地擷取關鍵資料，並發掘大型集合中的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503139?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503148?captions=chi_hant&quality=12&learn=on&hidetitle=true)
