@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 5%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 5%
   + [概觀](analyzer/analyzer-overview.md)
   + [開始使用](analyzer/get-started.md)
   + [使用集合](analyzer/collections.md)
+  + [使用屬性](analyzer/attributes.md)
   + [M&amp;A後續整合合約稽核](analyzer/m-and-a-post-audit.md)
 + 使用案例 {#use-cases}
   + [概觀](use-cases/use-cases-overview.md)

@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="使用屬性" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>使用屬性</strong></a>
+    </div>
+    瞭解如何使用Acrobat Studio中的Analyzer建立、測試和調整屬性
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="M&amp;A後續整合合約稽核" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     </div>
     瞭解Analyzer如何協助企業在幾分鐘內而不是幾週內執行M&amp;A整合合約稽核
     <br>
-  </td>
-  <td>
-      <img alt="分隔符號" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
