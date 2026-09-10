@@ -2,10 +2,10 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 5%
+source-wordcount: '715'
+ht-degree: 6%
 
 ---
 
@@ -90,6 +90,7 @@ ht-degree: 5%
   + [使用集合](analyzer/collections.md)
   + [使用屬性](analyzer/attributes.md)
   + [M&amp;A後續整合合約稽核](analyzer/m-and-a-post-audit.md)
+  + [網路講座](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用案例 {#use-cases}
   + [概觀](use-cases/use-cases-overview.md)
   + 業務線 {#lob}
