@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解Acrobat Studio中的Analyzer如何使用GenAI擷取重要資訊，並協助找出哪些合約具有風險，協助企業在幾分鐘內執行M&amp;A整合後合約稽核，而非數週。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496363?captions=chi_hant&quality=12&learn=on&hidetitle=true)
