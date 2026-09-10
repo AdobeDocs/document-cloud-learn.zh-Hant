@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
 
 >[!TAB 使用集合]
 
-瞭解如何隨著內容成長，建立手動和連結的[集合](collections.md)、套用屬性，以及保持檔案井然有序，
+瞭解如何隨著內容成長，建立手動和連結的[集合](collections.md)、套用屬性，以及保持檔案井然有序。
+
+>[!TAB 使用屬性]
+
+瞭解如何使用Acrobat Studio中的Analyzer建立、測試和調整[屬性](attributes.md)。
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="M&amp;A後續整合合約稽核" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+      <img alt="Acrobat Studio使用案例中的分析器" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>M&amp;A整合合約稽核</strong></a>
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studio使用案例中的分析器</strong></a>
     </div>
-    瞭解Analyzer如何協助企業在幾分鐘內而不是幾週內執行M&amp;A整合合約稽核
+    探索顯示組織如何簡化稽核流程、揭示見解以及將檔案內容轉換為業務就緒型資料的真實使用案例
     <br>
   </td>
 </tr>
