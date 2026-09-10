@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -69,11 +69,11 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+    <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio使用案例中的分析器" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studio使用案例中的分析器</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio使用案例中的分析器</strong></a>
     </div>
     探索顯示組織如何簡化稽核流程、揭示見解以及將檔案內容轉換為業務就緒型資料的真實使用案例
     <br>
