@@ -1,13 +1,13 @@
 ---
 title: M&A後續整合合約稽核
-description: 瞭解Analyzer如何協助企業在幾分鐘內而不是幾週內執行M&A整合合約稽核
+description: 瞭解Acrobat Studio中的Analyzer如何協助企業在幾分鐘內而不是幾週內執行M&A整合合約稽核
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

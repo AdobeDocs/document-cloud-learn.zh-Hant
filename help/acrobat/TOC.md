@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [開始使用](analyzer/get-started.md)
   + [使用集合](analyzer/collections.md)
   + [使用屬性](analyzer/attributes.md)
-  + [M&amp;A後續整合合約稽核](analyzer/m-and-a-post-audit.md)
+  + 使用案例 {#use-cases}
+    + [概觀](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [M&amp;A後續整合合約稽核](analyzer/use-cases/m-and-a-post-audit.md)
+    + [加速財務的收入與稽核審視](analyzer/use-cases/accelerate-revenue.md)
+    + [將資料隱私權風險轉變為完整的可見度和監控](analyzer/use-cases/data-privacy-risk.md)
   + [網路講座](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用案例 {#use-cases}
   + [概觀](use-cases/use-cases-overview.md)
