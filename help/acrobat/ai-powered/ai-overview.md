@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 jira: KT-19422
 exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
 source-wordcount: 799
@@ -30,11 +35,11 @@ ht-degree: 0%
 
 瞭解如何使用[Acrobat Studio](../getting-started/acrobat-studio.md)建立品牌安全內容、擷取見解並簡化複雜的工作。
 
->Acrobat Studio中的[!TAB 分析器]
+>[!TAB Acrobat Studio中的 分析器]
 
-瞭解Acrobat Studio](../analyzer/analyzer-overview.md)中的[Analyzer如何協助業務使用者從數以萬計的非結構化檔案中擷取結構化、可稽核的深入分析，以自動化以檔案為中心的業務流程。
+瞭解Acrobat Studio[&#128279;](../analyzer/analyzer-overview.md)中的Analyzer如何協助業務使用者從數以萬計的非結構化檔案中擷取結構化、可稽核的深入分析，以自動化以檔案為中心的業務流程。
 
->使用PDF空間[!TAB 提升團隊效率]
+>[!TAB 使用PDF空間 提升團隊效率]
 
 使用個人化的AI助理將檔案和網站的集合轉換為[可共用、對話式的知識中心](../getting-started/pdf-spaces-legal.md)。
 
