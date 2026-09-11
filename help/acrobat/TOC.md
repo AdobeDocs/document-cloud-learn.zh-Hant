@@ -2,10 +2,10 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
+source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 6%
+source-wordcount: '736'
+ht-degree: 5%
 
 ---
 
@@ -79,9 +79,9 @@ ht-degree: 6%
     + [自訂命令和工具](advanced-tasks/custom.md)
 + 由AI支援 {#ai-powered}
   + [概觀](ai-powered/ai-overview.md)
+  + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio中的分析器 {#analyzer}
@@ -89,6 +89,7 @@ ht-degree: 6%
   + [開始使用](analyzer/get-started.md)
   + [使用集合](analyzer/collections.md)
   + [使用屬性](analyzer/attributes.md)
+  + [探索進階功能](analyzer/advanced.md)
   + 使用案例 {#use-cases}
     + [概觀](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [M&amp;A後續整合合約稽核](analyzer/use-cases/m-and-a-post-audit.md)

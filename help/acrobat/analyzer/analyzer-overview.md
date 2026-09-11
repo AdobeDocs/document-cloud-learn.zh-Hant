@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
+source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,6 +31,10 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
 >[!TAB 使用屬性]
 
 瞭解如何使用Acrobat Studio中的Analyzer建立、測試和調整[屬性](attributes.md)。
+
+>[!TAB 探索進階功能]
+
+瞭解如何[匯出擷取的資料、共用集合、比較兩個檔案，以及使用AI小幫手](advanced.md)來快速解答臨機問題
 
 >[!ENDTABS]
 
@@ -69,6 +73,18 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="探索進階功能" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>探索進階功能</strong></a>
+    </div>
+    瞭解如何匯出擷取的資料、共用集合、比較兩個檔案以及使用AI助理來快速提出臨機問題
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio使用案例中的分析器" src="../assets/analyzer_usecases.png" />
     </a>
@@ -76,6 +92,21 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio使用案例中的分析器</strong></a>
     </div>
     探索顯示組織如何簡化稽核流程、揭示見解以及將檔案內容轉換為業務就緒型資料的真實使用案例
+    <br>
+  </td>
+    <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
