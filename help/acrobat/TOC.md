@@ -2,7 +2,7 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 5%
@@ -79,7 +79,7 @@ ht-degree: 5%
     + [自訂命令和工具](advanced-tasks/custom.md)
 + 由AI支援 {#ai-powered}
   + [概觀](ai-powered/ai-overview.md)
-  + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
