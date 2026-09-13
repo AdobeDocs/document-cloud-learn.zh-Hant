@@ -140,7 +140,7 @@ Adobe Acrobat是一種Adobe Document Cloud解決方案，可轉換、編輯、�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="開始使用" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="開始使用" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/analyzer/media_1052181d9e75a3ece8d8885c16c96135101b56a6d.png?width=400&format=webply&optimize=medium" alt="Acrobat Studio中的分析器"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Adobe Acrobat是一種Adobe Document Cloud解決方案，可轉換、編輯、�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Acrobat Studio中的<a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="開始使用">分析器</a>
+                        Acrobat Studio中的<a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="開始使用">分析器</a>
                     </p>
                     <p class="is-size-6">瞭解Acrobat Studio中的Analyzer如何協助您從大量檔案中提取結構化、被引用的資料</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">探索</span>
                 </a>
             </div>

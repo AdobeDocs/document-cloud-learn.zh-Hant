@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Acrobat Studio中的Analyzer可協助您將大型檔案集轉換為結構化、引用的深入分析。 收藏集將相關檔案分組，有助於簡化該流程，讓您可套用正確的屬性、篩選結果，並僅檢閱重要資訊。 在本影片中，瞭解如何建立手動和連結的集合、套用屬性，以及隨著內容成長保持檔案井然有序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503111?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503129?captions=chi_hant&quality=12&learn=on&hidetitle=true)
