@@ -21,4 +21,4 @@ ht-degree: 0%
 * 提高準確性：減少錯誤，並確保擷取所有必要資訊
 * 持續性：使用者可隨時開始並返回適合行動裝置的表單，而不會失去進度
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478397?captions=chi_hant&quality=12&learn=on&hidetitle=true)
