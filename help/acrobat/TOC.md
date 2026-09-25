@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 5%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 5%
   + 更明智地使用AI {#ai}
     + [使用AI Assistant探索PDF深入分析](getting-started/ai-assistant.md)
     + [使用PDF空間提升團隊效率](getting-started/pdf-spaces-legal.md)
+    + [建立播客](getting-started/podcast.md)
   + 建立與組織 {#create}
     + [建立PDF](getting-started/create-pdf.md)
     + [將多個檔案合併至單一PDF](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 5%
   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [建立播客](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio中的分析器 {#analyzer}
