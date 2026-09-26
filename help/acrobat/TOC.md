@@ -81,7 +81,7 @@ ht-degree: 5%
   + [什麼是Acrobat Studio？](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [使用AI Assistant探索PDF深入分析](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [使用PDF空間提升團隊效率](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [建立播客](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
+  + [建立播客](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [在PDF中編輯圖形](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [將此PDF風格化](https://experienceleague.adobe.com/zh-hant/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio中的分析器 {#analyzer}
