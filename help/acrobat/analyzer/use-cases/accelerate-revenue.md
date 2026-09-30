@@ -1,20 +1,18 @@
 ---
-title: 加速財務的收入與稽核審查
-description: 瞭解Acrobat Studio中的Analyzer如何協助財務團隊大規模擷取、稽核及驗證合約資料
+title: 財務 — 複查收入確認與稽核的合約
+description: 瞭解財務團隊如何更快準備稽核、支援收入確認並識別會計風險
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22588
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
 
+# 財務：複查收入確認與稽核的合約
 
-# 加速財務的收入與稽核審視
-
-對收入至關重要的資訊通常會被隱藏在數百個合約中，使得在稽核或財務結算之前難以識別會計風險。 瞭解Acrobat Studio中的Analyzer如何協助財務團隊大規模擷取、稽核及驗證合約資料，以改善稽核整備、收入確認及租賃法規遵循。
+在大型合約集中擷取並驗證收入、租約及會計條款。 瞭解財務團隊如何利用Acrobat Studio中的Analyzer更快準備稽核、支援收入確認和識別會計風險。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503302?quality=12&learn=on&hidetitle=true)

@@ -1,20 +1,19 @@
 ---
-title: 將資料隱私權風險轉變為完整的可見度和監控
-description: 瞭解Acrobat Studio中的Analyzer如何協助隱私權、法律和採購團隊大規模擷取、監控和驗證關鍵DPA條款
+title: 隱私權與資訊安全性 — 檢閱資料隱私權協定
+description: 瞭解隱私權與資訊安全團隊如何找出合規差距，並透過可追蹤的結果驗證義務
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
 
+# 隱私權與資訊安全性：檢閱資料隱私權協定
 
-# 將資料隱私權風險轉變為完整的可見度和監控
+尋找並監控各廠商合約及DPA的重要隱私條款。 瞭解隱私權與資訊安全團隊如何透過Acrobat Studio中的Analyzer找出合規差距，並驗證義務，以取得可追蹤的結果。
 
-資料隱私權義務通常隱藏在數百份供應商協定中，因此很難在合規性差距演變成業務風險之前加以識別。 瞭解Acrobat Studio中的Analyzer如何協助隱私權、法律和採購團隊大規模擷取、監控和驗證關鍵DPA條款，並取得完全可追蹤的結果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)

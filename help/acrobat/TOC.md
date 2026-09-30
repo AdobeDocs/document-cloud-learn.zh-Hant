@@ -2,9 +2,9 @@
 user-guide-title: Acrobat教學課程
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 5%
 ---
 
@@ -92,10 +92,11 @@ ht-degree: 5%
   + [探索進階功能](analyzer/advanced.md)
   + 使用案例 {#use-cases}
     + [概觀](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [M&amp;A後續整合合約稽核](analyzer/use-cases/m-and-a-post-audit.md)
-    + [加速財務的收入與稽核審視](analyzer/use-cases/accelerate-revenue.md)
-    + [將資料隱私權風險轉變為完整的可見度和監控](analyzer/use-cases/data-privacy-risk.md)
-    + [識別侵蝕利潤來源偵測的轉包管理](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&amp;A：贏取後稽核合約](analyzer/use-cases/m-and-a-post-audit.md)
+    + [財務：複查收入確認與稽核的合約](analyzer/use-cases/accelerate-revenue.md)
+    + [隱私權與資訊安全性：檢閱資料隱私權協定](analyzer/use-cases/data-privacy-risk.md)
+    + [建構：搜尋轉包中的利潤風險](analyzer/use-cases/identify-margin-erosion.md)
+    + [資訊安全稽核：識別廠商風險](analyzer/use-cases/vendor-risk.md)
   + [網路講座](https://experienceleague.adobe.com/zh-hant/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用案例 {#use-cases}
   + [概觀](use-cases/use-cases-overview.md)
