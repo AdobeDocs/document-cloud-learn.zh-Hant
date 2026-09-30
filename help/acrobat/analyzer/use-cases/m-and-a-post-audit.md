@@ -15,4 +15,4 @@ ht-degree: 0%
 
 在合併或收購後尋找合約風險。 瞭解併購團隊如何透過Acrobat Studio中的Analyzer分析大型合約集，以在幾分鐘內識別關鍵義務、條款及潛在風險，而非數週。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496363?captions=chi_hant&quality=12&learn=on&hidetitle=true)

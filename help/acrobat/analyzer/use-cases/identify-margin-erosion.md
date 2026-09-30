@@ -16,4 +16,4 @@ ht-degree: 0%
 識別可能會降低專案獲利能力的合約問題。 瞭解建置和專案團隊如何在Acrobat Studio中使用Analyzer影響利潤之前，找出未送達的變更單、過時RFI和分包保護中的差距。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503516?captions=chi_hant&quality=12&learn=on&hidetitle=true)

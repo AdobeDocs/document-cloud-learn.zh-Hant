@@ -15,4 +15,4 @@ ht-degree: 0%
 
 瞭解Acrobat Studio中的Analyzer如何主動識別供應商合約的資訊安全性風險。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503862?captions=chi_hant&quality=12&learn=on&hidetitle=true)
