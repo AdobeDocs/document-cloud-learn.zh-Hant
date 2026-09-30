@@ -5,14 +5,18 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
+source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '449'
 ht-degree: 0%
 ---
 # Acrobat Studio中的Analyzer概述
 
-Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構化檔案中擷取結構化、可稽核的深入分析，以自動化以檔案為中心的業務流程。
+Acrobat Studio中的![分析器](../assets/analyzer-overview-banner.png)
+
+瞭解如何在Acrobat Studio中使用Analyzer，將複雜的檔案轉變為清晰的深入分析。 這些簡短的教學課程可協助您開始使用、探索進階功能，並檢視實際使用案例。
+
+[!BADGE 資訊]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新增功能
 
