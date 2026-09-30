@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
+source-git-commit: 222ff21015d4f90ea250a5b9e4d0971135f33f63
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 ---
 # Acrobat Studio中的Analyzer概述
@@ -16,7 +16,7 @@ Acrobat Studio中的![分析器](../assets/analyzer-overview-banner.png)
 
 瞭解如何在Acrobat Studio中使用Analyzer，將複雜的檔案轉變為清晰的深入分析。 這些簡短的教學課程可協助您開始使用、探索進階功能，並檢視實際使用案例。
 
-[!BADGE 資訊]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 觀看概觀影片]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新增功能
 
