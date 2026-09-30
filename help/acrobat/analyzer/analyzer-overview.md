@@ -16,7 +16,7 @@ Acrobat Studio中的![分析器](../assets/analyzer-overview-banner.png)
 
 瞭解如何在Acrobat Studio中使用Analyzer，將複雜的檔案轉變為清晰的深入分析。 這些簡短的教學課程可協助您開始使用、探索進階功能，並檢視實際使用案例。
 
-[!BADGE 資訊]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 資訊]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新增功能
 
