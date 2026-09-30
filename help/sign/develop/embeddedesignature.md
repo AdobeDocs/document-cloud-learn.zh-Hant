@@ -12,21 +12,25 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Adobe Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: e56085c669f90be698e49f929786c0f639b397e8
 workflow-type: tm+mt
-source-wordcount: 917
+source-wordcount: '916'
 ht-degree: 1%
-
 ---
-
 # 建立內嵌式電子簽章和檔案體驗
 
 瞭解如何使用Acrobat Sign API將電子簽章和檔案體驗內嵌到您的網站平台以及內容和檔案管理系統中。 此實作教學課程分為四個部分。
@@ -41,10 +45,10 @@ ht-degree: 1%
 * [入門程式碼](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS程式碼（或您選擇的編輯器）](https://code.visualstudio.com)
 * Python 3.x
-   * Mac — Homebrew
-   * Linux — 內建安裝程式
-   * Windows — 巧克力
-   * 全部 — https://www.python.org/downloads/
+  * Mac — Homebrew
+  * Linux — 內建安裝程式
+  * Windows — 巧克力
+  * 全部 — https://www.python.org/downloads/
 
 +++
 
@@ -98,11 +102,11 @@ ht-degree: 1%
 
 1. 建立暫時性檔案並傳送。
 
->[!NOTE]
->
->JSON型請求呼叫具有「模型」和「最小模型結構描述」選項。 這會提供規格和最低裝載設定。
+   >[!NOTE]
+   >
+   >JSON型請求呼叫具有「模型」和「最小模型結構描述」選項。 這會提供規格和最低裝載設定。
 
-![建立暫時性檔案的熒幕擷圖](assets/embeddedesignature/embed_7.png)
+   ![建立暫時性檔案的熒幕擷圖](assets/embeddedesignature/embed_7.png)
 
 第一次傳送合約後，您就可以新增邏輯了。 建立一些協助程式以儘可能減少重複永遠是很好的做法。 以下是一些範例：
 
@@ -163,13 +167,13 @@ ht-degree: 1%
 
 * [JS事件](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook活動
-   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Acrobat Sign v6中的Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+  * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+  * [Acrobat Sign v6中的Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [重新啟用請求電子郵件（含事件）](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [以重試取代逾時](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * 自訂提醒
-   * 透過初始建立
+  * 透過初始建立
 
-     ![瀏覽至Power Automate的熒幕擷圖](assets/embeddedesignature/embed_16.png)
+    ![瀏覽至Power Automate的熒幕擷圖](assets/embeddedesignature/embed_16.png)
 
-   * 或新增一個[小眾測試版](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+  * 或新增一個[小眾測試版](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
