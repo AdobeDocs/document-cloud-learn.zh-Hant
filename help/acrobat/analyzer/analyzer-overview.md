@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '437'
+ht-degree: 0%
 ---
-
 # Acrobat Studio中的Analyzer概述
 
 Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構化檔案中擷取結構化、可稽核的深入分析，以自動化以檔案為中心的業務流程。
@@ -34,11 +32,17 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
 
 >[!TAB 探索進階功能]
 
-瞭解如何[匯出擷取的資料、共用集合、比較兩個檔案，以及使用AI小幫手](advanced.md)來快速解答臨機問題
+瞭解如何[匯出擷取的資料、共用集合、比較兩個檔案，以及使用AI小幫手](advanced.md)來快速解答臨機問題。
+
+>[!TAB 動作中的使用案例]
+
+瞭解真實的[使用案例](use-cases/use-case-overview.md)，以及不同的團隊如何運用Acrobat Studio中的Analyzer，以更聰明且更快的方式運作。
 
 >[!ENDTABS]
 
-## Acrobat Studio中的Analyzer教學課程
+## Essentials
+
+開始使用基本知識。 瞭解如何在Acrobat Studio中使用Analyzer，以快速瞭解、摘要並與您的檔案互動。
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +87,66 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <br>
   </td>
 </tr>
+</table>
+
+## 使用案例的實際行動
+
+檢視真實世界的情境。 瞭解不同的團隊如何運用Acrobat Studio中的Analyzer，以更聰明且更快的方式工作。
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Acrobat Studio使用案例中的分析器" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="M&amp;A：贏取後稽核合約" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio使用案例中的分析器</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>併購：贏取後稽核合約</strong></a>
     </div>
-    探索顯示組織如何簡化稽核流程、揭示見解以及將檔案內容轉換為業務就緒型資料的真實使用案例
+    瞭解併購團隊如何分析大型合約集，以在幾分鐘內識別關鍵義務、條款及潛在風險，而非數週
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="財務：複查收入確認與稽核的合約" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>財務：檢閱收入確認與稽核的合約</strong></a>
+    </div>
+    瞭解財務團隊如何更快準備稽核、支援收入確認並識別會計風險
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="隱私權與資訊安全性：檢閱資料隱私權協定" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>隱私權與資訊安全性：檢閱資料隱私權合約</strong></a>
+    </div>
+    瞭解隱私權與資訊安全團隊如何找出合規差距，並透過可追蹤的結果驗證義務
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="建構：搜尋轉包中的利潤風險" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>建構：尋找轉包中的利潤風險</strong></a>
+    </div>
+    瞭解建置和專案團隊如何找出未完成的變更單、過時RFI以及分包合約保護中的空白，以免影響利潤
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="資訊安全稽核：識別廠商風險" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>資訊安全稽核：識別廠商風險</strong></a>
+    </div>
+    瞭解如何主動識別廠商合約的資訊安全性風險
+    <br>
+  </td>
+  <td>
     <img alt="分隔符號" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +156,11 @@ Acrobat Studio中的Analyzer可協助業務使用者從數以萬計的非結構�
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="分隔符號" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>
