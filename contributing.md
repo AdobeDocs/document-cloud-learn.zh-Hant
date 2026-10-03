@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 貢獻者指南檔案
 
-請參閱[貢獻者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+請參閱[貢獻者指南](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html)。
 
 ## 有疑問嗎？
 
