@@ -1,5 +1,5 @@
 ---
-user-guide-title: 運用Adobe Document Cloud釋放數字體驗
+user-guide-title: 透過Adobe Document Cloud釋放數位體驗
 solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/tw/support/acrobat.html
@@ -11,17 +11,15 @@ feature-set: Document Cloud
 role: User
 source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '52'
 ht-degree: 0%
-
 ---
 
+# 透過Adobe Document Cloud釋放數位體驗 {#lab719}
 
-# 運用Adobe Document Cloud釋放數字體驗 {#lab719}
-
-+ [Lab 概觀和簡介](overview.md)
-+ 運用Adobe Document Cloud釋放數字體驗 {#gsd}
-   + [運用Adobe Document Cloud釋放數字體驗](gsd.md)
-   + [Ex.1：掃描任何表格](scan.md)
-   + [Ex.2：填寫和簽署任何表格](fillsign.md)
-   + [Ex.3：共用 PDF 檔案和在線審核](review.md)
++ [Lab概述和簡介](overview.md)
++ 透過Adobe Document Cloud釋放數位體驗 {#gsd}
+  + [透過Adobe Document Cloud釋放數位體驗](gsd.md)
+  + [Ex.1：掃描任何表單](scan.md)
+  + [Ex.2：填寫並簽署任何表單](fillsign.md)
+  + [Ex.3：共用PDF檔案並線上檢閱](review.md)
