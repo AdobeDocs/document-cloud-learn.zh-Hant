@@ -30,7 +30,7 @@ ht-degree: 0%
 ---
 # 建立網路表單
 
-瞭解如何建立可直接在您的網站上以電子方式簽署的檔案。 您可以建立與您的表單](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*)的[託管超連結，或使用連結來內嵌在您網站上的html或JavaScript。
+瞭解如何建立可直接在您的網站上以電子方式簽署的檔案。 您可以建立與您的表單[&#128279;](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*)的託管超連結，或使用連結來內嵌在您網站上的html或JavaScript。
 
 [!BADGE 使用案例]
 

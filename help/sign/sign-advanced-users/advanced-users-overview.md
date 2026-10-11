@@ -42,7 +42,7 @@ ht-degree: 3%
 
 瞭解如何在短短幾個步驟中，一次為任何檔案[收集數千個](megasign.md)簽名。
 
->Acrobat Sign中的[!TAB 驗證方法]
+>[!TAB Acrobat Sign中的 驗證方法]
 
 瞭解Acrobat Sign中可用的方法範圍，以[驗證](authentication-methods.md)簽署檔案的某人的身分。
 
