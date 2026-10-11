@@ -40,4 +40,4 @@ Digidentity是EU認證的信任服務提供者(QTSP)。 Digidentity身分識別�
 
 此影片教學課程詳細說明使用者從收到註冊邀請電子郵件到使用數位ID在Acrobat Sign中驗證和套用雲端簽名的歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449793?captions=chi_hant&quality=12&learn=on&hidetitle=true)

@@ -47,7 +47,7 @@ Gigasign可讓您同時傳送、收集及追蹤數千人要簽名的檔案。 �
 >
 >GigaSign不再更新至最新版的Java或Acrobat Sign，僅提供有限支援。 正在將GigaSign的功能新增至產品中的[大量傳送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hant？)功能。 對於未明確要求使用GigaSign的所有使用案例，請使用大量傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453521?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 下載並安裝GigaSign應用程式
 
