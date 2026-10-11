@@ -8,29 +8,37 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-TQID: https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM
+TQID: 'https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
 feature_v2:
   - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
+    internal-label: Privacy
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 719
+source-wordcount: '719'
 ht-degree: 3%
-
 ---
-
 
 # 管理員概觀
 
@@ -70,7 +78,7 @@ ht-degree: 3%
     <a href="get-started-admin.md"><strong>新管理員快速入門</strong></a>
     </div>
     <em>在這個完整的影片指南中，瞭解讓您的組織開始運作Acrobat Sign所需的所有工具</em>
-    
+    <br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -80,7 +88,7 @@ ht-degree: 3%
     管理員的<a href="up-and-running-admin.md"><strong>已啟動且正在執行</strong></a>
     </div>
     <em>管理員在Acrobat Sign中快速上手和執行的7大關鍵區域概觀</em>
-    
+    <br>
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -90,7 +98,7 @@ ht-degree: 3%
     <a href="docusign-templates.md"><strong>移轉檔案範本</strong></a>
     </div>
     <em>瞭解如何順暢地移轉Docusign範本和工作流程</em>
-    
+    <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -100,7 +108,7 @@ ht-degree: 3%
     <a href="add-users-to-your-account.md"><strong>新增使用者</strong></a>
     </div>
     <em>瞭解如何新增使用者至Acrobat Sign</em>
-    
+    <br>
   </td>
 </tr>
 <tr>
@@ -112,7 +120,7 @@ ht-degree: 3%
     <a href="automatic-assignment-rules.md"><strong>啟用自動使用者指派規則</strong></a>
     </div>
     <em>瞭解如何設定自動指派規則，以授予使用者在Admin Console中Acrobat Sign的存取權</em>
-    
+    <br>
   </td>
   <td>
     <a href="add-admin.md">
@@ -122,7 +130,7 @@ ht-degree: 3%
     <a href="add-admin.md"><strong>新增帳戶管理員</strong></a>
     </div>
     <em>瞭解如何建立新使用者或將現有使用者升級為Acrobat Sign管理員角色</em>
-    
+    <br>
   </td>
     <td>
       <a href="promote-admin.md">
@@ -132,7 +140,7 @@ ht-degree: 3%
       <a href="promote-admin.md"><strong>指派產品與支援管理員角色</strong></a>
       </div>
       <em>瞭解如何在Admin Console中指派Acrobat Sign使用者產品管理員和支援管理員角色</em>
-      
+      <br>
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -142,7 +150,7 @@ ht-degree: 3%
       <a href="create-and-manage-groups.md"><strong>建立和管理群組</strong></a>
       </div>
       <em>建立群組、新增使用者至群組，以及編輯群組設定</em>
-      
+      <br>
     </td>
 </tr>
 <tr>
@@ -154,7 +162,7 @@ ht-degree: 3%
       <a href="set-up-your-external-archive.md"><strong>正在設定外部封存</strong></a>
       </div>
       <em>為已簽署的協定備份復本建立外部封存</em>
-      
+      <br>
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -164,7 +172,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/create-a-template.md"><strong>建立可重複使用的範本</strong></a>
     </div>
     <em>建立可重複使用的檔案範本以提高速度和一致性</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -174,7 +182,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/creating-a-report.md"><strong>報告和交易使用量</strong></a>
     </div>
     <em>瞭解如何產生報告及追蹤交易使用情況</em>
-    
+    <br>
   </td>
   <td>
     <a href="report-options.md">
@@ -184,7 +192,7 @@ ht-degree: 3%
     <a href="report-options.md"><strong>使用者的報表選項</strong></a>
     </div>
     <em>瞭解如何設定使用者的報表選項</em>
-    
+    <br>
   </td>
 </tr>  
 <tr>
@@ -196,7 +204,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/webform.md"><strong>正在建立網路表單</strong></a>
     </div>
     <em>建立可直接在您的網站上以電子方式簽署的檔案</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -206,7 +214,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/modify-webform.md"><strong>修改現有的Web表單</strong></a>
     </div>
     <em>瞭解如何停用、編輯和重新啟用現有的Web表單</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -216,7 +224,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/megasign.md"><strong>大量傳送</strong></a>
     </div>
     <em>針對任何檔案一次收集數千個簽章</em>
-    
+    <br>
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -226,7 +234,7 @@ ht-degree: 3%
     <a href="building-a-custom-workflow.md"><strong>建置自訂工作流程</strong></a>
     </div>
     <em>瞭解如何建立和使用自訂工作流程，以加速建立和傳送合約的程式</em>
-    
+    <br>
   </td>
 </tr>
 <tr>
@@ -238,7 +246,7 @@ ht-degree: 3%
     <a href="audit-reports.md"><strong>稽核報告</strong></a>
     </div>
     <em>瞭解如何存取、利用及設定稽核報告</em>
-    
+    <br>
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -248,7 +256,7 @@ ht-degree: 3%
       <a href="set-up-shared-events-and-alert.md"><strong>設定事件和警示的通知</strong></a>
       </div>
       <em>設定您帳戶的事件和警示通知</em>
-      
+      <br>
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -258,7 +266,7 @@ ht-degree: 3%
       <a href="configure-modify-agreement.md"><strong>設定並控管修改協定</strong></a>
       </div>
       <em>瞭解如何設定及控管修改合約</em>
-      
+      <br>
     </td>
     <td>
       <img alt="分隔符號" src="../assets/Whitespacer.png" />
@@ -280,7 +288,7 @@ ht-degree: 3%
     <a href="learn-about-global-settings.md"><strong>全域設定</strong></a>
     </div>
     <em>針對整個組織或特定群組，全域編輯產品設定</em>
-    
+    <br>
   </td>
   <td>
     <a href="share-account-access.md">
@@ -290,7 +298,7 @@ ht-degree: 3%
     <a href="share-account-access.md"><strong>共用帳戶存取權</strong></a>
     </div>
     <em>設定對其他使用者帳戶中交易的僅檢視存取權</em>
-    
+    <br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -300,7 +308,7 @@ ht-degree: 3%
     <a href="advanced-account-sharing.md"><strong>進階帳戶共用</strong></a>
     </div>
     <em>設定帳戶共用，以允許管理員和使用者委派其傳送、修改和檢視許可權</em>
-    
+    <br>
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -310,7 +318,7 @@ ht-degree: 3%
     <a href="bulk-download-tool.md"><strong>大量下載工具</strong></a>
     </div>
     <em>瞭解如何使用大量下載工具來快速下載所有您簽署的合約</em>
-    
+    <br>
   </td> 
 </tr>
 <tr>
@@ -322,7 +330,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文字標籤</strong></a>
     <div>
     <em>使用Adobe Acrobat以文字標籤建置Acrobat Sign表單欄位</em>
-    
+    <br>
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -332,7 +340,7 @@ ht-degree: 3%
     <a href="use-bio-pharma-settings.md"><strong>使用生物製藥設定</strong></a>
     </div>
     <em>設定生物製藥設定，讓您符合FDA 21 CFR Part 11需求</em>
-    
+    <br>
   </td>
   <td>
     <a href="privacy.md">
@@ -342,7 +350,7 @@ ht-degree: 3%
     <a href="privacy.md"><strong>如何設定隱私權管理員</strong></a>
     </div>
     <em>瞭解如何設定及使用隱私權管理員</em>
-    
+    <br>
   </td>
   <td>
     <img alt="分隔符號" src="../assets/Grayspacer.png" />
