@@ -7,22 +7,25 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+TQID: 'https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Reporting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 480
+source-wordcount: '480'
 ht-degree: 3%
-
 ---
-
 # 進階任務總覽
 
 瞭解如何一次傳送檔案以索取簽名給100多位收件者、為您的網站設定可索取簽名的檔案、管理簽名交易以及建立和管理檔案範本。 這些教學課程適用於已熟悉傳送和請求簽名基本知識，並想要瞭解Acrobat Sign可為他們提供的更多方式的人。
@@ -39,7 +42,7 @@ ht-degree: 3%
 
 瞭解如何在短短幾個步驟中，一次為任何檔案[收集數千個](megasign.md)簽名。
 
->[!TAB Acrobat Sign中的 驗證方法]
+>Acrobat Sign中的[!TAB 驗證方法]
 
 瞭解Acrobat Sign中可用的方法範圍，以[驗證](authentication-methods.md)簽署檔案的某人的身分。
 

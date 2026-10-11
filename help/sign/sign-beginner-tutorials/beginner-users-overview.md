@@ -7,24 +7,28 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
+TQID: 'https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+    internal-label: Workspace
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
+    internal-label: Beginner
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 583
+source-wordcount: '583'
 ht-degree: 22%
-
 ---
-
 # 快速入門概述
 
 透過這些簡短的逐步教學課程，快速瞭解如何傳送、簽署及追蹤檔案。 快速導覽Acrobat Sign，然後跳到傳送檔案給一或多人。 本內容的設計目的是讓您輕鬆進行電子簽章工作流程。
