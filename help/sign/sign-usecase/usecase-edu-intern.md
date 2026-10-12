@@ -1,6 +1,6 @@
 ---
-title: 教育網頁窗體實習申請
-description: 瞭解如何使用網頁窗體來改善學生對所需表單的存取權
+title: 教育網路表單實習應用程式
+description: 瞭解如何使用網路表單來改善學生對所需表單的存取權
 feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
@@ -10,13 +10,11 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
-
 ---
+# 教育網路表單實習應用程式
 
-# 教育版網頁窗體實習申請
+瞭解如何使用網路表單來讓學生更易存取從任何裝置（以及任何位置）提交之所需表單，以加速教育核准程式。 在此範例中，每個學生的工作流程根據其學習課程而不同，因為每個學生都需要新增自己的教職員工主管和部門主管以供核准。
 
-瞭解如何使用網頁窗體來改善學生存取可從任何裝置和任何位置提交的必要表單，加速教育核准流程。 此範例中，每個學生的工作流程都是依其學習課程而異，因為每位學生都需要新增自己的教職員總監和系主任來進行核准。
+請檢視[建立教育網路表單實習應用程式](usecase-edu-intern-create.md)，以瞭解如何建立此網路表單。
 
-請參閱 [建立教育版網頁窗體實習申請](usecase-edu-intern-create.md) ，瞭解如何建立這個網頁窗體。
-
->[!VIDEO](https://video.tv.adobe.com/v/3430543?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
