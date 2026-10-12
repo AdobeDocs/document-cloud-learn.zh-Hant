@@ -15,4 +15,4 @@ ht-degree: 0%
 
 瞭解如何建立實習網路表單，讓學生更容易存取從任何裝置（及任何位置）提交的所需表單。 在此範例中，每個學生的工作流程根據其學習課程而不同，因為每個學生都需要新增自己的教職員工主管和部門主管以供核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423373?captions=chi_hant&quality=12&learn=on&hidetitle=true)

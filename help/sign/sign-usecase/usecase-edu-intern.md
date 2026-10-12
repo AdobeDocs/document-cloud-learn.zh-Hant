@@ -17,4 +17,4 @@ ht-degree: 0%
 
 請檢視[建立教育網路表單實習應用程式](usecase-edu-intern-create.md)，以瞭解如何建立此網路表單。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430543?captions=chi_hant&quality=12&learn=on&hidetitle=true)
