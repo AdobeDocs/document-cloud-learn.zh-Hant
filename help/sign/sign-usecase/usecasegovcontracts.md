@@ -1,6 +1,6 @@
 ---
-title: 政府合約和徵收表
-description: 使用合規的數位工作流程（包含稽核報告）快速取代紙本處理
+title: 政府合約與請購單Forms
+description: 以符合規範的數位工作流程快速取代紙面處理，並以稽核報告完成
 feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
@@ -9,17 +9,15 @@ thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
-
 ---
+# 政府合約與請購單
 
-# 政府合約和征約表單
+以符合規範的數位工作流程快速取代紙面處理，並以稽核報告完成。 瞭解如何使用Acrobat Sign的工作流程Designer工具來協助簡化整個流程。
 
-使用合規的數位工作流程（包含稽核報告）快速取代紙本處理。 瞭解如何使用 Acrobat Sign 的工作流程Designer工具協助簡化整個流程。
+>[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
->[!VIDEO](https://video.tv.adobe.com/v/3448062?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+選取以下載或開啟合約與請購單表單的逐步PDF方式。
 
-選取以下載或開啟合約和申請表格的逐步 PDF 配方。
-
-[![下載 PDF 配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![下載PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
