@@ -15,4 +15,4 @@ ht-degree: 0%
 
 瞭解如何從檔案中合併表單資料，以便您可以在報表或Excel試算表中檢視和管理資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443529?captions=chi_hant&quality=12&learn=on&hidetitle=true)

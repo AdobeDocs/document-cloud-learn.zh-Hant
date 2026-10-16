@@ -17,4 +17,4 @@ ht-degree: 0%
 瞭解組織的非技術成員如何使用Acrobat Sign免費提供的預先建立的[!DNL Microsoft Power Automate]聯結器，建立連線至其他系統的簡單工作流程。 這些自動化檔案工作流程有助於提高常見程式的速度和效率，減少重複工作的時間，並將錯誤和返工降至最低。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437920?captions=chi_hant&quality=12&learn=on&hidetitle=true)

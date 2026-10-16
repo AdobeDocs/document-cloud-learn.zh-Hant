@@ -15,4 +15,4 @@ ht-degree: 0%
 
 瞭解如何存取、利用和設定稽核報告以符合貴組織的需求。 Acrobat Sign中的每一份檔案都透過一系列的事件「里程碑」來定義交易的進度。 這些里程碑會完整記錄在每個交易的稽核報告中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448556?captions=chi_hant&quality=12&learn=on&hidetitle=true)
