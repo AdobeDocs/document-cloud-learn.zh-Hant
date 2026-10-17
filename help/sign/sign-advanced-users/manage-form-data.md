@@ -1,6 +1,6 @@
 ---
-title: 管理表格數據
-description: 瞭解如何整合檔中的表格數據
+title: 管理表單資料
+description: 瞭解如何從檔案中合併表單資料
 feature: Form
 role: User, Admin
 level: Intermediate
@@ -10,11 +10,9 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
-
 ---
+# 管理表單資料
 
-# 管理表格數據
+瞭解如何從檔案中合併表單資料，以便您可以在報表或Excel試算表中檢視和管理資料。
 
-瞭解如何整合來自文件的表格數據，以便在報告或 Excel 電子表格中檢視和管理數據。
-
->[!VIDEO](https://video.tv.adobe.com/v/3443529?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3443529?captions=chi_hant&quality=12&learn=on&hidetitle=true)
