@@ -41,7 +41,7 @@ ht-degree: 1%
 
 +++檢視有關如何取得API認證的詳細資料
 
-* [Acrobat Sign開發人員帳戶](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Acrobat Sign開發人員帳戶](https://www.adobe.com/tw/acrobat/business/developer-form.html)
 * [入門程式碼](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS程式碼（或您選擇的編輯器）](https://code.visualstudio.com)
 * Python 3.x
