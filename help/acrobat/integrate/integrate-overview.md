@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Microsoft
 
-瞭解您團隊中的每個人如何順暢地使用[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)中的PDF檔案。 檢視這份Acrobat和Microsoft 365整合上精通的[播放清單](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365)。
+瞭解您團隊中的每個人如何順暢地使用[Microsoft 365](https://www.adobe.com/tw/documentcloud/integrations/microsoft-office-365.html)中的PDF檔案。 檢視這份Acrobat和Microsoft 365整合上精通的[播放清單](https://experienceleague.adobe.com/zh-hant/playlists/acrobat-integrate-microsoft-365)。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -266,4 +266,4 @@ ht-degree: 0%
 
 ## Box
 
-瞭解Acrobat和[Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}如何讓您組織中的每個人都能更輕鬆地保持業務運作。
+瞭解Acrobat和[Box](https://www.adobe.com/tw/documentcloud/integrations/box.html){target="_blank"}如何讓您組織中的每個人都能更輕鬆地保持業務運作。
