@@ -33,7 +33,7 @@ ht-degree: 0%
 
 瞭解如何有效率地收集所有員工對遠端工作協定、原則更新等的簽名。 首先，建立可從檔案庫快速存取的可重複使用檔案範本。 其次，您可以使用Mega Sign將新檔案範本傳送出去供數百位員工簽名。
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506386?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 選取以下載或開啟遠端工作合約的逐步PDF配方。
 

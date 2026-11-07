@@ -38,4 +38,4 @@ ht-degree: 0%
 
 簡化您的簽名工作流程，並使用適用於Workday的Acrobat Sign提升團隊生產力。 在此影片教學課程中，瞭解如何設定Acrobat Sign直接在Workday中運作，以順暢地管理您的所有人力資原始檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506342?captions=chi_hant&quality=12&learn=on&hidetitle=true)
