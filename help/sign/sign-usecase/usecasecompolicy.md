@@ -33,7 +33,7 @@ ht-degree: 0%
 
 有效率地收集您所有員工的原則合約、原則更新等的簽章。 瞭解如何建立可完成&#x200B;**和**&#x200B;簽署的線上網路表單，而不需列印或郵寄任何內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506315?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 選取以下載或開啟原則協定的逐步PDF方式。
 
