@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # 快速入門概述
@@ -37,6 +37,10 @@ ht-degree: 22%
 
 >[!BEGINTABS]
 
+>[!TAB 在傳送之前編輯檔案和範本]
+
+瞭解在直接在Acrobat Sign中傳送[&#128279;](edit.md)之前，如何編輯文字、影像和範本。
+
 >[!TAB 何時使用建立復本]
 
 瞭解如何使用[建立復本](../sign-beginner-tutorials/create-a-copy.md)以複製任何現有的合約。 您可以調整需要變更的內容，並在數秒後重新傳送。 不從頭重建。
@@ -44,14 +48,6 @@ ht-degree: 22%
 >[!TAB 在傳送檔案後修改檔案]
 
 瞭解如何[修改已送出供簽名的檔案](../sign-beginner-tutorials/manage-and-track.md)。
-
->[!TAB 管理和追蹤合約]
-
-瞭解如何[管理及追蹤傳送以供簽名的合約](../sign-beginner-tutorials/manage-and-track.md)。
-
->[!TAB 以電子方式簽署檔案]
-
-瞭解使用Acrobat Sign[簽署](../sign-beginner-tutorials/electronically-sign-a-document.md)傳送給您的檔案有多容易。
 
 >[!ENDTABS]
 
@@ -183,6 +179,33 @@ ht-degree: 22%
     瞭解如何使用「建立副本」來複製任何現有的協定
     <br>
     </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="edit.md">
+      <img alt="在傳送之前編輯檔案和範本" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>在傳送之前編輯檔案和範本</strong></a>
+    </div>
+    瞭解如何在傳送前編輯文字、影像和範本
+    <br>
+    </td>
+     <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="分隔符號" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
