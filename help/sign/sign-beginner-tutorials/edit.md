@@ -17,4 +17,4 @@ ht-degree: 0%
 >
 >檔案編輯必須由您的管理員啟用，更多詳細資料可在[這裡](https://helpx.adobe.com/tw/sign/web/settings-configuration/send-settings/edit-agreement.html)取得。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508116?captions=chi_hant&quality=12&learn=on&hidetitle=true)
